@@ -1,0 +1,2821 @@
+段志生	力学系统与控制	2012	zhisheng duan	﻿peking university
+龚六堂	国民经济学	2012	liutang gong	﻿peking university
+胡敏	环境科学	2012	min hu	﻿peking university
+李彦	无机化学	2012	yan li	﻿peking university
+钱志熙	中国古代文学	2012	zhixi qian	﻿peking university
+孙庆丰	凝聚态物理	2012	qingfeng sun	﻿peking university
+王浦劬	政治学理论	2012	puqu wang	﻿peking university
+王韵	神经生物学	2012	yun wang	﻿peking university
+王中江	中国哲学	2012	zhongjiang wang	﻿peking university
+张锦	纳米材料	2012	jin zhang	﻿peking university
+张泽民	生物信息学	2012	zemin zhang	﻿peking university
+赵跃辉	经济学	2012	yuehui zhao	﻿peking university
+周德敏	药学	2012	demin zhou	﻿peking university
+周晓林	基础心理学	2012	xiaolin zhou	﻿peking university
+李路明	人机与环境工程	2012	luming li	tsinghua university
+林元华	材料学	2012	yuanhua lin	tsinghua university
+任天令	微电子学与固体电子学	2012	tianling ren	tsinghua university
+史元春	计算机应用技术	2012	yuanchun shi	tsinghua university
+徐迎庆	设计学	2012	yingqing xu	tsinghua university
+杨大文	水文学及水资源	2012	dawen yang	tsinghua university
+包伟民	中国古代史	2012	weimin bao	renmin university of china
+刘建军	思想政治教育	2012	jianjun liu	renmin university of china
+刘元春	世界经济	2012	yuanchun liu	renmin university of china
+卢仲毅	凝聚态物理	2012	zhongyi lu	renmin university of china
+王化成	会计学	2012	huacheng wang	renmin university of china
+董文杰	气候变化	2012	wenjie dong	beijing normal university
+方维规	比较文学	2012	weigui fang	beijing normal university
+赖德胜	应用经济学	2012	desheng lai	beijing normal university
+刘嘉	基础心理学	2012	jia liu	beijing normal university
+刘彦随	土地资源管理	2012	yansui liu	beijing normal university
+刘金华	预防兽医学	2012	jinhua liu	china agricultural university
+仲崇立	化学工程	2012	chongli zhong	beijing university of chemical technology
+赵耀	计算机科学与技术	2012	yao zhao	beijing jiaotong university
+朱弟成	地质学	2012	dicheng zhu	中国地质大学（北京）
+邱楠生	矿产普查与勘探	2012	nansheng qiu	中国石油大学（北京）
+李建章	木材科学与技术	2012	jianzhang li	beijing forestry university
+高晓虹	新闻学	2012	xiaohong gao	中国传媒大学
+汤谷良	会计学	2012	guliang tang	对外经济贸易大学
+徐进良	工程热物理	2012	jinliang xu	north china electric power university
+MarkBartlam	生物化学与分子生物学	2012	MarkBartlam	nankai university
+崔春明	有机化学	2012	chunming cui	nankai university
+盛斌	世界经济	2012	bin sheng	nankai university
+张玉利	企业管理	2012	yuli zhang	nankai university
+李敏强	信息管理与信息系统	2012	minqiang li	tianjin university
+王树新	机械设计及理论	2012	shuxin wang	tianjin university
+夏开文	岩土工程	2012	kaiwen xia	tianjin university
+陈景文	环境科学	2012	jingwen chen	dalian university of technology
+郭旭	固体力学	2012	xu guo	dalian university of technology
+贺高红	化学工程	2012	gaohong he	dalian university of technology
+韩志武	机械设计及理论	2012	zhiwu han	jilin university
+邬志辉	农村教育学	2012	zhihui wu	northeast normal university
+黄洋	世界史	2012	yang huang	fudan university
+刘智攀	物理化学	2012	zhipan liu	fudan university
+钦伦秀	肿瘤学	2012	lunxiu qin	fudan university
+孙笑侠	法学理论	2012	xiaoxia sun	fudan university
+王红艳	医学遗传学	2012	hongyan wang	fudan university
+周俭	外科学	2012	jian zhou	fudan university
+崔勇	无机化学	2012	yong cui	shanghai jiao tong university
+江志斌	管理科学与工程	2012	zhibin jiang	shanghai jiao tong university
+蒋欣泉	口腔临床医学	2012	xinquan jiang	shanghai jiao tong university
+刘河洲	材料学	2012	hezhou liu	shanghai jiao tong university
+师咏勇	遗传学	2012	yongyong shi	shanghai jiao tong university
+苏翼凯	电子科学技术	2012	yikai su	shanghai jiao tong university
+叶必丰	宪法学与行政法学	2012	bifeng ye	shanghai jiao tong university
+黄宏伟	岩土工程	2012	hongwei huang	tongji university
+孙周兴	外国哲学	2012	zhouxing sun	tongji university
+方勇	中国古代文学	2012	yong fang	east china normal university
+龙亿涛	分析化学	2012	yitao long	east china university of science and technology
+冯帅章	劳动经济学	2012	shuaizhang feng	shanghai university of finance and economics
+李维勤	重症医学	2012	weiqin li	nanjing university
+刘向阳	计算机系统结构	2012	xiangyang liu	nanjing university
+盛利	凝聚态物理	2012	li sheng	nanjing university
+王跃堂	会计学	2012	yuetang wang	nanjing university
+吴吉春	地质工程	2012	jichun wu	nanjing university
+吴俊	中国语言文学	2012	jun wu	nanjing university
+鞠杨	采矿工程	2012	yang ju	china university of mining and technology
+高玉峰	岩土工程	2012	yufeng gao	hohai university
+陈卫	食品科学	2012	wei chen	jiangnan university
+朱晶	农林经济管理	2012	jing zhu	nanjing agricultural university
+陈忠	药理学	2012	zhong chen	zhejiang university
+沈模卫	应用心理学	2012	mowei shen	zhejiang university
+苏宏业	控制理论与控制工程	2012	hongye su	zhejiang university
+童利民	光学工程（光电子学）	2012	limin tong	zhejiang university
+郁建兴	政治学理论	2012	jianxing yu	zhejiang university
+傅有德	宗教学	2012	youde fu	shandong university
+姜卫平	大地测量学与测量工程	2012	weiping jiang	wuhan university
+尚永亮	中国古代文学	2012	yongliang shang	wuhan university
+沈壮海	思想政治教育	2012	zhuanghai shen	wuhan university
+汪习根	法理学	2012	xigen wang	wuhan university
+谢丹阳	西方经济学	2012	danyang xie	wuhan university
+张先正	材料学	2012	xianzheng zhang	wuhan university
+文劲宇	电力系统及其自动化	2012	jinyu wen	huazhong university of science and technology
+徐顺清	公共卫生与预防医学	2012	shunqing xu	huazhong university of science and technology
+张国军	机械制造及其自动化	2012	guojun zhang	huazhong university of science and technology
+郑俊杰	岩土工程	2012	junjie zheng	huazhong university of science and technology
+尤为	材料物理与化学	2012	wei you	wuhan university of technology
+朱英	中国史	2012	ying zhu	central china normal university
+郭文武	果树学	2012	wenwu guo	huazhong agricultural university
+何正国	微生物学	2012	zhengguo he	huazhong agricultural university
+郭学益	有色金属冶金	2012	xueyi guo	central south university
+黄仕忠	古典文献学	2012	shizhong huang	sun yat-sen university
+李仲飞	金融工程与风险管理	2012	zhongfei li	sun yat-sen university
+张军	计算机软件与理论	2012	jun zhang	sun yat-sen university
+张广照	材料学	2012	guangzhao zhang	south china university of technology
+蔡开勇	生物医学工程	2012	kaiyong cai	chongqing university
+罗凌飞	发育生物学	2012	lingfei luo	southwest university
+石硕	民族学(藏学)	2012	shuo shi	sichuan university
+王琼华	物理电子学	2012	qionghua wang	sichuan university
+徐泽水	管理科学与工程	2012	zeshui xu	sichuan university
+杨胜勇	药物化学	2012	shengyong yang	sichuan university
+余睽	材料物理与化学	2012	kui yu	sichuan university
+张旭	应用数学	2012	xu zhang	sichuan university
+左卫民	诉讼法学	2012	weimin zuo	sichuan university
+刘永	微电子学与固体电子学	2012	yong liu	电子科技大学
+苏光辉	核科学与技术	2012	guanghui su	xi'an jiaotong university
+王秋旺	工程热物理	2012	qiuwang wang	xi'an jiaotong university
+高新波	信号与信息处理	2012	xinbo gao	xidian university
+康锐	系统工程	2012	rui kang	beihang university
+孙志梅	材料学	2012	zhimei sun	beihang university
+王少萍	机械电子工程	2012	shaoping wang	beihang university
+王云鹏	交通信息工程及控制	2012	yunpeng wang	beihang university
+龙腾	信号与信息处理	2012	teng long	beijing institute of technology
+姚裕贵	计算物理与凝聚态理论	2012	yugui yao	beijing institute of technology
+段文洋	船舶与海洋结构物设计制造	2012	wenyang duan	哈尔滨工程大学
+李立毅	电气工程	2012	liyi li	harbin engineering university
+张幸红	材料学	2012	xinghong zhang	harbin engineering university
+赵杰	机械电子工程	2012	jie zhao	harbin engineering university
+姜斌	控制理论与控制工程	2012	bin jiang	nanjing university of aeronautics and astronautics
+袁慎芳	机械电子工程	2012	shenfang yuan	nanjing university of aeronautics and astronautics
+栗保明	兵器发射理论与技术	2012	baoming li	nanjing university of science and technology
+刘峰	材料加工工程	2012	feng liu	northwestern polytechnical university
+周洲	飞行器设计	2012	zhou zhou	northwestern polytechnical university
+麻希南	基础数学	2012	xinan ma	university of science and technology of china
+汪毓明	空间物理	2012	yuming wang	university of science and technology of china
+程树群	普通外科学	2012	shuqun cheng	second military medical university
+张卫东	药物化学	2012	weidong zhang	second military medical university
+胡昌华	导航制导与控制	2012	changhua hu	第二炮兵工程大学
+武胜昔	人体解剖与组织胚胎学	2012	shengxi wu	fourth military medical university
+邱峰	中药学	2012	feng qiu	tianjin university of traditional chinese medicine
+高发明	应用化学	2012	faming gao	yanshan university
+肖连团	光学	2012	liantuan xiao	shanxi university
+张珂	机械制造及其自动化	2012	ke zhang	沈阳建筑大学
+王振宁	外科学（普外）	2012	zhenning wang	china medical university
+佟首峰	光学工程	2012	shoufeng tong	changchun university of science and technology
+刘连新	外科学	2012	lianxin liu	harbin medical university
+杜桂萍	中国古代文学	2012	guiping du	heilongjiang university
+张文宏	社会学	2012	wenhong zhang	shanghai university
+黄和	生物化工	2012	he huang	nanjing university of technology
+谭桂林	中国现当代文学	2012	guilin tan	nanjing normal university
+孙倍成	外科学	2012	beicheng sun	nanjing medical university
+金太军	政治学理论	2012	taijun jin	soochow university
+眭依凡	高等教育学	2012	yifan sui	zhejiang normal university
+王晓德	世界史	2012	xiaode wang	fujian normal university
+杨黄浩	分析化学	2012	huanghao yang	fuzhou university
+刘耀彬	区域经济学	2012	yaobin liu	nanchang university
+廖红	植物营养学	2012	hong liao	south china agricultural university
+吴德	动物营养与饲料科学	2012	de wu	sichuan agricultural university
+杨松	农药学	2012	song yang	guizhou university
+唐年胜	概率论与数理统计	2012	niansheng tang	yunnan university
+董云鹏	构造地质学	2012	yunpeng dong	northwest university
+卢小泉	化学	2012	xiaoquan lu	northwest normal university
+马宏伟	土木工程	2012	hongwei ma	qinghai university
+郭旭虹	能源化学工程	2012	xuhong guo	shihezi university
+胡振江	计算机软件与理论	2012	zhenjiang hu	﻿peking university
+章云	摄影测量与遥感	2012	yun zhang	﻿peking university
+DarenChen	环境工程	2012	DarenChen	tsinghua university
+JohanvanBenthem	逻辑学	2012	JohanvanBenthem	tsinghua university
+吴建中	化学工程	2012	jianzhong wu	tsinghua university
+AlisterCumming	英语语言文学	2012	AlisterCumming	北京外国语大学
+HEINDERYCKXFrançois	传播学	2012	HEINDERYCKXFrançois	中国传媒大学
+JGeorgeShanthikumar	工业工程	2012	JGeorgeShanthikumar	tianjin university
+熊文诚	细胞生物学	2012	wencheng xiong	northeast normal university
+钱震超	社会学	2012	zhenchao qian	fudan university
+钱永忠	粒子物理与原子核物理	2012	yongzhong qian	shanghai jiao tong university
+孙少聪	免疫学	2012	shaocong sun	shanghai jiao tong university
+杨涛	应用经济学	2012	tao yang	shanghai jiao tong university
+韩杰	岩土工程	2012	jie han	tongji university
+林欣	免疫学	2012	xin lin	tongji university
+JamesLam	控制理论与控制工程	2012	JamesLam	east china university of science and technology
+张华华	教育技术学	2012	huahua zhang	east china normal university
+陆勇	防灾减灾工程及防护工程	2012	yong lu	southeast university
+张丹	机械设计与理论	2012	dan zhang	china university of mining and technology
+梁玉堂	管理科学与工程	2012	yutang liang	hefei university of technology
+黄铭钧	计算机软件与理论	2012	mingjun huang	zhejiang university
+Jérôme·Porée	文艺学	2012	Jérôme·Porée	shandong university
+王宏	计算数学	2012	hong wang	shandong university
+陆永枫	电子科学与技术	2012	yongfeng lu	huazhong university of science and technology
+ViswanathanKumar	企业管理	2012	ViswanathanKumar	huazhong university of science and technology
+朱露培	地球物理学	2012	lupei zhu	中国地质大学（武汉）
+StaffanPersson	作物遗传育种	2012	StaffanPersson	huazhong agricultural university
+林晨	金融学	2012	chen lin	zhongnan university of economics and law
+刘桂荣	工程力学	2012	guirong liu	hunan university
+刘振启	内科学内分泌与代谢病	2012	zhenqi liu	central south university
+朱鸿林	中国古代史	2012	honglin zhu	sun yat-sen university
+查涛	数量经济学	2012	tao cha	sichuan university
+RickS.Blum	信号与信息处理	2012	RickS.Blum	电子科技大学
+AlexanderGovorov	材料物理与化学	2012	AlexanderGovorov	电子科技大学
+JamesCrawford	国际法学	2012	JamesCrawford	xi'an jiaotong university
+K.J.Badcock	飞行器设计	2012	K.J.Badcock	xi'an jiaotong university
+NickQuirke	高电压与绝缘技术	2012	NickQuirke	xi'an jiaotong university
+韩渭敏	计算数学	2012	weimin han	xi'an jiaotong university
+王明波	植物病理学	2012	mingbo wang	西北农林科技大学
+KevinBelfield	物理化学	2012	KevinBelfield	shaanxi normal university
+陈文华	导航、制导与控制	2012	wenhua chen	beihang university
+肖益民	概率论与数理统计	2012	yimin xiao	beijing institute of technology
+毛子旭	神经生物学	2012	zixu mao	fourth military medical university
+明瑞光	作物遗传育种学	2012	ruiguang ming	fujian agriculture and forestry university
+WilliamCarlSkarnes	生物学	2012	WilliamCarlSkarnes	wuhan university of science and technology
+Ah-NgTonyKong	中药学	2012	Ah-NgTonyKong	guangzhou university of chinese medicine
+徐建明	病理学与病理生理学	2012	jianming xu	泸州医学院
+段慧玲	岗位名称	2013	huiling duan	﻿peking university
+范辉军	固体力学	2013	huijun fan	﻿peking university
+傅绥燕	基础数学	2013	suiyan fu	﻿peking university
+韩世辉	空间物理	2013	shihui han	﻿peking university
+侯仰龙	认知心理学和认知神经科学	2013	yanglong hou	﻿peking university
+黄清华	材料物理与化学	2013	qinghua huang	﻿peking university
+刘国恩	地球物理学	2013	guoen liu	﻿peking university
+刘海超	经济学	2013	haichao liu	﻿peking university
+刘俏	物理化学	2013	qiao liu	﻿peking university
+刘运全	金融学	2013	yunquan liu	﻿peking university
+陆正飞	原子与分子物理	2013	zhengfei lu	﻿peking university
+王博	会计学	2013	bo wang	﻿peking university
+王辉	中国哲学	2013	hui wang	﻿peking university
+王奇生	企业管理	2013	qisheng wang	﻿peking university
+王新强	中国近现代史	2013	xinqiang wang	﻿peking university
+王正毅	宽禁带半导体	2013	zhengyi wang	﻿peking university
+吴飙	国际关系	2013	biao wu	﻿peking university
+吴晓磊	凝聚态物理	2013	xiaolei wu	﻿peking university
+谢立中	能源动力与资源工程	2013	lizhong xie	﻿peking university
+谢晓非	社会学	2013	xiaofei xie	﻿peking university
+徐东升	应用心理学	2013	dongsheng xu	﻿peking university
+许晨阳	纳米能源材料	2013	chenyang xu	﻿peking university
+张路	代数几何	2013	lu zhang	﻿peking university
+陈劲	软件工程	2013	jin chen	tsinghua university
+陈靖	技术创新管理	2013	jing chen	tsinghua university
+韩林海	先进核燃料循环	2013	linhai han	tsinghua university
+林章凛	结构工程	2013	zhanglin lin	tsinghua university
+舒继武	生物化工	2013	jiwu shu	tsinghua university
+苏竣	计算机系统结构	2013	jun su	tsinghua university
+田煜	公共管理	2013	yu tian	tsinghua university
+王书肖	机械设计及理论	2013	shuxiao wang	tsinghua university
+王训	环境工程	2013	xun wang	tsinghua university
+颜宁	无机化学	2013	ning yan	tsinghua university
+杨之曙	生物物理学	2013	zhishu yang	tsinghua university
+张扬军	金融学	2013	yangjun zhang	tsinghua university
+郑力	发动机流动与增压	2013	li zheng	tsinghua university
+朱纪洪	工业工程	2013	jihong zhu	tsinghua university
+郝立新	飞行器自主控制	2013	lixin hao	renmin university of china
+任剑涛	马克思主义哲学	2013	jiantao ren	renmin university of china
+沈卫荣	政治学	2013	weirong shen	renmin university of china
+孙郁	专门史	2013	yu sun	renmin university of china
+汪昌云	中国现当代文学	2013	changyun wang	renmin university of china
+王轶	金融学	2013	yi wang	renmin university of china
+喻国明	民法学	2013	guoming yu	renmin university of china
+岳希明	新闻传播学	2013	ximing yue	renmin university of china
+张志铭	财政学	2013	zhiming zhang	renmin university of china
+朱信凯	法学理论	2013	xinkai zhu	renmin university of china
+薄志山	农业经济与管理	2013	zhishan bao	beijing normal university
+崔保山	高分子化学与物理	2013	baoshan cui	beijing normal university
+李运富	水文学及水资源	2013	yunfu li	beijing normal university
+刘勇	汉语言文字学	2013	yong liu	beijing normal university
+沈珍瑶	中国现当代文学	2013	zhenyao shen	beijing normal university
+吴向东	环境工程	2013	xiangdong wu	beijing normal university
+段留生	马克思主义哲学	2013	liusheng duan	china agricultural university
+江正强	作物栽培学与耕作学	2013	zhengqiang jiang	china agricultural university
+田见晖	食品科学	2013	jianhui tian	china agricultural university
+杨淑华	动物遗传育种与繁殖	2013	shuhua yang	china agricultural university
+华学诚	植物学	2013	xuecheng hua	北京语言大学
+张立峰	汉语言文字学	2013	lifeng zhang	university of science and technology beijing
+徐福建	钢铁冶金	2013	fujian xu	beijing university of chemical technology
+高亮	材料学	2013	liang gao	beijing jiaotong university
+韩贵琳	道路与铁道工程	2013	guilin han	中国地质大学（北京）
+曾联波	水文地球化学	2013	lianbo ceng	中国石油大学（北京）
+金衍	矿产普查与勘探	2013	yan jin	中国石油大学（北京）
+于志刚	油气井工程	2013	zhigang yu	中国政法大学
+李永平	刑法学	2013	yongping li	north china electric power university
+查洪德	水利工程	2013	hongde cha	nankai university
+孙红文	中国古代文学	2013	hongwen sun	nankai university
+王利华	环境科学	2013	lihua wang	nankai university
+王新生	中国古代史	2013	xinsheng wang	nankai university
+王兆军	马克思主义哲学	2013	zhaojun wang	nankai university
+马新宾	统计质量控制	2013	xinbin ma	tianjin university
+尧命发	化学工艺	2013	mingfa yao	tianjin university
+郑刚	动力工程及工程热物理	2013	gang zheng	tianjin university
+段春迎	岩土工程	2013	chunying duan	dalian university of technology
+孙希明	无机化学	2013	ximing sun	dalian university of technology
+张颖伟	控制理论与控制工程	2013	yingwei zhang	tohoku university
+韩喜平	控制理论与控制工程	2013	xiping han	jilin university
+赵宾福	马克思主义理论	2013	binfu zhao	jilin university
+付玉杰	考古学	2013	yujie fu	northeast forestry university
+曾璇	野生动植物保护与利用	2013	xuan ceng	fudan university
+陈诗一	微电子学与固体电子学	2013	shiyi chen	fudan university
+郜元宝	能源环境经济	2013	yuanbao gao	fudan university
+郭苏建	中国现当代文学	2013	sujian guo	fudan university
+李富友	政治学理论	2013	fuyou li	fudan university
+毛颖	无机化学	2013	ying mao	fudan university
+莫伟民	外科学（神经外科）	2013	weimin mo	fudan university
+彭慧胜	外国哲学	2013	huisheng peng	fudan university
+屈卫东	高分子化学与物理	2013	weidong qu	fudan university
+汪涌豪	劳动卫生与环境卫生学	2013	yonghao wang	fudan university
+严军	中国古代文学	2013	jun yan	fudan university
+杨振纲	应用数学	2013	zhengang yang	fudan university
+张卫	神经生物学	2013	wei zhang	fudan university
+章清	微电子学与固体电子学	2013	qing zhang	fudan university
+崔大祥	中国史中国近现代思想史	2013	daxiang cui	shanghai jiao tong university
+谷大武	生物医学工程	2013	dawu gu	shanghai jiao tong university
+林厚文	密码学	2013	houwen lin	shanghai jiao tong university
+孙晓东	海洋药物学	2013	xiaodong sun	shanghai jiao tong university
+万德成	眼科学	2013	decheng wan	shanghai jiao tong university
+王杰	船舶与海洋工程	2013	jie wang	shanghai jiao tong university
+杨小虎	文艺学	2013	xiaohu yang	shanghai jiao tong university
+朱利民	天体物理	2013	limin zhu	shanghai jiao tong university
+高绍荣	机械制造及其自动化	2013	shaorong gao	tongji university
+戈宝学	发育生物学	2013	baoxue ge	tongji university
+刘志飞	免疫学	2013	zhifei liu	tongji university
+李春忠	海洋地质学	2013	chunzhong li	east china university of science and technology
+轩福贞	材料化学工程	2013	fuzhen xuan	east china university of science and technology
+丁永生	特种设备设计与制造	2013	yongsheng ding	donghua university
+顾伯洪	控制科学与工程	2013	bohong gu	donghua university
+郭秀艳	纺织科学与工程	2013	xiuyan guo	east china normal university
+胡文浩	基础心理学	2013	wenhao hu	east china normal university
+李政涛	有机化学	2013	zhengtao li	east china normal university
+乔国强	教育学原理	2013	guoqiang qiao	shanghai international studies university
+靳庆鲁	英语语言文学	2013	qinglu jin	shanghai university of finance and economics
+鞠建东	会计学	2013	jiandong ju	shanghai university of finance and economics
+安同良	国际贸易学	2013	tongliang an	nanjing university
+毕军	理论经济学	2013	jun bi	nanjing university
+陈冬华	环境政策与风险管理	2013	donghua chen	nanjing university
+何成洲	工商管理	2013	chengzhou he	nanjing university
+黄贤金	英语语言文学	2013	xianjin huang	nanjing university
+金飚兵	公共管理学	2013	biaobing jin	nanjing university
+李向东	电磁场与微波技术	2013	xiangdong li	nanjing university
+潘丙才	天体物理学	2013	bingcai pan	nanjing university
+孙建军	环境工程	2013	jianjun sun	nanjing university
+孙江	情报学（信息资源管理）	2013	jiang sun	nanjing university
+唐正东	中国近现代史	2013	zhengdong tang	nanjing university
+王欣然	马克思主义哲学	2013	xinran wang	nanjing university
+吴迪	物理电子学	2013	di wu	nanjing university
+徐静娟	材料物理与化学	2013	jingjuan xu	nanjing university
+翟学伟	分析化学	2013	xuewei di	nanjing university
+朱东强	社会学	2013	dongqiang zhu	nanjing university
+陈云飞	环境科学	2013	yunfei chen	southeast university
+刘加平	机械设计与理论	2013	jiaping liu	southeast university
+周佑勇	土木工程	2013	youyong zhou	southeast university
+王媛	宪法学与行政法学	2013	yuan wang	hohai university
+陈发棣	岩土工程	2013	fadi chen	nanjing agricultural university
+郝海平	园艺学	2013	haiping hao	china pharmaceutical university
+陈红胜	中药学	2013	hongsheng chen	zhejiang university
+黄先海	电磁场与微波技术	2013	xianhai huang	zhejiang university
+李晓明	国际贸易学	2013	xiaoming li	zhejiang university
+潘洪革	神经生物学	2013	hongge pan	zhejiang university
+申有青	材料学	2013	youqing shen	zhejiang university
+田梅	应用化学	2013	mei tian	zhejiang university
+王云路	分子影像	2013	yunlu wang	zhejiang university
+吴晓波	汉语言文字学（汉语史）	2013	xiaobo wu	zhejiang university
+徐骁	管理科学与工程	2013	xiao xu	zhejiang university
+龙小宁	外科学（普外）	2013	xiaoning long	xiamen university
+谢兆雄	理论经济学	2013	zhaoxiong xie	xiamen university
+陈炎	物理化学	2013	yan chen	shandong university
+彭军	文艺学	2013	jun peng	shandong university
+吴臻	内科学（血液病）	2013	zhen wu	shandong university
+戴彩丽	随机控制	2013	caili dai	中国石油大学（华东）
+陈文新	油气田开发工程	2013	wenxin chen	wuhan university
+丁四新	中国古代文学	2013	sixin ding	wuhan university
+方卿	中国哲学	2013	qing fang	wuhan university
+龚威	图书馆学	2013	wei gong	wuhan university
+雷爱文	摄影测量与遥感	2013	aiwen lei	wuhan university
+卢文波	有机化学	2013	wenbo lu	wuhan university
+施闯	水工结构工程	2013	chuang shi	wuhan university
+宋保亮	大地测量学与测量工程	2013	baoliang song	wuhan university
+熊立华	生物化学	2013	lihua xiong	wuhan university
+徐红星	水文学及水资源	2013	hongxing xu	wuhan university
+郭照立	光学	2013	zhaoli guo	huazhong university of science and technology
+黄恺	热能工程	2013	kai huang	huazhong university of science and technology
+刘剑峰	临床医学	2013	jianfeng liu	huazhong university of science and technology
+张应强	生物物理学	2013	yingqiang zhang	huazhong university of science and technology
+周华民	教育学	2013	huamin zhou	huazhong university of science and technology
+陈中强	机械制造及其自动化	2013	zhongqiang chen	中国地质大学（武汉）
+官建国	古生物学与地层学	2013	jianguo guan	wuhan university of technology
+王健	材料加工工程	2013	jian wang	central china normal university
+王泽龙	体育人文社会学	2013	zelong wang	central china normal university
+肖少波	中国现当代文学	2013	shaobo xiao	huazhong agricultural university
+熊立仲	预防兽医学	2013	lizhong xiong	huazhong agricultural university
+李树涛	植物逆境分子生物学	2013	shutao li	hunan university
+范景莲	控制科学与工程	2013	jinglian fan	central south university
+帅词俊	材料学	2013	cijun shuai	central south university
+曾木圣	机械工程	2013	musheng ceng	sun yat-sen university
+陈兵龙	肿瘤病毒学	2013	binglong chen	sun yat-sen university
+陈少明	基础数学（几何分析）	2013	shaoming chen	sun yat-sen university
+康铁邦	中国哲学	2013	tiebang kang	sun yat-sen university
+区景松	基础肿瘤学	2013	jingsong qu	sun yat-sen university
+童明良	心血管学科（外科）	2013	mingliang tong	sun yat-sen university
+王岳军	无机化学	2013	yuejun wang	sun yat-sen university
+周大鸣	构造地质学	2013	daming zhou	sun yat-sen university
+张勤远	人类学	2013	qinyuan zhang	south china university of technology
+张卫国	材料学	2013	weiguo zhang	south china university of technology
+姚树洁	管理科学与工程	2013	shujie yao	chongqing university
+陈柏辉	应用经济学	2013	baihui chen	sichuan university
+盖建民	基础数学	2013	jianmin gai	sichuan university
+龚启勇	宗教学	2013	qiyong gong	sichuan university
+韩俊宏	应用心理学	2013	junhong han	sichuan university
+黄灿华	表观遗传学	2013	canhua huang	sichuan university
+李忠明	病理学与病理生理学	2013	zhongming li	sichuan university
+舒跃龙	材料加工工程	2013	yuelong shu	sichuan university
+寇纲	卫生检验	2013	gang kou	southwestern university of finance and economics
+康国政	管理科学与工程	2013	guozheng kang	southwest jiaotong university
+唐小虎	固体力学	2013	xiaohu tang	southwest jiaotong university
+闫连山	通信与信息系统	2013	lianshan yan	southwest jiaotong university
+朱旻昊	通信与信息系统	2013	minhao zhu	southwest jiaotong university
+陈华富	机械设计及理论	2013	huafu chen	电子科技大学
+李斌	模式识别与智能系统	2013	bin li	电子科技大学
+杨仕文	物理电子学	2013	shiwen yang	电子科技大学
+张小松	电磁场与微波技术	2013	xiaosong zhang	电子科技大学
+洪军	计算机应用技术	2013	jun hong	xi'an jiaotong university
+黄伟	机械制造及其自动化	2013	wei huang	xi'an jiaotong university
+刘进军	管理科学与工程	2013	jinjun liu	xi'an jiaotong university
+单卫星	电力电子与电力传动	2013	weixing dan	西北农林科技大学
+韦革宏	植物病理学	2013	gehong wei	西北农林科技大学
+刘忠文	土壤学	2013	zhongwen liu	shaanxi normal university
+王启龙	工业催化	2013	qilong wang	shaanxi normal university
+张新科	藏学	2013	xinke zhang	shaanxi normal university
+郭立新	中国古代文学	2013	lixin guo	xidian university
+李赞	电磁场与微波技术	2013	zan li	xidian university
+陈建勋	军事通信学	2013	jianxun chen	chang'an university
+罗洪刚	桥梁与隧道工程	2013	honggang luo	lanzhou university
+秦勇	理论物理	2013	yong qin	lanzhou university
+曹先彬	材料科学与工程	2013	xianbin cao	beihang university
+丁水汀	交通信息工程及控制	2013	shuiting ding	beihang university
+丁希仑	航空宇航推进理论及工程	2013	xilun ding	beihang university
+龙卫球	机械设计及理论	2013	weiqiu long	beihang university
+宋凝芳	民商法	2013	ningfang song	beihang university
+徐立军	光学工程	2013	lijun xu	beihang university
+曲良体	热能工程	2013	liangti qu	beijing institute of technology
+王美玲	材料物理与化学	2013	meiling wang	beijing institute of technology
+李玩幽	导航、制导与控制	2013	wanyou li	哈尔滨工程大学
+单德彬	轮机工程	2013	debin dan	harbin engineering university
+苏彦庆	材料加工工程	2013	yanqing su	harbin engineering university
+谭忆秋	材料加工工程	2013	yiqiu tan	harbin engineering university
+杨春晖	道路与铁道工程	2013	chunhui yang	harbin engineering university
+郑萍	应用化学	2013	ping zheng	harbin engineering university
+曲宁松	电机与电器	2013	ningsong qu	nanjing university of aeronautics and astronautics
+杨健	机械制造及其自动化	2013	jian yang	nanjing university of science and technology
+潘光	控制科学与工程	2013	guang pan	northwestern polytechnical university
+张艳宁	武器系统与运用工程	2013	yanning zhang	northwestern polytechnical university
+黄波	计算机应用技术	2013	bo huang	peking union medical college
+荆志成	免疫学	2013	zhicheng jing	peking union medical college
+王健伟	心血管内科学	2013	jianwei wang	peking union medical college
+张烜	病原生物学	2013	xuan zhang	peking union medical college
+李传锋	内科学（风湿病）	2013	chuanfeng li	university of science and technology of china
+徐铜文	光学	2013	tongwen xu	university of science and technology of china
+方忠	化学工程与技术	2013	zhong fang	chinese academy of sciences
+胡文平	凝聚态物理	2013	wenping hu	chinese academy of sciences
+汪寿阳	物理化学	2013	shouyang wang	chinese academy of sciences
+张平	管理科学与工程	2013	ping zhang	chinese academy of sciences
+黎湘	基础数学	2013	xiang li	national university of defense technology
+肖侬	通信与信息系统	2013	nong xiao	national university of defense technology
+曾春雨	计算机系统结构	2013	chunyu ceng	third military medical university
+招明高	心血管内科	2013	minggao zhao	fourth military medical university
+乔俊飞	药理学	2013	junfei qiao	beijing university of technology
+曹彬	控制科学与工程	2013	bin cao	capital medical university
+吉训明	内科学（呼吸系病）	2013	xunming ji	capital medical university
+李华瑞	神经外科	2013	huarui li	capital normal university
+孙军	中国古代史	2013	jun sun	tianjin university of science and technology
+冯世庆	海洋生物	2013	shiqing feng	tianjin medical university
+徐波	骨科	2013	bo xu	yanshan university
+刘强	材料学	2013	qiang liu	dalian medical university
+王春凤	病理学与病理生理学	2013	chunfeng wang	吉林农业大学
+向文胜	预防兽医学	2013	wensheng xiang	northeast agricultural university
+刘宇	农药学	2013	yu liu	上海体育学院
+王尧	体育学	2013	yao wang	soochow university
+张晓宏	中国现当代文学	2013	xiaohong zhang	soochow university
+凌祥	材料物理与化学	2013	xiang ling	nanjing university of technology
+胡志斌	流程工业节能技术与装备	2013	zhibin hu	nanjing medical university
+曹君利	公共卫生与预防医学	2013	junli cao	xuzhou medical college
+杨光	麻醉学	2013	guang yang	nanjing normal university
+刘鸿武	动物学	2013	hongwu liu	zhejiang normal university
+李登峰	非洲研究	2013	dengfeng li	fuzhou university
+郝玉金	管理科学与工程	2013	yujin hao	shandong agricultural university
+韩一帆	果树学	2013	yifan han	zhengzhou university
+汤继华	工业催化	2013	jihua tang	henan agricultural university
+吴义强	作物遗传育种	2013	yiqiang wu	central south university forestry and technology
+梁恩维	木材科学与技术	2013	enwei liang	guangxi university
+梅国雄	天体物理	2013	guoxiong mei	guangxi university
+罗素兰	岩土工程	2013	sulan luo	hainan university
+王国胤	海洋药物	2013	guoyin wang	chongqing university of posts and telecommunications
+池永贵	计算机科学与技术	2013	yonggui chi	guizhou university
+马文会	有机化学	2013	wenhui ma	kunming university of science and technology
+陈冠益	有色金属冶金	2013	guanyi chen	西藏大学
+次旦扎西	环境工程	2013	zhaxi cidan	西藏大学
+张涛甫	中国少数民族史	2013	taofu zhang	西藏大学
+黄民兴	新闻学	2013	minxing huang	northwest university
+任保平	世界史	2013	baoping ren	northwest university
+张兴亮	政治经济学	2013	xingliang zhang	northwest university
+邓军	古生物学与地层学	2013	jun deng	西安科技大学
+闫浩文	安全科学与工程	2013	haowen yan	兰州交通大学
+魏加华	环境地理信息系统	2013	jiahua wei	qinghai university
+叶邦策	水利工程	2013	bangce ye	shihezi university
+PhilippeCiais	自然地理学	2013	PhilippeCiais	﻿peking university
+吴军桥	凝聚态物理	2013	junqiao wu	﻿peking university
+许春辉	生物医学成像	2013	chunhui xu	﻿peking university
+谭勇	管理科学与工程	2013	yong tan	tsinghua university
+王印海	交通运输工程	2013	yinhai wang	tsinghua university
+杨昆	凝聚态物理	2013	kun yang	tsinghua university
+JoergKudla	植物学	2013	JoergKudla	china agricultural university
+黄衍	英语语言文学	2013	yan huang	北京外国语大学
+梅建军	科学技术史	2013	jianjun mei	university of science and technology beijing
+仲伟虹	材料学	2013	weihong zhong	beijing university of chemical technology
+刘小平	机械电子工程	2013	xiaoping liu	beijing jiaotong university
+李润泽	统计学	2013	runze li	nankai university
+李灵军	分析化学	2013	lingjun li	tianjin university
+金耀初	控制科学与工程	2013	yaochu jin	tohoku university
+李峰	考古学	2013	feng li	jilin university
+RichardH.Finnell	医学遗传学	2013	RichardH.Finnell	fudan university
+郭亮	市场营销	2013	liang guo	fudan university
+纪如荣	神经生物学	2013	rurong ji	fudan university
+唐科奇	分析化学仪器质谱	2013	keqi tang	fudan university
+张琦	环境科学与工程	2013	qi zhang	fudan university
+PeterVorderer	新闻传播学	2013	PeterVorderer	shanghai jiao tong university
+李晓霞	免疫学	2013	xiaoxia li	shanghai jiao tong university
+于君	内科学消化系病学	2013	jun yu	shanghai jiao tong university
+AnthonyChen	交通运输规划与管理	2013	AnthonyChen	tongji university
+席云平	结构工程	2013	yunping xi	tongji university
+韦国芳	基础数学	2013	guofang wei	east china normal university
+MichaelHerzfeld	人类学	2013	MichaelHerzfeld	shanghai international studies university
+范延琴	数量经济学	2013	yanqin fan	shanghai university of finance and economics
+AvanidharSubrahmanyam	管理科学与工程	2013	AvanidharSubrahmanyam	nanjing university
+许建斌	物理电子学	2013	jianbin xu	nanjing university
+印卧涛	计算数学	2013	wotao yin	nanjing university
+陈志宁	电磁场与微波技术	2013	zhining chen	southeast university
+颜安	金融学	2013	an yan	southeast university
+AkramAlfantazi	材料科学与工程	2013	AkramAlfantazi	china university of mining and technology
+ArturCavaco-paulo	纺织工程	2013	ArturCavaco-paulo	jiangnan university
+DavidOupicky	药剂学	2013	DavidOupicky	china pharmaceutical university
+JoeZhu	管理科学与工程	2013	JoeZhu	hefei university of technology
+HONGHOLLYWANG	农业经济管理	2013	HONGHOLLYWANG	zhejiang university
+JunshanZhang	控制理论与控制工程	2013	JunshanZhang	zhejiang university
+PetertenDijke	细胞生物学	2013	PetertenDijke	zhejiang university
+甘苏生	蔬菜学	2013	susheng gan	zhejiang university
+魏文毅	病理学与病理生理学	2013	wenyi wei	zhejiang university
+程继新	生物医学工程	2013	jixin cheng	xiamen university
+林志民	智能科学与技术	2013	zhimin lin	xiamen university
+迟洪波	免疫学	2013	hongbo chi	shandong university
+张平	宗教学	2013	ping zhang	shandong university
+SarahKatherineSpurgeon	化工过程机械	2013	SarahKatherineSpurgeon	中国石油大学（华东）
+魏军城	数学	2013	juncheng wei	wuhan university
+许献忠	生物物理学	2013	xianzhong xu	huazhong university of science and technology
+AliPolat	构造地质学	2013	AliPolat	中国地质大学（武汉）
+DavidPeterJackson	植物发育生物学	2013	DavidPeterJackson	huazhong agricultural university
+EdgarB.Cahoon	脂类代谢与作物遗传育种	2013	EdgarB.Cahoon	huazhong agricultural university
+游良志	农业经济管理	2013	liangzhi you	huazhong agricultural university
+李巍	眼科学	2013	wei li	sun yat-sen university
+梁锦荣	生物医用材料	2013	jinrong liang	sun yat-sen university
+刘瑞海	食品科学	2013	ruihai liu	south china university of technology
+楚剑	岩土工程	2013	jian chu	chongqing university
+梁贯成	数学教育	2013	guancheng liang	southwest university
+AlanJohnDrew	凝聚态物理	2013	AlanJohnDrew	sichuan university
+田蓉	心血管病学	2013	rong tian	sichuan university
+郑阿财	中国古典文献学	2013	acai zheng	sichuan university
+MichaelJ.Brennan	金融学	2013	MichaelJ.Brennan	southwestern university of finance and economics
+FedericoRosei	材料科学与工程	2013	FedericoRosei	电子科技大学
+JingmingXu	光学工程	2013	JingmingXu	电子科技大学
+代伐	电路与系统	2013	fa dai	电子科技大学
+GuyM.Genin	固体力学	2013	GuyM.Genin	xi'an jiaotong university
+梁在	社会学	2013	zai liang	xi'an jiaotong university
+孙年祥	微电子学与固体电子学	2013	nianxiang sun	xi'an jiaotong university
+周政	工商管理	2013	zheng zhou	xi'an jiaotong university
+尤占平	道路与铁道工程	2013	zhanping you	chang'an university
+BassamA.Younis	海洋工程湍流技术	2013	BassamA.Younis	哈尔滨工程大学
+祝效国	管理科学与工程	2013	xiaoguo zhu	harbin engineering university
+査戈成	流体力学	2013	gecheng zha	northwestern polytechnical university
+阎玉英	热能工程	2013	yuying yan	dalian maritime university
+MarkRichardRosenzweig	理论经济学	2013	MarkRichardRosenzweig	jinan university
+黄铭洪	环境科学与工程	2013	minghong huang	jinan university
+于强	临床医学（肿瘤学）	2013	qiang yu	jinan university
+吕自成	计算机科学与技术	2013	zicheng lv	university of science and technology of china
+王强	神经生物学	2013	qiang wang	capital medical university
+冯献社	膜材料与膜过程	2013	xianshe feng	tianjin polytechnic university
+范旭东	电子科学与技术	2013	xudong fan	taiyuan university of technology
+毛学荣	数学	2013	xuerong mao	shanghai normal university
+张华	光电功能材料与器件	2013	hua zhang	nanjing university of technology
+侯怡伟	计算机应用技术	2013	yiwei hou	nanjing university of posts and telecommunications
+李平	语言学及应用语言学	2013	ping li	江苏师范大学
+张成城	免疫学	2013	chengcheng zhang	滨州医学院
+姜志宏	中药学	2013	zhihong jiang	guangzhou university of chinese medicine
+CarolA.Seger	发展与教育心理学	2013	CarolA.Seger	south china normal university
+KeijiMaruoka	化学工程与技术	2013	KeijiMaruoka	guangdong university of technology
+蔡宗苇	环境科学与工程	2013	zongwei cai	guangdong university of technology
+张砺	神经生物学	2013	li zhang	southern medical university
+邓旭亮	口腔临床医学	2015	xuliang deng	﻿peking university
+胡小永	物理电子学	2015	xiaoyong hu	﻿peking university
+黄铁军	计算机应用技术	2015	tiejun huang	﻿peking university
+焦宁	药物化学	2015	ning jiao	﻿peking university
+李若	计算数学	2015	ruo li	﻿peking university
+吴联生	会计学	2015	liansheng wu	﻿peking university
+辛德勇	中国史	2015	deyong xin	﻿peking university
+姚洋	国民经济学	2015	yang yao	﻿peking university
+余志祥	有机化学	2015	zhixiang yu	﻿peking university
+袁毓林	语言学及应用语言学	2015	yulin yuan	﻿peking university
+周黎安	产业经济学	2015	lian zhou	﻿peking university
+樊健生	结构工程	2015	jiansheng fan	tsinghua university
+李俊华	环境科学	2015	junhua li	tsinghua university
+廖理	金融学	2015	li liao	tsinghua university
+刘冬生	高分子化学与物理	2015	dongsheng liu	tsinghua university
+刘奋荣	逻辑学	2015	fenrong liu	tsinghua university
+刘辛军	机械电子工程	2015	xinjun liu	tsinghua university
+鲁晓波	信息艺术设计	2015	xiaobo lu	tsinghua university
+祁海	免疫学	2015	hai qi	tsinghua university
+徐心	信息管理与信息系统	2015	xin xu	tsinghua university
+俞立	细胞生物学	2015	li yu	tsinghua university
+黄兴涛	中国近现代史	2015	xingtao huang	renmin university of china
+金灿荣	外交学	2015	canrong jin	renmin university of china
+梁涛	中国哲学	2015	tao liang	renmin university of china
+严金明	土地资源管理学	2015	jinming yan	renmin university of china
+张顺明	金融学	2015	shunming zhang	renmin university of china
+贺永	认知神经科学	2015	yong he	beijing normal university
+刘宝存	比较教育学	2015	baocun liu	beijing normal university
+张英俊	草业科学	2015	yingjun zhang	china agricultural university
+忻向军	电磁场与微波技术	2015	xiangjun xin	beijing university of posts and telecommunications
+许凤	林产化学加工工程	2015	feng xu	beijing forestry university
+王祥科	环境科学	2015	xiangke wang	north china electric power university
+柯平	图书馆学	2015	ping ke	nankai university
+付红兵	材料物理与化学	2015	hongbing fu	tianjin university
+邾继贵	测试计量技术及仪器	2015	jigui zhu	tianjin university
+陆安慧	物理化学	2015	anhui lu	dalian university of technology
+程震	影像医学与核医学	2015	zhen cheng	tohoku university
+赵勇	检测技术与自动化装置	2015	yong zhao	tohoku university
+朱万成	采矿工程	2015	wancheng zhu	tohoku university
+李晓	世界经济	2015	xiao li	jilin university
+冯胜君	汉语言文字学	2015	shengjun feng	jilin university
+姚建宗	法学理论	2015	jianzong yao	jilin university
+张贤明	政治学理论	2015	xianming zhang	jilin university
+刘守新	林产化学加工工程	2015	shouxin liu	northeast forestry university
+陈焱	理论物理	2015	yan chen	fudan university
+雷群英	肿瘤学	2015	qunying lei	fudan university
+唐世平	国际政治学	2015	shiping tang	fudan university
+徐彦辉	生物物理学	2015	yanhui xu	fudan university
+赵曜	外科学（神外）	2015	yao zhao	fudan university
+邹诗鹏	马克思主义哲学	2015	shipeng zou	fudan university
+刘文	微生物学	2015	wen liu	shanghai jiao tong university
+彭志科	一般力学与力学基础	2015	zhike peng	shanghai jiao tong university
+钱冬	凝聚态物理	2015	dong qian	shanghai jiao tong university
+杨小康	信号与信息处理	2015	xiaokang yang	shanghai jiao tong university
+赵维莅	内科学（血液病）	2015	weili zhao	shanghai jiao tong university
+薛伟辰	结构工程	2015	weichen xue	tongji university
+杨守业	海洋地质	2015	shouye yang	tongji university
+马铁驹	管理科学与工程	2015	tieju ma	east china university of science and technology
+杨弋	生物工程	2015	yi yang	east china university of science and technology
+朱为宏	应用化学	2015	weihong zhu	east china university of science and technology
+闫光才	高等教育学	2015	guangcai yan	east china normal university
+郁振华	外国哲学	2015	zhenhua yu	east china normal university
+朱国华	文艺学	2015	guohua zhu	east china normal university
+陈鹏飞	天体物理	2015	pengfei chen	nanjing university
+李满春	土地资源管理学	2015	manchun li	nanjing university
+孙书存	生态学	2015	shucun sun	nanjing university
+王彬彬	中国现当代文学	2015	binbin wang	nanjing university
+王新平	无机化学	2015	xinping wang	nanjing university
+刘艳红	刑法学	2015	yanhong liu	southeast university
+钟文琪	热能工程	2015	wenqi zhong	southeast university
+吴刚	结构工程	2015	gang wu	southeast university
+吴敬	食品科学	2015	jing wu	jiangnan university
+陈积明	控制理论与控制工程	2015	jiming chen	zhejiang university
+陈伟球	固体力学	2015	weiqiu chen	zhejiang university
+胡海岚	神经生物学	2015	hailan hu	zhejiang university
+计剑	材料学	2015	jian ji	zhejiang university
+居冰峰	机械电子工程	2015	bingfeng ju	zhejiang university
+王立忠	岩土工程	2015	lizhong wang	zhejiang university
+方颖	数量经济学	2015	ying fang	xiamen university
+胡荣	社会学	2015	rong hu	xiamen university
+陈宝权	计算机应用技术	2015	baoquan chen	shandong university
+张澄	内科学（心血管病）	2015	cheng zhang	shandong university
+李纲	情报学	2015	gang li	wuhan university
+李红良	内科学（心血管病）	2015	hongliang li	wuhan university
+秦前红	宪法学与行政法学	2015	qianhong qin	wuhan university
+单波	传播学	2015	bo dan	wuhan university
+夏军强	水力学及河流动力学	2015	junqiang xia	wuhan university
+庄林	物理化学	2015	lin zhuang	wuhan university
+贺雪峰	社会学	2015	xuefeng he	huazhong university of science and technology
+曾志刚	系统工程	2015	zhigang ceng	huazhong university of science and technology
+张礼知	环境科学	2015	lizhi zhang	central china normal university
+严建兵	遗传学	2015	jianbing yan	huazhong agricultural university
+夏昆	遗传学	2015	kun xia	central south university
+李新春	企业管理学	2015	xinchun li	sun yat-sen university
+彭玉平	中国古代文学	2015	yuping peng	sun yat-sen university
+张杰鹏	无机化学	2015	jiepeng zhang	sun yat-sen university
+吴宏滨	材料物理与化学	2015	hongbin wu	south china university of technology
+杨中民	物理电子学	2015	zhongmin yang	south china university of technology
+代方银	特种经济动物饲养学	2015	fangyin dai	southwest university
+丁楅森	病理学与病理生理学	2015	bisen ding	sichuan university
+姜生	中国史	2015	sheng jiang	sichuan university
+姜晓萍	政治学理论	2015	xiaoping jiang	sichuan university
+余宏杰	流行病与卫生统计学	2015	hongjie yu	sichuan university
+钱林茂	机械设计与理论	2015	linmao qian	southwest jiaotong university
+吴广宁	高电压与绝缘技术	2015	guangning wu	southwest jiaotong university
+胡俊	电磁场与微波技术	2015	jun hu	电子科技大学
+孔令讲	信息获取与探测技术	2015	lingjiang kong	电子科技大学
+彭怡	企业管理学	2015	yi peng	电子科技大学
+王金淑	冶金物理化学	2015	jinshu wang	电子科技大学
+丁向东	材料学	2015	xiangdong ding	xi'an jiaotong university
+林京	机械制造及其自动化	2015	jing lin	xi'an jiaotong university
+申胜平	固体力学	2015	shengping shen	xi'an jiaotong university
+魏进家	化工过程机械	2015	jinjia wei	xi'an jiaotong university
+薛建儒	模式识别与智能系统	2015	jianru xue	xi'an jiaotong university
+祝凌燕	环境科学	2015	lingyan zhu	西北农林科技大学
+白俊峰	无机化学	2015	junfeng bai	shaanxi normal university
+李云松	空间科学与技术	2015	yunsong li	xidian university
+刘宏伟	信号与信息处理	2015	hongwei liu	xidian university
+勾晓华	自然地理学	2015	xiaohua gou	lanzhou university
+陈小武	计算机应用技术	2015	xiaowu chen	beihang university
+郭洪波	材料加工工程	2015	hongbo guo	beihang university
+吕广宏	材料学	2015	guanghong lv	beihang university
+夏元清	控制理论与控制工程	2015	yuanqing xia	beijing institute of technology
+田禹	环境工程	2015	yu tian	harbin engineering university
+朱嘉琦	飞行器设计	2015	jiaqi zhu	harbin engineering university
+郑哲	外科学（胸心外）	2015	zhe zheng	peking union medical college
+程国赋	中国古代文学	2015	guofu cheng	jinan university
+余玉刚	管理科学与工程	2015	yugang yu	university of science and technology of china
+宋延林	材料学	2015	yanlin song	chinese academy of sciences
+杨超	化学工程	2015	chao yang	chinese academy of sciences
+边惠洁	系统医学生物学	2015	huijie bian	fourth military medical university
+李春英	皮肤病与性病学	2015	chunying li	fourth military medical university
+屈延	外科学（神外）	2015	yan qu	fourth military medical university
+晏绍祥	世界古代中世纪史	2015	shaoxiang yan	capital normal university
+额尔敦白音	中国少数民族语言文学	2015	e er dun bai yin	inner mongolia university
+高彦峰	材料学	2015	yanfeng gao	shanghai university
+邹小波	农产品加工及贮藏工程	2015	xiaobo zou	jiangsu university
+程天君	教育学原理	2015	tianjun cheng	nanjing normal university
+王澍	建筑艺术设计	2015	shu wang	中国美术学院
+曹亦俊	矿物加工工程	2015	yijun cao	zhengzhou university
+余克服	海洋地质	2015	kefu yu	guangxi university
+孙杰远	教育学原理	2015	jieyuan sun	guangxi normal university
+周建庭	桥梁与隧道工程	2015	jianting zhou	重庆交通大学
+张志谦	病理学与病理生理学	2015	zhiqian zhang	chongqing medical university
+郭建春	油气田开发工程	2015	jianchun guo	southwest petroleum university
+陆光华	水文学及水资源	2015	guanghua lu	西藏大学
+杨柳	建筑技术科学	2015	liu yang	xi'an university of architecture and technology
+来兴平	采矿工程	2015	xingping lai	西安科技大学
+李浩	中国古代文学	2015	hao li	northwest university
+杨文力	理论物理	2015	wenli yang	northwest university
+方创琳	资源环境与城乡规划管理	2015	chuanglin fang	xinjiang university
+张金利	化学工程	2015	jinli zhang	shihezi university
+郎自强	控制理论与控制工程	2015	ziqiang lang	dalian university of technology
+李丹	能源化工	2015	dan li	dalian university of technology
+翟志强	供热、供燃气、通风及空调工程	2015	zhiqiang di	dalian university of technology
+林云峰	管理科学与工程	2015	yunfeng lin	tohoku university
+SAULIUSJUODKAZIS	物理电子学	2015	SAULIUSJUODKAZIS	jilin university
+韩宇	无机化学	2015	yu han	jilin university
+林庆波	影像医学与核医学	2015	qingbo lin	jilin university
+任雷	机械设计与理论	2015	lei ren	jilin university
+丁颖	情报学	2015	ying ding	wuhan university
+孙一啸	西方经济学	2015	yixiao sun	wuhan university
+汪寅生	分析化学	2015	yinsheng wang	wuhan university
+葛汉彬	结构工程	2015	hanbin ge	huazhong university of science and technology
+李顺成	生物化学与分子生物学	2015	shuncheng li	huazhong university of science and technology
+王庆	微电子学与固体电子学	2015	qing wang	huazhong university of science and technology
+大村敦志	民商法学	2015	dunzhi dacun	zhongnan university of economics and law
+ErolTutumluer	道路与铁道工程	2015	ErolTutumluer	central south university
+郭春雷	机械制造及其自动化	2015	chunlei guo	central south university
+金鹏	神经病学	2015	peng jin	central south university
+任伟	控制理论与控制工程	2015	wei ren	central south university
+谢仲淙	麻醉学	2015	zhongcong xie	central south university
+NematO.Keyhani	农业昆虫与害虫防治	2015	NematO.Keyhani	chongqing university
+李鸣	发展与教育心理学	2015	ming li	southwest university
+SvendErikLarsen	比较文学与世界文学	2015	SvendErikLarsen	sichuan university
+崔海涛	企业管理学	2015	haitao cui	southwestern university of finance and economics
+刘庆民	西方经济学	2015	qingmin liu	southwestern university of finance and economics
+黄波	地图制图学与地理信息工程	2015	bo huang	southwest jiaotong university
+蒋丹凌	金融学	2015	danling jiang	southwest jiaotong university
+许钜秉	管理科学与工程	2015	jubing xu	southwest jiaotong university
+HoracioDanteEspinosa	机械电子工程	2015	HoracioDanteEspinosa	电子科技大学
+邢留冬	系统工程	2015	liudong xing	电子科技大学
+JamesP.Lantolf	外国语言学及应用语言学	2015	JamesP.Lantolf	xi'an jiaotong university
+RikardHolmdahl	生物化学与分子生物学	2015	RikardHolmdahl	xi'an jiaotong university
+SergeyLebedev	等离子体物理	2015	SergeyLebedev	xi'an jiaotong university
+方伟晶	行政管理学	2015	weijing fang	xi'an jiaotong university
+李芙蓉	电力系统及其自动化	2015	furong li	xi'an jiaotong university
+李姚军	社会学	2015	yaojun li	xi'an jiaotong university
+伊琳娜·波波娃	中国古代史	2015	yi lin na · bo bo wa	shaanxi normal university
+李葆春	通信与信息系统	2015	baochun li	xidian university
+申仲伟	基础数学	2015	zhongwei shen	lanzhou university
+AlexanderHartmaier	机械制造及其自动化	2015	AlexanderHartmaier	harbin engineering university
+施阳	控制理论与控制工程	2015	yang shi	harbin engineering university
+凤小兵	计算数学	2015	xiaobing feng	northwestern polytechnical university
+余明裕	轮机工程	2015	mingyu yu	dalian maritime university
+张建祎	计算机应用技术	2015	jianyi zhang	dalian maritime university
+黄维扬	材料物理与化学	2015	weiyang huang	taiyuan university of technology
+蔡勇	环境化学	2015	yong cai	jianghan university
+涂文伟	儿科学	2015	wenwei tu	chongqing medical university
+林合宁	生物化学与分子生物学	2015	hening lin	贵州医科大学
+瞿培勇	概率论与数理统计	2015	peiyong qu	yunnan university
+常鹏翱	民商法学	2015	pengao chang	﻿peking university
+车浩	刑法学	2015	hao che	﻿peking university
+陈兴	有机化学	2015	xing chen	﻿peking university
+程和发	自然地理学	2015	hefa cheng	﻿peking university
+傅宗玫	大气物理学与大气环境	2015	zongmei fu	﻿peking university
+关启安	基础数学	2015	qian guan	﻿peking university
+贺桂梅	中国现当代文学	2015	guimei he	﻿peking university
+李晟	基础心理学	2015	cheng li	﻿peking university
+彭良友	原子与分子物理	2015	liangyou peng	﻿peking university
+渠敬东	社会学	2015	jingdong qu	﻿peking university
+汤新景	药物化学	2015	xinjing tang	﻿peking university
+王兴军	通信与信息系统	2015	xingjun wang	﻿peking university
+徐冬一	生物化学与分子生物学	2015	dongyi xu	﻿peking university
+余淼杰	国际贸易学	2015	miaojie yu	﻿peking university
+张艳锋	材料物理与化学	2015	yanfeng zhang	﻿peking university
+陈宏伟	物理电子学	2015	hongwei chen	tsinghua university
+陈群	工程热物理	2015	qun chen	tsinghua university
+池保勇	微电子学与固体电子学	2015	baoyong chi	tsinghua university
+崔勇	计算机系统结构	2015	yong cui	tsinghua university
+何珂	凝聚态物理	2015	ke he	tsinghua university
+李海涛	生物化学与分子生物学	2015	haitao li	tsinghua university
+李铁键	水力学及河流动力学	2015	tiejian li	tsinghua university
+娄智勇	病原生物学	2015	zhiyong lou	tsinghua university
+陆新征	防灾减灾工程及防护工程	2015	xinzheng lu	tsinghua university
+马丽然	机械设计与理论	2015	liran ma	tsinghua university
+沈洋	材料学	2015	yang shen	tsinghua university
+史安斌	传播学	2015	anbin shi	tsinghua university
+王天夫	社会学	2015	tianfu wang	tsinghua university
+肖勇波	管理科学与工程	2015	yongbo xiao	tsinghua university
+邢飞	精密仪器及机械	2015	fei xing	tsinghua university
+郑思齐	区域经济学	2015	siqi zheng	tsinghua university
+季威	凝聚态物理	2015	wei ji	renmin university of china
+李勇	数量经济学	2015	yong li	renmin university of china
+仇焕广	农业经济管理学	2015	huanguang chou	renmin university of china
+王晓芳	管理科学与工程	2015	xiaofang wang	renmin university of china
+杨东	经济法学	2015	dong yang	renmin university of china
+朱冠明	汉语言文字学	2015	guanming zhu	renmin university of china
+白军红	水文学及水资源	2015	junhong bai	beijing normal university
+康震	中国古代文学	2015	zhen kang	beijing normal university
+罗楚亮	劳动经济学	2015	chuliang luo	beijing normal university
+张荣强	中国古代史	2015	rongqiang zhang	beijing normal university
+周海涛	高等教育学	2015	haitao zhou	beijing normal university
+王军军	动物营养与饲料科学	2015	junjun wang	china agricultural university
+陈骏	冶金物理化学	2015	jun chen	university of science and technology beijing
+石峰	材料学	2015	feng shi	beijing university of chemical technology
+宋宇飞	应用化学	2015	yufei song	beijing university of chemical technology
+贾斌	管理科学	2015	bin jia	beijing jiaotong university
+彭木根	通信与信息系统	2015	mugen peng	beijing university of posts and telecommunications
+姚艳斌	矿产普查与勘探	2015	yanbin yao	中国地质大学（北京）
+郝世杰	材料学	2015	shijie hao	中国石油大学（北京）
+陈斌开	国民经济学	2015	binkai chen	central university of finance and economics
+吴卫星	金融学	2015	weixing wu	对外经济贸易大学
+陈弓	有机化学	2015	gong chen	nankai university
+程方益	无机化学	2015	fangyi cheng	nankai university
+李月琳	情报学	2015	yuelin li	nankai university
+余新忠	中国史	2015	xinzhong yu	nankai university
+张端智	基础数学	2015	duanzhi zhang	nankai university
+邹长亮	统计学	2015	zhangliang zou	nankai university
+庞彦伟	信号与信息处理	2015	yanwei pang	tianjin university
+张兵	无机化学	2015	bing zhang	tianjin university
+樊江莉	应用化学	2015	jiangli fan	dalian university of technology
+刘涛	无机化学	2015	tao liu	dalian university of technology
+王博	工程力学	2015	bo wang	dalian university of technology
+张振宇	机械制造及其自动化	2015	zhenyu zhang	dalian university of technology
+蔡立东	民商法学	2015	lidong cai	jilin university
+张皓	高分子化学与物理	2015	hao zhang	jilin university
+赵宏伟	机械制造及其自动化	2015	hongwei zhao	jilin university
+刘晓东	中国史	2015	xiaodong liu	northeast normal university
+秦玉友	农村教育学	2015	yuyou qin	northeast normal university
+陈祥锋	供应链管理	2015	xiangfeng chen	fudan university
+邓勇辉	工业催化	2015	yonghui deng	fudan university
+高强	外科学（普外）	2015	qiang gao	fudan university
+雷震	应用数学	2015	zhen lei	fudan university
+梅永丰	材料物理与化学	2015	yongfeng mei	fudan university
+张锋	遗传学	2015	feng zhang	fudan university
+周葆华	传播学	2015	baohua zhou	fudan university
+陈彩莲	控制理论与控制工程	2015	cailian chen	shanghai jiao tong university
+樊博	情报学	2015	bo fan	shanghai jiao tong university
+胡承	内科学（内分泌与代谢病）	2015	cheng hu	shanghai jiao tong university
+刘灿华	凝聚态物理	2015	canhua liu	shanghai jiao tong university
+尚必武	英语语言文学	2015	biwu shang	shanghai jiao tong university
+吴文锋	金融学	2015	wenfeng wu	shanghai jiao tong university
+于烨	神经生物学	2015	ye yu	shanghai jiao tong university
+周林杰	电路与系统	2015	linjie zhou	shanghai jiao tong university
+朱燕民	计算机应用技术	2015	yanmin zhu	shanghai jiao tong university
+冯世进	岩土工程	2015	shijin feng	tongji university
+何良华	计算机软件与理论	2015	lianghua he	tongji university
+娄永琪	设计学	2015	yongqi lou	tongji university
+王志伟	环境工程	2015	zhiwei wang	tongji university
+左为	发育生物学	2015	wei zuo	tongji university
+张显程	化工过程机械	2015	xiancheng zhang	east china university of science and technology
+覃小红	纺织材料与纺织品设计	2015	xiaohong tan	donghua university
+杨海波	有机化学	2015	haibo yang	east china normal university
+杨金强	金融学	2015	jinqiang yang	shanghai university of finance and economics
+郑少华	环境与资源保护法学	2015	shaohua zheng	shanghai university of finance and economics
+胡大平	马克思主义哲学	2015	daping hu	nanjing university
+梁莹	社会保障学	2015	ying liang	nanjing university
+宋凤麒	原子与分子物理	2015	fengqi song	nanjing university
+王博	构造地质学	2015	bo wang	nanjing university
+郭彤	防灾减灾工程及防护工程	2015	tong guo	southeast university
+韩俊海	神经生物学	2015	junhai han	southeast university
+黄永明	信号与信息处理	2015	yongming huang	southeast university
+舒嘉	物流与供应链管理	2015	jia shu	southeast university
+张敏灵	计算机应用技术	2015	minling zhang	southeast university
+匡华	食品科学	2015	hua kuang	jiangnan university
+马鑫	药理学	2015	xin ma	jiangnan university
+冯淑怡	土地资源管理学	2015	shuyi feng	nanjing agricultural university
+刘裕强	作物遗传育种学	2015	yuqiang liu	nanjing agricultural university
+朱艳	作物栽培学与耕作学	2015	yan zhu	nanjing agricultural university
+边学成	岩土工程	2015	xuecheng bian	zhejiang university
+何艳	土壤学	2015	yan he	zhejiang university
+黄厚明	艺术学理论	2015	houming huang	zhejiang university
+刘永锋	材料学	2015	yongfeng liu	zhejiang university
+魏江	企业管理学	2015	jiang wei	zhejiang university
+徐海君	农业昆虫与害虫防治	2015	haijun xu	zhejiang university
+周颖刚	金融学	2015	yinggang zhou	xiamen university
+王光臣	控制理论与控制工程	2015	guangchen wang	shandong university
+刘勇	港口、海岸及近海工程	2015	yong liu	ocean university of china
+王师	水产养殖学	2015	shi wang	ocean university of china
+陈曙光	马克思主义基本原理	2015	shuguang chen	wuhan university
+何其生	国际法学	2015	qisheng he	wuhan university
+李佃来	马克思主义哲学	2015	dianlai li	wuhan university
+陆伟	情报学	2015	wei lu	wuhan university
+谢国荣	地区国别史	2015	guorong xie	wuhan university
+袁荃	分析化学	2015	quan yuan	wuhan university
+赵华斌	生态学	2015	huabin zhao	wuhan university
+胡家兵	电力电子与电力传动	2015	jiabing hu	huazhong university of science and technology
+廖小飞	计算机软件与理论	2015	xiaofei liao	huazhong university of science and technology
+马聪	生物物理学	2015	cong ma	huazhong university of science and technology
+陶波	机械电子工程	2015	bo tao	huazhong university of science and technology
+周军	材料物理与化学	2015	jun zhou	huazhong university of science and technology
+宋海军	地球生物学	2015	haijun song	中国地质大学（武汉）
+黄海军	固体地球物理学	2015	haijun huang	wuhan university of technology
+袁成清	载运工具运用工程	2015	chengqing yuan	wuhan university of technology
+邓大才	政府经济学	2015	dacai deng	central china normal university
+李一博	遗传学	2015	yibo li	huazhong agricultural university
+徐强	果树学	2015	qiang xu	huazhong agricultural university
+张红	民商法学	2015	hong zhang	zhongnan university of economics and law
+聂舟	分析化学	2015	zhou nie	hunan university
+蔺永诚	机械制造及其自动化	2015	yongcheng lin	central south university
+周子龙	采矿工程	2015	zilong zhou	central south university
+贝锦新	遗传学	2015	jinxin bei	sun yat-sen university
+陈斯鹏	汉语言文字学	2015	sipeng chen	sun yat-sen university
+刘小平	地图学与地理信息系统	2015	xiaoping liu	sun yat-sen university
+施俊琦	企业管理学	2015	junqi shi	sun yat-sen university
+夏敏	营养与食品卫生学	2015	min xia	sun yat-sen university
+谢有顺	中国现当代文学	2015	youshun xie	sun yat-sen university
+王小英	生物质科学与工程	2015	xiaoying wang	south china university of technology
+章秀银	电磁场与微波技术	2015	xiuyin zhang	south china university of technology
+曹华军	机械制造及其自动化	2015	huajun cao	chongqing university
+傅其林	文艺学	2015	qilin fu	sichuan university
+巨晓洁	生物化工	2015	xiaojie ju	sichuan university
+逯光文	微生物学	2015	guangwen lu	sichuan university
+吕粟	影像医学与核医学	2015	su lv	sichuan university
+杜在超	西方经济学	2015	zaichao du	southwestern university of finance and economics
+李强	电路与系统	2015	qiang li	电子科技大学
+文岐业	电子信息材料与元器件	2015	qiye wen	电子科技大学
+李磊	外科学（泌尿外）	2015	lei li	xi'an jiaotong university
+李兴文	电工理论与新技术	2015	xingwen li	xi'an jiaotong university
+屈治国	工程热物理	2015	zhiguo qu	xi'an jiaotong university
+邵金友	机械电子工程	2015	jinyou shao	xi'an jiaotong university
+陈晓峰	密码学	2015	xiaofeng chen	xidian university
+杜兰	信号与信息处理	2015	lan du	xidian university
+邓建明	生态学	2015	jianming deng	lanzhou university
+樊春安	有机化学	2015	chunan fan	lanzhou university
+潘兵	固体力学	2015	bing pan	beihang university
+陶飞	机械制造及其自动化	2015	fei tao	beihang university
+廖华	管理科学与工程	2015	hua liao	beijing institute of technology
+张阿漫	船舶与海洋结构物设计制造	2015	aman zhang	哈尔滨工程大学
+黄志伟	生物化学与分子生物学	2015	zhiwei huang	harbin engineering university
+翟长海	防灾减灾工程及防护工程	2015	zhanghai di	harbin engineering university
+张丽霞	材料加工工程	2015	lixia zhang	harbin engineering university
+张立宪	控制理论与控制工程	2015	lixian zhang	harbin engineering university
+王立峰	一般力学与力学基础	2015	lifeng wang	nanjing university of aeronautics and astronautics
+唐金辉	计算机应用技术	2015	jinhui tang	nanjing university of science and technology
+朱俊武	应用化学	2015	junwu zhu	nanjing university of science and technology
+索涛	固体力学	2015	tao suo	northwestern polytechnical university
+游斌	宗教学	2015	bin you	中央民族大学
+郭国平	光学	2015	guoping guo	university of science and technology of china
+胡隆华	火灾安全科学与工程	2015	longhua hu	university of science and technology of china
+康宇	控制理论与控制工程	2015	yu kang	university of science and technology of china
+梁兴	基础数学	2015	xing liang	university of science and technology of china
+彭新华	粒子物理与原子核物理	2015	xinhua peng	university of science and technology of china
+盛国平	环境工程	2015	guoping sheng	university of science and technology of china
+吴长征	无机化学	2015	changzheng wu	university of science and technology of china
+付保华	基础数学	2015	baohua fu	chinese academy of sciences
+胡俊杰	细胞生物学	2015	junjie hu	chinese academy of sciences
+王江云	生物化学与分子生物学	2015	jiangyun wang	chinese academy of sciences
+陈涛涌	免疫学	2015	taoyong chen	second military medical university
+廖专	内科学（消化系病）	2015	zhuan liao	second military medical university
+盛春泉	药物化学	2015	chunquan sheng	second military medical university
+周新元	免疫学	2015	xinyuan zhou	third military medical university
+王琳	外科学（普外）	2015	lin wang	fourth military medical university
+易蔚	外科学（胸心外）	2015	wei yi	fourth military medical university
+刘永祥	信号与信息处理	2015	yongxiang liu	national university of defense technology
+王伊龙	神经病学	2015	yilong wang	capital medical university
+佟德志	政治学理论	2015	dezhi tong	tianjin normal university
+殷杰	科学技术哲学	2015	jie yin	shanxi university
+董宏丽	控制理论与控制工程	2015	hongli dong	northeast petroleum university
+潘振伟	药理学	2015	zhenwei pan	harbin medical university
+屈文生	英语语言文学	2015	wensheng qu	华东政法大学
+曾军	文艺学	2015	jun ceng	shanghai university
+宋莉华	比较文学与世界文学	2015	lihua song	shanghai normal university
+靳光付	流行病与卫生统计学	2015	guangfu jin	nanjing medical university
+黄兆信	高等教育学	2015	zhaoxin huang	wenzhou medical college
+孙良丹	皮肤病与性病学	2015	liangdan sun	anhui medical university
+方千华	体育人文社会学	2015	qianhua fang	fujian normal university
+李小荣	中国古代文学	2015	xiaorong li	fujian normal university
+田江	植物营养学	2015	jiang tian	south china agricultural university
+王少奎	作物遗传育种学	2015	shaokui wang	south china agricultural university
+刘建妮	古生物学与地层学	2015	jianni liu	northwest university
+陈旻	内科学（肾病）	2016	min chen	﻿peking university
+陈玉宇	劳动经济学	2016	yuyu chen	﻿peking university
+崔斌	计算机软件与理论	2016	bin cui	﻿peking university
+韩林合	外国哲学	2016	linhe han	﻿peking university
+贺灿飞	人文地理学	2016	canfei he	﻿peking university
+黄季焜	农业经济管理学	2016	jikun huang	﻿peking university
+孔炜	病理学与病理生理学	2016	wei kong	﻿peking university
+廖可斌	中国古典文献学	2016	kebin liao	﻿peking university
+彭锋	艺术理论	2016	feng peng	﻿peking university
+王健	凝聚态物理	2016	jian wang	﻿peking university
+王立新	世界地区、国别史	2016	lixin wang	﻿peking university
+燕继荣	政治学理论	2016	jirong yan	﻿peking university
+仰海峰	马克思主义哲学	2016	haifeng yang	﻿peking university
+张守文	经济法学	2016	shouwen zhang	﻿peking university
+郑玉峰	材料学	2016	yufeng zheng	﻿peking university
+毕军	网络空间安全基础	2016	jun bi	tsinghua university
+李守奎	汉语言文字学	2016	shoukui li	tsinghua university
+刘磊	有机化学	2016	lei liu	tsinghua university
+沈晓骅	发育生物学	2016	xiaohua shen	tsinghua university
+田轩	金融学	2016	xuan tian	tsinghua university
+汪家道	机械设计与理论	2016	jiadao wang	tsinghua university
+杨茂君	生物化学与分子生物学	2016	maojun yang	tsinghua university
+曾嵘	高电压与绝缘技术	2016	rong ceng	tsinghua university
+翟荟	原子与分子物理	2016	hui di	tsinghua university
+周光权	刑法学	2016	guangquan zhou	tsinghua university
+贾根良	经济思想史	2016	genliang jia	renmin university of china
+卢小宾	信息分析	2016	xiaobin lu	renmin university of china
+杨念群	专门史	2016	nianqun yang	renmin university of china
+张成思	金融学	2016	chengsi zhang	renmin university of china
+朱万曙	中国古代文学	2016	wanshu zhu	renmin university of china
+毕彦超	基础心理学	2016	yanchao bi	beijing normal university
+黄荣怀	教育技术学	2016	ronghuai huang	beijing normal university
+夏星辉	水文学及水资源	2016	xinghui xia	beijing normal university
+张哲俊	比较文学与世界文学	2016	zhejun zhang	beijing normal university
+傅缨	植物学	2016	ying fu	china agricultural university
+李道亮	农业电气化与自动化	2016	daoliang li	china agricultural university
+洪俊杰	国际贸易学	2016	junjie hong	对外经济贸易大学
+王永贵	企业管理学	2016	yonggui wang	对外经济贸易大学
+李坤望	国际贸易学	2016	kunwang li	nankai university
+赵学功	世界史	2016	xuegong zhao	nankai university
+巩金龙	化学工艺	2016	jinlong gong	tianjin university
+亢战	固体力学	2016	zhan kang	dalian university of technology
+孙玉文	机械制造及其自动化	2016	yuwen sun	dalian university of technology
+王同敏	材料加工工程	2016	tongmin wang	dalian university of technology
+张强	计算机应用技术	2016	qiang zhang	dalian university of technology
+周永贵	有机化学	2016	yonggui zhou	dalian university of technology
+丁进良	控制理论与控制工程	2016	jinliang ding	tohoku university
+黄敏	管理科学与工程	2016	min huang	tohoku university
+罗招庆	病原生物学	2016	zhaoqing luo	jilin university
+田毅鹏	社会学	2016	yipeng tian	jilin university
+邹勃	凝聚态物理	2016	bo zou	jilin university
+陈志敏	外交学	2016	zhimin chen	fudan university
+阚海东	劳动卫生与环境卫生学	2016	haidong han	fudan university
+俞燕蕾	材料物理与化学	2016	yanlei yu	fudan university
+曾晓洋	微电子学与固体电子学	2016	xiaoyang ceng	fudan university
+张新颖	中国现当代文学	2016	xinying zhang	fudan university
+张远波	凝聚态物理	2016	yuanbo zhang	fudan university
+毕宇芳	内科学（内分泌与代谢病）	2016	yufang bi	shanghai jiao tong university
+卜军	内科学（心血管病）	2016	jun bo	shanghai jiao tong university
+熊红凯	信号与信息处理	2016	hongkai xiong	shanghai jiao tong university
+曾赛星	技术经济及管理学	2016	saixing ceng	shanghai jiao tong university
+杜文莉	控制理论与控制工程	2016	wenli du	east china university of science and technology
+丁彬	纺织材料与纺织品设计	2016	bin ding	donghua university
+朱志荣	文艺学	2016	zhirong zhu	east china normal university
+李增泉	会计学	2016	zengquan li	shanghai university of finance and economics
+顾黔	语言学及应用语言学	2016	qian gu	nanjing university
+万贤纲	凝聚态物理	2016	xiangang wan	nanjing university
+李建春	岩土工程	2016	jianchun li	southeast university
+孙立涛	微电子学与固体电子学	2016	litao sun	southeast university
+周福宝	安全技术及工程	2016	fubao zhou	china university of mining and technology
+王慧敏	行政管理学	2016	huimin wang	hohai university
+郑金海	港口、海岸及近海工程	2016	jinhai zheng	hohai university
+陈宝梁	环境科学	2016	baoliang chen	zhejiang university
+徐兵	机械电子工程	2016	bing xu	zhejiang university
+徐小洲	比较教育学	2016	xiaozhou xu	zhejiang university
+任斌	分析化学	2016	bin ren	xiamen university
+刘允刚	控制理论与控制工程	2016	yungang liu	shandong university
+张庆松	岩土工程	2016	qingsong zhang	shandong university
+艾庆辉	水产养殖学	2016	qinghui ai	ocean university of china
+吴根友	中国哲学	2016	genyou wu	wuhan university
+杨必胜	地图制图学与地理信息工程	2016	bisheng yang	wuhan university
+姚宜斌	大地测量学与测量工程	2016	yibin yao	wuhan university
+张希承	概率论与数理统计	2016	xicheng zhang	wuhan university
+方鹏骞	社会医学与卫生事业管理学	2016	pengqian fang	huazhong university of science and technology
+韩宏伟	材料物理与化学	2016	hongwei han	huazhong university of science and technology
+江涛	通信与信息系统	2016	tao jiang	huazhong university of science and technology
+李志纯	交通基础设施投资决策与交通需求管理	2016	zhichun li	huazhong university of science and technology
+张勇慧	药物化学	2016	yonghui zhang	huazhong university of science and technology
+麦立强	材料物理与化学	2016	liqiang mai	wuhan university of technology
+曹胜波	预防兽医学	2016	shengbo cao	huazhong agricultural university
+张晓兵	分析化学	2016	xiaobing zhang	hunan university
+雷光华	外科学（骨外）	2016	guanghua lei	central south university
+保继刚	旅游管理学	2016	jigang bao	sun yat-sen university
+纪红兵	工业催化	2016	hongbing ji	sun yat-sen university
+李隽	病理学与病理生理学	2016	juan li	sun yat-sen university
+徐忠明	法律史	2016	zhongming xu	sun yat-sen university
+黄飞	材料学	2016	fei huang	south china university of technology
+陈新平	植物营养学	2016	xinping chen	southwest university
+王本朝	中国现当代文学	2016	benchao wang	southwest university
+朱德全	职业技术教育学	2016	dequan zhu	southwest university
+林华珍	统计学	2016	huazhen lin	southwestern university of finance and economics
+魏彦玉	物理电子学	2016	yanyu wei	电子科技大学
+刘刚	材料学	2016	gang liu	xi'an jiaotong university
+倪明玖	流体力学	2016	mingjiu ni	xi'an jiaotong university
+刘福来	农业水土工程	2016	fulai liu	西北农林科技大学
+刘西莉	植物病理学	2016	xili liu	西北农林科技大学
+盛敏	通信与信息系统	2016	min sheng	xidian university
+张进成	微电子学与固体电子学	2016	jincheng zhang	xidian university
+兰恒星	地质工程	2016	hengxing lan	chang'an university
+潘建伟	植物学	2016	jianwei pan	lanzhou university
+刘刚	精密仪器及机械	2016	gang liu	beihang university
+王青云	一般力学与力学基础	2016	qingyun wang	beihang university
+魏振忠	测试计量技术及仪器	2016	zhenzhong wei	beihang university
+吴淮宁	控制理论与控制工程	2016	huaining wu	beihang university
+杨立军	动力机械及工程	2016	lijun yang	beihang university
+范峰	结构工程	2016	feng fan	harbin engineering university
+李垚	材料学	2016	yao li	harbin engineering university
+孙澄	建筑设计及其理论	2016	cheng sun	harbin engineering university
+吴晓宏	化学工艺	2016	xiaohong wu	harbin engineering university
+叶强	管理科学与工程	2016	qiang ye	harbin engineering university
+吴启晖	通信与信息系统	2016	qihui wu	nanjing university of aeronautics and astronautics
+岳晓奎	飞行器设计	2016	xiaokui yue	northwestern polytechnical university
+麻国庆	民族学	2016	guoqing ma	中央民族大学
+陈大华	发育生物学	2016	dahua chen	chinese academy of sciences
+王树涛	无机化学	2016	shutao wang	chinese academy of sciences
+杨清武	神经病学	2016	qingwu yang	third military medical university
+陈发明	口腔临床医学	2016	faming chen	fourth military medical university
+陶凌	内科学（心血管病）	2016	ling tao	fourth military medical university
+王军	材料学	2016	jun wang	national university of defense technology
+陈树君	机械电子工程	2016	shujun chen	beijing university of technology
+宋晓艳	材料学	2016	xiaoyan song	beijing university of technology
+宇波	油气储运工程	2016	bo yu	北京石油化工学院
+李海梁	应用数学	2016	hailiang li	capital normal university
+王淑芹	伦理学	2016	shuqin wang	capital normal university
+余鹰	病理学与病理生理学	2016	ying yu	tianjin medical university
+薛晨阳	精密仪器及机械	2016	chenyang xue	north university of china
+杨松	经济法学	2016	song yang	liaoning university
+吴安华	外科学（神外）	2016	anhua wu	china medical university
+李悦	内科学（心血管病）	2016	yue li	harbin medical university
+井立强	环境科学	2016	liqiang jing	heilongjiang university
+周成林	运动人体科学	2016	chenglin zhou	上海体育学院
+叶国辉	作曲与作曲技术理论	2016	guohui ye	上海音乐学院
+杨春雷	西方经济学	2016	chunlei yang	南京审计大学
+王永贵	马克思主义基本原理	2016	yonggui wang	nanjing normal university
+陈海山	气象学	2016	haishan chen	南京信息工程大学
+魏太云	植物病理学	2016	taiyun wei	fujian agriculture and forestry university
+王心晨	物理化学	2016	xinchen wang	fuzhou university
+徐长节	岩土工程	2016	zhangjie xu	east china jiaotong university
+曾祥君	电力系统及其自动化	2016	xiangjun ceng	changsha university of science and technology
+鲁仁全	控制理论与控制工程	2016	renquan lu	guangdong university of technology
+陈金龙	马克思主义中国化研究	2016	jinlong chen	south china normal university
+李胜	动物学	2016	sheng li	south china normal university
+卢晓中	高等教育学	2016	xiaozhong lu	south china normal university
+陈峰	中国古代史	2016	feng chen	northwest university
+张志飞	古生物学与地层学	2016	zhifei zhang	northwest university
+杜小泽	热能工程	2016	xiaoze du	lanzhou university of technology
+钟德钰	水力学及河流动力学	2016	deyu zhong	qinghai university
+陈银广	环境工程	2016	yinguang chen	xinjiang university
+赵玲	化学工程	2016	ling zhao	xinjiang university
+白宝君	油气田开发工程	2016	baojun bai	中国石油大学（北京）克拉玛依校区
+潘宁·谢尔盖·维克托维奇	凝聚态物理	2016	pan ning · xie er gai · wei ke tuo wei qi	jilin university
+王钻开	机械制造及其自动化	2016	zuankai wang	jilin university
+张绳百	微电子学与固体电子学	2016	shengbai zhang	jilin university
+徐杰	语言学及应用语言学	2016	jie xu	wuhan university
+杨海滨	企业管理学	2016	haibin yang	wuhan university
+Jean-PhilippePIN	生物物理学	2016	Jean-PhilippePIN	huazhong university of science and technology
+MuhammadSuhailZubairy	光学	2016	MuhammadSuhailZubairy	huazhong university of science and technology
+张树君	材料物理与化学	2016	shujun zhang	wuhan university of technology
+康文林	中国近现代史	2016	wenlin kang	central china normal university
+谢魁	教育技术学	2016	kui xie	central china normal university
+YangYinong	植物病理学	2016	YangYinong	huazhong agricultural university
+ANTONIOJOSEPLAZAMIGUEL	模式识别与智能系统	2016	ANTONIOJOSEPLAZAMIGUEL	hunan university
+潘智生	结构工程	2016	zhisheng pan	hunan university
+陈智勇	控制理论与控制工程	2016	zhiyong chen	central south university
+岳振宇	老年医学	2016	zhenyu yue	central south university
+毛诚德	分析化学	2016	chengde mao	southwest university
+THEODOORLOUISD'HAEN	比较文学与世界文学	2016	THEODOORLOUISD'HAEN	sichuan university
+ZHANGLiMin	岩土工程	2016	ZHANGLiMin	sichuan university
+杨再福	西方经济学	2016	zaifu yang	southwestern university of finance and economics
+张田余	会计学	2016	tianyu zhang	southwestern university of finance and economics
+胡仁华	管理科学与工程	2016	renhua hu	southwest jiaotong university
+KUOHAOCHUNG	光通信	2016	KUOHAOCHUNG	电子科技大学
+BenjaminAAlman	外科学（骨外）	2016	BenjaminAAlman	xi'an jiaotong university
+郭申阳	社会学	2016	shenyang guo	xi'an jiaotong university
+科林·艾伦	科学技术哲学	2016	ke lin · ai lun	xi'an jiaotong university
+黎晓	企业管理学	2016	xiao li	xi'an jiaotong university
+王飞	电力电子与电力传动	2016	fei wang	xi'an jiaotong university
+刘春宇	发展与教育心理学	2016	chunyu liu	shaanxi normal university
+田奇	信号与信息处理	2016	qi tian	xidian university
+项阳	网络空间安全	2016	yang xiang	xidian university
+Y.RichardKim	道路与铁道工程	2016	Y.RichardKim	chang'an university
+王增裕	牧草遗传育种	2016	zengyu wang	lanzhou university
+HansÅgren	物理化学	2016	HansÅgren	harbin engineering university
+WEIQIUMING	固体力学	2016	WEIQIUMING	northwestern polytechnical university
+梁华	概率论与数理统计	2016	hua liang	northwestern polytechnical university
+刘天明	模式识别与智能系统	2016	tianming liu	northwestern polytechnical university
+夏振海	材料学	2016	zhenhai xia	northwestern polytechnical university
+熊辉	计算机软件与理论	2016	hui xiong	northwestern polytechnical university
+亚历山大·塞尔沃多夫	航空宇航推进理论与工程	2016	ya li shan da · sai er wo duo fu	northwestern polytechnical university
+孟强	运输管理优化理论与应用	2016	qiang meng	dalian maritime university
+麻小南	基础数学	2016	xiaonan ma	university of science and technology of china
+张捷	空间物理学	2016	jie zhang	university of science and technology of china
+林慧观	病理学与病理生理学	2016	huiguan lin	third military medical university
+DavidBruceWeaver	旅游管理学	2016	DavidBruceWeaver	东北财经大学
+余俊	数量经济学	2016	jun yu	东北财经大学
+ZOUMINGHUI	药理学	2016	ZOUMINGHUI	harbin medical university
+蒋继明	数理统计学	2016	jiming jiang	jiangxi university of finance and economics
+彭亮	数量经济学	2016	liang peng	jiangxi university of finance and economics
+YUANXIANGTAO	麻醉学	2016	YUANXIANGTAO	zhengzhou university
+JerryLWorkman	生物化学与分子生物学	2016	JerryLWorkman	hubei university
+赵国春	构造地质学	2016	guochun zhao	northwest university
+安金鹏	基础数学	2016	jinpeng an	﻿peking university
+董秀芳	语言学及应用语言学	2016	xiufang dong	﻿peking university
+葛颢	应用数学	2016	hao ge	﻿peking university
+郝丹	软件测试	2016	dan hao	﻿peking university
+何琼毅	光学	2016	qiongyi he	﻿peking university
+江颖	凝聚态物理	2016	ying jiang	﻿peking university
+蒋大兴	经济法学	2016	daxing jiang	﻿peking university
+廖志敏	材料物理与化学	2016	zhimin liao	﻿peking university
+路江涌	企业管理学	2016	jiangyong lu	﻿peking university
+罗欢	基础心理学	2016	huan luo	﻿peking university
+裴永茂	固体力学	2016	yongmao pei	﻿peking university
+杨汝岱	国民经济学	2016	rudai yang	﻿peking university
+邹如强	材料学	2016	ruqiang zou	﻿peking university
+陈巍	通信与信息系统	2016	wei chen	tsinghua university
+冯鹏	桥梁与隧道工程	2016	peng feng	tsinghua university
+黄伟希	流体力学	2016	weixi huang	tsinghua university
+季帅华	凝聚态物理	2016	shuaihua ji	tsinghua university
+蒋靖坤	环境科学	2016	jingkun jiang	tsinghua university
+劳东燕	刑法学	2016	dongyan lao	tsinghua university
+李国良	计算机软件与理论	2016	guoliang li	tsinghua university
+李升波	车辆工程	2016	shengbo li	tsinghua university
+刘晓华	供热、供燃气、通风及空调工程	2016	xiaohua liu	tsinghua university
+陆超	电力系统及其自动化	2016	chao lu	tsinghua university
+庞珣	国际关系学	2016	xun pang	tsinghua university
+饶燏	药物化学	2016	yu rao	tsinghua university
+宋成	材料学	2016	cheng song	tsinghua university
+王浩	金融学	2016	hao wang	tsinghua university
+温宗国	技术经济及管理学	2016	zongguo wen	tsinghua university
+徐建鸿	化学工程	2016	jianhong xu	tsinghua university
+薛健	会计学	2016	jian xue	tsinghua university
+殷柳国	军事通信学	2016	liuguo yin	tsinghua university
+赵亮	有机化学	2016	liang zhao	tsinghua university
+朱听	生物化学与分子生物学	2016	ting zhu	tsinghua university
+贾俊雪	财政学	2016	junxue jia	renmin university of china
+聂辉华	西方经济学	2016	huihua nie	renmin university of china
+许年行	企业管理学	2016	nianxing xu	renmin university of china
+叶光亮	产业经济学	2016	guangliang ye	renmin university of china
+叶康涛	会计学	2016	kangtao ye	renmin university of china
+葛建全	基础数学	2016	jianquan ge	beijing normal university
+易雨君	水力学及河流动力学	2016	yujun yi	beijing normal university
+白军飞	农业经济管理学	2016	junfei bai	china agricultural university
+霍再林	农业水土工程	2016	zailin huo	china agricultural university
+孙怡朋	预防兽医学	2016	yipeng sun	china agricultural university
+王毅	植物学	2016	yi wang	china agricultural university
+马会娟	翻译学	2016	huijuan ma	北京外国语大学
+尹升华	采矿工程	2016	shenghua yin	university of science and technology beijing
+柯燎亮	固体力学	2016	liaoliang ke	beijing jiaotong university
+杨立兴	管理科学	2016	lixing yang	beijing jiaotong university
+高飞	网络空间安全	2016	fei gao	beijing university of posts and telecommunications
+许长桥	通信与信息系统	2016	zhangqiao xu	beijing university of posts and telecommunications
+蒋小伟	地下水科学与工程	2016	xiaowei jiang	中国地质大学（北京）
+栗峥	诉讼法学	2016	zheng li	中国政法大学
+包群	国际贸易学	2016	qun bao	nankai university
+田利辉	金融学	2016	lihui tian	nankai university
+王芳	情报学	2016	fang wang	nankai university
+朱守非	有机化学	2016	shoufei zhu	nankai university
+范晓彬	化学工程	2016	xiaobin fan	tianjin university
+韩家广	光学工程	2016	jiaguang han	tianjin university
+邹吉军	化学工艺	2016	jijun zou	tianjin university
+王峰	工业催化	2016	feng wang	dalian university of technology
+赵珺	控制理论与控制工程	2016	jun zhao	dalian university of technology
+邹丽	船舶与海洋结构物设计制造	2016	li zou	dalian university of technology
+何志鹏	国际法学	2016	zhipeng he	jilin university
+郎兴友	材料物理与化学	2016	xingyou lang	jilin university
+王庆丰	马克思主义哲学	2016	qingfeng wang	jilin university
+张全超	中国考古学	2016	quanchao zhang	jilin university
+张然	计算数学	2016	ran zhang	jilin university
+毕锡和	有机化学	2016	xihe bi	northeast normal university
+刘善槐	农村教育	2016	shanhuai liu	northeast normal university
+王占仁	思想政治教育	2016	zhanren wang	northeast normal university
+于海鹏	木材科学与技术	2016	haipeng yu	northeast forestry university
+陆帅	计算数学	2016	shuai lu	fudan university
+王磊	遗传学	2016	lei wang	fudan university
+王应祥	植物学	2016	yingxiang wang	fudan university
+吴力波	人口、资源与环境经济学	2016	libo wu	fudan university
+吴施伟	凝聚态物理	2016	shiwei wu	fudan university
+徐英瑾	科学技术哲学	2016	yingjin xu	fudan university
+张凡	分析化学	2016	fan zhang	fudan university
+张英梅	内科学（心血管病）	2016	yingmei zhang	fudan university
+曹亚南	肿瘤学	2016	yanan cao	shanghai jiao tong university
+井润田	技术经济及管理学	2016	runtian jing	shanghai jiao tong university
+彭林法	机械制造及其自动化	2016	linfa peng	shanghai jiao tong university
+涂圣贤	生物影像医学	2016	shengxian tu	shanghai jiao tong university
+谢春景	基础数学	2016	chunjing xie	shanghai jiao tong university
+郁昱	密码学	2016	yu yu	shanghai jiao tong university
+朱浩瑾	计算机应用技术	2016	haojin zhu	shanghai jiao tong university
+邹建新	材料学	2016	jianxin zou	shanghai jiao tong university
+贾鑫明	免疫学	2016	xinming jia	tongji university
+李翔宁	设计学	2016	xiangning li	tongji university
+王亚宜	市政工程	2016	yayi wang	tongji university
+白志山	化工过程机械	2016	zhishan bai	east china university of science and technology
+陈赟	中国哲学	2016	yun chen	east china normal university
+高栓虎	有机化学	2016	shuanhu gao	east china normal university
+李大力	发育生物学	2016	dali li	east china normal university
+罗剑	生物化学与分子生物学	2016	jian luo	east china normal university
+汪晓赞	体育人文社会学	2016	xiaozan wang	east china normal university
+范子英	财政学	2016	ziying fan	shanghai university of finance and economics
+程亮	摄影测量与遥感	2016	liang cheng	nanjing university
+刘斌	微电子学与固体电子学	2016	bin liu	nanjing university
+唐朝生	地质工程	2016	chaosheng tang	nanjing university
+吴愈晓	社会学	2016	yuxiao wu	nanjing university
+杨欢	凝聚态物理	2016	huan yang	nanjing university
+张炳	人口、资源与环境经济学	2016	bing zhang	nanjing university
+张效伟	环境科学	2016	xiaowei zhang	nanjing university
+程强	无线电物理	2016	qiang cheng	southeast university
+蒋卫祥	电磁场与微波技术	2016	weixiang jiang	southeast university
+刘攀	交通运输规划与管理	2016	pan liu	southeast university
+王浩	桥梁与隧道工程	2016	hao wang	southeast university
+虞文武	控制理论与控制工程	2016	wenwu yu	southeast university
+刘龙	发酵工程	2016	long liu	jiangnan university
+石晓平	土地资源管理学	2016	xiaoping shi	nanjing agricultural university
+吴巨友	果树学	2016	juyou wu	nanjing agricultural university
+洪日昌	计算机应用技术	2016	richang hong	hefei university of technology
+汪萌	信号与信息处理	2016	meng wang	hefei university of technology
+冯国栋	中国古典文献学	2016	guodong feng	zhejiang university
+高在峰	基础心理学	2016	zaifeng gao	zhejiang university
+郝田虎	英语语言文学	2016	tianhu hao	zhejiang university
+胡铭	诉讼法学	2016	ming hu	zhejiang university
+胡新央	内科学（心血管病）	2016	xinyang hu	zhejiang university
+罗坤	工程热物理	2016	kun luo	zhejiang university
+佟超	细胞生物学	2016	chao tong	zhejiang university
+汪浩	神经生物学	2016	hao wang	zhejiang university
+邢华斌	化学工程	2016	huabin xing	zhejiang university
+杨建立	植物营养学	2016	jianli yang	zhejiang university
+周江洪	民商法学	2016	jianghong zhou	zhejiang university
+朱斌	岩土工程	2016	bin zhu	zhejiang university
+朱永群	病原生物学	2016	yongqun zhu	zhejiang university
+邹俊	机械电子工程	2016	jun zou	zhejiang university
+蔡从燕	国际法学	2016	congyan cai	xiamen university
+孔祥建	无机化学	2016	xiangjian kong	xiamen university
+郑挺国	数量经济学	2016	tingguo zheng	xiamen university
+秦莹莹	妇产科学	2016	yingying qin	shandong university
+杨明	肿瘤学	2016	ming yang	shandong university
+刘福顺	港口、海岸及近海工程	2016	fushun liu	ocean university of china
+王志远	油气井工程	2016	zhiyuan wang	中国石油大学（华东）
+付磊	材料物理与化学	2016	lei fu	wuhan university
+秦天宝	环境与资源保护法学	2016	tianbao qin	wuhan university
+孙永强	情报学	2016	yongqiang sun	wuhan university
+汪涛	企业管理学	2016	tao wang	wuhan university
+王连荣	微生物与生化药学	2016	lianrong wang	wuhan university
+魏斌	中国古代史	2016	bin wei	wuhan university
+黄永安	机械电子工程	2016	yongan huang	huazhong university of science and technology
+尚游	麻醉学	2016	you shang	huazhong university of science and technology
+王健	物理电子学	2016	jian wang	huazhong university of science and technology
+张海涛	控制理论与控制工程	2016	haitao zhang	huazhong university of science and technology
+赵海波	热能工程	2016	haibo zhao	huazhong university of science and technology
+宁伏龙	地质工程	2016	fulong ning	中国地质大学（武汉）
+李遇春	中国现当代文学	2016	yuchun li	central china normal university
+蔡鹏	土壤学	2016	peng cai	huazhong agricultural university
+彭贵青	预防兽医学	2016	guiqing peng	huazhong agricultural university
+殷平	生物化学与分子生物学	2016	ping yin	huazhong agricultural university
+陈柏峰	法学理论	2016	baifeng chen	zhongnan university of economics and law
+姜潮	机械设计与理论	2016	chao jiang	hunan university
+张跃军	管理科学与工程	2016	yuejun zhang	hunan university
+储诚进	生态学	2016	chengjin chu	sun yat-sen university
+董建文	光学	2016	jianwen dong	sun yat-sen university
+何诗海	中国古代文学	2016	shihai he	sun yat-sen university
+邝栋明	免疫学	2016	dongming kuang	sun yat-sen university
+李高仁	物理化学	2016	gaoren li	sun yat-sen university
+熊卫	逻辑学	2016	wei xiong	sun yat-sen university
+袁文平	气候变化与环境生态学	2016	wenping yuan	sun yat-sen university
+张鹏	人类学	2016	peng zhang	sun yat-sen university
+李国强	材料学	2016	guoqiang li	south china university of technology
+陈蓉	工程热物理	2016	rong chen	chongqing university
+吕学伟	钢铁冶金	2016	xuewei lv	chongqing university
+辛清泉	会计学	2016	qingquan xin	chongqing university
+李永东	中国现当代文学	2016	yongdong li	southwest university
+邓东	生物化学与分子生物学	2016	dong deng	sichuan university
+方正	企业管理学	2016	zheng fang	sichuan university
+刘淑君	运筹学与控制论	2016	shujun liu	sichuan university
+程钰间	电磁场与微波技术	2016	yujian cheng	电子科技大学
+雷亚国	机械设计与理论	2016	yaguo lei	xi'an jiaotong university
+王金华	动力机械及工程	2016	jinhua wang	xi'an jiaotong university
+王晓杰	植物病理学	2016	xiaojie wang	西北农林科技大学
+赵敏娟	农业经济管理学	2016	minjuan zhao	西北农林科技大学
+董伟生	电路与系统	2016	weisheng dong	xidian university
+董广辉	自然地理学	2016	guanghui dong	lanzhou university
+程群峰	高分子化学与物理	2016	qunfeng cheng	beihang university
+胡庆雷	导航、制导与控制	2016	qinglei hu	beihang university
+刘克松	纳米材料与技术	2016	kesong liu	beihang university
+吴俊杰	管理科学与工程	2016	junjie wu	beihang university
+吴晓樵	德语语言文学	2016	xiaoqiao wu	beihang university
+乔栋	飞行器设计	2016	dong qiao	beijing institute of technology
+孙健	控制理论与控制工程	2016	jian sun	beijing institute of technology
+邱剑彬	系统工程	2016	jianbin qiu	harbin engineering university
+帅永	工程热物理	2016	yong shuai	harbin engineering university
+顾冬冬	航空宇航制造工程	2016	dongdong gu	nanjing university of aeronautics and astronautics
+徐正扬	机械制造及其自动化	2016	zhengyang xu	nanjing university of aeronautics and astronautics
+曾海波	材料学	2016	haibo ceng	nanjing university of science and technology
+陈厚早	病理学与病理生理学	2016	houzao chen	peking union medical college
+闫月珍	文艺学	2016	yuezhen yan	jinan university
+李文卫	环境工程	2016	wenwei li	university of science and technology of china
+刘岗	材料学	2016	gang liu	university of science and technology of china
+孙永福	纳米化学	2016	yongfu sun	university of science and technology of china
+谷林	凝聚态物理	2016	lin gu	chinese academy of sciences
+邵涛	高电压与绝缘技术	2016	tao shao	chinese academy of sciences
+陈磊	病理学与病理生理学	2016	lei chen	second military medical university
+任善成	外科学（泌尿外）	2016	shancheng ren	second military medical university
+张磊	生药学	2016	lei zhang	second military medical university
+潘阳林	内科学（消化系病）	2016	yanglin pan	fourth military medical university
+何卫锋	航空宇航制造工程	2016	weifeng he	空军工程大学
+路德春	岩土工程	2016	dechun lu	beijing university of technology
+高伟	中药学	2016	wei gao	capital medical university
+艾玎	病理学与病理生理学	2016	ding ai	tianjin medical university
+王艳	生物化学与分子生物学	2016	yan wang	tianjin medical university
+罗文波	基础心理学	2016	wenbo luo	liaoning normal university
+田进伟	内科学（心血管病）	2016	jinwei tian	harbin medical university
+许辉	材料学	2016	hui xu	heilongjiang university
+王迁	民商法学	2016	qian wang	华东政法大学
+张勇安	区域与国别史	2016	yongan zhang	shanghai university
+镇璐	物流系统工程	2016	lu zhen	shanghai university
+朱亦鸣	太赫兹检测技术	2016	yiming zhu	university of shanghai for science and technology
+兰亚乾	无机化学	2016	yaqian lan	nanjing normal university
+顾爱华	卫生毒理学	2016	aihua gu	nanjing medical university
+赖文勇	微电子学与固体电子学	2016	wenyong lai	nanjing university of posts and telecommunications
+陈罡	外科学（神外）	2016	gang chen	soochow university
+陈华兵	药剂学	2016	huabing chen	soochow university
+何苏丹	细胞生物学	2016	sudan he	soochow university
+陈军	文艺学	2016	jun chen	yangzhou university
+张文安	控制理论与控制工程	2016	wenan zhang	zhejiang university of technology
+李圣华	中国古典文献学	2016	shenghua li	zhejiang normal university
+郑贤章	汉语言文字学	2016	xianzhang zheng	hunan normal university
+胡飞	工业设计	2016	fei hu	guangdong university of technology
+刘兴国	细胞生物学	2016	xingguo liu	guangzhou medical university
+陈骐	基础心理学	2016	qi chen	south china normal university
+侯胜平	眼科学	2016	shengping hou	chongqing medical university
+李明洲	动物遗传育种与繁殖	2016	mingzhou li	sichuan agricultural university
+韩志斌	世界史	2016	zhibin han	northwest university
+龙晓平	矿物学、岩石学、矿床学	2016	xiaoping long	northwest university
+陈鹏	有机化学	2017	peng chen	﻿peking university
+高宁	生物化学与分子生物学	2017	ning gao	﻿peking university
+邱泽奇	社会学	2017	zeqi qiu	﻿peking university
+吴小红	专门考古	2017	xiaohong wu	﻿peking university
+章志飞	基础数学	2017	zhifei zhang	﻿peking university
+周永胜	口腔临床医学	2017	yongsheng zhou	﻿peking university
+范英	管理科学与工程	2017	ying fan	beihang university
+魏新国	精密仪器及机械	2017	xinguo wei	beihang university
+严亮	机械电子工程	2017	liang yan	beihang university
+田明	材料加工工程	2017	ming tian	beijing university of chemical technology
+王兆华	技术经济及管理学	2017	zhaohua wang	beijing institute of technology
+过常宝	中国古代文学	2017	changbao guo	beijing normal university
+王开存	大气物理学与大气环境	2017	kaicun wang	beijing normal university
+王向远	比较文学与世界文学	2017	xiangyuan wang	beijing normal university
+许琪	病理学与病理生理学	2017	qi xu	peking union medical college
+胡少伟	结构工程	2017	shaowei hu	chongqing university
+蒋斌	有色金属冶金	2017	bin jiang	chongqing university
+王永青	机械制造及其自动化	2017	yongqing wang	dalian university of technology
+张弛	水文学及水资源	2017	chi zhang	dalian university of technology
+赵纪军	凝聚态物理	2017	jijun zhao	dalian university of technology
+夏云龙	内科学（心血管病）	2017	yunlong xia	dalian medical university
+王延江	神经病学	2017	yanjiang wang	陆军军医大学（第三军医大学）
+张曦	内科学（血液病）	2017	xi zhang	陆军军医大学（第三军医大学）
+董海龙	麻醉学	2017	hailong dong	空军军医大学（第四军医大学）
+陈旭	企业管理学	2017	xu chen	电子科技大学
+朱策	信息获取与探测	2017	ce zhu	电子科技大学
+谢延军	木材科学与技术	2017	yanjun xie	northeast forestry university
+梁茂信	地区国别史·美国史	2017	maoxin liang	northeast normal university
+于伟	教育学原理	2017	wei yu	northeast normal university
+张前	有机化学	2017	qian zhang	northeast normal university
+徐赵东	结构工程	2017	zhaodong xu	southeast university
+陶丰	物理化学	2017	feng tao	fuzhou university
+陈引驰	中国古代文学	2017	yinchi chen	fudan university
+邓安庆	伦理学	2017	anqing deng	fudan university
+敬乂嘉	行政管理学	2017	yijia jing	fudan university
+赵晨	眼科学	2017	chen zhao	fudan university
+赵俊	凝聚态物理	2017	jun zhao	fudan university
+安太成	环境科学	2017	taicheng an	guangdong university of technology
+易闻晓	中国古代文学	2017	wenxiao yi	贵州师范大学
+孙大军	水声工程	2017	dajun sun	哈尔滨工程大学
+刘钢	材料加工工程	2017	gang liu	harbin engineering university
+刘丽	化学工程	2017	li liu	harbin engineering university
+吴立刚	控制理论与控制工程	2017	ligang wu	harbin engineering university
+吴群红	社会医学与卫生事业管理学	2017	qunhong wu	harbin medical university
+王东	电力系统及其自动化	2017	dong wang	naval university of engineering
+刘心报	管理科学与工程	2017	xinbao liu	hefei university of technology
+李肯立	计算机软件与理论	2017	kenli li	hunan university
+李剑	药物化学	2017	jian li	east china university of science and technology
+范国睿	教育学原理	2017	guorui fan	east china normal university
+文军	社会学	2017	jun wen	east china normal university
+林璋	环境科学	2017	zhang lin	south china university of technology
+王海辉	化学工程	2017	haihui wang	south china university of technology
+王穗苹	发展与教育心理学	2017	suiping wang	south china normal university
+阳成伟	植物学	2017	chengwei yang	south china normal university
+程翔	内科学（心血管病）	2017	xiang cheng	huazhong university of science and technology
+汪辉	妇产科学	2017	hui wang	huazhong university of science and technology
+王琳	人体解剖与组织胚胎学	2017	lin wang	huazhong university of science and technology
+张新亮	光学与光电子学	2017	xinliang zhang	huazhong university of science and technology
+张铁锐	材料物理与化学	2017	tierui zhang	central china normal university
+房绍坤	民商法学(含劳动法学、社会保障法学)	2017	shaokun fang	jilin university
+孙晓颖	通信与信息系统	2017	xiaoying sun	jilin university
+王慧远	材料加工工程	2017	huiyuan wang	jilin university
+孙文献	植物病理学	2017	wenxian sun	吉林农业大学
+丁克	药物化学	2017	ke ding	jinan university
+刘立明	生物化工	2017	liming liu	jiangnan university
+刘元法	食品科学	2017	yuanfa liu	jiangnan university
+由天艳	农业电气化与自动化	2017	tianyan you	jiangsu university
+吴顺川	采矿工程	2017	shunchuan wu	kunming university of science and technology
+侯岁稳	植物学	2017	suiwen hou	lanzhou university
+王记增	工程力学	2017	jizeng wang	lanzhou university
+张清明	凝聚态物理	2017	qingming zhang	lanzhou university
+刘剑文	经济法学	2017	jianwen liu	liaoning university
+刘青松	海洋地质	2017	qingsong liu	south university of science and technology of china
+张凤阳	政治学理论	2017	fengyang zhang	nanjing university
+朱庆华	情报学	2017	qinghua zhu	nanjing university
+李迎光	航空宇航制造工程	2017	yingguang li	nanjing university of aeronautics and astronautics
+李强	工程热物理	2017	qiang li	nanjing university of science and technology
+张正光	植物病理学	2017	zhengguang zhang	nanjing agricultural university
+戴志晖	分析化学	2017	zhihui dai	nanjing normal university
+冯建军	教育学原理	2017	jianjun feng	nanjing normal university
+方勇纯	控制理论与控制工程	2017	yongchun fang	nankai university
+梁琪	金融学	2017	qi liang	nankai university
+于广锁	化学工艺	2017	guangsuo yu	宁夏大学
+刘会娟	环境工程	2017	huijuan liu	tsinghua university
+柳强	激光技术	2017	qiang liu	tsinghua university
+陆毅	国际贸易学	2017	yi lu	tsinghua university
+潘鹏	结构工程	2017	peng pan	tsinghua university
+王建强	车辆工程	2017	jianqiang wang	tsinghua university
+张强	大气物理学与大气环境	2017	qiang zhang	tsinghua university
+周树云	凝聚态物理	2017	shuyun zhou	tsinghua university
+程相占	文艺学	2017	xiangzhan cheng	shandong university
+方辉	考古学	2017	hui fang	shandong university
+高成江	免疫学	2017	chengjiang gao	shandong university
+李娟	概率论与数理统计	2017	juan li	shandong university
+刘森林	马克思主义哲学	2017	senlin liu	shandong university
+周亚虹	数量经济学	2017	yahong zhou	shanghai university of finance and economics
+钟云波	钢铁冶金	2017	yunbo zhong	shanghai university
+段胜仲	病理学与病理生理学	2017	shengzhong duan	shanghai jiao tong university
+耿涌	人口、资源与环境经济学	2017	yong geng	shanghai jiao tong university
+管海兵	计算机系统结构	2017	haibing guan	shanghai jiao tong university
+贾立军	中西医结合基础医学	2017	lijun jia	上海中医药大学
+金惠敏	文艺学	2017	huimin jin	sichuan university
+张弘（普慧）	中国古代文学	2017	zhang hong （ pu hui ）	sichuan university
+刘庄	材料学	2017	zhuang liu	soochow university
+王卫平	专门史	2017	weiping wang	soochow university
+何桢	质量管理	2017	zhen he	tianjin university
+贾宏杰	电力系统及其自动化	2017	hongjie jia	tianjin university
+白学军	发展与教育心理学	2017	xuejun bai	tianjin normal university
+黄雨	地质工程	2017	yu huang	tongji university
+冯果	经济法学	2017	guo feng	wuhan university
+张永军	摄影测量与遥感	2017	yongjun zhang	wuhan university
+王怡	供热、供燃气、通风及空调工程	2017	yi wang	xi'an university of architecture and technology
+杨旭	电力电子与电力传动	2017	xu yang	xi'an jiaotong university
+詹梅	机械制造及其自动化	2017	mei zhan	northwestern polytechnical university
+李秋实	流体机械及工程	2017	qiushi li	西华大学
+王擎	金融学（含保险学）	2017	qing wang	southwestern university of finance and economics
+何宗美	中国古代文学	2017	zongmei he	southwest university
+何正友	电力系统及其自动化	2017	zhengyou he	southwest jiaotong university
+李永乐	防灾减灾工程及防护工程	2017	yongle li	southwest jiaotong university
+周大旺	细胞生物学	2017	dawang zhou	xiamen university
+华长春	控制理论与控制工程	2017	changchun hua	yanshan university
+陈昆亭	世界经济	2017	kunting chen	云南财经大学
+李永友	财政学（含税收学）	2017	yongyou li	浙江财经大学
+陈刚	计算机软件与理论	2017	gang chen	zhejiang university
+黄飞鹤	有机化学	2017	feihe huang	zhejiang university
+刘同舫	马克思主义基本原理	2017	tongfang liu	zhejiang university
+王靖岱	化学工程	2017	jingdai wang	zhejiang university
+高玉	中国现当代文学	2017	yu gao	zhejiang normal university
+隋岩	传播学	2017	yan sui	中国传媒大学
+黄伟新	物理化学	2017	weixin huang	university of science and technology of china
+李厚强	信号与信息处理	2017	houqiang li	university of science and technology of china
+吕金虎	电路与系统	2017	jinhu lv	chinese academy of sciences
+田野	基础数学	2017	ye tian	chinese academy of sciences
+王立平	病理学与病理生理学	2017	liping wang	chinese academy of sciences
+王艳丽	生物化学与分子生物学	2017	yanli wang	chinese academy of sciences
+朱冰	细胞生物学	2017	bing zhu	chinese academy of sciences
+胡振琪	土地资源管理学	2017	zhenqi hu	china university of mining and technology
+杜太生	农业水土工程	2017	taisheng du	china agricultural university
+孛尔只斤乌云毕力格	专门史	2017	bei er zhi jin wu yun bi li ge	renmin university of china
+曹峰	中国哲学	2017	feng cao	renmin university of china
+高圣平	民商法学(含劳动法学、社会保障法学)	2017	shengping gao	renmin university of china
+杨保军	新闻学	2017	baojun yang	renmin university of china
+杨凤城	中共党史(含党的学说与党的建设)	2017	fengcheng yang	renmin university of china
+张文喜	马克思主义哲学	2017	wenxi zhang	renmin university of china
+蒋丽忠	结构工程	2017	lizhong jiang	central south university
+孙伟	矿物加工工程	2017	wei sun	central south university
+刘会赟	微电子学与固体电子学	2017	huiyun liu	sun yat-sen university
+肖滨	中外政治制度	2017	bin xiao	sun yat-sen university
+XiaozhiHu	机械设计与理论	2017	XiaozhiHu	chang'an university
+BrianUy	结构工程	2017	BrianUy	chongqing university
+赵彦利	生物医学工程	2017	yanli zhao	chongqing university
+SusannahL.Scott	化学工艺	2017	SusannahL.Scott	dalian university of technology
+陈建清	信息管理	2017	jianqing chen	dalian university of technology
+陈儒育	人体解剖与组织胚胎学	2017	ruyu chen	陆军军医大学（第三军医大学）
+郑智明	口腔临床医学	2017	zhiming zheng	空军军医大学（第四军医大学）
+CuiShuguang	通信与信息系统	2017	CuiShuguang	电子科技大学
+SubodhaKumar	信息与运营管理	2017	SubodhaKumar	东北财经大学
+朝镛	产业经济学	2017	yong chao	东北财经大学
+TANKAYCHEN	控制理论与控制工程	2017	TANKAYCHEN	tohoku university
+ZichengYu	自然地理学	2017	ZichengYu	northeast normal university
+欧阳彦峰	交通运输规划与管理	2017	yanfeng ouyang	harbin engineering university
+LIMIN	外科学（普外）	2017	LIMIN	harbin medical university
+陈新	管理科学与工程	2017	xin chen	hunan university
+段镶锋	物理化学	2017	xiangfeng duan	hunan university
+何海波	电力系统及其自动化	2017	haibo he	huazhong university of science and technology
+JunminWang	车辆工程	2017	JunminWang	jilin university
+史晓东	有机化学	2017	xiaodong shi	jilin university
+王旭东	凝聚态物理	2017	xudong wang	jilin university
+刘新胜	政治学理论	2017	xinsheng liu	inner mongolia university
+JohnStorey	文艺学	2017	JohnStorey	shaanxi normal university
+黄嘉兴	材料学	2017	jiaxing huang	wuhan university of technology
+HossamHaick	材料物理与化学	2017	HossamHaick	xidian university
+NeiKato	网络空间安全	2017	NeiKato	xidian university
+HenryCurran	动力机械及工程	2017	HenryCurran	xi'an jiaotong university
+IftekharHasan	金融学（含保险学）	2017	IftekharHasan	xi'an jiaotong university
+李成龙	药物化学	2017	chenglong li	xi'an jiaotong university
+齐航	固体力学	2017	hang qi	xi'an jiaotong university
+谢亚宏	微电子学与固体电子学	2017	yahong xie	xi'an jiaotong university
+郑海梅	材料学	2017	haimei zheng	xi'an jiaotong university
+蔡喜明	水文学及水资源	2017	ximing cai	xi'an polytechnic university
+张友民	控制理论与控制工程	2017	youmin zhang	xi'an polytechnic university
+LotharvonFalkenhausen	中国考古	2017	LotharvonFalkenhausen	northwest university
+张同伟	地球化学	2017	tongwei zhang	northwest university
+冯新亮	材料物理与化学	2017	xinliang feng	northwestern polytechnical university
+刘小钢	无机化学	2017	xiaogang liu	northwestern polytechnical university
+沈春华	计算机软件与理论	2017	chunhua shen	northwestern polytechnical university
+李长缨	农业电气化与自动化	2017	changying li	西北农林科技大学
+DoganGursoy	旅游管理学	2017	DoganGursoy	southwestern university of finance and economics
+JoseCarrillo	应用数学	2017	JoseCarrillo	southwestern university of finance and economics
+ThomasÅgotnes	逻辑学	2017	ThomasÅgotnes	southwest university
+蔡金法	数学教育	2017	jinfa cai	southwest university
+程玉峰	油气储运工程	2017	yufeng cheng	southwest petroleum university
+聂家旺	计算数学	2017	jiawang nie	xiangtan university
+张春明	概率论与数理统计	2017	chunming zhang	yunnan university
+张付强	管理科学与工程	2017	fuqiang zhang	university of science and technology of china
+RandallMorck	金融学（含保险学）	2017	RandallMorck	zhongnan university of economics and law
+李涛	计算机系统结构	2017	tao li	central south university
+晏日强	神经生物学	2017	riqiang yan	central south university
+YakovKuzyakov	森林生态学	2017	YakovKuzyakov	central south university forestry and technology
+刘琳	植物学	2017	lin liu	anhui university
+蔡一茂	微电子学与固体电子学	2017	yimao cai	﻿peking university
+陈建立	文化遗产	2017	jianli chen	﻿peking university
+姜长涛	病理学与病理生理学	2017	zhangtao jiang	﻿peking university
+金红芳	儿科学	2017	hongfang jin	﻿peking university
+李新征	凝聚态物理	2017	xinzheng li	﻿peking university
+李忠奎	力学系统与控制	2017	zhongkui li	﻿peking university
+刘譞哲	计算机软件与理论	2017	xuanzhe liu	﻿peking university
+陆克定	大气物理学与大气环境	2017	keding lu	﻿peking university
+宋洁	管理科学与工程	2017	jie song	﻿peking university
+万祎	环境科学	2017	yi wan	﻿peking university
+王昊	流体力学	2017	hao wang	﻿peking university
+王嵬	基础数学	2017	wei wang	﻿peking university
+魏坤琳	基础心理学	2017	kunlin wei	﻿peking university
+虞吉海	数量经济学	2017	jihai yu	﻿peking university
+詹卫东	汉语言文字学	2017	weidong zhan	﻿peking university
+范立峰	岩土工程	2017	lifeng fan	beijing university of technology
+陈玉丽	固体力学	2017	yuli chen	beihang university
+耿立升	粒子物理与原子核物理	2017	lisheng geng	beihang university
+刘文龙	空间物理学	2017	wenlong liu	beihang university
+田大新	交通信息工程及控制	2017	daxin tian	beihang university
+贺威	控制理论与控制工程	2017	wei he	university of science and technology beijing
+侯新梅	冶金物理化学	2017	xinmei hou	university of science and technology beijing
+覃京燕	艺术设计学	2017	jingyan tan	university of science and technology beijing
+黄玲玲	微小光学系统/衍射光学	2017	lingling huang	beijing institute of technology
+彭锋	林产化学加工工程	2017	feng peng	beijing forestry university
+何林	凝聚态物理	2017	lin he	beijing normal university
+罗良	课程与教学论	2017	liang luo	beijing normal university
+薛二勇	比较教育学	2017	eryong xue	beijing normal university
+余佳	生理学	2017	jia yu	peking union medical college
+陈建新	中西医结合基础医学	2017	jianxin chen	beijing university of chinese medicine
+李培月	地下水科学与工程	2017	peiyue li	chang'an university
+王磊	桥梁与隧道工程	2017	lei wang	changsha university of science and technology
+曾芳	针灸推拿学	2017	fang ceng	chengdu university of traditional chinese medicine
+丁选明	岩土工程	2017	xuanming ding	chongqing university
+邓德会	工业催化	2017	dehui deng	dalian university of technology
+刘巍	机械电子工程	2017	wei liu	dalian university of technology
+王贤文	情报学	2017	xianwen wang	dalian university of technology
+于畅	化学工艺	2017	chang yu	dalian university of technology
+赵佳飞	工程热物理	2017	jiafei zhao	dalian university of technology
+侯晋	免疫学	2017	jin hou	海军军医大学（第二军医大学）
+周建	外科学（普外）	2017	jian zhou	海军军医大学（第二军医大学）
+张建祥	药剂学	2017	jianxiang zhang	陆军军医大学（第三军医大学）
+牛丽娜	口腔临床医学	2017	lina niu	空军军医大学（第四军医大学）
+夏丽敏	肿瘤学	2017	limin xia	空军军医大学（第四军医大学）
+胡苏	通信与信息系统	2017	su hu	电子科技大学
+沈岩柏	矿物加工工程	2017	yanbai shen	tohoku university
+丁幼亮	防灾减灾工程及防护工程	2017	youliang ding	southeast university
+董帅	凝聚态物理	2017	shuai dong	southeast university
+花为	电机与电器	2017	wei hua	southeast university
+倪振华	物理电子学	2017	zhenhua ni	southeast university
+游雨蒙	无机化学	2017	yumeng you	southeast university
+陈德球	会计学	2017	deqiu chen	对外经济贸易大学
+黄薇	金融学（含保险学）	2017	wei huang	对外经济贸易大学
+黄欣沂	密码学	2017	xinyi huang	fujian normal university
+方军雄	会计学	2017	junxiong fang	fudan university
+方晓生	材料学	2017	xiaosheng fang	fudan university
+胡安宁	社会学	2017	anning hu	fudan university
+姜育刚	计算机应用技术	2017	yugang jiang	fudan university
+李建华	病原生物学	2017	jianhua li	fudan university
+李志远	国际贸易学	2017	zhiyuan li	fudan university
+王鹏	中西医结合临床医学	2017	peng wang	fudan university
+杨珉	移动系统安全	2017	min yang	fudan university
+叶丹	肿瘤学	2017	dan ye	fudan university
+张童	凝聚态物理	2017	tong zhang	fudan university
+郑耿锋	无机化学	2017	gengfeng zheng	fudan university
+朱春阳	新闻学	2017	chunyang zhu	fudan university
+李进	网络空间安全	2017	jin li	guangzhou university
+郝格非	农药学	2017	gefei hao	guizhou university
+罗亚中	一般力学与力学基础	2017	yazhong luo	国防科技大学
+吕欣	管理科学与工程	2017	xin lv	国防科技大学
+殷敬伟	水声工程	2017	jingwei yin	哈尔滨工程大学
+赵玉新	导航、制导与控制	2017	yuxin zhao	哈尔滨工程大学
+鲍跃全	防灾减灾工程及防护工程	2017	yuequan bao	harbin engineering university
+李隆球	机械设计与理论	2017	longqiu li	harbin engineering university
+隋解和	材料物理与化学	2017	jiehe sui	harbin engineering university
+宗影影	材料加工工程	2017	yingying zong	harbin engineering university
+颜成钢	信号与信息处理	2017	chenggang yan	hangzhou dianzi university
+俞俊	计算机应用技术	2017	jun yu	hangzhou dianzi university
+龙建成	交通运输管理	2017	jiancheng long	hefei university of technology
+张先飞	中国现当代文学	2017	xianfei zhang	henan university
+徐闯	临床兽医学	2017	chuang xu	黑龙江八一农垦大学
+陈卓	分析化学	2017	zhuo chen	hunan university
+于峰	植物学	2017	feng yu	hunan university
+郭志前	应用化学	2017	zhiqian guo	east china university of science and technology
+赵玉政	生物化学与分子生物学	2017	yuzheng zhao	east china university of science and technology
+何道敬	网络空间安全	2017	daojing he	east china normal university
+姜雪峰	有机化学	2017	xuefeng jiang	east china normal university
+金雯	比较文学与世界文学	2017	wen jin	east china normal university
+李韬	运筹学与控制论	2017	tao li	east china normal university
+王峰	文艺学	2017	feng wang	east china normal university
+何志才	材料物理与化学	2017	zhicai he	south china university of technology
+牛保庄	管理科学与工程	2017	baozhuang niu	south china university of technology
+任俊莉	生物质科学与工程	2017	junli ren	south china university of technology
+詹志辉	计算机应用技术	2017	zhihui zhan	south china university of technology
+段吉方	文艺学	2017	jifang duan	south china normal university
+谌科	外科学（泌尿外）	2017	ke chen	huazhong university of science and technology
+胡先罗	材料学	2017	xianluo hu	huazhong university of science and technology
+李文龙	机械电子工程	2017	wenlong li	huazhong university of science and technology
+王征	外科学（普外）	2017	zheng wang	huazhong university of science and technology
+薛宇	生物信息技术	2017	yu xue	huazhong university of science and technology
+谢卡斌	植物病理学	2017	kabin xie	huazhong agricultural university
+白刚	马克思主义哲学	2017	gang bai	jilin university
+蔡倩	药物化学	2017	qian cai	jinan university
+高昊	中药化学	2017	hao gao	jinan university
+鞠海龙	国际关系学	2017	hailong ju	jinan university
+李云飞	世界史	2017	yunfei li	jinan university
+刘涛	传播学	2017	tao liu	jinan university
+王艳	控制理论与控制工程	2017	yan wang	jiangnan university
+张凌浩	工业设计	2017	linghao zhang	jiangnan university
+周景文	发酵工程	2017	jingwen zhou	jiangnan university
+施伟东	应用化学	2017	weidong shi	jiangsu university
+向云	植物学	2017	yun xiang	lanzhou university
+刘心元	有机化学	2017	xinyuan liu	south university of science and technology of china
+张惠杰	内科学（内分泌与代谢病）	2017	huijie zhang	southern medical university
+赵小阳	发育生物学	2017	xiaoyang zhao	southern medical university
+曹剑	矿产普查与勘探	2017	jian cao	nanjing university
+江德臣	分析化学	2017	dechen jiang	nanjing university
+许开全	企业管理学	2017	kaiquan xu	nanjing university
+张亮	马克思主义哲学	2017	liang zhang	nanjing university
+郭宇锋	固体力学	2017	yufeng guo	nanjing university of aeronautics and astronautics
+丁大志	电磁场与微波技术	2017	dazhi ding	nanjing university of science and technology
+张先锋	火炮、自动武器与弹药工程	2017	xianfeng zhang	nanjing university of science and technology
+徐志刚	农村区域发展	2017	zhigang xu	nanjing agricultural university
+宣伟	植物营养学	2017	wei xuan	nanjing agricultural university
+刘博	通信与信息系统	2017	bo liu	南京信息工程大学
+肖甫	计算机系统结构	2017	fu xiao	nanjing university of posts and telecommunications
+赵强	有机电子学	2017	qiang zhao	nanjing university of posts and telecommunications
+李辉	旅游管理学	2017	hui li	nankai university
+孙浦阳	世界经济	2017	puyang sun	nankai university
+程啸	民商法学(含劳动法学、社会保障法学)	2017	xiao cheng	tsinghua university
+杜亚楠	组织工程	2017	yanan du	tsinghua university
+冯骅	天体物理	2017	hua feng	tsinghua university
+戈钧	生物化工	2017	jun ge	tsinghua university
+郭庆来	电力系统及其自动化	2017	qinglai guo	tsinghua university
+李丹	计算机系统结构	2017	dan li	tsinghua university
+李刚	信号与信息处理	2017	gang li	tsinghua university
+马弘	国际贸易学	2017	hong ma	tsinghua university
+马天宝	机械设计与理论	2017	tianbao ma	tsinghua university
+聂鑫	法律史	2017	xin nie	tsinghua university
+王轲	材料学	2017	ke wang	tsinghua university
+吴璟	区域经济学	2017	jing wu	tsinghua university
+胥蕊娜	工程热物理	2017	ruina xu	tsinghua university
+杨汉波	水文学及水资源	2017	hanbo yang	tsinghua university
+张靖	控制理论与控制工程	2017	jing zhang	tsinghua university
+张莹莹	材料物理与化学	2017	yingying zhang	tsinghua university
+胡钦晓	高等教育学	2017	qinxiao hu	qufu normal university
+李忠夏	宪法学与行政法学	2017	zhongxia li	shandong university
+翟奎凤	中国哲学	2017	kuifeng di	shandong university
+赵涵	妇产科学	2017	han zhao	shandong university
+李娜	分析化学	2017	na li	shandong normal university
+高山	科学技术哲学	2017	shan gao	shanxi university
+胡英泽	专门史	2017	yingze hu	shanxi university
+何贤杰	会计学	2017	xianjie he	shanghai university of finance and economics
+刘莉亚	金融学（含保险学）	2017	liya liu	shanghai university of finance and economics
+孙秀林	社会学	2017	xiulin sun	shanghai university
+陈长鑫	微电子学与固体电子学	2017	zhangxin chen	shanghai jiao tong university
+陈作松	体育人文社会学	2017	zuosong chen	shanghai jiao tong university
+谷国迎	机械电子工程	2017	guoying gu	shanghai jiao tong university
+胡丹	计算数学	2017	dan hu	shanghai jiao tong university
+黄兴溢	高电压与绝缘技术	2017	xingyi huang	shanghai jiao tong university
+王计秋	内科学（内分泌与代谢病）	2017	jiqiu wang	shanghai jiao tong university
+义理林	信号与信息处理	2017	lilin yi	shanghai jiao tong university
+袁宇	金融学（含保险学）	2017	yu yuan	shanghai jiao tong university
+张何朋	理论物理	2017	hepeng zhang	shanghai jiao tong university
+张健	药物化学	2017	jian zhang	shanghai jiao tong university
+张璐璐	岩土工程	2017	lulu zhang	shanghai jiao tong university
+左小磊	分析化学	2017	xiaolei zuo	shanghai jiao tong university
+王爱德	果树学	2017	aide wang	shenyang agricultural university
+杜力力	应用数学	2017	lili du	sichuan university
+郭帆	发育生物学	2017	fan guo	sichuan university
+吕红亮	考古学	2017	hongliang lv	sichuan university
+毛康珊	野生动植物保护与利用	2017	kangshan mao	sichuan university
+袁泉	口腔临床医学	2017	quan yuan	sichuan university
+周维东	中国现当代文学	2017	weidong zhou	sichuan university
+唐建新	微电子学与固体电子学	2017	jianxin tang	soochow university
+张秀娟	材料物理与化学	2017	xiujuan zhang	soochow university
+周芳芳	细胞生物学	2017	fangfang zhou	soochow university
+何春年	材料学	2017	chunnian he	tianjin university
+李炳志	生物化工	2017	bingzhi li	tianjin university
+师燕超	结构工程	2017	yanchao shi	tianjin university
+宋照亮	地球化学	2017	zhaoliang song	tianjin university
+王延辉	机械设计与理论	2017	yanhui wang	tianjin university
+张洁	地质工程	2017	jie zhang	tongji university
+张勇	遗传学	2017	yong zhang	tongji university
+周颖	防灾减灾工程及防护工程	2017	ying zhou	tongji university
+黄志雄	国际法学(含国际公法学、国际私法学、国际经济法学)	2017	zhixiong huang	wuhan university
+李青原	会计学	2017	qingyuan li	wuhan university
+楼益栋	大地测量学与测量工程	2017	yidong lou	wuhan university
+吕锡亮	计算数学	2017	xiliang lv	wuhan university
+吴丹	图书馆学	2017	dan wu	wuhan university
+熊伟	经济法学	2017	wei xiong	wuhan university
+乐鹏	地图制图学与地理信息工程	2017	peng le	wuhan university
+张洪艳	地球探测与信息技术	2017	hongyan zhang	wuhan university
+张向荣	电路与系统	2017	xiangrong zhang	xidian university
+贺健康	机械制造及其自动化	2017	jiankang he	xi'an jiaotong university
+沈少华	材料物理与化学	2017	shaohua shen	xi'an jiaotong university
+田文喜	核技术及应用	2017	wenxi tian	xi'an jiaotong university
+王小华	高电压与绝缘技术	2017	xiaohua wang	xi'an jiaotong university
+赵永席	分析化学	2017	yongxi zhao	xi'an jiaotong university
+SimonWilliams	构造地质学	2017	SimonWilliams	northwest university
+谷鹏飞	文艺学	2017	pengfei gu	northwest university
+梁海华	微生物学	2017	haihua liang	northwest university
+万敏	航空宇航制造工程	2017	min wan	northwestern polytechnical university
+陈帝伊	农业电气化与自动化	2017	diyi chen	西北农林科技大学
+常晋源	统计学	2017	jinyuan chang	southwestern university of finance and economics
+肖峰	交通管理	2017	feng xiao	southwestern university of finance and economics
+白显良	思想政治教育	2017	xianliang bai	southwest university
+邱江	发展与教育心理学	2017	jiang qiu	southwest university
+温涛	农业经济管理学	2017	tao wen	southwest university
+吴超鹏	企业管理学	2017	chaopeng wu	xiamen university
+叶龙武	有机化学	2017	longwu ye	xiamen university
+李哲涛	计算机系统结构	2017	zhetao li	xiangtan university
+杨丽	材料物理与化学	2017	li yang	xiangtan university
+李吉	皮肤病与性病学	2017	ji li	新疆医科大学
+尚轶	蔬菜学	2017	yi shang	yunnan normal university
+薄拯	工程热物理	2017	zheng bao	zhejiang university
+程鹏	控制理论与控制工程	2017	peng cheng	zhejiang university
+贺永	机械制造及其自动化	2017	yong he	zhejiang university
+吕朝锋	固体力学	2017	chaofeng lv	zhejiang university
+史炳锋	有机化学	2017	bingfeng shi	zhejiang university
+王迪	免疫学	2017	di wang	zhejiang university
+王俊	外国哲学	2017	jun wang	zhejiang university
+韦路	新闻学	2017	lu wei	zhejiang university
+杨景华	蔬菜学	2017	jinghua yang	zhejiang university
+杨翼	管理科学与工程	2017	yi yang	zhejiang university
+岳文泽	土地资源管理学	2017	wenze yue	zhejiang university
+张海涛	药理学	2017	haitao zhang	zhejiang university
+赵骏	国际法学(含国际公法学、国际私法学、国际经济法学)	2017	jun zhao	zhejiang university
+孙庆丰	木材科学与技术	2017	qingfeng sun	浙江农林大学
+袁松虎	水文地质学	2017	songhu yuan	中国地质大学（武汉）
+左仁广	矿产普查与勘探	2017	renguang zuo	中国地质大学（武汉）
+张文逸	电磁场与微波技术	2017	wenyi zhang	university of science and technology of china
+邓祥征	土地资源管理学	2017	xiangzheng deng	chinese academy of sciences
+刘翟	病原生物学	2017	di liu	chinese academy of sciences
+孙飞	生物物理学	2017	fei sun	chinese academy of sciences
+周雯	基础心理学	2017	wen zhou	chinese academy of sciences
+翟成	安全科学与工程	2017	cheng di	china university of mining and technology
+左建平	采矿工程	2017	jianping zuo	中国矿业大学（北京）
+李思恩	农业水土工程	2017	sien li	china agricultural university
+马曦	动物营养与饲料科学	2017	xi ma	china agricultural university
+冯仕政	社会学	2017	shizheng feng	renmin university of china
+胡百精	传播学	2017	baijing hu	renmin university of china
+陆方文	西方经济学	2017	fangwen lu	renmin university of china
+吕冰洋	财政学（含税收学）	2017	bingyang lv	renmin university of china
+王亚培	高分子化学与物理	2017	yapei wang	renmin university of china
+徐晓旭	世界古代中世纪史	2017	xiaoxu xu	renmin university of china
+张威	原子与分子物理	2017	wei zhang	renmin university of china
+竺效	环境与资源保护法学	2017	xiao zhu	renmin university of china
+王玮	油气储运工程	2017	wei wang	中国石油大学（北京）
+蒋文春	化工过程机械	2017	wenchun jiang	中国石油大学（华东）
+宗兆云	固体地球物理学	2017	zhaoyun zong	中国石油大学（华东）
+费多益	科学技术哲学	2017	duoyi fei	中国政法大学
+胡俊	大地测量学与测量工程	2017	jun hu	central south university
+纪效波	冶金物理化学	2017	xiaobo ji	central south university
+黄盛丰	生物化学与分子生物学	2017	shengfeng huang	sun yat-sen university
+梁玉成	社会学	2017	yucheng liang	sun yat-sen university
+孟凡刚	环境工程	2017	fangang meng	sun yat-sen university
+苏士成	外科学（普外）	2017	shicheng su	sun yat-sen university
+杨子晖	金融学（含保险学）	2017	zihui yang	sun yat-sen university
+张均	中国现当代文学	2017	jun zhang	sun yat-sen university
+张鹏	动物学	2017	peng zhang	sun yat-sen university
+张志安	新闻学	2017	zhian zhang	sun yat-sen university
+冯秀军	思想政治教育	2017	xiujun feng	central university of finance and economics
+陈晓明	中国现当代文学	2011	xiaoming chen	﻿peking university
+方方	认知心理学	2011	fang fang	﻿peking university
+郭志刚	人口学	2011	zhigang guo	﻿peking university
+韩水法	外国哲学	2011	shuifa han	﻿peking university
+黄桂田	政治经济学	2011	guitian huang	﻿peking university
+黄晓军	内科学	2011	xiaojun huang	﻿peking university
+蒋争凡	细胞生物学	2011	zhengfan jiang	﻿peking university
+裴坚	有机化学	2011	jian pei	﻿peking university
+朴世龙	自然地理学	2011	shilong pu	﻿peking university
+施章杰	有机化学	2011	zhangjie shi	﻿peking university
+史宇光	基础数学	2011	yuguang shi	﻿peking university
+谭文长	流体力学	2011	wenzhang tan	﻿peking university
+夏定国	材料学	2011	dingguo xia	﻿peking university
+俞孔坚	设计学	2011	kongjian yu	﻿peking university
+陈国权	企业管理学	2011	guoquan chen	tsinghua university
+陈曦	凝聚态物理	2011	xi chen	tsinghua university
+崔建远	民商法学	2011	jianyuan cui	tsinghua university
+方红卫	水力学及河流动力学	2011	hongwei fang	tsinghua university
+姜开利	材料物理	2011	kaili jiang	tsinghua university
+金峰	水工结构工程	2011	feng jin	tsinghua university
+李广涛	物理化学	2011	guangtao li	tsinghua university
+刘云浩	计算机系统结构	2011	yunhao liu	tsinghua university
+刘铮	生物化工	2011	zheng liu	tsinghua university
+戚益军	植物学	2011	yijun qi	tsinghua university
+孙宏斌	电力系统及其自动化	2011	hongbin sun	tsinghua university
+王立平	机械制造及其自动化	2011	liping wang	tsinghua university
+王宁	英语语言文学	2011	ning wang	tsinghua university
+王小群	管理科学与工程	2011	xiaoqun wang	tsinghua university
+吴嘉炜	生物化学与分子生物学	2011	jiawei wu	tsinghua university
+杨华中	电路与系统	2011	huazhong yang	tsinghua university
+余刚	环境工程	2011	gang yu	tsinghua university
+袁宏永	安全技术及工程	2011	hongyong yuan	tsinghua university
+张明楷	刑法学	2011	mingkai zhang	tsinghua university
+曾湘泉	劳动经济学	2011	xiangquan ceng	renmin university of china
+韩大元	宪法学与行政法学	2011	dayuan han	renmin university of china
+李路路	社会学	2011	lulu li	renmin university of china
+马俊峰	马克思主义哲学	2011	junfeng ma	renmin university of china
+毛基业	技术经济及管理学	2011	jiye mao	renmin university of china
+张杰	金融学	2011	jie zhang	renmin university of china
+李实	应用经济学	2011	shi li	beijing normal university
+薛贵	基础心理学	2011	gui xue	beijing normal university
+张斌贤	教育史	2011	binxian zhang	beijing normal university
+呙于明	动物营养学与饲料科学	2011	yuming guo	china agricultural university
+黄冠华	农业水土工程	2011	guanhua huang	china agricultural university
+王福军	水利水电工程	2011	fujun wang	china agricultural university
+王戈	材料物理与化学	2011	ge wang	university of science and technology beijing
+杨卫民	聚合物成型加工原理及设备	2011	weimin yang	beijing university of chemical technology
+李德才	机械工程	2011	decai li	beijing jiaotong university
+马华东	计算机应用技术	2011	huadong ma	beijing university of posts and telecommunications
+韩敏芳	清洁能源学	2011	minfang han	中国矿业大学（北京）
+周宏伟	采矿工程	2011	hongwei zhou	中国矿业大学（北京）
+赵震	工业催化	2011	zhen zhao	中国石油大学（北京）
+李海峥	应用经济学	2011	haizheng li	central university of finance and economics
+陈家旭	中医诊断学	2011	jiaxu chen	beijing university of chinese medicine
+牛东晓	技术经济及管理	2011	dongxiao niu	north china electric power university
+吕小兵	高分子化学与物理	2011	xiaobing lv	dalian university of technology
+樊治平	管理科学与工程	2011	zhiping fan	tohoku university
+王国仁	计算机应用技术	2011	guoren wang	tohoku university
+朱苗勇	钢铁冶金	2011	miaoyong zhu	tohoku university
+刘俊秋	高分子化学与物理	2011	junqiu liu	jilin university
+马琰铭	凝聚态物理	2011	yanming ma	jilin university
+张福贵	中国现当代文学	2011	fugui zhang	jilin university
+周光辉	政治学理论	2011	guanghui zhou	jilin university
+郭建华	统计学	2011	jianhua guo	northeast normal university
+傅吉祥	基础数学	2011	jixiang fu	fudan university
+徐昕	物理化学	2011	xin xu	fudan university
+赵世民	生物化学与分子生物学	2011	shimin zhao	fudan university
+朱依谆	分子药理学	2011	yizhun zhu	fudan university
+曾凡一	胚胎发育学	2011	fanyi ceng	shanghai jiao tong university
+范先群	眼科学	2011	xianqun fan	shanghai jiao tong university
+刘成良	机械电子工程	2011	chengliang liu	shanghai jiao tong university
+刘益	工商管理	2011	yi liu	shanghai jiao tong university
+刘颖斌	外科学	2011	yingbin liu	shanghai jiao tong university
+王斌	理论物理	2011	bin wang	shanghai jiao tong university
+徐天乐	神经生物学	2011	tianle xu	shanghai jiao tong university
+郁文贤	信号与信息处理	2011	wenxian yu	shanghai jiao tong university
+童小华	地图制图学与地理信息工程	2011	xiaohua tong	tongji university
+汪华林	环境工程	2011	hualin wang	east china university of science and technology
+朱美芳	材料学	2011	meifang zhu	donghua university
+季浏	体育学	2011	liu ji	east china normal university
+茅海建	中国近现代史	2011	haijian mao	east china normal university
+周勇	统计学	2011	yong zhou	shanghai university of finance and economics
+洪修平	宗教学	2011	xiuping hong	nanjing university
+陆海	微电子学与固体电子学	2011	hai lu	nanjing university
+任洪强	环境工程	2011	hongqiang ren	nanjing university
+沈坤荣	政治经济学	2011	kunrong shen	nanjing university
+沈阳	汉语言文字学	2011	yang shen	nanjing university
+苏新宁	情报学	2011	xinning su	nanjing university
+闻海虎	凝聚态物理	2011	haihu wen	nanjing university
+许钧	法语语言文学	2011	jun xu	nanjing university
+张峻峰	生物药剂学	2011	junfeng zhang	nanjing university
+周宪	文艺学	2011	xian zhou	nanjing university
+周晓虹	社会学	2011	xiaohong zhou	nanjing university
+高西奇	通信与信息系统	2011	xiqi gao	southeast university
+肖睿	热能工程	2011	rui xiao	southeast university
+王沛芳	水力学及河流动力学	2011	peifang wang	hohai university
+堵国成	发酵工程	2011	guocheng du	jiangnan university
+王源超	植物病理学	2011	yuanchao wang	nanjing agricultural university
+孙宏斌	药物化学	2011	hongbin sun	china pharmaceutical university
+梁廷波	外科学	2011	tingbo liang	zhejiang university
+钱国栋	材料物理与化学	2011	guodong qian	zhejiang university
+邱利民	制冷及低温工程	2011	limin qiu	zhejiang university
+郑津洋	化工过程机械	2011	jinyang zheng	zhejiang university
+刘海峰	教育学	2011	haifeng liu	xiamen university
+周宁	中国语言文学	2011	ning zhou	xiamen university
+杜泽逊	中国古典文献学	2011	zexun du	shandong university
+吴立新	物理海洋	2011	lixin wu	ocean university of china
+汪信砚	马克思主义哲学	2011	xinyan wang	wuhan university
+吴华意	地图制图学与地理信息工程	2011	huayi wu	wuhan university
+肖永平	国际法学	2011	yongping xiao	wuhan university
+史铁林	机械制造及其自动化	2011	tielin shi	huazhong university of science and technology
+王红卫	管理科学与工程	2011	hongwei wang	huazhong university of science and technology
+朱宏平	结构工程	2011	hongping zhu	huazhong university of science and technology
+姜道宏	植物病理学	2011	daohong jiang	huazhong agricultural university
+杨荣华	分析化学	2011	ronghua yang	hunan university
+柴立元	环境工程	2011	liyuan chai	central south university
+段吉安	机械制造及其自动化	2011	jian duan	central south university
+何勇	控制理论与控制工程	2011	yong he	central south university
+刘文胜	材料学	2011	wensheng liu	central south university
+赵中伟	有色金属冶金	2011	zhongwei zhao	central south university
+贺雄雷	生化与分子生物学	2011	xionglei he	sun yat-sen university
+黄国文	英语语言文学	2011	guowen huang	sun yat-sen university
+马骏	行政管理	2011	jun ma	sun yat-sen university
+翁建平	内科学	2011	jianping weng	sun yat-sen university
+余学清	内科学	2011	xueqing yu	sun yat-sen university
+李远清	控制理论与控制工程	2011	yuanqing li	south china university of technology
+吴波	结构工程	2011	bo wu	south china university of technology
+赵谋明	食品科学	2011	mouming zhao	south china university of technology
+周小平	岩土工程	2011	xiaoping zhou	chongqing university
+霍巍	考古学及博物馆学	2011	wei huo	sichuan university
+宫玉彬	物理电子学	2011	yubin gong	电子科技大学
+汪宏	微电子学与固体电子学	2011	hong wang	xi'an jiaotong university
+严俊杰	热能工程	2011	junjie yan	xi'an jiaotong university
+赵万华	机械制造及其自动化	2011	wanhua zhao	xi'an jiaotong university
+石光明	电路与系统	2011	guangming shi	xidian university
+郑炳林	历史文献学	2011	binglin zheng	lanzhou university
+樊瑜波	生物医学工程	2011	yubo fan	beihang university
+郭雷	控制理论与控制工程	2011	lei guo	beihang university
+郭林	无机化学	2011	lin guo	beihang university
+蒋成保	材料学	2011	chengbao jiang	beihang university
+李波	计算机应用技术	2011	bo li	beihang university
+陈杰	控制理论与控制工程	2011	jie chen	beijing institute of technology
+赵维谦	测试计量技术及仪器	2011	weiqian zhao	beijing institute of technology
+高会军	控制理论与控制工程	2011	huijun gao	harbin engineering university
+王爱杰	环境工程	2011	aijie wang	harbin engineering university
+甄良	材料学	2011	liang zhen	harbin engineering university
+王明洋	火炮自动武器与弹药工程	2011	mingyang wang	nanjing university of science and technology
+陈增兵	原子与分子物理	2011	zengbing chen	university of science and technology of china
+华中生	管理科学与工程	2011	zhongsheng hua	university of science and technology of china
+史春梦	军事预防医学	2011	chunmeng shi	third military medical university
+陈吉华	口腔临床医学	2011	jihua chen	fourth military medical university
+韩英	内科学	2011	ying han	fourth military medical university
+骆文静	军事预防医学	2011	wenjing luo	fourth military medical university
+郭霞	微电子与固体电子学	2011	xia guo	beijing university of technology
+韩晓东	材料物理与化学	2011	xiaodong han	beijing university of technology
+李小军	防灾减灾工程与防护工程	2011	xiaojun li	beijing university of technology
+石照耀	机械制造及其自动化	2011	zhaoyao shi	beijing university of technology
+戚承志	岩土工程	2011	chengzhi qi	beijing university of civil engineering and architecture
+左东岭	中国古代文学	2011	dongling zuo	capital normal university
+李汇华	病理学与病理生理学	2011	huihua li	capital medical university
+张罗	耳鼻咽喉科学	2011	luo zhang	capital medical university
+乔全生	汉语言文字学	2011	quansheng qiao	shanxi university
+张天才	光学	2011	tiancai zhang	shanxi university
+李梅	冶金工程	2011	mei li	内蒙古科技大学
+张和平	食品科学与工程	2011	heping zhang	inner mongolia agricultural university
+林木西	国民经济学	2011	muxi lin	liaoning university
+何仲贵	药剂学	2011	zhonggui he	shenyang pharmaceutical university
+吴明红	环境工程	2011	minghong wu	shanghai university
+杨亦鸣	语言学及应用语言学	2011	yiming yang	江苏师范大学
+邵宗平	材料物理与化学	2011	zongping shao	nanjing university of technology
+应汉杰	生物化工	2011	hanjie ying	nanjing university of technology
+汪联辉	生物光电子学	2011	lianhui wang	nanjing university of posts and telecommunications
+郎建平	无机化学	2011	jianping lang	soochow university
+陈本永	机械制造及其自动化	2011	benyong chen	zhejiang sci-tech university
+朱满洲	无机化学	2011	manzhou zhu	anhui university
+王应明	管理科学与工程	2011	yingming wang	fuzhou university
+董育斌	无机化学	2011	yubin dong	shandong normal university
+万师强	生态学	2011	shiqiang wan	henan university
+马恒运	农业经济管理	2011	hengyun ma	henan agricultural university
+江畅	伦理学	2011	chang jiang	hubei university
+徐卫林	纺织科学与工程	2011	weilin xu	武汉纺织大学
+蒋新苗	国际法学	2011	xinmiao jiang	hunan normal university
+李佑新	马克思主义哲学	2011	youxin li	xiangtan university
+刘雅红	基础兽医学	2011	yahong liu	south china agricultural university
+张国君	分子影像学	2011	guojun zhang	shantou university
+许强	地质工程	2011	qiang xu	chengdu university of technology
+张烈辉	油气田开发工程	2011	liehui zhang	southwest petroleum university
+石磊	概率论与数理统计	2011	lei shi	云南财经大学
+钟昌标	国际贸易学	2011	changbiao zhong	云南财经大学
+周平	政治学理论	2011	ping zhou	yunnan university
+曲安京	科学技术史	2011	anjing qu	northwest university
+王鉴	课程与教学论	2011	jian wang	northwest normal university
+杜建录	西夏学研究	2011	jianlu du	宁夏大学
+蒋耀林	应用数学	2011	yaolin jiang	xinjiang university
+李宝生	地球化学	2011	baosheng li	﻿peking university
+张冰	天体物理	2011	bing zhang	﻿peking university
+赵宏宇	生物统计学	2011	hongyu zhao	﻿peking university
+林明洁	计算机应用技术	2011	mingjie lin	tsinghua university
+陈毅恒	统计学	2011	yiheng chen	renmin university of china
+潘海华	外国语言文学	2011	haihua pan	北京语言大学
+陈嵘	统计学	2011	rong chen	central university of finance and economics
+曾崇纯	基础数学	2011	chongchun ceng	nankai university
+MichaelPinedo	管理科学与工程	2011	MichaelPinedo	tianjin university
+仝立勇	工程力学	2011	liyong tong	dalian university of technology
+李宏斌	高分子化学与物理	2011	hongbin li	jilin university
+夏伯嘉R.Hsia	专门史	2011	jiaR.Hsia xiabo	fudan university
+胡青	凝聚态物理	2011	qing hu	shanghai jiao tong university
+明国莉	神经生物学	2011	guoli ming	shanghai jiao tong university
+JamesA.Ohlson	会计学	2011	JamesA.Ohlson	tongji university
+PolD.Spanos	结构工程	2011	PolD.Spanos	tongji university
+刘小乐	生物信息学	2011	xiaole liu	tongji university
+WangZhengBing	港口海岸及近海工程	2011	WangZhengBing	east china normal university
+邱嘉平	金融学	2011	jiaping qiu	shanghai university of finance and economics
+鲍哲南	无机化学	2011	zhenan bao	nanjing university
+姚新中	伦理学	2011	xinzhong yao	southeast university
+金海翎	植物病理学	2011	hailing jin	nanjing agricultural university
+StevenH.Low	控制理论与控制工程	2011	StevenH.Low	zhejiang university
+康景轩	食品科学	2011	jingxuan kang	zhejiang university
+刘坚能	通信与信息系统	2011	jianneng liu	zhejiang university
+彭玉生	社会学	2011	yusheng peng	shandong university
+黄金维	大地测量学与测量工程	2011	jinwei huang	wuhan university
+王连平	热能工程	2011	lianping wang	huazhong university of science and technology
+叶克强	病理与病理生理学	2011	keqiang ye	huazhong university of science and technology
+张黔	通信与信息系统	2011	qian zhang	huazhong university of science and technology
+令狐萍	民族学	2011	huping ling	central china normal university
+李子建	课程与教学论	2011	zijian li	southwest university
+陈新中	桥梁与隧道工程	2011	xinzhong chen	southwest jiaotong university
+欧阳华江	车辆工程	2011	huajiang ouyang	southwest jiaotong university
+杨沙	工商管理	2011	sha yang	southwest jiaotong university
+曹国宏	计算机科学与技术	2011	guohong cao	xi'an jiaotong university
+陈光辉	高电压与绝缘技术	2011	guanghui chen	xi'an jiaotong university
+袁域	应用数学	2011	yu yuan	xi'an jiaotong university
+张青富	电路与系统	2011	qingfu zhang	xidian university
+杨海	管理科学与工程	2011	hai yang	beihang university
+吕志民	肿瘤学	2011	zhimin lv	peking union medical college
+黄山	船舶与海洋结构物设计制造	2011	shan huang	哈尔滨工程大学
+何永昌	控制理论与控制工程	2011	yongchang he	nanjing university of science and technology
+林郁	空间物理学	2011	yu lin	university of science and technology of china
+周蓬勃	肿瘤学	2011	pengbo zhou	tianjin medical university
+ChristosSamakovlis	遗传学	2011	ChristosSamakovlis	hunan normal university
+张海波	内科学	2011	haibo zhang	广州医学院
+宛新华	高分子化学与物理	2009	xinhua wan	﻿peking university
+吴凯	物理化学	2009	kai wu	﻿peking university
+朱小华	基础数学	2009	xiaohua zhu	﻿peking university
+李剑鸣	世界史	2009	jianming li	﻿peking university
+乔杰	妇产科学	2009	jie qiao	﻿peking university
+陈瑞华	诉讼法学	2009	ruihua chen	﻿peking university
+胡建英	环境毒理与风险评价	2009	jianying hu	﻿peking university
+向锦武	飞行器设计	2009	jinwu xiang	beihang university
+王晋军	流体力学	2009	jinjun wang	beihang university
+吴一弦	材料学	2009	yixian wu	beijing university of chemical technology
+袁其朋	生物化工	2009	qipeng yuan	beijing university of chemical technology
+杨庆山	结构工程	2009	qingshan yang	beijing jiaotong university
+王均宏	电磁场与微波技术	2009	junhong wang	beijing jiaotong university
+杨国昱	化学	2009	guoyu yang	beijing institute of technology
+付梦印	导航、制导与控制	2009	mengyin fu	beijing institute of technology
+陶然	通信与信息系统	2009	ran tao	beijing institute of technology
+方晓义	心理学	2009	xiaoyi fang	beijing normal university
+江怡	外国哲学	2009	yi jiang	beijing normal university
+刘芝华	分子肿瘤学	2009	zhihua liu	peking union medical college
+程春田	水利水电工程	2009	chuntian cheng	dalian university of technology
+刘黎明	焊接工艺与装备	2009	liming liu	dalian university of technology
+胡祥培	管理科学与工程	2009	xiangpei hu	dalian university of technology
+谢渭芬	消化内科学	2009	weifen xie	second military medical university
+杨桦	普通外科学	2009	hua yang	third military medical university
+罗卓荆	外科学（骨外科学）	2009	zhuojing luo	fourth military medical university
+聂勇战	内科学（消化）	2009	yongzhan nie	fourth military medical university
+夏明耀	电磁场与微波技术	2009	mingyao xia	电子科技大学
+唐加福	管理科学与工程	2009	jiafu tang	tohoku university
+冯夏庭	采矿工程	2009	xiating feng	tohoku university
+丁建东	高分子化学与物理	2009	jiandong ding	fudan university
+王学路	植物分子遗传学	2009	xuelu wang	fudan university
+袁小平	基础数学	2009	xiaoping yuan	fudan university
+周磊	理论物理	2009	lei zhou	fudan university
+于文强	表观遗传学	2009	wenqiang yu	fudan university
+王戟	计算机科学与技术	2009	ji wang	国防科技大学
+贾德昌	材料学	2009	dechang jia	harbin engineering university
+郑文忠	结构工程	2009	wenzhong zheng	harbin engineering university
+孟松鹤	高超声速热防护技术	2009	songhe meng	harbin engineering university
+付宏刚	应用化学	2009	honggang fu	heilongjiang university
+何益斌	结构工程	2009	yibin he	hunan university
+韩旭	工程力学	2009	xu han	hunan university
+王辅臣	热能工程	2009	fuchen wang	east china university of science and technology
+吴鹏	化学、物理化学	2009	peng wu	east china normal university
+谭帆	中国古代文学	2009	fan tan	east china normal university
+周傲英	数据库	2009	aoying zhou	east china normal university
+周俊良	自然地理学	2009	junliang zhou	east china normal university
+孙一民	建筑学	2009	yimin sun	south china university of technology
+高绍荣	动物遗传育种与繁殖学	2009	shaorong gao	south china agricultural university
+黄云辉	材料学	2009	yunhui huang	huazhong university of science and technology
+尹周平	机械制造及其自动化	2009	zhouping yin	huazhong university of science and technology
+金海	计算机系统结构	2009	hai jin	huazhong university of science and technology
+岳东	控制科学与工程	2009	dong yue	huazhong university of science and technology
+胡豫	内科学（血液病）	2009	yu hu	huazhong university of science and technology
+邬堂春	劳动卫生与环境卫生学	2009	tangchun wu	huazhong university of science and technology
+赵丁选	机械设计及理论	2009	dingxuan zhao	jilin university
+刘金全	数量经济学	2009	jinquan liu	jilin university
+刘冰冰	凝聚态物理	2009	bingbing liu	jilin university
+姜勇	病理学与病理生理学	2009	yong jiang	southern medical university
+黎书华	理论化学	2009	shuhua li	nanjing university
+左景林	无机化学	2009	jinglin zuo	nanjing university
+丁明德	天体物理	2009	mingde ding	nanjing university
+王伯根	凝聚态物理	2009	bogen wang	nanjing university
+徐骏	微电子与固体电子学	2009	jun xu	nanjing university
+华子春	生化药学	2009	zichun hua	nanjing university
+李爱民	环境工程	2009	aimin li	nanjing university
+鹿化煜	自然地理学	2009	huayu lu	nanjing university
+胡俊辉	机械制造及其自动化	2009	junhui hu	nanjing university of aeronautics and astronautics
+沈洪兵	公共卫生与预防医学	2009	hongbing shen	nanjing medical university
+冯露	微生物学	2009	lu feng	nankai university
+扶磊	基础数学	2009	lei fu	nankai university
+韩际宏	心血管生物学	2009	jihong han	nankai university
+王晓慧	材料学	2009	xiaohui wang	tsinghua university
+何金良	电气工程	2009	jinliang he	tsinghua university
+梅生伟	电力系统及其自动化	2009	shengwei mei	tsinghua university
+李庆斌	水工结构工程	2009	qingbin li	tsinghua university
+路新春	机械设计与理论	2009	xinchun lu	tsinghua university
+杨百寅	人力资源开发与管理	2009	baiyin yang	tsinghua university
+李景虹	分析化学	2009	jinghong li	tsinghua university
+骆广生	化学工程	2009	guangsheng luo	tsinghua university
+李宏彬	经济学	2009	hongbin li	tsinghua university
+柴继杰	结构生物学	2009	jijie chai	tsinghua university
+潘俊敏	分子细胞生物学	2009	junmin pan	tsinghua university
+王向斌	物理	2009	xiangbin wang	tsinghua university
+戴琼海	模式识别与智能系统	2009	qionghai dai	tsinghua university
+王建龙	环境工程	2009	jianlong wang	tsinghua university
+陈卫忠	岩土工程	2009	weizhong chen	shandong university
+梁作堂	粒子物理与原子核物理	2009	zuotang liang	shandong university
+张焕水	控制理论与控制工程	2009	huanshui zhang	shandong university
+陈哲宇	神经生物学	2009	zheyu chen	shandong university
+张靖	物理学	2009	jing zhang	shanxi university
+邢向东	汉语言文字学	2009	xiangdong xing	shaanxi normal university
+孙宁	西方经济学	2009	ning sun	shanghai university of finance and economics
+来新民	机械制造及其自动化	2009	xinmin lai	shanghai jiao tong university
+张大兵	水稻遗传学	2009	dabing zhang	shanghai jiao tong university
+李保界	发育生物学	2009	baojie li	shanghai jiao tong university
+贾金锋	凝聚态实验物理	2009	jinfeng jia	shanghai jiao tong university
+李青峰	整复外科学	2009	qingfeng li	shanghai jiao tong university
+韩泽广	医学遗传学	2009	zeguang han	shanghai jiao tong university
+钟扬	政治学	2009	yang zhong	shanghai jiao tong university
+徐玖平	管理科学与工程	2009	jiuping xu	sichuan university
+褚良银	化学工程与技术(化学工艺)	2009	liangyin chu	sichuan university
+余孝其	绿色化学	2009	xiaoqi yu	sichuan university
+胡静	口腔临床医学	2009	jing hu	sichuan university
+李文英	化学工艺	2009	wenying li	taiyuan university of technology
+张伟力	光学工程	2009	weili zhang	tianjin university
+施福东	神经病学	2009	fudong shi	tianjin medical university
+王占山	光学工程	2009	zhanshan wang	tongji university
+陈传夫	图书馆学	2009	chuanfu chen	wuhan university
+周翔	有机化学(化学生物学)	2009	xiang zhou	wuhan university
+孙涛垒	材料物理与化学	2009	taolei sun	wuhan university of technology
+廖桂生	信号与信息处理	2009	guisheng liao	xidian university
+马建峰	计算机科学与技术	2009	jianfeng ma	xidian university
+成永红	高电压与绝缘技术	2009	yonghong cheng	xi'an jiaotong university
+梅雪松	机械工程	2009	xuesong mei	xi'an jiaotong university
+邓子辰	一般力学与力学基础	2009	zichen deng	northwestern polytechnical university
+刘清友	石油与天然气工程	2009	qingyou liu	southwest petroleum university
+郑南峰	无机化学	2009	nanfeng zheng	xiamen university
+高翔	工程热物理	2009	xiang gao	zhejiang university
+陈学新	农业昆虫与害虫防治	2009	xuexin chen	zhejiang university
+周继勇	预防兽医学	2009	jiyong zhou	zhejiang university
+郑绍建	植物营养学	2009	shaojian zheng	zhejiang university
+葛根年	应用数学	2009	gennian ge	zhejiang university
+施旭	话语语言学	2009	xu shi	zhejiang university
+蔡秀军	外科学	2009	xiujun cai	zhejiang university
+方向明	麻醉学	2009	xiangming fang	zhejiang university
+吴忠标	环境工程	2009	zhongbiao wu	zhejiang university
+李小年	工业催化	2009	xiaonian li	zhejiang university of technology
+TimothyKusky	构造地质学与灾害地质	2009	TimothyKusky	中国地质大学（武汉）
+杨桂朋	海洋化学	2009	guipeng yang	ocean university of china
+刘世勇	功能高分子材料	2009	shiyong liu	university of science and technology of china
+梁樑	管理科学与工程	2009	liang liang	university of science and technology of china
+廉哲雄	细胞生物	2009	zhexiong lian	university of science and technology of china
+陆全明	空间物理学	2009	quanming lu	university of science and technology of china
+李洪文	农业机械化工程	2009	hongwen li	china agricultural university
+孙传清	作物遗传育种	2009	chuanqing sun	china agricultural university
+郭岩	植物学	2009	yan guo	china agricultural university
+高旭东	比较文学	2009	xudong gao	renmin university of china
+陈根富	物理学	2009	genfu chen	renmin university of china
+杨光斌	中外政治制度	2009	guangbin yang	renmin university of china
+张新宝	民商法学	2009	xinbao zhang	renmin university of china
+邓金根	油气井工程	2009	jingen deng	中国石油大学（北京）
+孙宝江	油气井工程	2009	baojiang sun	中国石油大学（华东）
+高兴华	皮肤性病学	2009	xinghua gao	china medical university
+李劼	有色金属冶金	2009	jie li	central south university
+黄明辉	机械设计及理论	2009	minghui huang	central south university
+陈翔	皮肤病与性病学	2009	xiang chen	central south university
+李建华	哲学	2009	jianhua li	central south university
+陈伟根	电气工程	2009	weigen chen	chongqing university
+廖强	工程热物理	2009	qiang liao	chongqing university
+王时龙	机械电子工程	2009	shilong wang	chongqing university
+魏子栋	新能源化工	2009	zidong wei	chongqing university
+廖晓峰	电子科学与技术	2009	xiaofeng liao	chongqing university
+卢义玉	矿业工程	2009	yiyu lu	chongqing university
+何川	化学生物学	2009	chuan he	﻿peking university
+庆杰	基础数学	2009	jie qing	﻿peking university
+蔡进一	计算机软件与理论	2009	jinyi cai	﻿peking university
+GuillaumeDupont-Nivet	构造地质学	2009	GuillaumeDupont-Nivet	﻿peking university
+张铁龙	空间物理学	2009	tielong zhang	beihang university
+林兴强	交通运输规划与管理	2009	xingqiang lin	beijing jiaotong university
+王循理	材料学	2009	xunli wang	university of science and technology beijing
+何有文	免疫学	2009	youwen he	peking union medical college
+路中	地质工程	2009	zhong lu	chang'an university
+李冬青	轮机工程	2009	dongqing li	dalian maritime university
+周荫强	管理科学与工程	2009	yinqiang zhou	dalian university of technology
+程根宏	长江学者	2009	genhong cheng	second military medical university
+施松涛	口腔基础医学	2009	songtao shi	fourth military medical university
+孙静	控制理论与控制工程	2009	jing sun	tohoku university
+王晓东	通信与信息系统	2009	xiaodong wang	southeast university
+彼得巴克利	国际贸易学	2009	bi de ba ke li	对外经济贸易大学
+宋京生	管理科学与工程	2009	jingsheng song	fudan university
+易庆	遗传学（肿瘤分子遗传）	2009	qing yi	fudan university
+赵心树	传播学	2009	xinshu zhao	fudan university
+蒋家琪	耳鼻喉科学	2009	jiaqi jiang	fudan university
+薛京灵	计算机科学与技术	2009	jingling xue	国防科技大学
+马庆位	船舶与海洋结构物设计制造	2009	qingwei ma	哈尔滨工程大学
+TonyWilson	仪器科学与技术	2009	TonyWilson	harbin engineering university
+吴宏伟	岩土工程	2009	hongwei wu	hohai university
+王国梁	作物遗传育种	2009	guoliang wang	hunan agricultural university
+韩清龙	控制理论与控制工程	2009	qinglong han	east china university of science and technology
+何芳良	生态学	2009	fangliang he	east china normal university
+景乃桓	数学	2009	naihuan jing	south china university of technology
+谢智刚	电力电子与电力传动	2009	zhigang xie	huazhong university of science and technology
+段勇	理论物理	2009	yong duan	huazhong university of science and technology
+熊子祥	通信与信息系统	2009	zixiang xiong	huazhong university of science and technology
+李书明	天然药物生物合成	2009	shuming li	huazhong university of science and technology
+沈康	病理学与病理生理学	2009	kang shen	huazhong university of science and technology
+赵云德	生物化学与分子生物学	2009	yunde zhao	huazhong agricultural university
+闫纪旺	机械制造及其自动化	2009	jiwang yan	jilin university
+路洪	理论物理	2009	hong lu	jilin university
+荆炳义	概率论与数理统计	2009	bingyi jing	lanzhou university
+周豪慎	材料学	2009	haoshen zhou	nanjing university
+孙守恒	无机化学	2009	shouheng sun	nanjing university
+尹晓煌	英语语言文学	2009	xiaohuang yin	nanjing university
+毛志强	凝聚态物理	2009	zhiqiang mao	nanjing university
+田贵云	检测技术及自动化装置	2009	guiyun tian	nanjing university of aeronautics and astronautics
+陈本美	控制科学与工程	2009	benmei chen	nanjing university of science and technology
+雷鸣	生物化学与分子生物学	2009	ming lei	nankai university
+王奇	计算数学	2009	qi wang	nankai university
+何杨辉	理论物理	2009	yanghui he	nankai university
+潘多加	遗传学	2009	duojia pan	nankai university
+彭晖	车辆工程	2009	hui peng	tsinghua university
+祝介平	有机化学	2009	jieping zhu	tsinghua university
+汪自强	凝聚态物理	2009	ziqiang wang	tsinghua university
+傅晓明	计算机应用技术	2009	xiaoming fu	tsinghua university
+张阳	环境工程	2009	yang zhang	tsinghua university
+余纪元	外国哲学	2009	jiyuan yu	shandong university
+肖建良	物理化学	2009	jianliang xiao	shaanxi normal university
+王海	动力机械与工程	2009	hai wang	shanghai jiao tong university
+陶龙宾	船舶与海洋工程	2009	longbin tao	shanghai jiao tong university
+陈卫	机械设计与理论	2009	wei chen	shanghai jiao tong university
+魏然	新闻传播学	2009	ran wei	shanghai jiao tong university
+李波	计算机科学与技术	2009	bo li	shanghai jiao tong university
+郭跃彬	仪器科学与技术	2009	yuebin guo	tianjin university
+倪永浩	制浆造纸工程	2009	yonghao ni	tianjin university of science and technology
+刘俊	材料物理与化学	2009	jun liu	wuhan university of technology
+余济美	环境科学与工程	2009	jimei yu	wuhan university of technology
+夏香根	信号与信息处理	2009	xianggen xia	xidian university
+李巨	材料学	2009	ju li	xi'an jiaotong university
+赵天寿	热能工程	2009	tianshou zhao	xi'an jiaotong university
+陈曦	固体力学	2009	xi chen	xi'an jiaotong university
+李宝安	理论物理	2009	baoan li	xi'an jiaotong university
+高立新	计算机科学与技术	2009	lixin gao	xi'an jiaotong university
+PhilipH.Dybvig	金融学	2009	PhilipH.Dybvig	southwestern university of finance and economics
+CodyDing	发展与教育心理学	2009	CodyDing	southwest university
+Shen,Jie	计算数学	2009	Shen,Jie	xiamen university
+关波	基础数学	2009	bo guan	xiamen university
+蔡卫君	海洋科学	2009	weijun cai	xiamen university
+姚斌	机械电子工程	2009	bin yao	zhejiang university
+陈勇民	产业经济学	2009	yongmin chen	zhejiang university
+陈志祥	蔬菜学	2009	zhixiang chen	zhejiang university
+莫家豪	比较教育及东亚研究学	2009	jiahao mo	zhejiang university
+斯其苗	凝聚态物理	2009	qimiao si	zhejiang university
+LTBiegler	控制科学与工程	2009	LTBiegler	zhejiang university
+俞滨	微电子学与固体电子学	2009	bin yu	zhejiang university
+周武元	控制科学与工程	2009	wuyuan zhou	zhejiang university
+戴一凡	外科学（器官移植）	2009	yifan dai	zhejiang university
+詹红兵	环境地质工程	2009	hongbing zhan	中国地质大学（武汉）
+王春在	物理海洋学	2009	chunzai wang	ocean university of china
+罗杰波	信息与通信工程	2009	jiebo luo	university of science and technology of china
+张毅	生物学	2009	yi zhang	china agricultural university
+吴俊杰	人口、资源与环境经济学	2009	junjie wu	renmin university of china
+程晓东	微生物与生化药学	2009	xiaodong cheng	china pharmaceutical university
+李海涛	金融学讲座教授	2009	haitao li	zhongnan university of economics and law
+潘毅	计算机应用技术	2009	yi pan	central south university
+陈林	病理学与病理生理学	2009	lin chen	central south university
+柯滨	工商管理	2009	bin ke	sun yat-sen university
+陈俊杰	生物化学与分子生物学	2009	junjie chen	sun yat-sen university
+张智民	计算数学	2009	zhimin zhang	sun yat-sen university
+左志义	麻醉学	2009	zhiyi zuo	sun yat-sen university
+李明辉	哲学	2009	minghui li	sun yat-sen university
+M.H.Thiemens	环境科学	2009	M.H.Thiemens	sun yat-sen university
+聂建峰	材料学	2009	jianfeng nie	chongqing university
+郭岩	基础数学	2007	yan guo	﻿peking university
+徐昆	流体力学	2007	kun xu	﻿peking university
+杨世和	材料物理与化学	2007	shihe yang	beihang university
+葛树志	控制理论与控制工程	2007	shuzhi ge	beihang university
+秦洪	计算机图形学	2007	hong qin	beihang university
+许立达	管理科学与工程	2007	lida xu	beijing jiaotong university
+张志良	材料物理与化学	2007	zhiliang zhang	university of science and technology beijing
+陈振庆	概率论与数理统计	2007	zhenqing chen	beijing institute of technology
+蔡海龙	机械工程	2007	hailong cai	beijing institute of technology
+黄正德	语言学及应用语言学	2007	zhengde huang	北京语言大学
+陈洵洪	地质工程	2007	xunhong chen	chang'an university
+侯召民	应用化学	2007	zhaomin hou	dalian university of technology
+陈超美	管理科学与工程	2007	chaomei chen	dalian university of technology
+陈丰原	心血管药理学	2007	fengyuan chen	second military medical university
+左明健	机械电子工程	2007	mingjian zuo	电子科技大学
+苏春翌	控制理论与控制工程	2007	chunyi su	tohoku university
+刘继印	管理科学与工程	2007	jiyin liu	tohoku university
+何旭铭	数理统计学	2007	xuming he	northeast normal university
+本杰明·S·萧BenjaminS.Hsiao	材料学	2007	ben jie ming ·S· xiao BenjaminS.Hsiao	donghua university
+希拉姆·罗摩克里希纳SeeramRamakrishna	纺织工程	2007	xi la mu · luo mo ke li xi na SeeramRamakrishna	donghua university
+邹国棠	电机与电器	2007	guotang zou	southeast university
+王家骁	国际贸易	2007	jiaxiao wang	对外经济贸易大学
+沈文辉	遗传学－植物表观遗传学	2007	wenhui shen	fudan university
+翁巨扬	计算认知发育	2007	juyang weng	fudan university
+潘忠党	传播学	2007	zhongdang pan	fudan university
+本杰明·艾尔曼BenjaminA.Elman	中国思想文化史	2007	ben jie ming · ai er man BenjaminA.Elman	fudan university
+樊文飞	计算机科学技术	2007	wenfei fan	harbin engineering university
+刘国平	控制科学与控制工程	2007	guoping liu	harbin engineering university
+伊莎贝尔·马格宁IsabelleE.Magnin	生物医学图像处理	2007	yi sha bei er · ma ge ning IsabelleE.Magnin	harbin engineering university
+王志国	药理学	2007	zhiguo wang	harbin medical university
+林华新	基础数学	2007	huaxin lin	east china normal university
+李静	应用化学	2007	jing li	south china university of technology
+蔡立慧	病理学与病理生理学	2007	lihui cai	huazhong university of science and technology
+邹伟平	临床医学	2007	weiping zou	huazhong university of science and technology
+贺熹	生物物理学	2007	xi he	huazhong university of science and technology
+蒋进	发育生物学与肿瘤学	2007	jin jiang	huazhong university of science and technology
+绿川克美KatsumiMidorikawa	激光科学与技术	2007	lv chuan ke mei KatsumiMidorikawa	huazhong university of science and technology
+陈杰	系统工程	2007	jie chen	huazhong university of science and technology
+李少凡	固体力学	2007	shaofan li	huazhong university of science and technology
+易英飞	数学	2007	yingfei yi	jilin university
+杨一奇	纺织科学与工程	2007	yiqi yang	jiangnan university
+付强	大气物理与大气环境学	2007	qiang fu	lanzhou university
+张颖	病原生物学	2007	ying zhang	lanzhou university
+肖钢	自旋电子学物理与器件	2007	gang xiao	nanjing university
+栾升	植物学	2007	sheng luan	nanjing university
+潘晓晴	材料物理与化学	2007	xiaoqing pan	nanjing university
+王苏生	西方经济学	2007	susheng wang	nanjing university
+舒昌	流体力学	2007	chang shu	nanjing university of aeronautics and astronautics
+林希虹	概率论与数理统计	2007	xihong lin	tsinghua university
+马晓龙	材料化工	2007	xiaolong ma	tsinghua university
+薛定	生命科学	2007	ding xue	tsinghua university
+王瑶	模式识别与智能系统	2007	yao wang	tsinghua university
+刘闯	科学技术哲学	2007	chuang liu	tsinghua university
+叶扬波	数学	2007	yangbo ye	shandong university
+王兴利	内科学（心血管病学）	2007	xingli wang	shandong university
+付敏跃	控制理论与控制工程	2007	minyue fu	shandong university
+陈通文	电力系统及其自动化	2007	tongwen chen	shandong university
+牛谦	物理学	2007	qian niu	shanxi university
+谭国富	应用经济学	2007	guofu tan	shanghai university of finance and economics
+叶林	固体力学	2007	lin ye	shanghai jiao tong university
+刘惠春	凝聚态物理	2007	huichun liu	shanghai jiao tong university
+何志刚	神经生物学	2007	zhigang he	shanghai jiao tong university
+毛力	口腔颌面外科学	2007	li mao	shanghai jiao tong university
+王钧	智能计算	2007	jun wang	shanghai jiao tong university
+刘浩	船舶与海洋工程	2007	hao liu	shanghai jiao tong university
+陈岩	应用经济学	2007	yan chen	shanghai jiao tong university
+董崇英	基础数学	2007	chongying dong	sichuan university
+郭鸿	凝聚态物理	2007	hong guo	sichuan university
+戴建生	机械设计及理论	2007	jiansheng dai	tianjin university
+陈清焰	供热、供燃气、通风及空调工程	2007	qingyan chen	tianjin university
+郑苇	肿瘤学	2007	wei zheng	tianjin medical university
+曾适之	物理化学	2007	shizhi ceng	wuhan university
+湛飞并	地图制图学与地理信息工程	2007	feibing zhan	wuhan university
+董晨	免疫学	2007	chen dong	wuhan university
+周南	企业管理	2007	nan zhou	wuhan university
+苏宝连	材料物理与化学	2007	baolian su	wuhan university of technology
+方玉光	通信与信息系统	2007	yuguang fang	xidian university
+靳忠民	机械制造及其自动化	2007	zhongmin jin	xi'an jiaotong university
+许金荣	植物病理学	2007	jinrong xu	西北农林科技大学
+陈滨桐	管理科学与工程	2007	bintong chen	southwestern university of finance and economics
+张高勇	基础数学	2007	gaoyong zhang	southwest university
+严玉山	材料化学工程	2007	yushan yan	zhejiang university
+甘剑英	核技术及应用（农药环境毒理）	2007	jianying gan	zhejiang university
+王汝渠	经济学	2007	ruqu wang	zhejiang university
+沈旸	地球物理学及海洋地质学	2007	yang shen	中国地质大学（北京）
+董海良	古生物学与地层学	2007	hailiang dong	中国地质大学（武汉）
+谢尚平	气象学	2007	shangping xie	ocean university of china
+陈秀雄	基础数学	2007	xiuxiong chen	university of science and technology of china
+姜弘文	光学	2007	hongwen jiang	university of science and technology of china
+伍国耀	动物营养与饲料科学	2007	guoyao wu	china agricultural university
+林共进	统计学	2007	gongjin lin	renmin university of china
+刘梓葵	计算材料学	2007	zikui liu	central south university
+杨子恒	生物化学与分子生物学	2007	ziheng yang	sun yat-sen university
+刘宏	亚太研究,国际关系	2007	hong liu	sun yat-sen university
+TeikC.Lim	传动系统动力学	2007	TeikC.Lim	chongqing university
+蔡洪滨	经济学	2008	hongbin cai	﻿peking university
+高毅勤	理论化学	2008	yiqin gao	﻿peking university
+黄如	微电子学与固体电子学	2008	ru huang	﻿peking university
+陆林	神经生物学	2008	lin lu	﻿peking university
+朱世琳	理论物理	2008	shilin zhu	﻿peking university
+宗传明	基础数学	2008	chuanming zong	﻿peking university
+隋曼龄	凝聚态物理	2008	manling sui	beijing university of technology
+蔡国飙	航空宇航推进理论与工程	2008	guobiao cai	beihang university
+曹晋滨	空间物理学	2008	jinbin cao	beihang university
+黄海军	管理学	2008	haijun huang	beihang university
+江雷	无机化学	2008	lei jiang	beihang university
+高正明	化学工程	2008	zhengming gao	beijing university of chemical technology
+高自友	管理科学与工程	2008	ziyou gao	beijing jiaotong university
+林均品	材料学	2008	junpin lin	university of science and technology beijing
+王沿东	材料学	2008	yandong wang	beijing institute of technology
+魏一鸣	管理科学与工程	2008	yiming wei	beijing institute of technology
+杨志峰	环境科学	2008	zhifeng yang	beijing normal university
+朱宗宏	天文学	2008	zonghong zhu	beijing normal university
+廖建新	通信与信息系统	2008	jianxin liao	beijing university of posts and telecommunications
+白敏冬	环境科学与工程	2008	mindong bai	dalian maritime university
+贾振元	机械制造及其自动化	2008	zhenyuan jia	dalian university of technology
+雷明凯	材料表面工程	2008	mingkai lei	dalian university of technology
+邱介山	化学工程与技术（化学工艺）	2008	jieshan qiu	dalian university of technology
+卞修武	病理学与病理生理学	2008	xiuwu bian	third military medical university
+陈景元	军事预防医学	2008	jingyuan chen	fourth military medical university
+郭树忠	外科学（整形外科学）	2008	shuzhong guo	fourth military medical university
+邓龙江	材料物理与化学	2008	longjiang deng	电子科技大学
+蒋田仔	生物医学工程（计算医学）	2008	tianzai jiang	电子科技大学
+隆克平	通信与信息系统	2008	keping long	电子科技大学
+柳参奎	林木遗传育种	2008	cankui liu	northeast forestry university
+韩东育	东亚史学	2008	dongyu han	northeast normal university
+王丽华	分子生物学	2008	lihua wang	fudan university
+武利民	材料物理与化学	2008	limin wu	fudan university
+游建强	理论物理	2008	jianqiang you	fudan university
+朱依纯	生理学	2008	yichun zhu	fudan university
+胡德文	控制科学与工程	2008	dewen hu	国防科技大学
+黄玉东	应用化学	2008	yudong huang	harbin engineering university
+梁迎春	机械制造及其自动化	2008	yingchun liang	harbin engineering university
+于达仁	动力机械及工程	2008	daren yu	harbin engineering university
+赖明勇	国际贸易学	2008	mingyong lai	hunan university
+许建和	生物化工	2008	jianhe xu	east china university of science and technology
+邱建荣	材料学	2008	jianrong qiu	south china university of technology
+罗必良	农业经济管理	2008	biliang luo	south china agricultural university
+朱诗亮	光学	2008	shiliang zhu	south china normal university
+陈学东	机械设计及理论	2008	xuedong chen	huazhong university of science and technology
+戴会超	水利水电工程	2008	huichao dai	huazhong university of science and technology
+冯丹	计算机系统结构	2008	dan feng	huazhong university of science and technology
+王伟	神经病学	2008	wei wang	huazhong university of science and technology
+黄巧云	土壤学	2008	qiaoyun huang	huazhong agricultural university
+王恩科	理论物理	2008	enke wang	central china normal university
+贺来	马克思主义哲学	2008	lai he	jilin university
+李校堃	病理生物学	2008	xiaokun li	jilin university
+汪劲	理论物理	2008	jin wang	jilin university
+朱广山	无机化学	2008	guangshan zhu	jilin university
+周明	机械制造及其自动化	2008	ming zhou	jiangsu university
+黄建平	大气科学	2008	jianping huang	lanzhou university
+黎家	植物学	2008	jia li	lanzhou university
+程章灿	中国古代文学	2008	zhangcan cheng	nanjing university
+李建新	理论物理	2008	jianxin li	nanjing university
+夏兴华	分析化学	2008	xinghua xia	nanjing university
+徐九华	机械制造及其自动化	2008	jiuhua xu	nanjing university of aeronautics and astronautics
+尹佟明	林木遗传育种	2008	tongming yin	nanjing forestry university
+C.Reidys	应用数学	2008	C.Reidys	nankai university
+陈佺	细胞生物学	2008	quan chen	nankai university
+袁小聪	光学工程	2008	xiaocong yuan	nankai university
+朱光磊	政治学	2008	guanglei zhu	nankai university
+陈永灿	水力学及河流动力学	2008	yongcan chen	tsinghua university
+段文晖	凝聚态物理	2008	wenhui duan	tsinghua university
+冯西桥	固体力学	2008	xiqiao feng	tsinghua university
+黄霞	环境工程	2008	xia huang	tsinghua university
+黄子为	药物化学与化学生物学	2008	ziwei huang	tsinghua university
+李敬锋	材料学	2008	jingfeng li	tsinghua university
+李克强	车辆工程	2008	keqiang li	tsinghua university
+林金明	分析化学	2008	jinming lin	tsinghua university
+陆建华	信息与通信工程	2008	jianhua lu	tsinghua university
+帅志刚	理论化学	2008	zhigang shuai	tsinghua university
+汪晖	中国语言文学	2008	hui wang	tsinghua university
+薛澜	公共管理	2008	lan xue	tsinghua university
+郑丽丽	工程热物理	2008	lili zheng	tsinghua university
+周东华	控制理论与控制工程	2008	donghua zhou	tsinghua university
+黄传真	机械制造及其自动化	2008	chuanzhen huang	shandong university
+张承慧	控制理论与控制工程	2008	chenghui zhang	shandong university
+陈立群	一般力学与力学基础	2008	liqun chen	shanghai university
+敖平	理论物理	2008	ping ao	shanghai jiao tong university
+蔡申瓯	应用物理及数学	2008	shenou cai	shanghai jiao tong university
+陈捷	政治学	2008	jie chen	shanghai jiao tong university
+季卫东	法学	2008	weidong ji	shanghai jiao tong university
+宁光	内科学	2008	guang ning	shanghai jiao tong university
+汪小帆	控制理论与控制工程	2008	xiaofan wang	shanghai jiao tong university
+王拥军	中医学	2008	yongjun wang	上海中医药大学
+刘兆理	基础数学	2008	zhaoli liu	capital normal university
+陈谦明	口腔医学	2008	qianming chen	sichuan university
+李涛	精神病学与精神卫生学	2008	tao li	sichuan university
+秦勇	天然药物化学	2008	yong qin	sichuan university
+邱东	统计学	2008	dong qiu	天津财经大学
+练继建	水利水电工程	2008	jijian lian	tianjin university
+夏长亮	电气工程	2008	zhangliang xia	tianjin university
+王硕	食品科学	2008	shuo wang	tianjin university of science and technology
+朱合华	岩土工程	2008	hehua zhu	tongji university
+刘泉声	岩土工程	2008	quansheng liu	wuhan university
+易显河	国际法学	2008	xianhe yi	wuhan university
+朱庆	摄影测量与遥感	2008	qing zhu	wuhan university
+李建东	通信与信息系统	2008	jiandong li	xidian university
+单智伟	材料学	2008	zhiwei dan	xi'an jiaotong university
+赵玉龙	仪器科学与技术	2008	yulong zhao	xi'an jiaotong university
+郑庆华	计算机应用技术	2008	qinghua zheng	xi'an jiaotong university
+张秋禹	高分子化学与物理	2008	qiuyu zhang	northwestern polytechnical university
+钟扬	植物学	2008	yang zhong	西藏大学
+刘锡良	金融学	2008	xiliang liu	southwestern university of finance and economics
+李红	基础心理学	2008	hong li	southwest university
+何川	桥梁与隧道工程	2008	chuan he	southwest jiaotong university
+谢素原	化学（无机化学）	2008	suyuan xie	xiamen university
+郑学军	一般力学与力学基础	2008	xuejun zheng	xiangtan university
+张湘义	材料物理与化学	2008	xiangyi zhang	yanshan university
+王启华	数理统计	2008	qihua wang	yunnan university
+陈启瑾	理论物理	2008	qijin chen	zhejiang university
+成少安	工程热物理	2008	shaoan cheng	zhejiang university
+刘旭	光学工程	2008	xu liu	zhejiang university
+沈华浩	呼吸病学	2008	huahao shen	zhejiang university
+盛况	电力电子与电力传动	2008	kuang sheng	zhejiang university
+应义斌	农业机械化工程	2008	yibin ying	zhejiang university
+庄越挺	计算机应用	2008	yueting zhuang	zhejiang university
+郑有业	矿产普查与勘探	2008	youye zheng	中国地质大学（北京）
+于良民	环境友好型海洋功能材料	2008	liangmin yu	ocean university of china
+代世峰	矿产普查与勘探	2008	shifeng dai	中国矿业大学（北京）
+李召虎	作物栽培与耕作学	2008	zhaohu li	china agricultural university
+沈建忠	基础兽医学	2008	jianzhong shen	china agricultural university
+郭庆旺	财政学（含税收学）	2008	qingwang guo	renmin university of china
+高金森	化学工艺	2008	jinsen gao	中国石油大学（北京）
+贺跃辉	材料学	2008	yuehui he	central south university
+姜涛	矿物加工工程	2008	tao jiang	central south university
+李宝军	光学工程	2008	baojun li	sun yat-sen university
+郑利民	肿瘤免疫学	2008	limin zheng	sun yat-sen university
+朱菁	科学技术哲学	2008	jing zhu	sun yat-sen university
+阿不都热西提亚库甫	中国少数民族语言文学	2008	a bu dou re xi ti ya ku fu	中央民族大学
+柴洋	口腔医学	2008	yang chai	﻿peking university
+姜钟平	一般力学力学系统与控制	2008	zhongping jiang	﻿peking university
+林志宏	等离子体物理	2008	zhihong lin	﻿peking university
+谢晓亮	分子生物物理	2008	xiaoliang xie	﻿peking university
+谢宇	社会学	2008	yu xie	﻿peking university
+张康	人类遗传学	2008	kang zhang	﻿peking university
+张人一	大气化学	2008	renyi zhang	﻿peking university
+张旭东	中国文学（比较文学与文艺学）	2008	xudong zhang	﻿peking university
+赵宏凯	应用数学	2008	hongkai zhao	﻿peking university
+靳伟	光学工程	2008	wei jin	beihang university
+张欣	空气动力学	2008	xin zhang	beihang university
+张瑞红	环境工程	2008	ruihong zhang	beijing university of chemical technology
+申勇	神经生物学	2008	yong shen	beijing institute of technology
+邬荣领	林木基因组学及分子育种	2008	rongling wu	beijing forestry university
+郑大昭	管理科学与工程	2008	dazhao zheng	beijing university of posts and telecommunications
+孙朝奋	语言学及应用语言学	2008	chaofen sun	北京语言大学
+蔡宜长	道路与铁道工程	2008	yizhang cai	chang'an university
+YuryGogotsi	无机非金属材料	2008	YuryGogotsi	dalian university of technology
+陈国华	环境科学与工程	2008	guohua chen	dalian university of technology
+宋钢兵	结构工程	2008	gangbing song	dalian university of technology
+蒋华北	光学工程	2008	huabei jiang	电子科技大学
+陈志龙	管理科学与工程	2008	zhilong chen	tohoku university
+蒋继明	植物学	2008	jiming jiang	northeast normal university
+刘向阳	材料学	2008	xiangyang liu	donghua university
+王子栋	控制理论与控制工程	2008	zidong wang	donghua university
+余星火	控制理论与控制工程	2008	xinghuo yu	southeast university
+陈俊	神经生物学	2008	jun chen	fudan university
+刘钧	遗传学-医学遗传（基因到药物）	2008	jun liu	fudan university
+邱子强	磁学	2008	ziqiang qiu	fudan university
+余思远	光电微纳集成芯片系统	2008	siyuan yu	fudan university
+张坚	基础数学	2008	jian zhang	fudan university
+朱建文	结构工程	2008	jianwen zhu	guangxi university
+纳日碧力戈	人类学/民族学	2008	na ri bi li ge	guizhou university
+MarkJackson	超精密加工及微纳制造技术	2008	MarkJackson	harbin engineering university
+N.A.Kotov	化学	2008	N.A.Kotov	harbin engineering university
+朱伟东	一般力学与力学基础	2008	weidong zhu	harbin engineering university
+林寿发	地质学	2008	shoufa lin	hefei university of technology
+杨连祥	测试计量技术及仪器	2008	lianxiang yang	hefei university of technology
+王志勇	生物学	2008	zhiyong wang	hebei normal university
+沙行勉	计算机应用技术	2008	xingmian sha	hunan university
+黎建强	管理科学与工程	2008	jianqiang li	north china electric power university
+冯新华	生物医学	2008	xinhua feng	east china normal university
+高炜	生态环境遥感与模型	2008	wei gao	east china normal university
+何子江	认知科学	2008	zijiang he	east china normal university
+王斑	比较文学	2008	ban wang	east china normal university
+G.C.Bazan	高分子化学与物理	2008	G.C.Bazan	south china university of technology
+黄晓东	西方经济学	2008	xiaodong huang	huazhong university of science and technology
+李晓江	人体解剖学与组织胚胎学	2008	xiaojiang li	huazhong university of science and technology
+上官东恺	材料加工工程	2008	dongkai shangguan	huazhong university of science and technology
+魏国基	管理科学与工程	2008	guoji wei	huazhong university of science and technology
+虞清泉	电工理论与新技术	2008	qingquan yu	huazhong university of science and technology
+徐鹰	计算机应用技术	2008	ying xu	jilin university
+黄彪	控制理论与控制工程	2008	biao huang	jiangnan university
+王加生	食品科学	2008	jiasheng wang	jiangnan university
+齐家国	生态遥感	2008	jiaguo qi	lanzhou university
+任志锋	凝聚态物理	2008	zhifeng ren	nanjing university
+吴殿青	生物化学与分子生物学	2008	dianqing wu	nanjing university
+覃宁	飞行器设计	2008	ning tan	nanjing university of aeronautics and astronautics
+陶钢	控制科学与工程	2008	gang tao	nanjing university of aeronautics and astronautics
+冯刚	控制理论与控制工程	2008	gang feng	nanjing university of science and technology
+张洪明	语言学及应用语言学	2008	hongming zhang	nankai university
+蔡维德	计算机软件与理论	2008	weide cai	tsinghua university
+常瑞华	物理电子学	2008	ruihua chang	tsinghua university
+陈志武	经济学	2008	zhiwu chen	tsinghua university
+高海燕	物理	2008	haiyan gao	tsinghua university
+黄一农	专门史	2008	yinong huang	tsinghua university
+李德润	核技术及应用	2008	derun li	tsinghua university
+李琳	材料加工工程	2008	lin li	tsinghua university
+赵建良	管理科学与工程	2008	jianliang zhao	tsinghua university
+祝京旭	化学工程	2008	jingxu zhu	tsinghua university
+陈有海	免疫学	2008	youhai chen	shandong university
+郑玉良	信息安全	2008	yuliang zheng	shandong university
+曹简	材料加工工程	2008	jian cao	shanghai jiao tong university
+董澄	流体力学	2008	cheng dong	shanghai jiao tong university
+王义斌	分子生物学	2008	yibin wang	shanghai jiao tong university
+奚恺元	管理学	2008	kaiyuan xi	shanghai jiao tong university
+谢汉萍	信号与信息处理	2008	hanping xie	shanghai jiao tong university
+曹旭	病理学与病理生理学	2008	xu cao	shihezi university
+何佳	工商管理	2008	jia he	sichuan university
+梁旭	水文学及水资源	2008	xu liang	sichuan university
+贺斌	生物医学工程	2008	bin he	tianjin university
+张传祥	泌尿外科学	2008	chuanxiang zhang	tianjin medical university
+刘维宁	空间物理学	2008	weining liu	wuhan university
+杨伟豪	通信与信息系统	2008	weihao yang	xidian university
+单文华	国际经济法	2008	wenhua dan	xi'an jiaotong university
+李亦	数学	2008	yi li	xi'an jiaotong university
+叶作光	微电子学与固体电子学	2008	zuoguang ye	xi'an jiaotong university
+张玉文	工程热物理	2008	yuwen zhang	xi'an jiaotong university
+安立楠	材料学	2008	linan an	northwestern polytechnical university
+蔡宗武	经济学	2008	zongwu cai	xiamen university
+JuinJLiou	电子科学与技术	2008	JuinJLiou	zhejiang university
+沈炳辉	生物物理学	2008	binghui shen	zhejiang university
+宋顺锋	区域经济学	2008	shunfeng song	zhejiang university
+郑铭豪	外科学（骨移植）	2008	minghao zheng	zhejiang university
+左康	数学（代数几何学）	2008	kang zuo	zhejiang university
+赵月枝	传播学	2008	yuezhi zhao	中国传媒大学
+王雁宾	地球动力学	2008	yanbin wang	中国地质大学（武汉）
+叶如钢	基础数学	2008	rugang ye	university of science and technology of china
+周正洪	生物物理学	2008	zhenghong zhou	university of science and technology of china
+PSSchnable	作物遗传育种	2008	PSSchnable	china agricultural university
+DavidJasper	比较文学与世界文学	2008	DavidJasper	renmin university of china
+丁晓利	大地测量学与测量工程	2008	xiaoli ding	central south university
+苏冰	耳鼻咽喉科学	2008	bing su	central south university
+HuangPeng	肿瘤学	2008	HuangPeng	sun yat-sen university
+蓝田	分子遗传学	2008	tian lan	sun yat-sen university
+张和平	统计学和生物信息学	2008	heping zhang	sun yat-sen university
+周敏	社会学	2008	min zhou	sun yat-sen university
+Eichen-green	金融学	2008	Eichen-green	central university of finance and economics
+何通川	外科学	2008	tongchuan he	chongqing medical university
+乔杰	none	2010	jie qiao	﻿peking university
+谢心澄	none	2010	xincheng xie	﻿peking university
+李若瑜	none	2010	ruoyu li	﻿peking university
+焦宗夏	none	2010	zongxia jiao	beihang university
+陶然	none	2010	ran tao	beijing institute of technology
+张学	none	2010	xue zhang	peking union medical college
+庾石山	none	2010	shishan yu	peking union medical college
+刘黎明	none	2010	liming liu	dalian university of technology
+吴智深	none	2010	zhishen wu	southeast university
+李华伟	none	2010	huawei li	fudan university
+张为华	none	2010	weihua zhang	国防科技大学
+苏金树	none	2010	jinshu su	国防科技大学
+樊文飞	none	2010	wenfei fan	harbin engineering university
+黄云辉	none	2010	yunhui huang	huazhong university of science and technology
+陆培祥	none	2010	peixiang lu	huazhong university of science and technology
+于晓方	none	2010	xiaofang yu	jilin university
+陈虹	none	2010	hong chen	jilin university
+黄建平	none	2010	jianping huang	lanzhou university
+李爱民/潘丙才	none	2010	li ai min / pan bing cai	nanjing university
+杨永华/孔令东	none	2010	yang yong hua / kong ling dong	nanjing university
+王磊	none	2010	lei wang	nankai university
+梅生伟	none	2010	shengwei mei	tsinghua university
+李术才	none	2010	shucai li	shandong university
+陈接胜	none	2010	jiesheng chen	shanghai jiao tong university
+贺林	none	2010	lin he	shanghai jiao tong university
+王玉忠	none	2010	yuzhong wang	sichuan university
+王清远	none	2010	qingyuan wang	sichuan university
+张维	none	2010	wei zhang	tianjin university
+朱合华	none	2010	hehua zhu	tongji university
+周翔	none	2010	xiang zhou	wuhan university
+刘泉声	none	2010	quansheng liu	wuhan university
+席光	none	2010	guang xi	xi'an jiaotong university
+赵玉龙	none	2010	yulong zhao	xi'an jiaotong university
+宋笔锋	none	2010	bifeng song	northwestern polytechnical university
+陈辉	none	2010	hui chen	西北农林科技大学
+王野	none	2010	ye wang	xiamen university
+张晓坤	none	2010	xiaokun zhang	xiamen university
+段树民	none	2010	shumin duan	zhejiang university
+刘旭	none	2010	xu liu	zhejiang university
+彭金荣	none	2010	jinrong peng	zhejiang university
+李嘉禹	none	2010	jiayu li	university of science and technology of china
+彭友良	none	2010	youliang peng	china agricultural university
+杨瑞龙	none	2010	ruilong yang	renmin university of china
+阳春华	none	2010	chunhua yang	central south university
+张永兴	none	2010	yongxing zhang	chongqing university
+刘建军	none	2010	jianjun liu	anhui medical university
+张顶立	none	2010	dingli zhang	beijing jiaotong university
+吕昭平	none	2010	zhaoping lv	university of science and technology beijing
+廖建新	none	2010	jianxin liao	beijing university of posts and telecommunications
+蔡宜长	none	2010	yizhang cai	chang'an university
+李兆申	none	2010	zhaoshen li	second military medical university
+吴玉章	none	2010	yuzhang wu	third military medical university
+熊利泽	none	2010	lize xiong	fourth military medical university
+王传宽	none	2010	chuankuan wang	northeast forestry university
+郭建华	none	2010	jianhua guo	northeast normal university
+余木火	none	2010	muhuo yu	donghua university
+杨松	none	2010	song yang	guizhou university
+张志俭	none	2010	zhijian zhang	哈尔滨工程大学
+袁俊生	none	2010	junsheng yuan	hebei university of technology
+尹钧	none	2010	jun yin	henan agricultural university
+张贵生	none	2010	guisheng zhang	henan normal university
+罗必良	none	2010	biliang luo	south china agricultural university
+黄辉	none	2010	hui huang	huaqiao university
+张弛	none	2010	chi zhang	jiangsu university
+李梅	none	2010	mei li	内蒙古科技大学
+应汉杰	none	2010	hanjie ying	nanjing university of technology
+田军仓	none	2010	juncang tian	宁夏大学
+赵海兴	none	2010	haixing zhao	青海师范大学
+董育斌	none	2010	yubin dong	shandong normal university
+刘昭铁	none	2010	zhaotie liu	shaanxi normal university
+王峥涛	none	2010	zhengtao wang	上海中医药大学
+张凤阁	none	2010	fengge zhang	shenyang university of technology
+程卯生	none	2010	maosheng cheng	shenyang pharmaceutical university
+杜杰	none	2010	jie du	capital medical university
+高晓明	none	2010	xiaoming gao	soochow university
+陈可欣	none	2010	kexin chen	tianjin medical university
+戴黎明	none	2010	liming dai	温州医学院
+马建峰	none	2010	jianfeng ma	xidian university
+张烈辉	none	2010	liehui zhang	southwest petroleum university
+郑学军	none	2010	xuejun zheng	xiangtan university
+刘浪	none	2010	lang liu	xinjiang university
+刘俊	none	2010	jun liu	north university of china
+郑有业	none	2010	youye zheng	中国地质大学(北京)
+张农	none	2010	nong zhang	china university of mining and technology
+武强	none	2010	qiang wu	中国矿业大学(北京)
+孙宝江	none	2010	baojiang sun	中国石油大学(华东)

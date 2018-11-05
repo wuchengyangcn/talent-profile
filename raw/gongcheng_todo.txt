@@ -1,0 +1,392 @@
+邓宗全	机械与运载工程学部	2017	zongquan deng	harbin engineering university
+冯煜芳	机械与运载工程学部	2017	yufang feng	火箭军研究院
+何琳	机械与运载工程学部	2017	lin he	naval university of engineering
+黄庆学	机械与运载工程学部	2017	qingxue huang	taiyuan university of technology
+王振国	机械与运载工程学部	2017	zhenguo wang	国防科技大学
+吴光辉	机械与运载工程学部	2017	guanghui wu	中国商用飞机有限责任公司
+夏长亮	机械与运载工程学部	2017	zhangliang xia	tianjin polytechnic university
+周志成	机械与运载工程学部	2017	zhicheng zhou	中国航天科技集团公司第五研究院
+陈杰	信息与电子工程学部	2017	jie chen	beijing institute of technology
+刘永坚	信息与电子工程学部	2017	yongjian liu	空军研究院
+刘泽金	信息与电子工程学部	2017	zejin liu	国防科技大学
+陆军	信息与电子工程学部	2017	jun lu	中国电科电子科学研究院
+宁滨	信息与电子工程学部	2017	bin ning	beijing jiaotong university
+谭久彬	信息与电子工程学部	2017	jiubin tan	harbin engineering university
+王沙飞	信息与电子工程学部	2017	shafei wang	战略支援部队某研究所
+戴厚良	化工、冶金与材料工程学部	2017	houliang dai	中国石油化工集团公司
+黄小卫	化工、冶金与材料工程学部	2017	xiaowei huang	北京有色金属研究总院
+吴锋	化工、冶金与材料工程学部	2017	feng wu	beijing institute of technology
+张联盟	化工、冶金与材料工程学部	2017	lianmeng zhang	wuhan university of technology
+周济	化工、冶金与材料工程学部	2017	ji zhou	tsinghua university
+邓建军	能源与矿业工程学部	2017	jianjun deng	china academy of engineering physics
+毛景文	能源与矿业工程学部	2017	jingwen mao	chinese academy of sciences
+孙金声	能源与矿业工程学部	2017	jinsheng sun	中国石油集团钻井工程技术研究院
+汤广福	能源与矿业工程学部	2017	guangfu tang	全球能源互联网研究院
+唐立	能源与矿业工程学部	2017	li tang	北京应用物理与计算数学研究所
+王国法	能源与矿业工程学部	2017	guofa wang	天地科技股份有限公司
+王双明	能源与矿业工程学部	2017	shuangming wang	陕西省地质调查院
+陈湘生	土木、水利与建筑工程学部	2017	xiangsheng chen	深圳市地铁集团有限公司
+邓铭江	土木、水利与建筑工程学部	2017	mingjiang deng	新疆额尔齐斯河流域开发工程建设管理局
+吴志强	土木、水利与建筑工程学部	2017	zhiqiang wu	tongji university
+谢先启	土木、水利与建筑工程学部	2017	xianqi xie	武汉航空港发展集团有限公司
+岳清瑞	土木、水利与建筑工程学部	2017	qingrui yue	中冶建筑研究总院有限公司
+陈坚	环境与轻纺工程学部	2017	jian chen	jiangnan university
+贺泓	环境与轻纺工程学部	2017	hong he	chinese academy of sciences
+蒋兴伟	环境与轻纺工程学部	2017	xingwei jiang	国家卫星海洋应用中心
+王琪	环境与轻纺工程学部	2017	qi wang	sichuan university
+吴丰昌	环境与轻纺工程学部	2017	fengchang wu	中国环境科学研究院
+蒋剑春	农业学部	2017	jianchun jiang	中国林业科学研究院林产化学工业研究所
+康振生	农业学部	2017	zhensheng kang	西北农林科技大学
+王汉中	农业学部	2017	hanzhong wang	chinese academy of sciences
+张守攻	农业学部	2017	shougong zhang	中国林业科学研究院
+赵春江	农业学部	2017	chunjiang zhao	chinese academy of sciences
+邹学校	农业学部	2017	xuexiao zou	chinese academy of sciences
+董家鸿	医药卫生学部	2017	jiahong dong	清华大学附属北京清华长庚医院
+李兆申	医药卫生学部	2017	zhaoshen li	海军军医大学长海医院
+马丁	医药卫生学部	2017	ding ma	华中科技大学同济医学院附属同济医院
+乔杰	医药卫生学部	2017	jie qiao	北京大学第三医院
+王锐	医药卫生学部	2017	rui wang	lanzhou university
+张英泽	医药卫生学部	2017	yingze zhang	河北医科大学第三医院
+陈晓红	工程管理学部	2017	xiaohong chen	湖南商学院
+范国滨	工程管理学部	2017	guobin fan	china academy of engineering physics
+刘合	工程管理学部	2017	he liu	中国石油天然气股份有限公司勘探开发研究院
+卢春房	工程管理学部	2017	chunfang lu	中国铁路总公司
+王金南	工程管理学部	2017	jinnan wang	环境保护部环境规划院
+陈学东	机械与运载工程学部	2015	xuedong chen	合肥通用机械研究院
+侯晓	机械与运载工程学部	2015	xiao hou	中国航天科技集团公司
+李魁武	机械与运载工程学部	2015	kuiwu li	中国兵器工业集团
+邱志明	机械与运载工程学部	2015	zhiming qiu	海军装备研究院
+孙聪	机械与运载工程学部	2015	cong sun	中国航空工业集团公司
+杨德森	机械与运载工程学部	2015	desen yang	哈尔滨工程大学
+樊邦奎	信息与电子工程学部	2015	bangkui fan	解放军总参谋部
+廖湘科	信息与电子工程学部	2015	xiangke liao	解放军国防科学技术大学
+王恩东	信息与电子工程学部	2015	endong wang	浪潮集团有限公司
+吴伟仁	信息与电子工程学部	2015	weiren wu	国防科工局探月与航天工程中心
+余少华	信息与电子工程学部	2015	shaohua yu	武汉邮电科学研究院
+李卫	化工、冶金与材料工程学部	2015	wei li	钢铁研究总院
+毛新平	化工、冶金与材料工程学部	2015	xinping mao	武汉钢铁（集团）公司
+邓运华	能源与矿业工程学部	2015	yunhua deng	中海油研究总院
+顾大钊	能源与矿业工程学部	2015	dazhao gu	神华集团有限责任公司
+康红普	能源与矿业工程学部	2015	hongpu kang	中国煤炭科工集团有限公司
+武强	能源与矿业工程学部	2015	qiang wu	china university of mining and technology
+陈政清	土木、水利与建筑工程学部	2015	zhengqing chen	hunan university
+孟建民	土木、水利与建筑工程学部	2015	jianmin meng	深圳市建筑设计研究总院有限公司
+任辉启	土木、水利与建筑工程学部	2015	huiqi ren	解放军总参谋部
+谭述森	土木、水利与建筑工程学部	2015	shusen tan	解放军总参谋部
+王建国	土木、水利与建筑工程学部	2015	jianguo wang	southeast university
+郑健龙	土木、水利与建筑工程学部	2015	jianlong zheng	changsha university of science and technology
+李家彪	环境与轻纺工程学部	2015	jiabiao li	国家海洋局第二海洋研究所
+吴清平	环境与轻纺工程学部	2015	qingping wu	广东省微生物研究所
+岳国君	环境与轻纺工程学部	2015	guojun yue	中粮集团有限公司
+金宁一	农业学部	2015	ningyi jin	chinese academy of sciences
+唐华俊	农业学部	2015	huajun tang	chinese academy of sciences
+万建民	农业学部	2015	jianmin wan	chinese academy of sciences
+张洪程	农业学部	2015	hongcheng zhang	yangzhou university
+张新友	农业学部	2015	xinyou zhang	chinese academy of sciences
+高长青	医药卫生工程学部	2015	changqing gao	解放军总医院
+黄璐琦	医药卫生工程学部	2015	luqi huang	chinese academy of sciences
+李松	医药卫生工程学部	2015	song li	chinese academy of sciences
+宁光	医药卫生工程学部	2015	guang ning	上海交通大学医学院附属瑞金医院
+孙颖浩	医药卫生工程学部	2015	yinghao sun	解放军第二军医大学
+张志愿	医药卫生工程学部	2015	zhiyuan zhang	上海交通大学医学院附属第九人民医院
+柴洪峰	工程管理学部	2015	hongfeng chai	中国银联股份有限公司
+金智新	工程管理学部	2015	zhixin jin	山西焦煤集团有限责任公司
+凌文	工程管理学部	2015	wen ling	神华集团有限责任公司
+邵安林	工程管理学部	2015	anlin shao	鞍钢矿业集团
+向巧	工程管理学部	2015	qiao xiang	解放军第五七一九工厂
+樊会涛	机械与运载工程学部	2013	huitao fan	中国航空工业集团公司
+李  骏	机械与运载工程学部	2013	  jun li	中国第一汽车集团公司
+徐芑南	机械与运载工程学部	2013	qinan xu	中国船舶重工集团公司
+尤  政	机械与运载工程学部	2013	  zheng you	tsinghua university
+张  军	机械与运载工程学部	2013	  jun zhang	beihang university
+丁文华	信息与电子工程学部	2013	wenhua ding	中央电视台
+费爱国	信息与电子工程学部	2013	aiguo fei	空军装备研究院
+何  友	信息与电子工程学部	2013	  you he	海军航空工程学院
+杨小牛	信息与电子工程学部	2013	xiaoniu yang	中国电子科技集团公司
+赵沁平	信息与电子工程学部	2013	qinping zhao	ministry of education
+李元元	化工、冶金与材料工程学部	2013	yuanyuan li	jilin university
+李仲平	化工、冶金与材料工程学部	2013	zhongping li	中国航天科技集团材料及工艺研究所
+陈  勇	能源与矿业工程学部	2013	  yong chen	chinese academy of sciences
+郭剑波	能源与矿业工程学部	2013	jianbo guo	国家电网公司中国电力科学研究院
+李  阳	能源与矿业工程学部	2013	  yang li	中国石油化工股份有限公司
+欧阳晓平	能源与矿业工程学部	2013	xiaoping ouyang	西北核技术研究所
+赵文智	能源与矿业工程学部	2013	wenzhi zhao	中国石油天然气股份有限公司
+杜彦良	土木、水利与建筑工程学部	2013	yanliang du	石家庄铁道大学
+郭仁忠	土木、水利与建筑工程学部	2013	renzhong guo	深圳市规划和国土资源委员会
+胡春宏	土木、水利与建筑工程学部	2013	chunhong hu	中国水利水电科学研究院
+钮新强	土木、水利与建筑工程学部	2013	xinqiang niu	水利部长江水利委员会
+肖绪文	土木、水利与建筑工程学部	2013	xuwen xiao	中国建筑股份有限公司
+张  偲	环境与轻纺工程学部	2013	  cai zhang	chinese academy of sciences
+陈学庚	农业学部	2013	xuegeng chen	chinese academy of sciences
+李德发	农业学部	2013	defa li	中国农业大学动物科技学院
+赵振东	农业学部	2013	zhendong zhao	chinese academy of sciences
+韩德民	医药卫生工程学部	2013	demin han	首都医科大学北京同仁医院
+韩雅玲	医药卫生工程学部	2013	yaling han	沈阳军区总医院
+胡盛寿	医药卫生工程学部	2013	shengshou hu	chinese academy of sciences
+林东昕	医药卫生工程学部	2013	dongxin lin	chinese academy of sciences
+王  辰	医药卫生工程学部	2013	  chen wang	北京医院
+夏照帆	医药卫生工程学部	2013	zhaofan xia	第二军医大学长海医院
+曹耀峰	工程管理学部	2013	yaofeng cao	中国石油化工集团公司
+黄维和	工程管理学部	2013	weihe huang	中国石油天然气股份有限公司
+周建平	工程管理学部	2013	jianping zhou	中国载人航天工程办公室
+丁荣军	机械与运载工程学部	2011	rongjun ding	南车株洲电力机车研究所有限公司
+甘晓华	机械与运载工程学部	2011	xiaohua gan	空军装备研究院
+刘连元	机械与运载工程学部	2011	lianyuan liu	中国航天科技集团公司第一研究院第十四研究所
+唐长红	机械与运载工程学部	2011	zhanghong tang	中国航空工业集团公司第一飞机设计研究院
+杨绍卿	机械与运载工程学部	2011	shaoqing yang	中国兵器工业第二○三研究所
+朱英富	机械与运载工程学部	2011	yingfu zhu	中国船舶重工集团公司第七〇一研究所
+陈志杰	信息与电子工程学部	2011	zhijie chen	空军装备研究院
+高  文	信息与电子工程学部	2011	  wen gao	﻿peking university
+李天初	信息与电子工程学部	2011	tianchu li	中国计量科学研究院
+吕跃广	信息与电子工程学部	2011	yueguang lv	总参谋部第五十四研究所
+吾守尔·斯拉木	信息与电子工程学部	2011	wu shou er · si la mu	xinjiang university
+陈祥宝	化工、冶金与材料工程学部	2011	xiangbao chen	中国航空工业集团公司北京航空材料研究院
+李言荣	化工、冶金与材料工程学部	2011	yanrong li	电子科技大学
+王海舟	化工、冶金与材料工程学部	2011	haizhou wang	中国钢研科技集团有限公司
+李晓红	能源与矿业工程学部	2011	xiaohong li	wuhan university
+孙龙德	能源与矿业工程学部	2011	longde sun	中国石油天然气股份有限公司
+徐  銤	能源与矿业工程学部	2011	  mi xu	中国原子能科学研究院
+张玉卓	能源与矿业工程学部	2011	yuzhuo zhang	神华集团有限责任公司
+赵宪庚	能源与矿业工程学部	2011	xiangeng zhao	china academy of engineering physics
+崔  愷	土木、水利与建筑工程学部	2011	  kai cui	中国建筑设计研究院
+龚晓南	土木、水利与建筑工程学部	2011	xiaonan gong	zhejiang university
+李建成	土木、水利与建筑工程学部	2011	jiancheng li	wuhan university
+缪昌文	土木、水利与建筑工程学部	2011	changwen mou	江苏省建筑科学研究院有限公司
+王  超	土木、水利与建筑工程学部	2011	  chao wang	hohai university
+周绪红	土木、水利与建筑工程学部	2011	xuhong zhou	lanzhou university
+段  宁	环境与轻纺工程学部	2011	  ning duan	中国环境科学研究院清洁生产中心
+谢剑平	环境与轻纺工程学部	2011	jianping xie	中国烟草总公司郑州烟草研究院
+陈剑平	农业学部	2011	jianping chen	chinese academy of sciences
+李  坚	农业学部	2011	  jian li	northeast forestry university
+吴孔明	农业学部	2011	kongming wu	chinese academy of sciences
+喻树迅	农业学部	2011	shuxun yu	chinese academy of sciences
+丛  斌	医药卫生工程学部	2011	  bin cong	hebei medical university
+郎景和	医药卫生工程学部	2011	jinghe lang	chinese academy of sciences
+沈祖尧	医药卫生工程学部	2011	zuyao shen	the chinese university of hong kong
+王学浩	医药卫生工程学部	2011	xuehao wang	南京医科大学第一附属医院
+徐建国	医药卫生工程学部	2011	jianguo xu	中国疾病预防控制中心传染病预防控制所
+于金明	医药卫生工程学部	2011	jinming yu	山东省肿瘤防治研究院
+詹启敏	医药卫生工程学部	2011	qimin zhan	chinese academy of sciences
+胡文瑞	工程管理学部	2011	wenrui hu	中国石油天然气集团公司
+赵晓哲	工程管理学部	2011	xiaozhe zhao	海军大连舰艇学院
+郑静晨	工程管理学部	2011	jingchen zheng	武警部队总医院
+董春鹏	机械与运载工程学部	2009	chunpeng dong	中国船舶重工集团公司第七○五研究所
+金东寒	机械与运载工程学部	2009	donghan jin	中国船舶重工集团公司第七一一研究所
+刘永才	机械与运载工程学部	2009	yongcai liu	中国航天科工集团第三研究院
+邓中翰	信息与电子工程学部	2009	zhonghan deng	北京中星微电子有限公司
+吴曼青	信息与电子工程学部	2009	manqing wu	中国电子科技集团公司第三十八研究所
+于  全	信息与电子工程学部	2009	  quan yu	总参谋部第六十一研究所
+翁宇庆	化工、冶金与材料工程学部	2009	yuqing weng	中国金属学会
+张生勇	化工、冶金与材料工程学部	2009	shengyong zhang	第四军医大学手性技术研究中心
+周  玉	化工、冶金与材料工程学部	2009	  yu zhou	harbin engineering university
+周克崧	化工、冶金与材料工程学部	2009	kesong zhou	广州有色金属研究院
+马永生	能源与矿业工程学部	2009	yongsheng ma	中国石油化工股份有限公司油田勘探开发事业部
+于俊崇	能源与矿业工程学部	2009	junchong yu	中国核动力研究设计院
+袁  亮	能源与矿业工程学部	2009	  liang yuan	淮南矿业（集团）有限责任公司
+岳光溪	能源与矿业工程学部	2009	guangxi yue	清华大学热能工程系
+周守为	能源与矿业工程学部	2009	shouwei zhou	中国海洋石油总公司
+何华武	土木、水利与建筑工程学部	2009	huawu he	中华人民共和国铁道部
+秦顺全	土木、水利与建筑工程学部	2009	shunquan qin	中铁大桥局集团有限公司
+任南琪	土木、水利与建筑工程学部	2009	nanqi ren	harbin engineering university
+杨永斌	土木、水利与建筑工程学部	2009	yongbin yang	云林科技大学（台湾）
+张建云	土木、水利与建筑工程学部	2009	jianyun zhang	南京水利科学研究院
+侯立安	环境与轻纺工程学部	2009	lian hou	第二炮兵工程设计研究所
+孟  伟	环境与轻纺工程学部	2009	  wei meng	中国环境科学研究院
+石  碧	环境与轻纺工程学部	2009	  bi shi	sichuan university
+徐祥德	环境与轻纺工程学部	2009	xiangde xu	中国气象科学研究院
+陈温福	农业学部	2009	wenfu chen	shenyang agricultural university
+李  玉	农业学部	2009	  yu li	吉林农业大学
+刘  旭	农业学部	2009	  xu liu	chinese academy of sciences
+南志标	农业学部	2009	zhibiao nan	甘肃省草原生态研究所/兰州大学草地农业科技学院
+张改平	农业学部	2009	gaiping zhang	chinese academy of sciences
+程  京	医药卫生工程学部	2009	  jing cheng	清华大学医学院
+丁  健	医药卫生工程学部	2009	  jian ding	chinese academy of sciences
+付小兵	医药卫生工程学部	2009	xiaobing fu	解放军总医院第一附属医院
+廖万清	医药卫生工程学部	2009	wanqing liao	第二军医大学长征医院
+吴以岭	医药卫生工程学部	2009	yiling wu	河北省中西医结合医药研究院
+周良辅	医药卫生工程学部	2009	liangfu zhou	复旦大学附属华山医院
+栾恩杰	工程管理学部	2009	enjie luan	国家国防科技工业局
+王  安	工程管理学部	2009	  an wang	中国中煤能源集团公司
+王陇德	工程管理学部	2009	longde wang	中华预防医学会
+张金麟 	机械与运载工程学部	2007	lin  zhangjin	中国船舶重工集团第七一九研究所 
+杨凤田 	机械与运载工程学部	2007	tian  yangfeng	中国航空工业第一集团公司沈阳飞机设计研究所 
+陈福田 	机械与运载工程学部	2007	tian  chenfu	中国航天科技集团公司第一研究院 
+臧克茂 	机械与运载工程学部	2007	mao  zangke	装甲兵工程学院 
+谭建荣 	机械与运载工程学部	2007	rong  tanjian	浙江大学 
+张尧学 	信息与电子工程学部	2007	xue  zhangyao	教育部 
+徐扬生 	信息与电子工程学部	2007	sheng  xuyang	香港中文大学 
+张兴栋 	化工、冶金与材料工程学部	2007	dong  zhangxing	四川大学 
+姜德生 	化工、冶金与材料工程学部	2007	sheng  jiangde	武汉理工大学 
+屠海令 	化工、冶金与材料工程学部	2007	ling  tuhai	北京有色金属研究总院 
+丁伯南 	能源与矿业工程学部	2007	nan  dingbo	中国工程物理研究院 
+李立浧 	能源与矿业工程学部	2007	ying  lili	中国南方电网有限责任公司 
+彭苏萍 	能源与矿业工程学部	2007	ping  pengsu	中国矿业大学 
+马克俭 	土木、水利与建筑工程学部	2007	jian  make	贵州大学 
+王小东 	土木、水利与建筑工程学部	2007	dong  wangxiao	新疆建筑设计研究院 
+黄卫 	土木、水利与建筑工程学部	2007	wei  huang	建设部 
+雷志栋 	土木、水利与建筑工程学部	2007	dong  leizhi	清华大学 
+方国洪 	环境与轻纺工程学部	2007	hong  fangguo	国家海洋局第一海洋研究所
+张全兴 	环境与轻纺工程学部	2007	xing  zhangquan	南京大学 
+庞国芳 	环境与轻纺工程学部	2007	fang  pangguo	河北（秦皇岛）出入境检验检疫局 
+于振文 	农业学部	2007	wen  yuzhen	山东农业大学 
+邓秀新 	农业学部	2007	xin  dengxiu	华中农业大学 
+刘兴土 	农业学部	2007	tu  liuxing	chinese academy of sciences
+李宁 	农业学部	2007	ning  li	中国农业大学 
+颜龙安 	农业学部	2007	an  yanlong	chinese academy of sciences
+李大鹏 	医药卫生工程学部	2007	peng  lida	浙江中医药大学 
+邱贵兴 	医药卫生工程学部	2007	xing  qiugui	chinese academy of sciences
+陈志南 	医药卫生工程学部	2007	nan  chenzhi	第四军医大学 
+陈香美 	医药卫生工程学部	2007	mei  chenxiang	解放军总医院 
+陈肇隆 	医药卫生工程学部	2007	long  chenzhao	高雄长庚纪念医院 
+袁国勇 	医药卫生工程学部	2007	yong  yuanguo	香港大学 
+王玉普 	工程管理学部	2007	pu  wangyu	大庆油田有限责任公司 
+许庆瑞 	工程管理学部	2007	rui  xuqing	浙江大学 
+尹泽勇	机械与运载工程学部	2005	zeyong yin	中国航空工业第二集团公司六○八所
+苏哲子	机械与运载工程学部	2005	zhezi su	中国兵器工业集团哈尔滨北方特种车辆制造有限公司
+范本尧	机械与运载工程学部	2005	benyao fan	中国航天科技集团公司第五研究院
+钟志华	机械与运载工程学部	2005	zhihua zhong	hunan university
+徐德民	机械与运载工程学部	2005	demin xu	northwestern polytechnical university
+方滨兴	信息与电子工程学部	2005	binxing fang	国家计算机网络与信息安全管理中心
+刘韵洁	信息与电子工程学部	2005	yunjie liu	中国联合通信有限公司
+陈鲸	信息与电子工程学部	2005	jing chen	总参谋部第五十七研究所
+黄培康	信息与电子工程学部	2005	peikang huang	中国航天科工集团公司第二研究院
+戴浩	信息与电子工程学部	2005	hao dai	总参谋部第六十一研究所
+王一德	化工、冶金与材料工程学部	2005	yide wang	太原钢铁(集团)有限公司
+陈丙珍(女)	化工、冶金与材料工程学部	2005	chen bing zhen ( nv )	tsinghua university
+赵振业	化工、冶金与材料工程学部	2005	zhenye zhao	中国航空工业第一集团公司北京航空材料研究院
+安继刚	能源与矿业工程学部	2005	jigang an	tsinghua university
+张信威	能源与矿业工程学部	2005	xinwei zhang	北京应用物理与计算数学研究所
+陈念念	能源与矿业工程学部	2005	niannian chen	中国核工业集团公司理化工程研究院
+闻雪友	能源与矿业工程学部	2005	xueyou wen	中国船舶重工集团公司第七〇三研究所
+袁士义	能源与矿业工程学部	2005	shiyi yuan	中国石油勘探开发研究院
+康玉柱	能源与矿业工程学部	2005	yuzhu kang	中国石油化工股份有限公司西部新区勘探指挥部
+童晓光	能源与矿业工程学部	2005	xiaoguang tong	中国石油天然气勘探开发公司
+王浩	土木、水利与建筑工程学部	2005	hao wang	中国水利水电科学研究院
+许其凤	土木、水利与建筑工程学部	2005	qifeng xu	解放军信息工程大学
+孙伟(女)	土木、水利与建筑工程学部	2005	sun wei ( nv )	southeast university
+沈祖炎	土木、水利与建筑工程学部	2005	zuyan shen	tongji university
+林元培	土木、水利与建筑工程学部	2005	yuanpei lin	上海市政工程设计研究院
+梁文灏	土木、水利与建筑工程学部	2005	wenhao liang	铁道第一勘察设计院
+程泰宁	土木、水利与建筑工程学部	2005	taining cheng	中联程泰宁建筑设计研究院
+丁一汇	农业、环境与轻纺工程学部	2005	yihui ding	国家气候中心
+程顺和	农业、环境与轻纺工程学部	2005	shunhe cheng	chinese academy of sciences
+雷霁霖	农业、环境与轻纺工程学部	2005	jilin lei	中国水产科学研究院黄海水产研究所
+王红阳(女)	医药卫生工程学部	2005	wang hong yang ( nv )	second military medical university
+李兰娟(女)	医药卫生工程学部	2005	li lan juan ( nv )	浙江大学医学院附属第一医院
+张伯礼	医药卫生工程学部	2005	boli zhang	天津中医学院
+陈君石	医药卫生工程学部	2005	junshi chen	中国疾病预防控制中心营养与食品安全所
+范上达	医药卫生工程学部	2005	shangda fan	university of hong kong
+曹雪涛	医药卫生工程学部	2005	xuetao cao	second military medical university
+王基铭	工程管理学部	2005	jiming wang	中国石油化工股份有限公司
+孙永福	工程管理学部	2005	yongfu sun	ministry of railways
+沈荣骏	工程管理学部	2005	rongjun shen	总装备部
+王玉明	机械与运载工程学部	2003	yuming wang	天津新技术产业园区鼎名密封有限公司
+石屏	机械与运载工程学部	2003	ping shi	洪都航空工业集团有限责任公司飞机设计研究所
+刘怡昕	机械与运载工程学部	2003	yixin liu	解放军炮兵学院南京分院
+宋文骢	机械与运载工程学部	2003	wencong song	成都飞机设计研究所
+孟执中	机械与运载工程学部	2003	zhizhong meng	中国航天科技集团公司第八研究院
+徐玉如	机械与运载工程学部	2003	yuru xu	哈尔滨工程大学
+黄瑞松	机械与运载工程学部	2003	ruisong huang	中国航天科工集团公司第三研究院
+王天然	信息与电子工程学部	2003	tianran wang	chinese academy of sciences
+邬江兴	信息与电子工程学部	2003	jiangxing wu	解放军信息工程大学
+周寿桓	信息与电子工程学部	2003	shouhuan zhou	中国电子科技集团公司第十一研究所
+龚知本	信息与电子工程学部	2003	zhiben gong	chinese academy of sciences
+孙传尧	化工、冶金与材料工程学部	2003	chuanyao sun	北京矿冶研究总院
+张文海	化工、冶金与材料工程学部	2003	wenhai zhang	南昌有色冶金设计研究院
+赵连城	化工、冶金与材料工程学部	2003	liancheng zhao	harbin engineering university
+桑凤亭	化工、冶金与材料工程学部	2003	fengting sang	chinese academy of sciences
+董海山	化工、冶金与材料工程学部	2003	haishan dong	中国工程物理研究院化工材料研究所
+叶奇蓁	能源与矿业工程学部	2003	qizhen ye	核电秦山联营有限公司
+衣宝廉	能源与矿业工程学部	2003	baolian yi	chinese academy of sciences
+孙承纬	能源与矿业工程学部	2003	chengwei sun	中国工程物理研究院流体物理研究所
+苏义脑	能源与矿业工程学部	2003	yinao su	中国石油勘探开发研究院
+李焯芬	能源与矿业工程学部	2003	chaofen li	university of hong kong
+张铁岗	能源与矿业工程学部	2003	tiegang zhang	河南省平顶山煤业（集团）有限责任公司
+雷清泉	能源与矿业工程学部	2003	qingquan lei	哈尔滨理工大学
+王景全	土木、水利与建筑工程学部	2003	jingquan wang	解放军理工大学
+王瑞珠	土木、水利与建筑工程学部	2003	ruizhu wang	中国城市规划设计研究院
+邹德慈	土木、水利与建筑工程学部	2003	deci zou	中国城市规划设计研究院
+张在明	土木、水利与建筑工程学部	2003	zaiming zhang	北京市勘察设计研究院
+张超然	土木、水利与建筑工程学部	2003	chaoran zhang	长江三峡工程开发总公司
+茆智	土木、水利与建筑工程学部	2003	zhi mao	wuhan university
+欧进萍	土木、水利与建筑工程学部	2003	jinping ou	harbin engineering university
+周福霖	土木、水利与建筑工程学部	2003	fulin zhou	guangzhou university
+李佩成	农业、环境与轻纺工程学部	2003	peicheng li	chang'an university
+辛世文	农业、环境与轻纺工程学部	2003	shiwen xin	the chinese university of hong kong
+陈宗懋	农业、环境与轻纺工程学部	2003	zongmao chen	chinese academy of sciences
+夏咸柱	农业、环境与轻纺工程学部	2003	xianzhu xia	解放军军需大学
+刘志红(女)	医药卫生工程学部	2003	liu zhi hong ( nv )	解放军南京军区南京总医院
+刘昌孝	医药卫生工程学部	2003	changxiao liu	天津药物研究院
+李连达	医药卫生工程学部	2003	lianda li	中国中医研究院西苑医院
+陈赛娟(女)	医药卫生工程学部	2003	chen sai juan ( nv )	上海第二医科大学上海血研所
+项坤三	医药卫生工程学部	2003	kunsan xiang	上海交通大学附属第六人民医院
+戴尅戎	医药卫生工程学部	2003	kerong dai	上海二医大附属第九人民医院
+王礼恒	工程管理学部	2003	liheng wang	中国航天科技集团公司
+陆佑楣	工程管理学部	2003	youmei lu	中国长江三峡工程开发总公司
+于本水	机械与运载工程学部	2001	benshui yu	北京电子工程总体研究所
+马伟明	机械与运载工程学部	2001	weiming ma	解放军海军工程大学
+王哲荣	机械与运载工程学部	2001	zherong wang	中国北方车辆研究所
+龙乐豪	机械与运载工程学部	2001	lehao long	中国航天科技集团公司第一研究院
+冯培德	机械与运载工程学部	2001	peide feng	中国航空工业西安飞行自动控制研究所
+张彦仲	机械与运载工程学部	2001	yanzhong zhang	中国航空工业第二集团公司
+赵煦	机械与运载工程学部	2001	xu zhao	中国航空武器实验训练靶场
+徐志磊	机械与运载工程学部	2001	zhilei xu	china academy of engineering physics
+戚发轫	机械与运载工程学部	2001	faren qi	中国航天科技集团公司第五研究院
+潘健生	机械与运载工程学部	2001	jiansheng pan	shanghai jiao tong university
+王子才	信息与电子工程学部	2001	zicai wang	harbin engineering university
+孙忠良	信息与电子工程学部	2001	zhongliang sun	southeast university
+李伯虎	信息与电子工程学部	2001	bohu li	中国长峰机电技术研究设计院
+何新贵	信息与电子工程学部	2001	xingui he	北京系统工程研究所
+张乃通	信息与电子工程学部	2001	naitong zhang	harbin engineering university
+陈左宁(女)	信息与电子工程学部	2001	chen zuo ning ( nv )	国家并行计算机工程技术研究中心
+贲德	信息与电子工程学部	2001	de ben	信息产业部电子第十四研究所
+宫先仪	信息与电子工程学部	2001	xianyi gong	中国船舶重工集团公司第七研究院第715所
+姚骏恩	信息与电子工程学部	2001	junen yao	chinese academy of sciences
+干勇	化工、冶金与材料工程学部	2001	yong gan	钢铁研究总院
+才鸿年	化工、冶金与材料工程学部	2001	hongnian cai	中国兵器装备集团公司
+何季麟	化工、冶金与材料工程学部	2001	jilin he	宁夏有色金属冶炼厂（院）
+张耀明	化工、冶金与材料工程学部	2001	yaoming zhang	南京玻璃纤维研究设计院
+欧阳平凯	化工、冶金与材料工程学部	2001	pingkai ouyang	南京化工大学
+王浚	能源与矿业工程学部	2001	jun wang	beihang university
+多吉	能源与矿业工程学部	2001	ji duo	西藏地质矿产勘查开发局地热地质大队
+沈忠厚	能源与矿业工程学部	2001	zhonghou shen	北京昌平石油大学
+陈森玉	能源与矿业工程学部	2001	senyu chen	chinese academy of sciences
+赵文津	能源与矿业工程学部	2001	wenjin zhao	chinese academy of sciences
+秦裕琨	能源与矿业工程学部	2001	yukun qin	harbin engineering university
+顾金才	能源与矿业工程学部	2001	jincai gu	洛阳水利工程技术研究所
+韩大匡	能源与矿业工程学部	2001	dakuang han	中国石油勘探开发研究院
+傅依备	能源与矿业工程学部	2001	yibei fu	china academy of engineering physics
+马洪琪	土木、水利与建筑工程学部	2001	hongqi ma	云南澜沧江水电开发有限公司
+王三一	土木、水利与建筑工程学部	2001	sanyi wang	国家电力公司中南勘测设计研究院
+王家耀	土木、水利与建筑工程学部	2001	jiayao wang	郑州测绘学院
+江亿	土木、水利与建筑工程学部	2001	yi jiang	tsinghua university
+李猷嘉	土木、水利与建筑工程学部	2001	youjia li	中国市政工程华北设计研究院
+陈志恺	土木、水利与建筑工程学部	2001	zhikai chen	水利部中国水利水电科学研究院
+范立础	土木、水利与建筑工程学部	2001	lichu fan	同济大学土木工程学院
+林俊德	土木、水利与建筑工程学部	2001	junde lin	总装备部
+郑颖人	土木、水利与建筑工程学部	2001	yingren zheng	解放军后勤工程学院
+韩其为	土木、水利与建筑工程学部	2001	qiwei han	中国水利水电科学研究院
+魏敦山	土木、水利与建筑工程学部	2001	dunshan wei	上海现代建筑设计（集团） 有限公司
+孙九林	农业、轻纺与环境工程学部	2001	jiulin sun	chinese academy of sciences
+林鹏	农业、轻纺与环境工程学部	2001	peng lin	xiamen university
+姚穆	农业、轻纺与环境工程学部	2001	mu yao	西北纺织工学院
+夏德全	农业、轻纺与环境工程学部	2001	dequan xia	中国水产科学研究院淡水渔业研究中心
+郭予元	农业、轻纺与环境工程学部	2001	yuyuan guo	chinese academy of sciences
+蔡道基	农业、轻纺与环境工程学部	2001	daoji cai	国家环境保护总局南京环境科学研究所
+潘德炉	农业、轻纺与环境工程学部	2001	delu pan	国家海洋局第二海洋研究所
+庄辉	医药卫生工程学部	2001	hui zhuang	﻿peking university
+刘耀	医药卫生工程学部	2001	yao liu	公安部物证鉴定中心
+李春岩	医药卫生工程学部	2001	chunyan li	河北医科大学第二医院
+吴天一	医药卫生工程学部	2001	tianyi wu	青海高原医学研究所
+邱蔚六	医药卫生工程学部	2001	weiliu qiu	上海第二医科大学附属第九人民医院
+张运	医药卫生工程学部	2001	yun zhang	山东大学齐鲁医院
+张心湜	医药卫生工程学部	2001	xinshi zhang	台湾阳明大学
+郑树森	医药卫生工程学部	2001	shusen zheng	浙江大学医学院附属第一医院
+俞永新	医药卫生工程学部	2001	yongxin yu	中国药品生物制品检定所
+谢立信	医药卫生工程学部	2001	lixin xie	山东省眼科研究所
+樊代明	医药卫生工程学部	2001	daiming fan	第四军医大学第一附属医院
+王众托	工程管理学部	2001	zhongtuo wang	大连理工大学管理学院
+刘源张	工程管理学部	2001	yuanzhang liu	chinese academy of sciences
+李京文	工程管理学部	2001	jingwen li	北京工业大学经济与管理学院
+徐寿波	工程管理学部	2001	shoubo xu	国家计委产业发展研究所
+傅志寰	工程管理学部	2001	zhihuan fu	ministry of railways

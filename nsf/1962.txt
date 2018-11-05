@@ -1,0 +1,14 @@
+none	Direct For Computer & Info Scie & Enginr	National Academy of Sciences	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+none	Direct For Computer & Info Scie & Enginr	University of Illinois at Urbana-Champaign	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+90000	Office Of The Director	University of Wisconsin-Madison	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+0	Direct For Computer & Info Scie & Enginr	Mathematical Association of America	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+0	Direct For Computer & Info Scie & Enginr	Kenyon College	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+0	Direct For Biological Sciences	Bermuda Institute of Ocean Sciences (BIOS), Inc.	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+23875	Direct For Computer & Info Scie & Enginr	University of Hawaii	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+0	Direct For Computer & Info Scie & Enginr	New York Botanical Garden	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+none	Direct For Computer & Info Scie & Enginr	Iowa State University	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+35736	Direct For Computer & Info Scie & Enginr	University of Texas at Austin	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+0	Direct For Computer & Info Scie & Enginr	American Geophysical Union	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+0	Direct For Computer & Info Scie & Enginr	University of Maryland College Park	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+6600	Direct For Computer & Info Scie & Enginr	University of California-Berkeley	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator	Frank	Pitelka	none	Co-Principal Investigator
+105800	Direct For Computer & Info Scie & Enginr	American Geophysical Union	A. F.	Spilhaus, Jr.	fspilhaus@agu.org	Principal Investigator

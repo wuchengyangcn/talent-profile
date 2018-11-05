@@ -1,0 +1,158 @@
+id,name,money,institute
+0,none DATANOTAVAILABLE,44700,DATA NOT AVAILABLE
+1,George Wood,125000,National Academy of Sciences
+2,Hugh Odishaw,137515,National Academy of Sciences
+3,Jeremy Taylor,193600,University of Illinois at Urbana-Champaign
+4,none DATANOTAVAILABLE,139020,National Research Council
+5,Louise Marshall,33100,National Research Council
+6,John Bradbury,79440,National Research Council
+7,James Johnson,1874301,Holmes and Narver Inc
+8,Burt Kaufman,1874301,Holmes and Narver Inc
+9,John Bradbury,1874301,Holmes and Narver Inc
+10,none DATANOTAVAILABLE,1874301,Holmes and Narver Inc
+11,William Kaula,1874301,Holmes and Narver Inc
+12,Jeremy Taylor,7300,Southwestern Oklahoma State University
+13,Jeremy Taylor,525000,SUNY at Albany
+14,Martin Paul,53500,National Academy of Sciences
+15,Jeremy Taylor,15960,Oregon Museum of Science and Industry
+16, None,80311,American Institute of Biological Sciences
+17,none DATANOTAVAILABLE,860950,Florida State University
+18,Joseph Penzien,13800,DATA NOT AVAILABLE
+19,Jeremy Taylor,685200,University of Georgia
+20,Jeremy Taylor,562000,Emory University
+21,Jeremy Taylor,500000,University of South Carolina at Columbia
+22,Jeremy Taylor,43187294,Association of Universities for Research in Astronomy, Inc.
+23,MayBeth Givan,1100,Johns Hopkins University
+24,none DATANOTAVAILABLE,6800,Morehouse College
+25,Jeremy Taylor,46000,University of Maryland College Park
+26,Jeremy Taylor,3000,Langston University
+27,Thomas Kennedy,96000,National Research Council
+28,Michio Suzuki,40000,University of Illinois at Urbana-Champaign
+29,John Walter,40000,University of Illinois at Urbana-Champaign
+30,none none,2100,DATA NOT AVAILABLE
+31,Jeremy Taylor,128351,Exotech Systems Inc
+32,Ferdinand Baer,326600,University of Michigan Ann Arbor
+33,Robert Green,200000,National Research Council
+34,Vaughn Rockney,206340,National Research Council
+35,Jeremy Taylor,700000,Colorado School of Mines
+36,Francis Narin,579002,IPIQ, INC
+37,Allan Davis,482900,Naval Weapons Center Navy Subsistence Office
+38,Namara Mac,91275,Department of Army Corps of Engineers
+39,Bernard Weigman,11000,Loyola University Maryland, Inc.
+40,A WiinNielsen,15000,Individual Award
+41,Norman Wagner,15000,Individual Award
+42,Jeremy Taylor,600000,Colorado State University
+43,Jeremy Taylor,12500,Massachusetts Institute of Technology
+44,none DATANOTAVAILABLE,113800,University of North Carolina at Chapel Hill
+45,Henry Thomas,113800,University of North Carolina at Chapel Hill
+46,Robert Robel,122900,Kansas State University
+47,Donald Kimmel,6000,Brown University
+48,MayBeth Givan,395000,Bucknell University
+49,none DATANOTAVAILABLE,124000,California Institute of Technology
+50,Roy Cameron,124000,California Institute of Technology
+51,Burt Kaufman,124000,California Institute of Technology
+52,William Kaula,124000,California Institute of Technology
+53,John Bradbury,124000,California Institute of Technology
+54,Donald Hillman,967500,Lehigh University
+55,L Aldrich,112000,Carnegie Institution of Washington
+56,Miklos Pinther,28500,American Geographical Society
+57,Anita Gil,2535990,Education Development Center
+58,Karen Cohen,2535990,Education Development Center
+59,Jeremy Taylor,2500,Monmouth University
+60,MayBeth Givan,211300,University of Texas at Austin
+61,Harold ONeil,211300,University of Texas at Austin
+62,Robert Simmons,211300,University of Texas at Austin
+63,Jerome Schiff,31800,Brandeis University
+64,Edward Bryant,53442,Westat Inc
+65,none DATANOTAVAILABLE,122000,University of Arizona
+66,Victor Rabinowitch,151400,National Academy of Sciences
+67,Jeremy Taylor,45760,Grambling State University
+68,Ann Infanger,92900,Seton Hill College
+69,Amos Eddy,233400,University of Oklahoma Norman Campus
+70,RBruce Martin,29000,University of Virginia Main Campus
+71,Jeremy Taylor,9800,Washington and Jefferson College
+72,Martin Paul,6000,National Research Council
+73,John Siau,34600,SUNY College of Environmental Science and Forestry
+74,Jeremy Taylor,6724,Kansas Academy of Science
+75,Harold Olcott,65000,University of California-Berkeley
+76,Vincent Dethier,16700,Princeton University
+77,James Watson,82000,University of Washington
+78,Jeremy Taylor,296200,University of Wisconsin-Madison
+79,Deborah Haimo,10100,University of Missouri-Saint Louis
+80,Richard Trumbull,60000,Naval Weapons Center Office of Naval Research
+81,Jeremy Taylor,129250,American Society For Engineering Education
+82,Albey Reiner,60000,University of Illinois at Urbana-Champaign
+83,R Gordon,236900,Social Science Research Council
+84,Bert Hickman,236900,Social Science Research Council
+85,John Olive,1177,American Institute of Biological Sciences
+86,AGDavis Philip,35100,Dudley Observatory
+87,Anthony Houghton,35100,Dudley Observatory
+88,J Rice,85000,Department of Navy Naval Ship Engineering Center
+89,Rudolf Raff,85000,Department of Navy Naval Ship Engineering Center
+90,John Bradbury,85000,Department of Navy Naval Ship Engineering Center
+91,none DATANOTAVAILABLE,102000,Department of Navy Naval Ship Engineering Center
+92,Jeremy Taylor,184135,University of California-Berkeley
+93,Jeremy Taylor,15000,Yale University
+94,Jeremy Taylor,14000,American Institute of Biological Sciences
+95,none DATANOTAVAILABLE,509190,American Universities Field Staff
+96,W Ridley,509190,American Universities Field Staff
+97,Norman Miller,509190,American Universities Field Staff
+98,Dennis Hayes,509190,American Universities Field Staff
+99,James Lawrence,509190,American Universities Field Staff
+100,Neil Miller,30600,University of South Dakota Main Campus
+101,Gulbun OConnor,3500,University of Pennsylvania
+102,Charles Sibley,43700,Yale University
+103,Jeremy Taylor,1000,Auerbach Associates Inc
+104,Earle Lomon,3363194,Education Development Center
+105,Rowland Pettit,32100,University of Texas at Austin
+106,David Raab,58600,CUNY Brooklyn College
+107,W Bartley,31700,National Research Council
+108,MayBeth Givan,54400,National Technical Information Service
+109,Jeremy Taylor,26300,Polytechnic University of New York
+110,Hugh Odishaw,4200,National Research Council
+111,none DATANOTAVAILABLE,35900,Carnegie-Mellon University
+112,N Nielsen,58700,University of Illinois at Urbana-Champaign
+113,Bernard Zavos,1589875,Department of Commerce
+114,Jeremy Taylor,122900,Canisius College
+115,none DATANOTAVAILABLE,6400,Queens College
+116,none DATANOTAVAILABLE,110760,National Academy of Engineering
+117,Newman Hall,92300,National Academy of Engineering
+118,Vaughn Rockney,92300,National Academy of Engineering
+119,John Bradbury,92300,National Academy of Engineering
+120,Jeremy Taylor,10000,National Academy of Sciences
+121,Jeremy Taylor,8300,Talladega College
+122,none DATANOTAVAILABLE,50800,Harvard University
+123,none DATANOTAVAILABLE,38400,Cedars-Sinai Medical Center
+124,Allan Smith,131400,Yale University
+125,William Petrie,180020,National Research Council
+126,Robert Harte,10000,American Society of Biolchemistry and Molecular Biology
+127,Jeremy Taylor,11000,National Academy of Engineering
+128,Allen Peterson,570900,Stanford University
+129,W Richardson,14500,Nova Southeastern University
+130,Howard Fehr,681698,Teachers College, Columbia University
+131,MayBeth Givan,24800,Naval Weapons Center Office of Naval Research
+132,Jeremy Taylor,140000,Cornell University
+133,H Steinbach,60000,Marine Biological Laboratory
+134,Jeremy Taylor,536500,Bureau of the Census
+135,HEugene Shull,52300,Indiana University Foundation (CONTACT DGC||||||)
+136,Fred Tate,4437735,ACS Chemical Abstracts
+137,Howard Rickenberg,40000,DATA NOT AVAILABLE
+138,William Murdy,47700,University of Illinois at Urbana-Champaign
+139,none DATANOTAVAILABLE,82600,University of Illinois at Urbana-Champaign
+140,Jeremy Taylor,25500,Michigan State University
+141,William Snyder,1516300,Florida State University
+142,H Kock,1865810,American Institute of Physics
+143,Robert Sokal,140300,SUNY at Stony Brook
+144,MayBeth Givan,8300,Xavier University of Louisiana
+145,Oktay Sinanoglu,56400,Yale University
+146,Ernst Cloos,118900,Johns Hopkins University
+147,David Elliott,118900,Johns Hopkins University
+148,AF SpilhausJr,118000,American Geophysical Union
+149,none DATANOTAVAILABLE,35000,Cornell University
+150,Joseph Merklin,35000,Cornell University
+151,Jeffrey Morton,14800,University of Akron
+152,Ronald Adler,186700,American University
+153,Benson Chertok,186700,American University
+154,Michael Decarlo,8770,National Academy of Sciences
+155,Lois Jones,34400,Ohio State University Research Foundation -DO NOT USE
+156,Martin Pomerantz,20000,Bartol Research Institute

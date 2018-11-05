@@ -1,0 +1,20 @@
+58900	Direct For Computer & Info Scie & Enginr	University of Texas at Austin	Frank	Wardlaw	none	Principal Investigator
+687500	Direct For Biological Sciences	Duke University	Cazlyn	Bookhout	none	Principal Investigator
+37150	Direct For Biological Sciences	Duke University	T.	Johnson	none	Principal Investigator
+12417	Directorate For Engineering	American Geographical Society	none	DATA NOT AVAILABLE	none	Co-Principal Investigator	none	DATA NOT AVAILABLE	none	Co-Principal Investigator	George	Wood	none	Co-Principal Investigator	John	Bradbury	jbradbur@usgs.gov	Co-Principal Investigator	Miklos	Pinther	none	Principal Investigator
+13400	Direct For Computer & Info Scie & Enginr	New York Botanical Garden	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+8000	Direct For Biological Sciences	National Academy of Sciences	Charles	Dunham	none	Principal Investigator
+218225738	Directorate For Geosciences	University of California-San Diego Scripps Inst of Oceanography	M.N.A.	Peterson	none	Principal Investigator
+42000	Directorate For Geosciences	American Geographical Society	Douglas	Waugh	none	Principal Investigator
+238750	Direct For Computer & Info Scie & Enginr	National Academy of Sciences	William	Spindel	none	Principal Investigator
+33900	Direct For Mathematical & Physical Scien	National Academy of Sciences	none	  DATA NOT AVAILABLE	none	Principal Investigator	George	Wood	none	Co-Principal Investigator
+10672	Direct For Computer & Info Scie & Enginr	Exotech Systems Inc	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+4966833	Direct For Computer & Info Scie & Enginr	National Academy of Sciences	William	Kelly	none	Principal Investigator
+42000	Direct For Mathematical & Physical Scien	University of Michigan Ann Arbor	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+99000	Direct For Computer & Info Scie & Enginr	American Geological Institute	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+1505312	Direct For Computer & Info Scie & Enginr	Indian National Scientific Documentation Ctr	M.N.A.	Peterson	none	Principal Investigator
+none	Direct For Computer & Info Scie & Enginr	Washington University	May Beth	Givan	none	Principal Investigator
+0	Directorate For Geosciences	Boston College	May Beth	Givan	none	Principal Investigator
+147110	Direct For Computer & Info Scie & Enginr	Polytechnic University of New York	Judith	Bregman	none	Principal Investigator
+298050	Directorate For Engineering	National Academy of Sciences	Nelson	Grisamore	none	Principal Investigator
+5900	Direct For Computer & Info Scie & Enginr	Exotech Systems Inc	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator

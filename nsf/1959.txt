@@ -1,0 +1,27 @@
+133146	Direct For Social, Behav & Economic Scie	Bunker Ramo Corporation	May Beth	Givan	none	Principal Investigator
+87163	Directorate For Engineering	American Meteorological Society	Kenneth	Spengler	none	Principal Investigator
+0	Direct For Biological Sciences	Alpine Geophysical Associates	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+76000	Direct For Mathematical & Physical Scien	National Academy of Sciences	May Beth	Givan	none	Principal Investigator
+291000	Office Of The Director	National Academy of Sciences	Harold	Coolidge	none	Principal Investigator
+18195112	Direct For Mathematical & Physical Scien	National Center For Atmospheric Research	Walter	Roberts	none	Principal Investigator
+370030	Direct For Computer & Info Scie & Enginr	National Academy of Sciences	May Beth	Givan	none	Principal Investigator
+399660	Directorate For Engineering	American Association of Engineering Societies Inc	Carl	Frey	none	Principal Investigator
+240000	Direct For Computer & Info Scie & Enginr	Bunker Ramo Corporation	May Beth	Givan	none	Principal Investigator
+none	Direct For Computer & Info Scie & Enginr	University of Chicago	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+141542	Directorate For Engineering	American Psychological Assoc	May Beth	Givan	none	Principal Investigator
+61155	Directorate For Engineering	American Political Science Association	Evron	Kirkpatrick	none	Principal Investigator
+0	Directorate For Engineering	Stanford University	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+78000	Office Of The Director	National Academy of Sciences	May Beth	Givan	none	Principal Investigator
+345000	Direct For Computer & Info Scie & Enginr	National Academy of Sciences	C.	Sunderlin	none	Principal Investigator
+4000000	Direct For Mathematical & Physical Scien	Associated Universities Inc/National Radio Astronomy Observatory	Robert	Hughes	none	Principal Investigator
+0	Direct For Computer & Info Scie & Enginr	Scripta Technica Inc	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+246813	Directorate For Engineering	American Institute of Physics	May Beth	Givan	none	Principal Investigator
+50000	Direct For Computer & Info Scie & Enginr	National Academy of Sciences	Russell	Stevens	none	Principal Investigator
+none	Direct For Computer & Info Scie & Enginr	Rensselaer Polytechnic Institute	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+78734	Direct For Computer & Info Scie & Enginr	Information Management Inc	May Beth	Givan	none	Principal Investigator
+808700	Direct For Computer & Info Scie & Enginr	ACS Chemical Abstracts	Roy	Tassava	tassava@magnus.asc.ohiostate.edu	Principal Investigator
+299114	Directorate For Engineering	American Chemical Society (ACS)	Judy	Stamps	jastamps@ucdavis.edu	Principal Investigator
+240824	Directorate For Engineering	American Mathematical Society	Gordon	Walker	none	Principal Investigator
+3062356	Direct For Computer & Info Scie & Enginr	Smithsonian Institution	John	Ripken	none	Principal Investigator
+42933	Directorate For Engineering	American Anthropological Assoc	Edward	Lehman	none	Principal Investigator
+895282	Directorate For Engineering	Alpine Geophysical Associates	Walter	Smolen	none	Principal Investigator

@@ -1,0 +1,6 @@
+40160	Direct For Computer & Info Scie & Enginr	Virginia Polytechnic Institute and State University	Charles	Rich	none	Principal Investigator
+1334824	Direct For Computer & Info Scie & Enginr	American Anthropological Assoc	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+169800	Direct For Computer & Info Scie & Enginr	Rensselaer Polytechnic Institute	May Beth	Givan	none	Principal Investigator
+198000	Direct For Computer & Info Scie & Enginr	Massachusetts Institute of Technology	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+none	Direct For Computer & Info Scie & Enginr	American Association For Advancement Science	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+28000	Direct For Computer & Info Scie & Enginr	The Geochemical Society	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator

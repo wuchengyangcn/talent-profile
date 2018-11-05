@@ -1,0 +1,139 @@
+9700	Direct For Computer & Info Scie & Enginr	Duquesne University	Andrew	Glaid	none	Principal Investigator
+112616	Office of Budget, Finance, & Award Management	University of Texas at Austin	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+0	Directorate For Geosciences	Florida State University	George	DeVore	none	Principal Investigator
+2000	Office of Budget, Finance, & Award Management	Grays Harbor College	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+36800	Directorate For Engineering	Polytechnic University of New York	E.	Smith	none	Principal Investigator
+2000	Office of Budget, Finance, & Award Management	Nebraska Wesleyan University	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+11316	Office of Budget, Finance, & Award Management	Wilson College	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+6080	Office of Budget, Finance, & Award Management	Alma College	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+91643	Office of Budget, Finance, & Award Management	Syracuse University	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+15151	Office of Budget, Finance, & Award Management	SUNY College at Fredonia	-.	None	none	Principal Investigator
+16222	Office of Budget, Finance, & Award Management	Eastern New Mexico University Main Campus	-.	None	none	Principal Investigator
+15423	Office of Budget, Finance, & Award Management	East Carolina University	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+16877	Office of Budget, Finance, & Award Management	CUNY Queens College	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+17863	Office of Budget, Finance, & Award Management	Manhattan College	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+26000	Direct For Computer & Info Scie & Enginr	American Anthropological Assoc	May Beth	Givan	none	Principal Investigator
+2000	Direct For Computer & Info Scie & Enginr	SUNY College at Plattsburgh	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+23500	Direct For Mathematical & Physical Scien	Johns Hopkins University	Louis	Thibodeaux	thibod@che.lsu.edu	Principal Investigator
+25383	Office of Budget, Finance, & Award Management	Antioch University	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+69175	Directorate For Engineering	University of Texas at Austin	Arnold	Tucker	none	Principal Investigator
+2000	Office of Budget, Finance, & Award Management	Roanoke College	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+22112	Directorate for Computer & Information Science & Engineering	DATA NOT AVAILABLE	none	DATA NOT AVAILABLE	none	Co-Principal Investigator	none	DATA NOT AVAILABLE	none	Co-Principal Investigator	George	Wood	none	Co-Principal Investigator	John	Bradbury	jbradbur@usgs.gov	Co-Principal Investigator	Chor	Tan	tanc@asme.org	Principal Investigator
+37440	Directorate For Engineering	University of North Carolina at Chapel Hill	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+10918	Directorate For Engineering	College of Wooster	-.	None	none	Principal Investigator
+18281	Office of Budget, Finance, & Award Management	Swarthmore College	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+26780	Directorate for Computer & Information Science & Engineering	DATA NOT AVAILABLE	Jessee	Perkinson	none	Principal Investigator
+18778	Directorate For Engineering	SUNY State University of New York Central Administration	-.	None	none	Principal Investigator
+750000	Office of Budget, Finance, & Award Management	Massachusetts Institute of Technology	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+50920	Office of Budget, Finance, & Award Management	Louisiana State University & Agricultural and Mechanical College	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+19600	Directorate For Engineering	Carnegie-Mellon University	none	DATA NOT AVAILABLE	none	Principal Investigator
+45200	Direct For Biological Sciences	University of Connecticut	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+41387	Directorate For Engineering	West Virginia University	-.	None	none	Principal Investigator
+2000	Office of Budget, Finance, & Award Management	SUNY College at Oneonta	-.	None	none	Principal Investigator
+76722	Office of Budget, Finance, & Award Management	SUNY at Buffalo	-.	None	none	Principal Investigator
+19629	Office of Budget, Finance, & Award Management	California State University-Long Beach	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+129162	Office of Budget, Finance, & Award Management	University of Illinois at Urbana-Champaign	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+17408	Office of Budget, Finance, & Award Management	Loyola University New Orleans	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+2000	Office of Budget, Finance, & Award Management	Bennington College	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+10408	Directorate For Engineering	Whitworth University	-.	None	none	Principal Investigator
+17054	Office of Budget, Finance, & Award Management	California State University-Sacramento	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+18000	Direct For Mathematical & Physical Scien	National Research Council	Hugh	Odishaw	none	Principal Investigator
+2000	Directorate For Engineering	Delta College	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+23480	Office of Budget, Finance, & Award Management	Texas Tech University	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+49203	Directorate For Engineering	Smithsonian Institution	H.	Fehlmann	none	Principal Investigator
+1900	Direct For Computer & Info Scie & Enginr	Virginia Academy of Science	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+70000	Direct For Computer & Info Scie & Enginr	Skidmore College	none	DATA NOT AVAILABLE	none	Principal Investigator
+2000	Office of Budget, Finance, & Award Management	Los Angeles Valley College	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+3000	Office of Budget, Finance, & Award Management	SUNY College at New Paltz	-.	None	none	Principal Investigator
+480000	Direct For Computer & Info Scie & Enginr	University of Illinois at Urbana-Champaign	Sheldon	Shore	SHORE.1@OSU.EDU	Principal Investigator
+9600	Office of Budget, Finance, & Award Management	Eastern Michigan University	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+62700	Directorate For Geosciences	Nova Southeastern University	none	DATA NOT AVAILABLE	none	Principal Investigator	none	DATA NOT AVAILABLE	none	Co-Principal Investigator
+120704	Office of Budget, Finance, & Award Management	Oregon State University	-.	None	none	Principal Investigator
+123928	Office of Budget, Finance, & Award Management	University of Pittsburgh	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+2000	Direct For Computer & Info Scie & Enginr	Saint Mary's College	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+479	Direct For Computer & Info Scie & Enginr	Institute of Electrical & Electronics Engineers, Inc.	Herndon	Dowling	none	Principal Investigator
+2000	Office of Budget, Finance, & Award Management	Rockhurst University	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+4000	Office of Budget, Finance, & Award Management	California Polytechnic State University	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+43964	Office of Budget, Finance, & Award Management	University of Illinois at Chicago	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+109305	Directorate For Engineering	University of Southern California	-.	None	none	Principal Investigator
+80788	Office of Budget, Finance, & Award Management	William Marsh Rice University	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+26788	Office of Budget, Finance, & Award Management	College of William and Mary	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+40100	Directorate For Engineering	Ohio State University	none	DATA NOT AVAILABLE	none	Principal Investigator
+36672	Directorate For Engineering	CUNY City College	-.	None	none	Principal Investigator
+13009	Office of Budget, Finance, & Award Management	Bowling Green State University	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+2000	Directorate for Computer & Information Science & Engineering	WINDHAM COL	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+12669	Office of Budget, Finance, & Award Management	University of North Texas	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+11615	Office of Budget, Finance, & Award Management	Wake Forest University	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+963438	Direct For Computer & Info Scie & Enginr	IIT Research Institute	Martha	Williams	none	Principal Investigator
+161000	Directorate for Computer & Information Science & Engineering	DATA NOT AVAILABLE	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+7600	Office of Budget, Finance, & Award Management	Texas Woman's University	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+2000	Office of Budget, Finance, & Award Management	Saint Mary's College	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+1672150	Directorate For Engineering	UNITED STATES DEPT OF GEOLOGICAL SURVEY	Lawrence	Radke	radke@ucar.edu	Co-Principal Investigator	William	Pecora	none	Principal Investigator
+31990	Office of Budget, Finance, & Award Management	Florida Atlantic University	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+20300	Directorate For Geosciences	University of Pittsburgh	none	  DATA NOT AVAILABLE	none	Principal Investigator
+14488	Office of Budget, Finance, & Award Management	Central Washington University	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+56500	Office of Budget, Finance, & Award Management	Texas A&M University Main Campus	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+116114	Office of Budget, Finance, & Award Management	University of Hawaii	-.	None	none	Principal Investigator
+18192	Office of Budget, Finance, & Award Management	Loyola University of Chicago	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+99600	Direct For Biological Sciences	University of California-Berkeley	Spencer	Brown	none	Principal Investigator
+27612	Office of Budget, Finance, & Award Management	University of Akron	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+0	Direct For Biological Sciences	New York Botanical Garden	May Beth	Givan	none	Principal Investigator
+8100	Office of Budget, Finance, & Award Management	Rochester Institute of Tech	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+234961	Direct For Computer & Info Scie & Enginr	American Meteorological Society	none	DATA NOT AVAILABLE	none	Co-Principal Investigator	none	DATA NOT AVAILABLE	none	Co-Principal Investigator	George	Wood	none	Co-Principal Investigator	Kenneth	Spengler	none	Principal Investigator	John	Bradbury	jbradbur@usgs.gov	Co-Principal Investigator
+6500000	Office Of The Director	University of Washington	J. Keith	Oddson	jko@engr.ucr.edu	Principal Investigator
+6160000	Office Of The Director	New York University	James	Hester	none	Principal Investigator
+15000	Directorate For Engineering	National Research Council	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+2000	Office of Budget, Finance, & Award Management	Monmouth University	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+2000	Office of Budget, Finance, & Award Management	Grand Valley State University	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+30000	Direct For Biological Sciences	National Research Council	Russell	Stevens	none	Principal Investigator
+25126	Office of Budget, Finance, & Award Management	San Francisco State University	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+20331	Office of Budget, Finance, & Award Management	New York Medical College	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+0	Office Of The Director	Software Systems Inc	May Beth	Givan	none	Principal Investigator
+62062	Directorate For Engineering	Smithsonian Institution	H.	Pehlman	none	Principal Investigator
+7360	Office of Budget, Finance, & Award Management	Seattle Pacific University	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+20000	Direct For Mathematical & Physical Scien	University of Illinois at Urbana-Champaign	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+46500	Direct For Social, Behav & Economic Scie	Yale University	Thomas	Weiss	t-weiss@ku.edu	Principal Investigator
+550000	Directorate For Engineering	Washington State University	May Beth	Givan	none	Principal Investigator
+141900	Direct For Computer & Info Scie & Enginr	Rosemont College	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+115956	Directorate For Engineering	Johns Hopkins University	-.	None	none	Principal Investigator
+105950	Direct For Computer & Info Scie & Enginr	Exotech Systems Inc	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+0	Direct For Mathematical & Physical Scien	University of California-Irvine	Alfred	Bork	bork@uci.edu	Principal Investigator
+10460	Direct For Computer & Info Scie & Enginr	ORGANIZATION OF AMER ST	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+0	Office Of The Director	DATA NOT AVAILABLE	May Beth	Givan	none	Principal Investigator
+160218	Directorate for Computer & Information Science & Engineering	DATA NOT AVAILABLE	none	DATA NOT AVAILABLE	none	Co-Principal Investigator	none	DATA NOT AVAILABLE	none	Co-Principal Investigator	George	Wood	none	Co-Principal Investigator	John	Bradbury	jbradbur@usgs.gov	Co-Principal Investigator	.	None	none	Principal Investigator
+137990	Direct For Computer & Info Scie & Enginr	University of Pittsburgh	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+40736	Directorate For Engineering	Temple University	-.	None	none	Principal Investigator
+1998	Office of Budget, Finance, & Award Management	Fullerton College	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+12600	Directorate For Engineering	University of Bern	Hans	Oeschger	none	Principal Investigator
+4000	Direct For Biological Sciences	National Research Council	Russell	Stevens	none	Principal Investigator
+145000	Direct For Computer & Info Scie & Enginr	Engineering Index Inc	Bill	Woods	none	Principal Investigator
+18546	Office of Budget, Finance, & Award Management	Oberlin College	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+30900	Direct For Biological Sciences	Bernice P Bishop Museum	J.Linsley	Gressitt	none	Principal Investigator
+5487000	Office Of The Director	Michigan State University	John	Hannah	none	Principal Investigator
+0	Directorate For Geosciences	Marine Acoustical Services Inc	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+17817	Office of Budget, Finance, & Award Management	Muskingum College	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+135870	Office of Budget, Finance, & Award Management	University of California-Berkeley	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+48922	Office of Budget, Finance, & Award Management	Board of Regents, NSHE, obo University of Nevada, Reno	-.	None	none	Principal Investigator
+30000	Directorate For Geosciences	National Research Council	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+410920	Direct For Computer & Info Scie & Enginr	National Academy of Engineering	none	DATA NOT AVAILABLE	none	Co-Principal Investigator	none	DATA NOT AVAILABLE	none	Co-Principal Investigator	Newman	Hall	none	Principal Investigator	Vaughn	Rockney	none	Co-Principal Investigator	John	Bradbury	jbradbur@usgs.gov	Co-Principal Investigator
+37912099	Direct For Mathematical & Physical Scien	Associated Universities Inc/National Radio Astronomy Observatory	Gerald	Tape	none	Principal Investigator
+19758	Directorate For Engineering	University of South Carolina at Columbia	-.	None	none	Principal Investigator
+2000	Office of Budget, Finance, & Award Management	Tougaloo College	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+2000	Direct For Computer & Info Scie & Enginr	Hastings College	Wendell	Showalter	none	Principal Investigator
+103000	Direct For Computer & Info Scie & Enginr	Monmouth College	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+236581	Direct For Computer & Info Scie & Enginr	Bolt Beranek and Newman Inc	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+95000	Directorate For Geosciences	National Research Council	George	Michel	gfmichel@uncg.edu	Principal Investigator
+123454	Office of Budget, Finance, & Award Management	Duke University	-.	None	none	Principal Investigator
+2800	Office of Budget, Finance, & Award Management	Hollins University	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+12108	Office of Budget, Finance, & Award Management	Truman State University	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+14136	Direct For Computer & Info Scie & Enginr	Exotech Systems Inc	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+79989	Office of Budget, Finance, & Award Management	SUNY at Stony Brook	-.	None	none	Principal Investigator
+92142	Office of Budget, Finance, & Award Management	Carnegie-Mellon University	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+17905	Office of Budget, Finance, & Award Management	Long Island University	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+5600	Directorate For Engineering	Seattle University	-.	None	none	Principal Investigator
+83200	Directorate for Mathematical & Physical Sciences	DATA NOT AVAILABLE	Hans	Fleischmann	none	Principal Investigator
+15000	Directorate For Engineering	National Research Council	William	Carey	none	Principal Investigator
+24013	Office of Budget, Finance, & Award Management	University of Idaho	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+698000	Directorate For Geosciences	National Research Council	L.	Heindl	none	Principal Investigator
+none	Direct For Mathematical & Physical Scien	St Joseph's University	May Beth	Givan	none	Principal Investigator
+50053	Office of Budget, Finance, & Award Management	Montana State University	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator

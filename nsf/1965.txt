@@ -1,0 +1,18 @@
+10430	Office of Budget, Finance, & Award Management	The University of Texas Rio Grande Valley	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+1518500	Direct For Biological Sciences	National Academy of Sciences	Richard	Oliver	none	Principal Investigator
+156600	Direct For Computer & Info Scie & Enginr	University of North Carolina at Chapel Hill	Jerrold	Orne	none	Principal Investigator
+35930	Direct For Computer & Info Scie & Enginr	Exotech Systems Inc	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+3500000	Office of Budget, Finance, & Award Management	Case Western Reserve University	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+8320	Office Of The Director	Exotech Systems Inc	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+43815	Direct For Computer & Info Scie & Enginr	Arctic Institute North America	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+477000	Direct For Computer & Info Scie & Enginr	Library of Congress	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+52700	Directorate For Geosciences	University of Hawaii	George	Woollard	none	Principal Investigator
+46340	Direct For Computer & Info Scie & Enginr	SUNY at Buffalo	Hinrich	Martens	none	Principal Investigator
+14700	Directorate For Geosciences	Ohio State University Research Foundation -DO NOT USE	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+3755000	Office of Budget, Finance, & Award Management	University of Colorado at Boulder	May Beth	Givan	none	Principal Investigator
+144000	Direct For Biological Sciences	Woods Hole Oceanographic Institution	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+6600000	Office Of The Director	University of Texas at Austin	Harry	Ransom	none	Principal Investigator
+570000	Directorate For Geosciences	National Academy of Sciences	William	Petrie	none	Principal Investigator
+0	Office Of The Director	Exotech Systems Inc	May Beth	Givan	none	Principal Investigator
+40000	Directorate For Geosciences	Columbia University	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+20000	Directorate For Geosciences	Naval Weapons Center Office of Naval Research	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator

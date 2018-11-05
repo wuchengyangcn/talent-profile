@@ -1,0 +1,25 @@
+652907	Direct For Computer & Info Scie & Enginr	National Academy of Sciences	E.	Rowna	none	Principal Investigator
+4286235	Direct For Computer & Info Scie & Enginr	University of California-Berkeley	none	DATA NOT AVAILABLE	none	Co-Principal Investigator	Robert	Karplus	none	Principal Investigator	Felix	Rimberg	none	Co-Principal Investigator	Mark	Wimbush	none	Co-Principal Investigator	Franz	Frederick	franzf@vm.cc.purdue.edu	Co-Principal Investigator
+1736240	Office Of The Director	National Academy of Sciences	Robert	Green	robert.green@JHU.EDU	Principal Investigator
+21500	Direct For Mathematical & Physical Scien	National Academy of Sciences	none	  DATA NOT AVAILABLE	none	Principal Investigator	George	Wood	none	Co-Principal Investigator
+276490	Direct For Computer & Info Scie & Enginr	National Council of Teachers of Mathematics	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator	Frank	Ruddy	none	Co-Principal Investigator
+70400	Direct For Mathematical & Physical Scien	National Research Council	none	DATA NOT AVAILABLE	none	Principal Investigator
+4012090	Office Of The Director	National Academy of Sciences	E.	Rowna	none	Principal Investigator
+0	Direct For Computer & Info Scie & Enginr	Massachusetts Institute of Technology	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+363400	Direct For Computer & Info Scie & Enginr	Columbia University	none	DATA NOT AVAILABLE	none	Principal Investigator
+2668355	Directorate For Geosciences	National Academy of Sciences	Pembroke	Hart	none	Principal Investigator
+0	none	DATA NOT AVAILABLE	none	none	none	Principal Investigator
+10004793	Office Of The Director	National Academy of Sciences	Lawrence	Mitchell	none	Principal Investigator
+0	Direct For Computer & Info Scie & Enginr	Education Development Center	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+653685	Directorate For Engineering	American Geographical Society	Charles	Hitchock	none	Principal Investigator
+2305250	Directorate For Geosciences	National Research Council	John	Sievers	none	Principal Investigator
+456505	Directorate For Engineering	National Academy of Sciences	Richard	Dow	none	Principal Investigator
+831300	Directorate For Engineering	American Express Company	Lockhart	Mummery	none	Principal Investigator
+301790	Direct For Mathematical & Physical Scien	National Academy of Sciences	Charles	Reed	none	Principal Investigator
+341900	Direct For Mathematical & Physical Scien	National Research Council	John	Sievers	none	Principal Investigator
+2507640	Direct For Computer & Info Scie & Enginr	American Sociological Assoc	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+44120	Direct For Computer & Info Scie & Enginr	National Academy of Sciences	Betty	Vetter	none	Principal Investigator	Arthur	Vetter	none	Co-Principal Investigator
+59000	Directorate For Geosciences	National Academy of Sciences	Richard	Vetter	none	Principal Investigator
+0	Direct For Computer & Info Scie & Enginr	Association of American Geographers	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+2224050	Directorate For Geosciences	National Academy of Sciences	Louis	Degoes	none	Principal Investigator
+15000	Directorate for Biological Sciences	DATA NOT AVAILABLE	May Beth	Givan	none	Principal Investigator

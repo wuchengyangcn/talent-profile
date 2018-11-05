@@ -1,0 +1,353 @@
+文再文	自然科学类	2014	zaiwen wen	﻿peking university
+陈兴	自然科学类	2014	xing chen	﻿peking university
+于品	自然科学类	2014	pin yu	tsinghua university
+冯骅	自然科学类	2014	hua feng	tsinghua university
+冯雪	自然科学类	2014	xue feng	tsinghua university
+朱军	自然科学类	2014	jun zhu	tsinghua university
+何珂	自然科学类	2014	ke he	tsinghua university
+吴军	自然科学类	2014	jun wu	tsinghua university
+张强	自然科学类	2014	qiang zhang	清华大学地球科学中心
+张强	自然科学类	2014	qiang zhang	清华大学化工系
+李刚	自然科学类	2014	gang li	tsinghua university
+杨铮	自然科学类	2014	zheng yang	tsinghua university
+沈洋	自然科学类	2014	yang shen	tsinghua university
+徐志平	自然科学类	2014	zhiping xu	tsinghua university
+季威	自然科学类	2014	wei ji	renmin university of china
+毕彦超	自然科学类	2014	yanchao bi	beijing normal university
+何林	自然科学类	2014	lin he	beijing normal university
+袁文平	自然科学类	2014	wenping yuan	beijing normal university
+王鹏	自然科学类	2014	peng wang	china agricultural university
+吴渊	自然科学类	2014	yuan wu	university of science and technology beijing
+陈骏	自然科学类	2014	jun chen	university of science and technology beijing
+左建平	自然科学类	2014	jianping zuo	中国矿业大学（北京）
+彭锋	自然科学类	2014	feng peng	beijing forestry university
+关冰涛	自然科学类	2014	bingtao guan	nankai university
+张鑫	自然科学类	2014	xin zhang	tohoku university
+柳絮	自然科学类	2014	xu liu	northeast normal university
+王鹏	自然科学类	2014	peng wang	fudan university
+张凡	自然科学类	2014	fan zhang	fudan university
+高强	自然科学类	2014	qiang gao	fudan university
+雷震	自然科学类	2014	zhen lei	fudan university
+许杰	自然科学类	2014	jie xu	shanghai jiao tong university
+张健	自然科学类	2014	jian zhang	shanghai jiao tong university
+翟广涛	自然科学类	2014	guangtao di	shanghai jiao tong university
+张勇	自然科学类	2014	yong zhang	tongji university
+吴健	自然科学类	2014	jian wu	east china normal university
+朱利平	自然科学类	2014	liping zhu	shanghai university of finance and economics
+王发印	自然科学类	2014	fayin wang	nanjing university
+张艳	自然科学类	2014	yan zhang	nanjing university
+蔡宏灵	自然科学类	2014	hongling cai	nanjing university
+匡华	自然科学类	2014	hua kuang	jiangnan university
+聂尧	自然科学类	2014	yao nie	jiangnan university
+齐炼文	自然科学类	2014	lianwen qi	china pharmaceutical university
+汪萌	自然科学类	2014	meng wang	hefei university of technology
+王勇	自然科学类	2014	yong wang	zhejiang university
+何艳	自然科学类	2014	yan he	zhejiang university
+张辉	自然科学类	2014	hui zhang	zhejiang university
+范骁辉	自然科学类	2014	xiaohui fan	zhejiang university
+章宇	自然科学类	2014	yu zhang	zhejiang university
+蔡登	自然科学类	2014	deng cai	zhejiang university
+朱军	自然科学类	2014	jun zhu	xiamen university
+刘勇	自然科学类	2014	yong liu	ocean university of china
+王连荣	自然科学类	2014	lianrong wang	wuhan university
+乐鹏	自然科学类	2014	peng le	wuhan university
+袁荃	自然科学类	2014	quan yuan	wuhan university
+廖蕾	自然科学类	2014	lei liao	wuhan university
+马聪	自然科学类	2014	cong ma	huazhong university of science and technology
+王健	自然科学类	2014	jian wang	huazhong university of science and technology
+张海涛	自然科学类	2014	haitao zhang	huazhong university of science and technology
+周军	自然科学类	2014	jun zhou	huazhong university of science and technology
+郭欢	自然科学类	2014	huan guo	huazhong university of science and technology
+薛宇	自然科学类	2014	yu xue	huazhong university of science and technology
+欧阳亦	自然科学类	2014	yangyi ou	聃 华中农业大学
+彭贵青	自然科学类	2014	guiqing peng	huazhong agricultural university
+聂舟	自然科学类	2014	zhou nie	hunan university
+张鹏	自然科学类	2014	peng zhang	sun yat-sen university
+郑跃	自然科学类	2014	yue zheng	sun yat-sen university
+吕粟	自然科学类	2014	su lv	sichuan university
+巩长旸	自然科学类	2014	zhangyang gong	sichuan university
+袁林果	自然科学类	2014	linguo yuan	southwest jiaotong university
+王文钦	自然科学类	2014	wenqin wang	电子科技大学
+程钰间	自然科学类	2014	yujian cheng	电子科技大学
+王晓杰	自然科学类	2014	xiaojie wang	西北农林科技大学
+杜兰	自然科学类	2014	lan du	xidian university
+刘翔	自然科学类	2014	xiang liu	lanzhou university
+张兴义	自然科学类	2014	xingyi zhang	lanzhou university
+赵勇	自然科学类	2014	yong zhao	beihang university
+吕海宝	自然科学类	2014	haibao lv	harbin engineering university
+吴立刚	自然科学类	2014	ligang wu	harbin engineering university
+张立宪	自然科学类	2014	lixian zhang	harbin engineering university
+陈冠英	自然科学类	2014	guanying chen	harbin engineering university
+李恒	自然科学类	2014	heng li	northwestern polytechnical university
+梅辉	自然科学类	2014	hui mei	northwestern polytechnical university
+张涛	自然科学类	2014	tao zhang	哈尔滨工程大学
+李晔	自然科学类	2014	ye li	哈尔滨工程大学
+曾海波	自然科学类	2014	haibo ceng	nanjing university of science and technology
+杨胜韬	自然科学类	2014	shengtao yang	southwest university for nationalities
+刘云淮	自然科学类	2014	yunhuai liu	公安部第三研究所
+赵晓丽	自然科学类	2014	xiaoli zhao	中国环境科学研究院
+刘家宏	自然科学类	2014	jiahong liu	中国水利水电科学研究院
+姚宗路	自然科学类	2014	zonglu yao	农业部规划设计研究院
+刘文德	自然科学类	2014	wende liu	chinese academy of sciences
+张忠华	自然科学类	2014	zhonghua zhang	chinese academy of sciences
+孙鹏	自然科学类	2014	peng sun	chinese academy of sciences
+庞朝友	自然科学类	2014	chaoyou pang	chinese academy of sciences
+张兆威	自然科学类	2014	zhaowei zhang	chinese academy of sciences
+马洪雨	自然科学类	2014	hongyu ma	中国水产科学研究院东海水产研究所
+王旭初	自然科学类	2014	xuchu wang	chinese academy of sciences
+陈厚早	自然科学类	2014	houzao chen	chinese academy of sciences
+李湉湉	自然科学类	2014	tiantian li	中国疾病预防控制中心环境与健康相关产品安全所
+封小松	自然科学类	2014	xiaosong feng	上海航天设备制造总厂
+刘丰	自然科学类	2014	feng liu	机械科学研究总院先进制造技术研究中心
+刘兴宇	自然科学类	2014	xingyu liu	北京有色金属研究总院
+陈建兵	自然科学类	2014	jianbing chen	中交第一公路勘察设计研究院有限公司
+薛峰	自然科学类	2014	feng xue	江苏出入境检验检疫局
+陈航	自然科学类	2014	hang chen	中国林业科学研究院资源昆虫研究所
+徐俊明	自然科学类	2014	junming xu	中国林业科学研究院林产化学工业研究所
+张弓	自然科学类	2014	gong zhang	jinan university
+王益	自然科学类	2014	yi wang	chinese academy of sciences
+谷林	自然科学类	2014	lin gu	chinese academy of sciences
+孟胜	自然科学类	2014	sheng meng	chinese academy of sciences
+王鹰	自然科学类	2014	ying wang	chinese academy of sciences
+丁宝全	自然科学类	2014	baoquan ding	国家纳米科学中心
+方英	自然科学类	2014	ying fang	国家纳米科学中心
+王磊	自然科学类	2014	lei wang	chinese academy of sciences
+盖志琨	自然科学类	2014	zhikun gai	chinese academy of sciences
+李伟	自然科学类	2014	wei li	chinese academy of sciences
+周雯	自然科学类	2014	wen zhou	chinese academy of sciences
+刘翟	自然科学类	2014	di liu	chinese academy of sciences
+王宇	自然科学类	2014	yu wang	chinese academy of sciences
+沈芳	自然科学类	2014	fang shen	chinese academy of sciences
+孙志刚	自然科学类	2014	zhigang sun	chinese academy of sciences
+李先锋	自然科学类	2014	xianfeng li	chinese academy of sciences
+白娥	自然科学类	2014	e bai	chinese academy of sciences
+单崇新	自然科学类	2014	chongxin dan	chinese academy of sciences
+许琛琦	自然科学类	2014	chenqi xu	chinese academy of sciences
+胡国宏	自然科学类	2014	guohong hu	chinese academy of sciences
+赵强	自然科学类	2014	qiang zhao	chinese academy of sciences
+刘静	自然科学类	2014	jing liu	chinese academy of sciences
+周欣	自然科学类	2014	xin zhou	chinese academy of sciences
+陈捷凯	自然科学类	2014	jiekai chen	chinese academy of sciences
+张会平	自然科学类	2014	huiping zhang	中国地震局地质研究所
+周波涛	自然科学类	2014	botao zhou	国家气候中心
+胡泽骏	自然科学类	2014	zejun hu	中国极地研究中心
+许学伟	自然科学类	2014	xuewei xu	国家海洋局第二海洋研究所
+高伟	自然科学类	2014	wei gao	capital medical university
+杨旗	自然科学类	2014	qi yang	首都医科大学宣武医院
+郝峻巍	自然科学类	2014	junwei hao	tianjin medical university
+管祖光	自然科学类	2014	zuguang guan	河北先河环保科技股份有限公司
+冯良山	自然科学类	2014	liangshan feng	chinese academy of sciences
+王飞	自然科学类	2014	fei wang	黑龙江省工业技术研究院
+姜再兴	自然科学类	2014	zaixing jiang	黑龙江省工业技术研究院
+田进伟	自然科学类	2014	jinwei tian	chinese academy of sciences
+赵强	自然科学类	2014	qiang zhao	nanjing university of posts and telecommunications
+刘庄	自然科学类	2014	zhuang liu	soochow university
+陈名海	自然科学类	2014	minghai chen	江苏联科纳米科技有限公司
+徐沛	自然科学类	2014	pei xu	chinese academy of sciences
+纪杰	自然科学类	2014	jie ji	中国科学技术大学先进技术研究院
+康宇	自然科学类	2014	yu kang	中国科学技术大学先进技术研究院
+李艳大	自然科学类	2014	yanda li	chinese academy of sciences
+迟晓元	自然科学类	2014	xiaoyuan chi	山东省花生研究所
+曹雄	自然科学类	2014	xiong cao	southern medical university
+刘承帅	自然科学类	2014	chengshuai liu	广东省生态环境与土壤研究所
+庄莉	自然科学类	2014	li zhuang	广东省生态环境与土壤研究所
+张云飞	自然科学类	2014	yunfei zhang	宇龙计算机通信科技（深圳）有限公司
+孙健	自然科学类	2014	jian sun	chinese academy of sciences
+罗阳	自然科学类	2014	yang luo	第三军医大学第一附属医院
+石毅	自然科学类	2014	yi shi	chinese academy of sciences
+肖麓	自然科学类	2014	lu xiao	chinese academy of sciences
+张静	哲学社会科学文化艺术类	2014	jing zhang	中央党校
+李海青	哲学社会科学文化艺术类	2014	haiqing li	中央党校
+赵磊	哲学社会科学文化艺术类	2014	lei zhao	中央党校
+刘哲	哲学社会科学文化艺术类	2014	zhe liu	﻿peking university
+向勇	哲学社会科学文化艺术类	2014	yong xiang	﻿peking university
+张影	哲学社会科学文化艺术类	2014	ying zhang	﻿peking university
+凌斌	哲学社会科学文化艺术类	2014	bin ling	﻿peking university
+郑思齐	哲学社会科学文化艺术类	2014	siqi zheng	tsinghua university
+聂鑫	哲学社会科学文化艺术类	2014	xin nie	tsinghua university
+竺效	哲学社会科学文化艺术类	2014	xiao zhu	renmin university of china
+臧峰宇	哲学社会科学文化艺术类	2014	fengyu zang	renmin university of china
+刘超	哲学社会科学文化艺术类	2014	chao liu	beijing normal university
+吴玉军	哲学社会科学文化艺术类	2014	yujun wu	beijing normal university
+周韧	哲学社会科学文化艺术类	2014	ren zhou	北京语言大学
+严成樑	哲学社会科学文化艺术类	2014	chengliang yan	central university of finance and economics
+陈斌开	哲学社会科学文化艺术类	2014	binkai chen	central university of finance and economics
+栗峥	哲学社会科学文化艺术类	2014	zheng li	中国政法大学
+海军	哲学社会科学文化艺术类	2014	jun hai	中央美术学院
+黄小峰	哲学社会科学文化艺术类	2014	xiaofeng huang	中央美术学院
+黄薇	哲学社会科学文化艺术类	2014	wei huang	对外经济贸易大学
+刘丰	哲学社会科学文化艺术类	2014	feng liu	nankai university
+王庆丰	哲学社会科学文化艺术类	2014	qingfeng wang	jilin university
+刘善槐	哲学社会科学文化艺术类	2014	shanhuai liu	northeast normal university
+谢乃和	哲学社会科学文化艺术类	2014	naihe xie	northeast normal university
+周葆华	哲学社会科学文化艺术类	2014	baohua zhou	fudan university
+唐雯	哲学社会科学文化艺术类	2014	wen tang	fudan university
+徐冲	哲学社会科学文化艺术类	2014	chong xu	fudan university
+李学尧	哲学社会科学文化艺术类	2014	xueyao li	shanghai jiao tong university
+郑雄飞	哲学社会科学文化艺术类	2014	xiongfei zheng	east china normal university
+张帆	哲学社会科学文化艺术类	2014	fan zhang	shanghai international studies university
+张学良	哲学社会科学文化艺术类	2014	xueliang zhang	shanghai university of finance and economics
+童岭	哲学社会科学文化艺术类	2014	ling tong	nanjing university
+舒嘉	哲学社会科学文化艺术类	2014	jia shu	southeast university
+胡铭	哲学社会科学文化艺术类	2014	ming hu	zhejiang university
+王艳艳	哲学社会科学文化艺术类	2014	yanyan wang	xiamen university
+潘越	哲学社会科学文化艺术类	2014	yue pan	xiamen university
+黄凯南	哲学社会科学文化艺术类	2014	kainan huang	shandong university
+余来明	哲学社会科学文化艺术类	2014	laiming yu	wuhan university
+吴江	哲学社会科学文化艺术类	2014	jiang wu	wuhan university
+罗国强	哲学社会科学文化艺术类	2014	guoqiang luo	wuhan university
+孔东民	哲学社会科学文化艺术类	2014	dongmin kong	huazhong university of science and technology
+张明新	哲学社会科学文化艺术类	2014	mingxin zhang	huazhong university of science and technology
+李谷成	哲学社会科学文化艺术类	2014	gucheng li	huazhong agricultural university
+张跃军	哲学社会科学文化艺术类	2014	yuejun zhang	hunan university
+张鹏	哲学社会科学文化艺术类	2014	peng zhang	sun yat-sen university
+冯博	哲学社会科学文化艺术类	2014	bo feng	south china university of technology
+邱江	哲学社会科学文化艺术类	2014	jiang qiu	southwest university
+徐舒	哲学社会科学文化艺术类	2014	shu xu	southwestern university of finance and economics
+李化成	哲学社会科学文化艺术类	2014	huacheng li	shaanxi normal university
+贾明	哲学社会科学文化艺术类	2014	ming jia	northwestern polytechnical university
+王中旭	哲学社会科学文化艺术类	2014	zhongxu wang	故宫博物院
+费波	哲学社会科学文化艺术类	2014	bo fei	中央芭蕾舞团
+王鹏	哲学社会科学文化艺术类	2014	peng wang	中国人民银行
+蒋依依	哲学社会科学文化艺术类	2014	yiyi jiang	中国旅游研究院
+陈光慧	哲学社会科学文化艺术类	2014	guanghui chen	jinan university
+吴杰	哲学社会科学文化艺术类	2014	jie wu	university of science and technology of china
+曲玥	哲学社会科学文化艺术类	2014	yue qu	chinese academy of sciences
+何欢欢	哲学社会科学文化艺术类	2014	huanhuan he	chinese academy of sciences
+钟君	哲学社会科学文化艺术类	2014	jun zhong	chinese academy of sciences
+郭子林	哲学社会科学文化艺术类	2014	zilin guo	chinese academy of sciences
+意娜	哲学社会科学文化艺术类	2014	na yi	chinese academy of sciences
+陈健鹏	哲学社会科学文化艺术类	2014	jianpeng chen	国务院发展研究中心
+马华	哲学社会科学文化艺术类	2014	hua ma	北京电影学院
+王京州	哲学社会科学文化艺术类	2014	jingzhou wang	hebei normal university
+董杰	哲学社会科学文化艺术类	2014	jie dong	内蒙古师范大学
+胡友峰	哲学社会科学文化艺术类	2014	youfeng hu	wenzhou university
+王旭青	哲学社会科学文化艺术类	2014	xuqing wang	浙江音乐学院
+谢花林	哲学社会科学文化艺术类	2014	hualin xie	jiangxi university of finance and economics
+郭辉	哲学社会科学文化艺术类	2014	hui guo	hunan normal university
+何一鸣	哲学社会科学文化艺术类	2014	yiming he	south china agricultural university
+董秀团	哲学社会科学文化艺术类	2014	xiutuan dong	yunnan university
+吾斯曼江·亚库甫	哲学社会科学文化艺术类	2014	wu si man jiang · ya ku fu	 新疆大学
+何琼毅	自然科学类	2016	qiongyi he	﻿peking university
+姜长涛	自然科学类	2016	zhangtao jiang	﻿peking university
+赵 扬	自然科学类	2016	 yang zhao	﻿peking university
+陶 飞	自然科学类	2016	 fei tao	beihang university
+胡 程	自然科学类	2016	 cheng hu	beijing institute of technology
+徐 超	自然科学类	2016	 chao xu	north china electric power university
+陈 巍	自然科学类	2016	 wei chen	tsinghua university
+胥蕊娜 	自然科学类	2016	na  xurui	tsinghua university
+赵 亮	自然科学类	2016	 liang zhao	tsinghua university
+张振雷	自然科学类	2016	zhenlei zhang	capital normal university
+安 磊	自然科学类	2016	 lei an	china agricultural university
+张 兵	自然科学类	2016	 bing zhang	tianjin university
+钟 澄	自然科学类	2016	 cheng zhong	tianjin university
+王 艳	自然科学类	2016	 yan wang	tianjin medical university
+刘 涛	自然科学类	2016	 tao liu	dalian university of technology
+王国庆	自然科学类	2016	guoqing wang	jilin university
+靳国永	自然科学类	2016	guoyong jin	哈尔滨工程大学
+闫 俊	自然科学类	2016	 jun yan	哈尔滨工程大学
+曹 健	自然科学类	2016	 jian cao	harbin engineering university
+刘 明	自然科学类	2016	 ming liu	harbin engineering university
+尹 珅	自然科学类	2016	 shen yin	harbin engineering university
+江 浩	自然科学类	2016	 hao jiang	east china university of science and technology
+王海丰	自然科学类	2016	haifeng wang	east china university of science and technology
+黄智鹏	自然科学类	2016	zhipeng huang	tongji university
+杨晓伟	自然科学类	2016	xiaowei yang	tongji university
+刘卫东	自然科学类	2016	weidong liu	shanghai jiao tong university
+黄学辉	自然科学类	2016	xuehui huang	shanghai normal university
+王 浩	自然科学类	2016	 hao wang	southeast university
+杨 浩	自然科学类	2016	 hao yang	nanjing university of aeronautics and astronautics
+刘裕强	自然科学类	2016	yuqiang liu	nanjing agricultural university
+薄 拯	自然科学类	2016	 zheng bao	zhejiang university
+朱永群	自然科学类	2016	yongqun zhu	zhejiang university
+方克艳	自然科学类	2016	keyan fang	fujian normal university
+赵立璐	自然科学类	2016	lilu zhao	shandong university
+高 珊	自然科学类	2016	 shan gao	ocean university of china
+褚贝贝	自然科学类	2016	beibei chu	henan agricultural university
+白 翔	自然科学类	2016	 xiang bai	huazhong university of science and technology
+陈 炜	自然科学类	2016	 wei chen	huazhong university of science and technology
+殷 平	自然科学类	2016	 ping yin	huazhong agricultural university
+黄 昕	自然科学类	2016	 xin huang	wuhan university
+赵小阳	自然科学类	2016	xiaoyang zhao	southern medical university
+林 倞	自然科学类	2016	 jing lin	sun yat-sen university
+郑 健	自然科学类	2016	 jian zheng	sun yat-sen university
+董 帆	自然科学类	2016	 fan dong	chongqing technology and business university
+孙 剑	自然科学类	2016	 jian sun	xi'an jiaotong university
+韩英锋	自然科学类	2016	yingfeng han	northwest university
+郭 斌	自然科学类	2016	 bin guo	northwestern polytechnical university
+许 斌	自然科学类	2016	 bin xu	northwestern polytechnical university
+刘慧泉	自然科学类	2016	huiquan liu	西北农林科技大学
+邱 强	自然科学类	2016	 qiang qiu	lanzhou university
+沈 俊	自然科学类	2016	 jun shen	chinese academy of sciences
+刘 倩	自然科学类	2016	 qian liu	chinese academy of sciences
+程 龙	自然科学类	2016	 long cheng	chinese academy of sciences
+邱基斯	自然科学类	2016	jisi qiu	chinese academy of sciences
+陈 恺	自然科学类	2016	 kai chen	chinese academy of sciences
+李 舟	自然科学类	2016	 zhou li	chinese academy of sciences
+贾冠清	自然科学类	2016	guanqing jia	chinese academy of sciences
+高 利	自然科学类	2016	 li gao	chinese academy of sciences
+程 锋	自然科学类	2016	 feng cheng	chinese academy of sciences
+郑明明	自然科学类	2016	mingming zheng	chinese academy of sciences
+刘 军	自然科学类	2016	 jun liu	中国疾病预防控制中心病毒病预防控制所
+陈帅飞	自然科学类	2016	shuaifei chen	国家林业局桉树研究开发中心
+左志燕	自然科学类	2016	zhiyan zuo	中国气象科学研究院
+陈 雨	自然科学类	2016	 yu chen	chinese academy of sciences
+黄 敏	自然科学类	2016	 min huang	chinese academy of sciences
+王 博	自然科学类	2016	 bo wang	chinese academy of sciences
+邵长伟	自然科学类	2016	zhangwei shao	中国水产科学研究院黄海水产研究所
+冯双磊	自然科学类	2016	shuanglei feng	中国电力科学研究院
+郑桐森	自然科学类	2016	tongsen zheng	chinese academy of sciences
+李隆球	自然科学类	2016	longqiu li	黑龙江省工业技术研究院
+李 杨	自然科学类	2016	 yang li	哈尔滨市食品产业研究院
+王小军	自然科学类	2016	xiaojun wang	水利部交通运输部国家能源局南京水利科学研究院
+杨 明	自然科学类	2016	 ming yang	山东省肿瘤防治研究院
+陈 峰	自然科学类	2016	 feng chen	新疆维吾尔自治区气象局
+陈奕峰	自然科学类	2016	yifeng chen	常州天合光能有限公司
+潘 欣	自然科学类	2016	 xin pan	chinese academy of sciences
+于 杰	自然科学类	2016	 jie yu	chinese pla general hospital
+易 蔚	自然科学类	2016	 wei yi	中国人民解放军第四军医大学
+王 琳	自然科学类	2016	 lin wang	中国人民解放军第四军医大学第一附属医院
+陈亚杰	哲学社会科学文化艺术类	2016	yajie chen	中央党史研究室
+车 浩	哲学社会科学文化艺术类	2016	 hao che	﻿peking university
+吴天岳	哲学社会科学文化艺术类	2016	tianyue wu	﻿peking university
+汤 铃	哲学社会科学文化艺术类	2016	 ling tang	beijing university of chemical technology
+卢春明	哲学社会科学文化艺术类	2016	chunming lu	beijing normal university
+邱 冰	哲学社会科学文化艺术类	2016	 bing qiu	北京语言大学
+米海鹏	哲学社会科学文化艺术类	2016	haipeng mi	tsinghua university
+杨益民	哲学社会科学文化艺术类	2016	yimin yang	chinese academy of sciences
+谢永康	哲学社会科学文化艺术类	2016	yongkang xie	nankai university
+薛晋文	哲学社会科学文化艺术类	2016	jinwen xue	太原师范学院
+包海青	哲学社会科学文化艺术类	2016	haiqing bao	内蒙古科技大学
+肖 晞	哲学社会科学文化艺术类	2016	 xi xiao	jilin university
+郭熙铜	哲学社会科学文化艺术类	2016	xitong guo	harbin engineering university
+胡安宁	哲学社会科学文化艺术类	2016	anning hu	fudan university
+钟宁桦	哲学社会科学文化艺术类	2016	ninghua zhong	tongji university
+尚必武	哲学社会科学文化艺术类	2016	biwu shang	shanghai jiao tong university
+王之炅	哲学社会科学文化艺术类	2016	zhijiong wang	上海音乐学院
+梁 莹	哲学社会科学文化艺术类	2016	 ying liang	nanjing university
+张 炳	哲学社会科学文化艺术类	2016	 bing zhang	nanjing university
+易福金	哲学社会科学文化艺术类	2016	fujin yi	nanjing agricultural university
+叶 晔	哲学社会科学文化艺术类	2016	 ye ye	zhejiang university
+陈衍泰	哲学社会科学文化艺术类	2016	yantai chen	zhejiang university of technology
+韦 倩	哲学社会科学文化艺术类	2016	 qian wei	shandong university
+许家星	哲学社会科学文化艺术类	2016	jiaxing xu	nanchang university
+狄金华	哲学社会科学文化艺术类	2016	jinhua di	huazhong agricultural university
+陈柏峰	哲学社会科学文化艺术类	2016	baifeng chen	zhongnan university of economics and law
+刘 涛	哲学社会科学文化艺术类	2016	 tao liu	jinan university
+张 伟	哲学社会科学文化艺术类	2016	 wei zhang	sun yat-sen university
+方 正	哲学社会科学文化艺术类	2016	 zheng fang	sichuan university
+彭 伟	哲学社会科学文化艺术类	2016	 wei peng	southwest university
+蒋 真	哲学社会科学文化艺术类	2016	 zhen jiang	northwest university
+罗强强	哲学社会科学文化艺术类	2016	qiangqiang luo	宁夏大学
+古丽阿扎提·吐尔逊	哲学社会科学文化艺术类	2016	gu li a zha ti · tu er xun	xinjiang university
+郑 亮	哲学社会科学文化艺术类	2016	 liang zheng	xinjiang university
+马 佳	哲学社会科学文化艺术类	2016	 jia ma	黑龙江省京剧院（戏剧戏曲学）
+罗 周	哲学社会科学文化艺术类	2016	 zhou luo	江苏省文化厅剧目工作室（戏剧戏曲学）
+朱 妍	哲学社会科学文化艺术类	2016	 yan zhu	中央芭蕾舞团（舞蹈学）
+盛 葳	哲学社会科学文化艺术类	2016	 wei sheng	《美术》杂志社（美术学）
+田永坡	哲学社会科学文化艺术类	2016	yongpo tian	中国人事科学研究院
+支振锋	哲学社会科学文化艺术类	2016	zhenfeng zhi	chinese academy of sciences
+陈晓伟	哲学社会科学文化艺术类	2016	xiaowei chen	chinese academy of sciences
+徐奇渊	哲学社会科学文化艺术类	2016	qiyuan xu	chinese academy of sciences
+高 程	哲学社会科学文化艺术类	2016	 cheng gao	chinese academy of sciences
+李 黎	哲学社会科学文化艺术类	2016	 li li	中国文化遗产研究院

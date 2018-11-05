@@ -1,0 +1,1469 @@
+id,name,money,institute
+0,Pierre Demarque,230900,Yale University
+1,none DATANOTAVAILABLE,1333,Travel Award
+3,Myron Good,638600,SUNY at Stony Brook
+4,Harrison Shull,344200,Indiana University
+5,James Dahlberg,183000,University of Wisconsin-Madison
+7,John Whitehead,163200,Woods Hole Oceanographic Institution
+8,Seymour Geller,172000,University of Colorado at Boulder
+9,David Jenkins,325000,Virginia Polytechnic Institute and State University
+10,Dennis Moore,122100,Nova Southeastern University
+12,William Lucas,79900,Mathematical Association of America
+14,Winfred Berg,154000,National Research Council
+15,Robert Uffen,43000,Michigan State University
+16,Anne Keatley,1073500,National Academy of Sciences
+17,Joseph Smith,178800,University of Chicago
+18,Robert Clayton,178800,University of Chicago
+19,none DATANOTAVAILABLE,100400,Florida State University
+20,John Bradbury,34500,Florida State University
+21,Andrew Moldenke,47500,University of California-Santa Cruz
+22,Robertson Dinsmore,313000,Woods Hole Oceanographic Institution
+23,none DATANOTAVAILABLE,604,Trustees of Boston University
+25,Michael Wells,40000,University of Arizona
+27,Robert Park,1800300,University of Maryland College Park
+28,none DATANOTAVAILABLE,54732,National Academy of Sciences
+29,Raymon Glantz,83900,William Marsh Rice University
+30,Hubert Barnes,107500,Pennsylvania State Univ University Park
+31,Norman Bishop,86600,Oregon State University
+32,Kwangjai Park,76400,University of Oregon Eugene
+33,Lois Defleur,30500,Washington State University
+35,Oscar Touster,169500,Vanderbilt University
+36,Adon Gordus,269400,University of Michigan Ann Arbor
+37,Malcolm Beasley,1085300,Stanford University
+38,Theodore Geballe,1085300,Stanford University
+39,Gregory Yeh,45500,University of Michigan Ann Arbor
+40,Frank Filisko,45500,University of Michigan Ann Arbor
+41,Robert Gerard,1281500,Columbia University Lamont Doherty Earth Observatory
+42,Samuel Douglas,91986,Grambling State University
+43,Shashanka Mitra,79700,University of Rhode Island
+44,Stephen Letcher,79700,University of Rhode Island
+46,William Prothero,269600,University of California-San Diego
+47,James Brune,269600,University of California-San Diego
+48,W Statton,85900,University of Utah
+49,Ernest Chu,108400,University of Michigan Ann Arbor
+51,Thomas Schopf,58200,University of Chicago
+52,MayBeth Givan,49300,Department of Army Cold Regions Research & Engineering Lab
+53,James Lake,90000,New York University Medical Center
+54,Kenneth George,14195,University of Pennsylvania
+55,Joseph Walsh,111000,Massachusetts Institute of Technology
+56,none DATANOTAVAILABLE,31070,University of Georgia
+57,George Ricker,31070,University of Georgia
+58,none DATANOTAVAILABLE,241200,University of Wisconsin-Madison
+59,Robert Ragotzkie,216100,University of Wisconsin-Madison
+60,Adam Dziewonski,123000,Harvard University
+62,James Bardeen,154300,Yale University
+63,HEugene Stanley,48800,Massachusetts Institute of Technology
+65,Christie Enke,86720,Michigan State University
+66,none DATANOTAVAILABLE,65800,Mathematical Association of America
+67,William Hillix,65800,Mathematical Association of America
+68,Dennis Hayes,65800,Mathematical Association of America
+69,Werner Rheinboldt,65800,Mathematical Association of America
+70,James Lawrence,65800,Mathematical Association of America
+71,Arthur Koch,180400,Indiana University
+72,none DATANOTAVAILABLE,834400,University of Washington
+73,John Bradbury,10000,University of Washington
+74,Geoffrey Loftus,10000,University of Washington
+75,Russell Thompson,1077900,University of Houston
+76,Arthur Morris,89100,Missouri University of Science and Technology
+77,Gene Morrill,89100,Missouri University of Science and Technology
+78,Vaughan Bowen,234900,Department of Energy Germantown
+79,Victor NoshkinJr,234900,Department of Energy Germantown
+80,Herbert Volchok,234900,Department of Energy Germantown
+83,N Grant,6819200,Massachusetts Institute of Technology
+84,Joan Valentine,84000,University of California-San Diego
+85,Raymond Orbach,476000,University of California-Los Angeles
+86,George Hess,126000,University of Virginia Main Campus
+87,George Masek,1551300,University of California-San Diego
+88,none DATANOTAVAILABLE,919300,Columbia University
+89,Richard Staelin,177800,Carnegie-Mellon University
+91,Richard Reed,385000,University of Washington
+92,John Wallace,385000,University of Washington
+94,Tsoo King,74000,SUNY at Albany
+95,none DATANOTAVAILABLE,56250,Purdue University
+96,Jochen Kummerow,45000,Purdue University
+97,J Vite,45000,Purdue University
+99,Yung Chen,52300,SUNY at Stony Brook
+101,Donald Walter,55000,University of California-Los Angeles
+102,George Herbig,185500,University of California-Santa Cruz
+103,Bill Sutherland,32800,University of Utah
+106,none DATANOTAVAILABLE,38200,Southern Methodist University
+107,Sturges Bailey,69700,University of Wisconsin-Madison
+108,Lewis Kaplan,181700,University of Chicago
+109,Alfred DeVito,249350,Purdue University
+111,Leonard Rode,22000,University of Texas at Austin
+112,OCarruth McGehee,25400,Louisiana State University & Agricultural and Mechanical College
+113,Leon Keer,24800,Northwestern University
+114,Robert Bandurski,586,Michigan State University
+116,John Cox,221300,University of Colorado at Boulder
+117,Thomas Cahill,249450,University of California-Davis
+119,Ellis Rittenhouse,2372772,Oregon State University
+122,Wayne Welch,596940,University of Minnesota-Twin Cities
+123,George Sines,98800,University of California-Los Angeles
+124,Giancarlo Moneti,80800,University of Virginia Main Campus
+125,Theo Kalogeropoulos,80800,University of Virginia Main Campus
+126,Gerald Smith,80800,University of Virginia Main Campus
+127,Donald Kupke,80800,University of Virginia Main Campus
+128,Selwyn Roback,28600,Academy of Natural Sciences Philadelphia
+132,Howard Taubenfeld,60500,Southern Methodist University
+133,Orson Anderson,605634,University of California-Los Angeles
+134,Jacob Blum,85000,Duke University
+135,Jose Cuatrecasas,81800,Smithsonian Institution
+136,Benjamin Widom,39800,Cornell University
+137,Elias Stein,214400,Princeton University
+138,Robert Simon,29000,University of Rochester
+139,Peter Khan,85100,University of Michigan Ann Arbor
+140,Charles Braun,40900,Dartmouth College
+141,Isaac Kaplan,120650,University of California-Los Angeles
+142,Lloyd Chase,121100,Indiana University
+143,Harold ScreenJr,1252900,Johns Hopkins University
+144,James Zacks,48500,Michigan State University
+145,TehLung Ku,204100,University of Southern California
+146,Paul Meiter,40000,Catholic University of America
+148,GRichard Fowles,277800,Washington State University
+149,A Bouhdiba,26140,University of Tunis
+150,Christian Lotze,26140,University of Tunis
+151,none DATANOTAVAILABLE,26140,University of Tunis
+152,Felix Rimberg,26140,University of Tunis
+153,Gerhard Meissner,111000,Stevens Institute of Technology
+154,John Schaake,92100,Massachusetts Institute of Technology
+155,Ignacio RodriguezIturbe,92100,Massachusetts Institute of Technology
+156,Robert Sokal,140600,SUNY at Stony Brook
+158,Joseph Noggle,56200,University of Delaware
+159,Howard Dintzis,20000,Johns Hopkins University
+160,Dennis Hayes,3858600,Columbia University Lamont Doherty Earth Observatory
+161,Manik Talwani,4357833,Columbia University Lamont Doherty Earth Observatory
+163,Demetri Telionis,0,Virginia Polytechnic Institute and State University
+164,Ronald Presnell,124126,SRI International
+165,A Goldstein,17800,University of Washington
+166,S Shen,120647,Research Center For Monocrystals
+167,Tadeusz Niemyski,120647,Research Center For Monocrystals
+168,Christian Lotze,120647,Research Center For Monocrystals
+169,none DATANOTAVAILABLE,120647,Research Center For Monocrystals
+170,Felix Rimberg,120647,Research Center For Monocrystals
+171,Icko Iben,147400,University of Illinois at Urbana-Champaign
+172,Richard Bube,123100,Stanford University
+173,Juan Villa,90000,Pennsylvania State Univ University Park
+174,Theodore Holstein,70000,University of California-Los Angeles
+175,Edward Taylor,95500,Princeton University
+176,Aaron Wold,118800,Brown University
+179,Arnold Wishnia,38000,SUNY at Stony Brook
+181,Michael Holdaway,46000,Southern Methodist University
+182,Peter Goldreich,121400,California Institute of Technology
+183,Richard Thornton,392700,Massachusetts Institute of Technology
+184,Bernhard Seraphin,367000,University of Arizona
+185,Clifford Smith,16800,Southern University
+186,David Huber,98700,University of Wisconsin-Madison
+187,Karel Liem,146800,Harvard University
+188,Donald McDonald,168000,University of Denver Research Institute
+189,Daniel Drucker,168000,University of Denver Research Institute
+190,Bernard McDonald,168000,University of Denver Research Institute
+192,Charles Parmenter,150600,Indiana University
+193,Jay Savage,1223800,University of Southern California
+194,Howard Morrison,4672,DATA NOT AVAILABLE
+195,none DATANOTAVAILABLE,4672,DATA NOT AVAILABLE
+196,Charles Urmson,4672,DATA NOT AVAILABLE
+197,Felix Rimberg,4672,DATA NOT AVAILABLE
+198,Edwin Brush,4672,DATA NOT AVAILABLE
+200,MayBeth Givan,51500,University of Massachusetts Amherst
+201,Richard Alkire,78500,University of Illinois at Urbana-Champaign
+202,Robert Maurer,6530000,University of Illinois at Urbana-Champaign
+203,Parker Pratt,590450,University of California-Riverside
+204,John Brown,4800,University of Rochester
+205,Jeremy Taylor,114500,National Academy of Engineering
+206,Ronald McGregor,550300,Naval Weapons Center Office of Naval Research
+207,Robert Willey,44400,University of Illinois at Chicago
+208,Karl Turekian,71600,Yale University
+210,Robert Miller,66900,University of Michigan Ann Arbor
+211,Hermenegi Flaschka,32300,Georgia Tech Research Corporation
+212,Lawrence Pomeroy,163700,University of Georgia
+213,Michel Nicola,72500,California Institute of Technology
+214,CDavid McIntire,52600,Oregon State University
+215,Rudolf Jander,26300,University of Kansas Main Campus
+216,Omar Wing,32800,Ohio State University
+218,Robert Edwards,25700,University of California-Los Angeles
+219,Roosevelt Steptoe,358700,Southern University
+222,Fred Reames,20700,Tuskegee University
+223,Nathalie Friedman,1504200,Columbia University
+225,MayBeth Givan,180600,Stanford University
+228,Alan Portis,341210,University of California-Berkeley
+229,Gregory Gianforcaro,9020,Lehigh University
+230,Hugh Hilden,17500,University of Hawaii
+232,none DATANOTAVAILABLE,39900,Catholic University of America
+233,Geirmundu Arnason,58700,SUNY at Albany
+234,Alfred Sussman,9000,University of Michigan Ann Arbor
+236,David Sikarskie,123900,University of Michigan Ann Arbor
+240,Pandeli Durbetaki,273100,Georgia Tech Research Corporation
+241,Arthur Maxwell,6352400,Woods Hole Oceanographic Institution
+243,Irvin Isenberg,77000,Oregon State University
+244,Michael McElroy,205300,Harvard University
+245,Richard Goody,205300,Harvard University
+246,Bennie Ware,166600,Harvard University
+247,Emil Kaiser,189900,University of Chicago
+248,Charles Rogers,108500,Case Western Reserve University
+249,Ralph Lowry,71900,University of Virginia Main Campus
+250,Joseph Greene,68700,University of Illinois at Urbana-Champaign
+251,Charles Urmson,14000,Opinion Research Corporation D C
+252,Felix Rimberg,14000,Opinion Research Corporation D C
+253,Edwin Brush,14000,Opinion Research Corporation D C
+254,Peter Schipma,14000,Opinion Research Corporation D C
+255,Fred Mason,14000,Opinion Research Corporation D C
+256,Peter Rogers,1454900,Harvard University
+257,Carl Steinitz,1454900,Harvard University
+258,Louis Herman,122000,University of Hawaii
+259,RJack Schultz,131000,University of Connecticut
+260,John Leonard,87400,Illinois Institute of Technology
+261,Roscoe Braham,1271200,University of Chicago
+262,William Kanes,539711,University of South Carolina at Columbia
+263,Katherine Esau,59200,University of California-Santa Barbara
+264,Vernon Cheadle,59200,University of California-Santa Barbara
+266,Frank Oppenheimer,40000,University of Texas at Austin
+267,Joe Oppenheimer,40000,University of Texas at Austin
+268,Richard Swalin,119700,University of Minnesota-Twin Cities
+269,John Sivertsen,119700,University of Minnesota-Twin Cities
+270,Robert Long,83164,University of South Florida
+271,Richard Mansell,83164,University of South Florida
+273,Gordon Edlin,17200,University of California-Davis
+276,Robert Schwartz,71900,University of Wisconsin-Madison
+277,Edward Korostoff,240000,University of Pennsylvania
+278,John Jungerman,28000,University of California-Davis
+280,Julius Ashkin,203000,Carnegie-Mellon University
+281,Ned Vanderven,203000,Carnegie-Mellon University
+282,Paul Boyer,32000,University of California-Los Angeles
+283,John Reading,59800,Texas A&M University Main Campus
+284,William Bassichis,59800,Texas A&M University Main Campus
+285,John Meakin,1466000,University of Delaware
+286,Edward Ayensu,597693,Smithsonian Institution
+287,E Forsyth,1642000,Department of Energy Germantown
+288,J Hendrie,1642000,Department of Energy Germantown
+289,B Hamel,256300,Drexel University
+290,Harry Brown,256300,Drexel University
+291,Henry Ehrenreich,393369,Harvard University
+292,Paul Martin,393369,Harvard University
+293,Howard Morrison,19441,Auerbach Associates Inc
+294,Robert Mulliken,106300,University of Chicago
+295,Harold Mooney,43000,Stanford University
+296,none DATANOTAVAILABLE,90000,Michigan State University
+298,James Case,51300,University of California-Santa Barbara
+299,Ronald Sladek,126600,Purdue University
+301,Walter Kauzmann,34400,Princeton University
+302,Noel Clark,301600,Harvard University
+303,Robert Meyer,301600,Harvard University
+304,Peter Pershan,2782700,Harvard University
+306,Jack Mochel,115500,University of Illinois at Urbana-Champaign
+307,Donald Ginsberg,115500,University of Illinois at Urbana-Champaign
+308,William Dember,29800,University of Cincinnati Main Campus
+309,Florence Robinson,19400,Southern University
+312,Arthur Hasler,119400,University of Wisconsin-Madison
+313,none DATANOTAVAILABLE,12158,Indian Institute of Technology New Delhi
+314,none DATANOTAVAILABLE,109000,University of Oregon Eugene
+315,Gordon Goles,109000,University of Oregon Eugene
+316,Pierre Gehlen,120000,Battelle Memorial Institute
+317,Irving Klotz,135000,Northwestern University
+318,CVance Haynes,46900,Southern Methodist University
+319,Hillard Huntington,65000,Rensselaer Polytechnic Institute
+320,none DATANOTAVAILABLE,326200,William Marsh Rice University
+321,Edwin Brush,20000,William Marsh Rice University
+322,Felix Rimberg,20000,William Marsh Rice University
+323,Charles Urmson,20000,William Marsh Rice University
+324,Russell Pitman,20000,William Marsh Rice University
+325,Peter Strutt,155300,University of Connecticut
+326,Bernard Kear,155300,University of Connecticut
+327,Katsuyuki Ooyama,49600,New York University
+328,Charles Tarr,122800,University of Maine
+329,Phillip Young,27692,Grambling State University
+330,FrankH Rhodes,67200,University of Michigan Ann Arbor
+331,Alma Burlingame,40000,University of California-Berkeley
+332,none DATANOTAVAILABLE,6078,Individual Award
+333,B Fairand,152800,Battelle Memorial Institute
+334,A Clauer,152800,Battelle Memorial Institute
+335,Tom Humphreys,125200,University of Hawaii
+337,John McColl,39000,University of Wisconsin-Madison
+338,Fumio Matsumura,39000,University of Wisconsin-Madison
+339,Jochen Kummerow,39000,University of Wisconsin-Madison
+340,George Lauff,39000,University of Wisconsin-Madison
+341,John Bradbury,39000,University of Wisconsin-Madison
+345,Edward Thornton,143400,University of Pennsylvania
+346,David Paul,99600,Columbia University
+347,John Suppe,71900,Princeton University
+348,John Moore,315200,University of Tennessee Knoxville
+349,Richard Lee,72400,SUNY at Stony Brook
+350,Edward Glassman,25000,University of North Carolina at Chapel Hill
+351,Robert Colwell,59800,University of California-Berkeley
+352,Oscar Gaddy,44000,University of Illinois at Urbana-Champaign
+355,Alvin Weinstein,341200,Carnegie-Mellon University
+356,Henry Piehler,341200,Carnegie-Mellon University
+357,William Donaher,341200,Carnegie-Mellon University
+358,Aaron Twerski,341200,Carnegie-Mellon University
+359,James Becker,58594,Texas A&M University-Commerce
+360,Merrill Hartshorn,58594,Texas A&M University-Commerce
+361,Charles Rohrer,58594,Texas A&M University-Commerce
+362,John Schrag,240500,University of Wisconsin-Madison
+364,Jochen Kummerow,132800,Johns Hopkins University
+365,Warren Torgorson,132800,Johns Hopkins University
+366,John Bradbury,132800,Johns Hopkins University
+367,Stephen Roth,132800,Johns Hopkins University
+368,Wendell Burkholder,132800,Johns Hopkins University
+369,Robert Dillon,101493,National Research Council
+370,Oscar Vilches,363800,University of Washington
+371,JGregory Dash,363800,University of Washington
+372,none DATANOTAVAILABLE,250000,Naval Weapons Center Office of Naval Research
+373,none DATANOTAVAILABLE,74700,University of Michigan Ann Arbor
+374,none none,0,DATA NOT AVAILABLE
+378,Roland Ure,269900,University of Utah
+379,Robert Work,82100,North Carolina State University
+380,John Olson,106300,University of Maryland College Park
+381,Bobb Schaeffer,336000,American Museum Natural History
+382,David Harrje,442800,Princeton University
+383,Robert Socolow,442800,Princeton University
+384,Gordon Dunn,67000,University of Colorado at Boulder
+385,Robert Dott,92000,University of Wisconsin-Madison
+386,Michael Decarlo,5000,National Research Council
+387,none DATANOTAVAILABLE,295666,Columbia University Lamont Doherty Earth Observatory
+388,Charles Ninkovich,89300,Columbia University Lamont Doherty Earth Observatory
+389,June Lascelles,104000,University of California-Los Angeles
+390,Shirley Weiss,1179400,University of North Carolina at Chapel Hill
+391,CRichard Taylor,29800,Harvard University
+392,Paul Fishbane,49700,University of Virginia Main Campus
+393,James Trefil,49700,University of Virginia Main Campus
+394,Daniel Siewiorek,233500,Carnegie-Mellon University
+395,Samuel Fuller,233500,Carnegie-Mellon University
+396,John Brewer,44000,University of Georgia
+398,James Sadler,255400,University of Hawaii
+399,Armando Giardini,71000,University of Georgia
+400,George Woollard,3041900,University of Hawaii
+401,Jean Langenheim,35000,University of California-Santa Cruz
+402,Eugene Zavarin,35000,University of California-Santa Cruz
+403,David Himmelblau,31500,University of Texas at Austin
+404,none DATANOTAVAILABLE,60000,University of California-Los Angeles
+405,S Bhagat,114200,University of Maryland College Park
+406,James Anderson,114200,University of Maryland College Park
+408,Donald Turcotte,65900,Cornell University
+410,none DATANOTAVAILABLE,134040,University of Massachusetts Amherst
+411,James Neighbor,104200,Northeastern University
+412,Carl Shiffman,104200,Northeastern University
+413,Eric Kraus,310800,University of Miami Rosenstiel School of Marine&Atmospheric Sci
+414,Bernard Udis,29900,University of Colorado at Boulder
+415,R Walker,234615,University of Houston
+416,Jeremy Taylor,396700,University of California-Berkeley
+417,Avner Friedman,37400,Northwestern University
+420,Edward Grew,40900,University of Wisconsin-Madison
+421,Eric Shooter,119200,Stanford University
+422,Silverio Almeida,322500,Virginia Polytechnic Institute and State University
+425,Dwaine Cowan,20100,Johns Hopkins University
+426,Jon Pumplin,57100,Michigan State University
+427,Wayne Repko,57100,Michigan State University
+428,none DATANOTAVAILABLE,70300,University of Minnesota-Twin Cities
+429,Thieo HogenEsch,49000,University of Florida
+430,Martin McGuire,11400,University of Maryland College Park
+431,Richard Haubrich,63000,University of California-San Diego
+432,Walter Munk,63000,University of California-San Diego
+433,Alan Grinnell,32981,University of California-Los Angeles
+434,Henry Pollack,49400,University of Michigan Ann Arbor
+436,Charles Smith,1975000,University of North Carolina at Chapel Hill
+437,Douglas Brookins,35000,University of New Mexico
+438,David Aderman,69700,Duke University
+439,Richard Harrison,46000,New York University
+440,none DATANOTAVAILABLE,46000,New York University
+441,Herbert Rood,79700,Michigan State University
+442,Bruce Chalmers,150000,Harvard University
+443,Alfred Cooper,220800,Case Western Reserve University
+444,Allen Scott,63000,Oregon State University
+445,E Economou,83400,University of Virginia Main Campus
+446,Vittorio Celli,40000,University of Virginia Main Campus
+448,Thomas Devlin,470100,Rutgers University New Brunswick
+449,Richard Vook,117726,Syracuse University
+452,David Schramm,100800,University of Texas at Austin
+454,KennethA Kennedy,117000,William Marsh Rice University
+456,Samuel Eilenberg,118500,Columbia University
+457,Jochen Kummerow,77000,University of Washington
+458,Rainer Foelix,77000,University of Washington
+459,Susan Waaland,77000,University of Washington
+463,Peter Schlein,554400,University of California-Los Angeles
+464,Wolfgang Sterrer,82000,Bermuda Institute of Ocean Sciences (BIOS), Inc.
+465,James Browne,209500,University of Texas at Austin
+466,Donald Yardley,378300,University of Minnesota-Twin Cities
+467,Mei Yang,20000,Ohio State University
+468,Mario Schaffner,11829,Exotech Systems Inc
+469,William Sackett,55400,Texas A&M University Main Campus
+470,Minoru Tsutsui,55400,Texas A&M University Main Campus
+471,Jochen Kummerow,85100,Nevada System of Higher Education, Desert Research Institute
+472,John Burch,85100,Nevada System of Higher Education, Desert Research Institute
+473,John Bradbury,85100,Nevada System of Higher Education, Desert Research Institute
+474,Frits Went,85100,Nevada System of Higher Education, Desert Research Institute
+475,Wendell Burkholder,85100,Nevada System of Higher Education, Desert Research Institute
+476,SowHsin Chen,172800,Massachusetts Institute of Technology
+477,V Murthy,2850,Individual Award
+478,J Fox,24500,University of Texas at Austin
+479,Virgil Schrock,389300,University of California-Berkeley
+480,Eugene Schrier,389300,University of California-Berkeley
+484,John Rhodes,30000,University of California-Berkeley
+488,Gary Lynch,58000,University of California-Irvine
+489,Robert Pindyck,702800,Massachusetts Institute of Technology
+490,Edward Lambremont,24600,Louisiana State University & Agricultural and Mechanical College
+491,James Mullen,115900,Purdue University
+492,F Hill,82000,University of Massachusetts Amherst
+494,Walter Noll,11200,Carnegie-Mellon University
+496,Woodrow Bledsoe,83800,University of Texas at Austin
+498,Barry Lutz,47500,SUNY at Stony Brook
+499,Clifford Shull,363000,Massachusetts Institute of Technology
+502,Ture Gustafson,62200,University of California-Berkeley
+503,James Opfer,520600,Stanford University
+504,William Fairbank,520600,Stanford University
+505,Antonio Ferri,130300,New York University
+506,Maurice Glicksman,176200,Brown University
+507,Dolores Schroeder,68300,Woods Hole Oceanographic Institution
+508,Donald Whitehead,40100,Indiana University
+509,Kenneth Clark,172800,University of Washington
+511,Lawrence Payne,152400,Cornell University
+512,Noel Holmgren,44100,New York Botanical Garden
+514,Harry Peck,30000,University of Georgia
+516,Alfred Anderson,126400,University of Chicago
+517,Jeremy Taylor,1540,Individual Award
+518,Nahmin Horwitz,1292400,Syracuse University
+519,Giancarlo Moneti,1292400,Syracuse University
+520,Theo Kalogeropoulos,1292400,Syracuse University
+521,Marvin Goldberg,1292400,Syracuse University
+522,Arthur Freeman,122500,Northwestern University
+523,R Singru,54869,Indian Institute of Technology New Delhi
+525,Nancy Kopell,33200,Northeastern University
+526,FAlbert Cotton,192700,Texas A&M University Main Campus
+527,Thomas Brock,74600,University of Wisconsin-Madison
+528,Andor Szentivanyi,50700,University of South Florida
+529,Merrill Hartshorn,5968,Mathematical Association of America
+530,James Becker,5968,Mathematical Association of America
+531,Grayson Capp,5968,Mathematical Association of America
+532,George Barlow,115000,University of California-Berkeley
+533,Donald Jameson,798800,Colorado State University
+534,Irving Einhorn,800900,University of Utah
+535,Peter Robinson,60600,University of Massachusetts Amherst
+536,Stanley Jacobs,108400,University of Michigan Ann Arbor
+539,Guiseppe Parravano,50000,University of Michigan Ann Arbor
+540,William Porter,50000,University of Michigan Ann Arbor
+542,Earl Heady,1288400,Iowa State University
+543,Robert Merton,388000,Columbia University
+544,Jonathan Cole,388000,Columbia University
+545,Eugene Feenberg,128400,Washington University
+546,John Clark,128400,Washington University
+547,Zellig Harris,48800,University of Pennsylvania
+548,Donald Gillies,200000,University of Illinois at Urbana-Champaign
+549,Harry Mark,49600,University of Cincinnati Main Campus
+550,William McLean,135000,Rutgers University New Brunswick
+551,Peter Lindenfeld,135000,Rutgers University New Brunswick
+552,Max Morgan,131400,Oregon State University
+553,Julius Rudinsky,131400,Oregon State University
+555,Alexis Bell,58500,University of California-Berkeley
+556,Walter Baer,267000,Rand Corporation
+558,WHarmon Ray,154400,SUNY at Buffalo
+559,Robert Abeles,94000,Brandeis University
+560,Gert Ehrlich,223600,University of Illinois at Urbana-Champaign
+561,Lewis Cohen,924400,University of California-Riverside
+562,none DATANOTAVAILABLE,30000,University of Tennessee Knoxville
+563,William Harrison,62600,University of Alaska Fairbanks Campus
+564,Werner Rheinboldt,164400,University of Maryland College Park
+565,none DATANOTAVAILABLE,16670,Western Carolina University
+566,Jeremy Taylor,371500,Environmental Research Institute
+567,David Johnson,38500,Woods Hole Oceanographic Institution
+568,Charles Raymond,63500,University of Washington
+569,Elsie Collias,68100,Los Angeles County Museum of Natural History Foundation
+570,James Hall,214800,University of Cincinnati Main Campus
+571,William Kuhn,214800,University of Cincinnati Main Campus
+572,Joan SmithSonneborn,63000,University of Wyoming
+573,Sidney Pierce,17400,University of Maryland College Park
+574,none DATANOTAVAILABLE,25600,University of Houston
+577,JamesC Chien,95000,University of Massachusetts Amherst
+578,David McLaughlin,49600,University of Minnesota-Twin Cities
+579,Gerald Dunifer,90500,Wayne State University
+583,Roger Eichhorn,91400,University of Kentucky
+584,John Lienhard,91400,University of Kentucky
+585,Cornelis Klein,67500,Indiana University
+586,Robert Zajonc,51200,University of Michigan Ann Arbor
+588,Gordon Matzke,46000,University of Texas at Austin
+590,Carl Schildkraut,45000,Yeshiva University, Albert Einstein College of Medicine
+591,Walter Knight,170000,University of California-Berkeley
+592,Larry Gerstein,24500,University of California-Santa Barbara
+593,Ashley Campbell,23600,University of Maine
+594,H Peterson,711500,University of Wisconsin-Madison
+595,W Young,711500,University of Wisconsin-Madison
+596,R Boom,711500,University of Wisconsin-Madison
+597,Daniel Janzen,141420,DATA NOT AVAILABLE
+599,Robert Guyer,149300,University of Massachusetts Amherst
+600,Paul Hansma,125000,University of California-Santa Barbara
+603,Bruce Coull,63300,University of South Carolina at Columbia
+604,Winona Vernberg,63300,University of South Carolina at Columbia
+607,E Lichtenstein,119000,University of Wisconsin-Madison
+608,Julian Davies,55000,University of Wisconsin-Madison
+609,George Tolley,911700,University of Chicago
+610,Albert Smith,37900,University of Massachusetts Amherst
+611,Robert Hallock,115133,University of Massachusetts Amherst
+612,Robert Pound,251300,Harvard University
+613,ALeroy Odom,32500,Florida State University
+614,Christoph Harper,32500,Florida State University
+615,Merrill Hartshorn,38731,Wayne State University
+616,James Becker,38731,Wayne State University
+617,Harold Slaby,38731,Wayne State University
+618,Robert Risebrough,217200,University of California-Berkeley
+619,Gerald Heller,4790600,Brown University
+621,Frederick Jensen,150000,University of California-Berkeley
+622,Floyd McCoy,333200,Columbia University Lamont Doherty Earth Observatory
+623,WGary Ernst,115600,University of California-Los Angeles
+624,Irving Lowe,242400,University of Pittsburgh
+625,none DATANOTAVAILABLE,15900,SUNY at Stony Brook
+626,Robert Swanson,314000,University of California-San Diego
+627,Tsunemasa Saito,119300,Columbia University Lamont Doherty Earth Observatory
+628,Lloyd Burckle,119300,Columbia University Lamont Doherty Earth Observatory
+630,Alan Heeger,7113500,University of Pennsylvania
+631,Terence Langdon,65900,University of Southern California
+633,John Evans,227700,Massachusetts Institute of Technology
+634,James Blacic,124000,University of Washington
+635,Ellis Englesberg,75000,University of California-Santa Barbara
+636,Martin Paul,58360,National Research Council
+637,Pearn Niiler,221300,Nova Southeastern University
+638,Michael Woodburne,31700,University of California-Riverside
+639,Robert Klucas,72000,University of Nebraska-Lincoln
+642,Alastair Stuart,20000,University of Massachusetts Amherst
+643,Frank Harris,186500,University of Utah
+644,Harold Dziuk,35900,University of Minnesota-Twin Cities
+645,Harvey Cohn,55500,CUNY City College
+647,TzyhJong Tarn,104900,Washington University
+648,Paul Roberts,110000,University of Oregon Eugene
+649,Russell Donnelly,110000,University of Oregon Eugene
+650,Glenn Joyce,119600,University of Iowa
+651,Stanley Shawhan,119600,University of Iowa
+652,Christoph Goertz,119600,University of Iowa
+653,Anthony Wallace,69500,University of Pennsylvania
+654,Lawrence Slobodkin,68600,SUNY at Stony Brook
+658,Arthur Galston,437351,Yale University
+662,Kenneth Kustin,101000,Brandeis University
+663,Patricia Lane,188100,Michigan State University
+664,Richard Levins,188100,Michigan State University
+666,Franklin Moore,100100,Cornell University
+667,Timothy Curry,51900,Ohio State University
+668,Carolyn Preece,65000,SUNY at Stony Brook
+669,Michael Stegman,396100,University of North Carolina at Chapel Hill
+671,Joseph Bunnett,22300,University of California-Santa Cruz
+672,Oktay Sinanoglu,60000,Yale University
+673,M Garfunkel,127700,University of Pittsburgh
+674,Morton Mitchner,839900,Stanford University
+675,Charles Kruger,839900,Stanford University
+676,Robert Eustis,839900,Stanford University
+677,Norman Saks,516800,CUNY City College
+678,John Lee,516800,CUNY City College
+679,George Ross,516800,CUNY City College
+680,John Tietjen,516800,CUNY City College
+681,James Farris,101000,SUNY at Stony Brook
+682,Anne Summers,320,Travel Award
+683,Roe Goodman,32100,Rutgers University New Brunswick
+684,none DATANOTAVAILABLE,28900,Georgia Tech Research Corporation
+685,none DATANOTAVAILABLE,142400,Ohio State University
+687,none DATANOTAVAILABLE,93980,University of Pittsburgh
+688,ShienBiau Woo,9600,University of Pittsburgh
+690,none DATANOTAVAILABLE,285100,Pennsylvania State Univ University Park
+691,Robert Terwilliger,25000,University of Oregon Eugene
+692,Victor Mayer,9952,Ohio State University
+693,Robert Fisher,22300,University of California-San Diego Scripps Inst of Oceanography
+694,Stephen Cox,304100,Colorado State University
+695,Peter Banks,391400,University of California-San Diego
+696,Joseph Doupnik,391400,University of California-San Diego
+698,Jiri Nehnevajsa,124715,University of Pittsburgh
+699,William McEwen,26500,University of Massachusetts Amherst
+700,Jerome Rozen,85000,American Museum Natural History
+701,B Kropp,85000,National Academy of Engineering
+703,Folke Skoog,268100,University of Wisconsin-Madison
+704,Larry Vanderhoef,115700,University of Illinois at Urbana-Champaign
+705,D Hardy,38000,University of Hawaii
+706,Yale Mintz,1289200,University of California-Los Angeles
+707,George Wood,35826,National Academy of Sciences
+708,John Bradbury,35826,National Academy of Sciences
+710,George Helmkamp,55000,University of California-Riverside
+712,Eduardo Feller,52320,University of Denver
+713,Henry Lubatti,611900,University of Washington
+716,George Taborsky,85000,University of California-Santa Barbara
+717,Henry Andrews,29100,University of Connecticut
+718,none DATANOTAVAILABLE,330460,Grambling State University
+719,Sudhakar Reddy,29800,University of Iowa
+720,David Sellmyer,62200,University of Nebraska-Lincoln
+721,John Butt,131000,Northwestern University
+722,none DATANOTAVAILABLE,80000,University of Miami
+723,Jochen Kummerow,80000,University of Miami
+724,Thomas Pliske,80000,University of Miami
+725,Patricia Lane,80000,University of Miami
+726,George Lauff,80000,University of Miami
+728,Harry Kesten,180800,Cornell University
+729,Subir Banerjee,100900,University of Minnesota-Twin Cities
+730,Robert Butler,100900,University of Minnesota-Twin Cities
+731,Phillip Myers,50200,University of Wisconsin-Madison
+734,Charles Bauer,1228000,Carnegie-Mellon University
+735,Hendrik Tennekes,65800,Pennsylvania State Univ University Park
+736,Gary Smith,27348,New York Botanical Garden
+737,Mildred Cohn,26000,University of Pennsylvania
+738,Roberto Colella,42000,Purdue University
+739,Gilbert Hanson,41000,SUNY at Stony Brook
+740,Donald Kirwan,386500,University of Virginia Main Campus
+741,Willard Chappell,290000,University of Colorado at Boulder
+742,Curtis Richardson,290000,University of Colorado at Boulder
+743,Murray Baron,1132200,SRI International
+744,Andrew Sage,35200,Southern Methodist University
+745,Oleg Sherby,110000,Stanford University
+746,William Nix,110000,Stanford University
+747,Robert Fristrom,325000,Johns Hopkins University
+748,Frederick Turner,55200,University of Connecticut
+752,Paul Ehrlich,95700,SUNY at Buffalo
+753,Y Touloukian,112800,Purdue University
+756,Robert Cess,90300,SUNY at Stony Brook
+757,Louis Sucheston,83200,Ohio State University
+758,Michael Tinkham,110800,Harvard University
+760,none DATANOTAVAILABLE,100619,Exotech Systems Inc
+761,George Wood,64895,Exotech Systems Inc
+762,John Bradbury,64895,Exotech Systems Inc
+763,Libert Ehrman,36463,Exotech Systems Inc
+764,Betty Maxfield,46500,Rensselaer Polytechnic Institute
+766,Jeremy Taylor,201100,National Research Council
+767,Wilfred Malenbaum,1306,Travel Award
+768,Raymond Thompson,237900,University of Arizona
+769,William Longacre,237900,University of Arizona
+770,William Riedel,73200,University of California-San Diego Scripps Inst of Oceanography
+771,Michael Thorpe,45400,Yale University
+772,Denis Weaire,45400,Yale University
+773,Edward Mason,61400,Brown University
+774,Richard Castenholz,168700,University of Oregon Eugene
+775,Marshall Reiter,138500,New Mexico Institute of Mining and Technology
+776,Marvin Wilkening,56600,New Mexico Institute of Mining and Technology
+777,Ellen Berscheid,119500,University of Minnesota-Twin Cities
+778,Kent Wilson,601200,University of California-San Diego
+779,Morris Goodman,118050,Wayne State University
+780,WStanley Wilson,1210400,University of Massachusetts Amherst
+781,Richard Porter,1210400,University of Massachusetts Amherst
+782,none DATANOTAVAILABLE,143423,National Research Council
+783,Harvey Sheppard,13200,National Research Council
+784,Donald Sheppard,12000,National Research Council
+785,John Bradbury,46273,National Research Council
+786,none DATANOTAVAILABLE,823405,University of Colorado at Boulder
+787,Jochen Kummerow,102925,University of Colorado at Boulder
+788,Jeremy PickettHeaps,83700,University of Colorado at Boulder
+790,Owen Devereux,63700,University of Connecticut
+792,Wayne Mattice,68000,Louisiana State University & Agricultural and Mechanical College
+793,Benjamin Kaminer,87000,Trustees of Boston University
+796,Charles Urmson,49375,American Council on Education
+797,Felix Rimberg,49375,American Council on Education
+798,Edwin Brush,49375,American Council on Education
+799,Peter Schipma,49375,American Council on Education
+800,Alan Bayer,49375,American Council on Education
+801,Nusrat Naqvi,1560,Individual Award
+802,none DATANOTAVAILABLE,274800,Los Angeles County Museum of Natural History Foundation
+803,Howard Bern,70900,University of California-Berkeley
+806,Richard Vetter,36600,National Academy of Sciences
+807,Hellmut Fritzsche,2687000,University of Chicago
+808,James Hand,96100,University of Michigan Ann Arbor
+810,Claude Lupis,151800,Carnegie-Mellon University
+811,none DATANOTAVAILABLE,227026,Iowa State University
+813,Neil Hawkins,528100,University of Washington
+814,Ivan Sellin,166400,University of Tennessee Knoxville
+815,David Pegg,166400,University of Tennessee Knoxville
+816,Dennis Garvey,267200,Colorado State University
+817,Robert Guillard,282700,Woods Hole Oceanographic Institution
+818,Joseph Biesenberger,109500,Stevens Institute of Technology
+819,John Golden,40000,University of Texas at Austin
+820,Lyle Clark,40000,University of Texas at Austin
+822,Francis Schmitt,120800,Massachusetts Institute of Technology
+823,Ronald Surdam,33100,University of Wyoming
+824,Robert Wicklund,102600,University of Texas at Austin
+827,Elmer Noble,73000,University of California-Santa Barbara
+829,M Sodha,51195,Indian Institute of Technology New Delhi
+831,Christoph Goetze,172292,Massachusetts Institute of Technology
+832,Charles Cooper,65500,University of Delaware
+834,Jeremy Taylor,95393,University of Wisconsin-Madison
+835,John Brothers,77400,Indiana University
+836,William Ziemer,77400,Indiana University
+837,William Clemens,304519,University of California-Berkeley
+838,William Pryor,79400,Louisiana State University & Agricultural and Mechanical College
+839,Kenneth Lee,87800,University of California-Los Angeles
+840,George Frison,84300,University of Wyoming
+841,Dieter Soll,57500,Yale University
+842,Philip Orville,75000,Yale University
+843,Jeremy Taylor,30800,University of California-Los Angeles
+844,Robert Levy,129900,University of California-San Diego
+846,Jack Crow,130100,Temple University
+847,Ted Mihalisin,130100,Temple University
+848,Norman Arnheim,32000,SUNY at Stony Brook
+849,Ralph Showalter,11300,University of Texas at Austin
+850,David Cohen,326900,Massachusetts Institute of Technology
+851,Michael Kambysellis,48700,New York University
+853,Julian Goldsmith,50000,University of Chicago
+854,Jerome Weiner,39800,Brown University
+855,John Nagle,82400,Carnegie-Mellon University
+856,Joseph Lipson,114955,University of Illinois at Chicago
+857,Kenneth Yost,1841400,Purdue University
+859,John Bradbury,35000,University of Minnesota-Twin Cities
+860,Charles Kime,49000,University of Wisconsin-Madison
+861,Donald Fisher,47800,University of Georgia
+864,Charles Glock,652300,University of California-Berkeley
+865,Robert Wilson,32700,Rutgers University New Brunswick
+866,Jack Koenig,80000,Case Western Reserve University
+867,Max Lagally,68800,University of Wisconsin-Madison
+868,HerbertHHol Wickman,40000,Oregon State University
+871,Stephen Gould,120168,Harvard University
+872,Richard Higgins,192500,University of Oregon Eugene
+873,Hendrik Gerritsen,97000,Brown University
+874,Jurgen Honig,3233100,Purdue University
+875,none DATANOTAVAILABLE,557814,Harvard University
+877,Charles Allen,32000,University of Florida
+878,Edward Jacobsen,35000,University of Rochester
+879,John Bradbury,35000,University of Rochester
+880,Jochen Kummerow,35000,University of Rochester
+881,none DATANOTAVAILABLE,96200,University of Rochester
+882,B McNamara,15410,Manhattan College
+883,Jeremy Taylor,50100,University of Utah
+885,Jeremy Taylor,17000,University of Pittsburgh
+886,Gerald Krockover,20493,Purdue University
+887,Theo Pavlidis,51000,Princeton University
+888,Willem Malkus,120900,Massachusetts Institute of Technology
+889,none DATANOTAVAILABLE,494000,Bechtel National Inc
+890,William Sanders,494000,Bechtel National Inc
+891,Edwin Brush,494000,Bechtel National Inc
+892,Felix Rimberg,494000,Bechtel National Inc
+893,Charles Urmson,494000,Bechtel National Inc
+894,none DATANOTAVAILABLE,46700,Washington University
+895,W Cleland,472300,University of Pittsburgh
+896,Paul Shepard,472300,University of Pittsburgh
+897,Eugene Engels,472300,University of Pittsburgh
+898,Julia Thompson,472300,University of Pittsburgh
+899,none DATANOTAVAILABLE,135500,Cornell University
+900,John Castor,147300,University of Colorado at Boulder
+901,David Hummer,587300,University of Colorado at Boulder
+904,Arnold Honig,177900,Syracuse University
+905,D Montgomery,483300,Massachusetts Institute of Technology
+906,Serge Timasheff,90000,Brandeis University
+907,Jonathan Wittenberg,80000,Yeshiva University, Albert Einstein College of Medicine
+908,none DATANOTAVAILABLE,144300,Indiana University
+909,HuiLin Li,49400,University of Pennsylvania
+910,Rainer Zangerl,36100,Field Museum of Natural History
+911,Nelson Gillis,30400,Colorado State University
+912,John Raich,30400,Colorado State University
+913,James Simmons,96600,Washington University
+914,Hugh Chivers,164500,University of California-San Diego
+916,Joseph Dixon,120000,Pennsylvania State Univ University Park
+917,Bruce Parker,297300,Virginia Polytechnic Institute and State University
+918,Judson Mills,49600,University of Maryland College Park
+919,LClaron Hoskins,5670,University of Alaska Fairbanks Campus
+922,Harold Thomas,1027200,Harvard University
+923,Dwarka Sabu,7600,Grambling State University
+925,Robert Floyd,225900,Stanford University
+928,Clinton Ballou,24000,University of California-Berkeley
+929,Jochen Kummerow,59400,Iowa State University
+930,Richard Pohl,59400,Iowa State University
+931,Harold Brody,140000,University of Pittsburgh
+932,Arthur Squires,1054400,CUNY City College
+933,Werner Wolf,118700,Yale University
+934,William Dickinson,30800,Stanford University
+935,Victor Ablordeppey,20300,Virginia State University
+936,Stanley Bashkin,541800,University of Arizona
+937,Erlend Graf,78500,SUNY at Stony Brook
+938,RStephen Berry,170600,University of Chicago
+939,Jeremy Taylor,1200,University of Pennsylvania
+942,ChristophHW Hirs,60000,Indiana University
+943,G Argyropoulos,40358,Harbridge House Inc-DC
+944,W Garrett,40358,Harbridge House Inc-DC
+945,Charles Urmson,40358,Harbridge House Inc-DC
+946,Felix Rimberg,40358,Harbridge House Inc-DC
+947,Edwin Brush,40358,Harbridge House Inc-DC
+949,Leo Falicov,105000,University of California-Berkeley
+950,Robert Wagner,77600,Vanderbilt University
+951,Betty Maxfield,1499583,National Research Council
+953,Peter Strittmatter,57600,University of Arizona
+955,Norman Ford,113500,University of Massachusetts Amherst
+956,Kenneth Langley,113500,University of Massachusetts Amherst
+957,Krzysztof Serkowski,44500,University of Arizona
+958,Philip West,69700,Louisiana State University & Agricultural and Mechanical College
+959,Richard Beard,115000,Drexel University
+962,WStanley Wilson,42200,University of Wyoming
+963,Scott Smithson,42200,University of Wyoming
+964,Harry Tiersten,100200,Rensselaer Polytechnic Institute
+965,Philip Wigen,131900,Ohio State University
+966,HenryO Meyer,40400,Purdue University
+967,Stefan Gartner,39400,University of Miami Rosenstiel School of Marine&Atmospheric Sci
+968,John Doering,29000,Johns Hopkins University
+969,Richard Farmer,65800,Louisiana State University & Agricultural and Mechanical College
+970,Wolfgang Berger,65800,Louisiana State University & Agricultural and Mechanical College
+971,JamesA Samson,125100,University of Nebraska-Lincoln
+972,Theodore Tibbitts,81200,University of Wisconsin-Madison
+973,Henry Chuang,47900,Washington University
+974,Richard Stein,40100,University of Massachusetts Amherst
+976,R Murray,132200,University of Delaware
+978,Robert Wagner,122000,University of Virginia Main Campus
+979,Ronald Lipsman,37900,University of Maryland College Park
+980,James Sudmeier,50000,University of California-Riverside
+981,Jeffrey Hanor,65300,Louisiana State University & Agricultural and Mechanical College
+982,LuiHeung Chan,65300,Louisiana State University & Agricultural and Mechanical College
+983,Robert Lichtwardt,74100,University of Kansas Main Campus
+985,Daniel Whitney,58800,Massachusetts Institute of Technology
+986,Albert Lehninger,27000,Johns Hopkins University
+987,Robert Fuller,76620,University of Nebraska-Lincoln
+988,Ernest Rebuck,0,University of Maryland College Park
+989,Delbert Day,140700,Missouri University of Science and Technology
+991,Donald Plazek,135000,University of Pittsburgh
+992,Richard Rochberg,22400,Washington University
+993,Robert Myers,44800,Purdue University
+994,John Endicott,47200,Wayne State University
+996,Watson Laetsch,877100,University of California-Berkeley
+997,Herbert Thier,877100,University of California-Berkeley
+998,Frederic Siegel,44200,University of Delaware
+999,Robert Miura,28800,Vanderbilt University
+1000,John Lyman,36200,University of California-Los Angeles
+1001,Richard Hogg,84700,Pennsylvania State Univ University Park
+1002,Minze Stuiver,119000,University of Washington
+1004,AIan Scott,97200,Yale University
+1005,David Martin,521100,University of California-Los Angeles
+1006,Algirdas Avizienis,521100,University of California-Los Angeles
+1008,Charles Moore,318700,New Mexico Institute of Mining and Technology
+1012,Leonard Mortenson,50000,Purdue University
+1013,Donald Savage,12900,University of California-Berkeley
+1014,none DATANOTAVAILABLE,37500,University of Pennsylvania
+1015,Jochen Kummerow,25000,University of Pennsylvania
+1016,Orrin Pilkey,31700,Duke University
+1019,John Peschon,288978,Systems Control Inc
+1020,Charles Urmson,288978,Systems Control Inc
+1021,Felix Rimberg,288978,Systems Control Inc
+1022,Edwin Brush,288978,Systems Control Inc
+1023,Peter Schipma,288978,Systems Control Inc
+1024,John Edmond,121900,Massachusetts Institute of Technology
+1025,Robert Davis,44700,Syracuse University
+1026,Felix Rimberg,71900,University of Pittsburgh
+1027,James Hardy,71900,University of Pittsburgh
+1028,Hiroyuki Takagi,71900,University of Pittsburgh
+1029,Richard Pratt,71900,University of Pittsburgh
+1030,Albert Madansky,42100,CUNY City College
+1031,Dennis Meadows,123000,Dartmouth College
+1032,SyunIchi Akasofu,99800,University of Alaska Fairbanks Campus
+1033,Y Chou,70000,Lehigh University
+1034,Sonja Krause,48000,Rensselaer Polytechnic Institute
+1035,none DATANOTAVAILABLE,151350,Wayne State University
+1036,Lawrence Himmel,100900,Wayne State University
+1037,Mary Jones,119700,University of Southern California
+1038,Reed Rollins,765100,Harvard University
+1039,Sergio Porto,247400,University of Southern California
+1040,Marc Levenson,247400,University of Southern California
+1041,Robert Hellwarth,247400,University of Southern California
+1043,Jeffrey Rauch,63200,University of Michigan Ann Arbor
+1044,Michael Taylor,63200,University of Michigan Ann Arbor
+1045,ATyrone Harrison,24000,University of Wyoming
+1046,Henry Hermann,25000,University of Georgia
+1047,Julian Sturtevant,25000,Yale University
+1048,Jeremy Taylor,10308,University of Massachusetts Amherst
+1050,Milton Rokeach,31200,Washington State University
+1052,none DATANOTAVAILABLE,5600,University of Mississippi Medical Center
+1053,Christian Lotze,5600,University of Mississippi Medical Center
+1054,Felix Rimberg,5600,University of Mississippi Medical Center
+1055,Tetsuzo Akutsu,5600,University of Mississippi Medical Center
+1056,Hiroyuki Takagi,5600,University of Mississippi Medical Center
+1057,Richard Corlett,68200,University of Washington
+1059,Paul Mills,70900,Ohio State University
+1060,Robert Mills,70900,Ohio State University
+1061,William Gwinn,102800,University of California-Berkeley
+1062,B Woodson,17000,Virginia State University
+1063,Oliver Zafiriou,142000,Woods Hole Oceanographic Institution
+1064,Salomon BartnickiGarcia,69000,University of California-Riverside
+1065,Donald MacUrda,53500,University of Michigan Ann Arbor
+1066,JEugene Haas,773000,University of Colorado at Boulder
+1067,Gilbert White,773000,University of Colorado at Boulder
+1068,Elwin Marg,34400,University of California-Berkeley
+1069,Monroe Price,159200,University of California-Los Angeles
+1071,James Steenbergen,31000,New York Botanical Garden
+1073,none DATANOTAVAILABLE,43200,University of Illinois at Chicago
+1074,Wayne Worrell,151000,Pennsylvania State Univ University Park
+1075,Gerald Rothberg,153500,Stevens Institute of Technology
+1076,Vern Schramm,40000,Temple University
+1077,Kennan Smith,25300,Oregon State University
+1079,Norman Giles,40000,University of Georgia
+1080,George Glover,38000,Texas A&M University Main Campus
+1083,John Fleming,17800,University of Pittsburgh
+1086,William Stephenson,205000,University of Missouri-Columbia
+1087,George Zissis,141500,University of Michigan Ann Arbor
+1088,Reuben Hersh,41600,University of New Mexico
+1089,CBradley Moore,84000,University of California-Berkeley
+1090,Richard Richardson,145500,University of Texas at Austin
+1092,none DATANOTAVAILABLE,105300,University of California-San Diego
+1093,Forman Williams,105300,University of California-San Diego
+1096,David Murcray,38900,University of Denver Research Institute
+1097,Jerome Milgram,70900,Massachusetts Institute of Technology
+1098,Russell Burris,91000,University of Minnesota-Twin Cities
+1099,none DATANOTAVAILABLE,23000,American Geophysical Union
+1100,AF SpilhausJr,23000,American Geophysical Union
+1101,Lonnie Thompson,23000,American Geophysical Union
+1102,Ward Helms,23000,American Geophysical Union
+1103,Michio Suzuki,140300,University of Illinois at Urbana-Champaign
+1104,John Walter,140300,University of Illinois at Urbana-Champaign
+1107,Heinz FraenkelConrat,165000,University of California-Berkeley
+1108,Robert Fischl,80100,Drexel University
+1109,Octave Levenspiel,28800,Oregon State University
+1110,Thomas Fitzgerald,28800,Oregon State University
+1111,Charles Drake,413600,Dartmouth College
+1112,Robert Reynolds,413600,Dartmouth College
+1113,Noye Johnson,413600,Dartmouth College
+1115,George Wood,51180,National Research Council
+1116,Earl Zwicker,38074,Illinois Institute of Technology
+1121,Donald Knuth,386900,Stanford University
+1122,Brian Skinner,50700,Yale University
+1123,MCharles Gilbert,50700,Yale University
+1124,Shmuel BenYaakov,163900,University of California-Los Angeles
+1127,Hubert Blalock,104900,University of Washington
+1128,Emily Girault,22373,University of Pennsylvania
+1129,John Thomas,82400,SUNY at Buffalo
+1131,Herbert Chen,343500,University of California-Irvine
+1132,Frederick Reines,343500,University of California-Irvine
+1133,Elvin Kabat,360000,Columbia University
+1134,Aihud Pevsner,123400,Johns Hopkins University
+1135,Richard Boyd,139400,University of Utah
+1136,James Kemp,32300,University of Hawaii
+1138,Bostwick Ketchum,123800,Woods Hole Oceanographic Institution
+1139,Edward Deevey,176700,University of Florida
+1140,David Fairbrothers,590,Travel Award
+1141,James Brennan,21200,University of Kentucky
+1142,Albert Hopkins,143183,Massachusetts Institute of Technology
+1143,Melbourne Whiteside,52500,University of Tennessee Knoxville
+1144,Gordon Powell,65400,Ohio State University
+1145,Libert Erhman,142164,Exotech Systems Inc
+1146,Harold Ward,76200,Brown University
+1147,W RussellHunter,135700,Syracuse University
+1149,Herbert Johnson,8442000,Cornell University
+1150,Fa Wu,24000,Northeastern University
+1153,Ernest Williams,253612,Harvard University
+1156,Martin Kamen,302500,University of California-San Diego
+1157,Nathan Kaplan,252500,University of California-San Diego
+1158,Jeremy Taylor,20026,Exotech Systems Inc
+1159,George Bartholomew,46000,University of California-Los Angeles
+1160,FJames Rohlf,100000,SUNY at Stony Brook
+1161,David Kendrick,151800,University of Texas at Austin
+1162,Richard Geyer,1254700,Texas A&M University Main Campus
+1163,Samuel McIntosh,45500,Stanford University
+1164,Robert McPherron,114900,University of California-Los Angeles
+1165,William Gray,112200,Colorado State University
+1166,Hall Crannell,235100,Catholic University of America
+1168,Lawrence Harris,25900,University of Kentucky
+1169,Luigi Gorini,95705,Harvard University
+1170,Jonathan Beckwith,95705,Harvard University
+1171,Marvin Girardeau,32000,University of Oregon Eugene
+1173,William Pak,70000,Purdue University
+1174,Donald Hood,880300,University of Alaska Fairbanks Campus
+1175,David Gaskell,229700,University of Pennsylvania
+1176,Geoffrey Belton,229700,University of Pennsylvania
+1178,O Griffith,107700,University of Oregon Eugene
+1179,David Gutman,77000,Illinois Institute of Technology
+1180,Wesley VanSciver,123600,Lehigh University
+1181,Paul Saylor,79500,University of Illinois at Urbana-Champaign
+1184,David Lee,74900,Cornell University
+1185,none DATANOTAVAILABLE,167400,Princeton University
+1187,Zaven Guiragossian,812,Travel Award
+1188,Robert Cleland,50000,Dartmouth College
+1189,Thomas Sheridan,149400,Massachusetts Institute of Technology
+1190,Gyan Agarwal,45300,University of Illinois at Chicago
+1191, None,19481,University of Wisconsin-Madison
+1192,Carl Fitzgerald,45400,University of California-San Diego
+1193,William Hillix,28300,Grambling State University
+1194,K Saxena,28300,Grambling State University
+1195,Dennis Hayes,28300,Grambling State University
+1196,James Lawrence,28300,Grambling State University
+1197,Bruce Hannon,206900,University of Illinois at Urbana-Champaign
+1198,Morris Neiburger,61200,University of California-Los Angeles
+1199,Lionel Jaffe,100000,Purdue University
+1200,Franklin Stahl,50000,University of Oregon Eugene
+1202,none DATANOTAVAILABLE,243900,American Museum Natural History
+1204,Burke Judd,85900,University of Texas at Austin
+1205,Herbert Federer,38200,Brown University
+1206,none DATANOTAVAILABLE,168400,University of Denver Research Institute
+1207,David Saxon,168400,University of Denver Research Institute
+1208,Martin Robbins,168400,University of Denver Research Institute
+1209,Irwin Gunsalus,210000,University of Illinois at Urbana-Champaign
+1211,none DATANOTAVAILABLE,117600,The University of Texas Health Science Center at Houston
+1212,Jochen Kummerow,98000,The University of Texas Health Science Center at Houston
+1213,Richard Miller,98000,The University of Texas Health Science Center at Houston
+1214,John Demoss,98000,The University of Texas Health Science Center at Houston
+1215,Richard Young,59500,University of Hawaii
+1216,Charles Stone,154200,University of California-Los Angeles
+1217,John Gray,52000,University of Illinois at Urbana-Champaign
+1218,W Richardson,484500,Nova Southeastern University
+1219,Mark Wimbush,484500,Nova Southeastern University
+1222,Ralph Hinegardner,52000,University of California-Santa Cruz
+1223,James Craig,30000,Virginia Polytechnic Institute and State University
+1224,MCharles Gilbert,30000,Virginia Polytechnic Institute and State University
+1225,K Sadananda,120000,University of Maryland College Park
+1226,M Marcinkowski,120000,University of Maryland College Park
+1227,Ulrich Naf,63100,Manhattan College
+1228,Koji Nakanishi,63100,Manhattan College
+1229,Stuart Cooper,129300,University of Wisconsin-Madison
+1230,David Curtin,50500,University of Illinois at Urbana-Champaign
+1231,James Kennett,43000,University of Rhode Island
+1232,Stanley Kirschner,92255,Wayne State University
+1233,Alan Waterman,352340,Stanford University
+1234,Harry Coppel,50000,University of Alabama at Birmingham
+1235,Wendell Burkholder,50000,University of Alabama at Birmingham
+1236,John Bradbury,50000,University of Alabama at Birmingham
+1237,Jochen Kummerow,50000,University of Alabama at Birmingham
+1238,none DATANOTAVAILABLE,50000,University of Alabama at Birmingham
+1239,JKeith Guillory,10770,University of Iowa
+1240,Lynn Klotz,96000,Harvard University
+1241,Irving Segal,28200,Massachusetts Institute of Technology
+1242,Henry Kaiser,74400,University of California-Berkeley
+1245,Gregory Anekwe,16600,Tuskegee University
+1246,David Harrison,34000,University of Oregon Eugene
+1247,Charles Goldman,83000,University of California-Davis
+1248,James King,48000,Washington State University
+1249,Teruhisa Matsusaka,215800,Brandeis University
+1250,Raymond Chiao,279300,University of California-Berkeley
+1251,William Wilson,75000,William Marsh Rice University
+1252,Robert Yamamoto,24000,North Carolina State University
+1253,John Cannon,11200,University of Texas at Austin
+1254,Beatrice Sweeney,74000,University of California-Santa Barbara
+1256,William Small,17700,Southern University
+1258,Philip Hedrick,15310,University of Kansas Main Campus
+1259,Hugo Steinfink,92700,University of Texas at Austin
+1260,Jeremy Taylor,53800,New York University
+1261,Earle Muschlitz,36112,Harvard University
+1262,James Mark,34000,University of Michigan Ann Arbor
+1264,none DATANOTAVAILABLE,12000,NATIONAL INSTITUTE OF STANDARDS AND TECHNOLOGY
+1265,Vaughn Rockney,10000,NATIONAL INSTITUTE OF STANDARDS AND TECHNOLOGY
+1266,N Promisel,10000,NATIONAL INSTITUTE OF STANDARDS AND TECHNOLOGY
+1267,John Bradbury,10000,NATIONAL INSTITUTE OF STANDARDS AND TECHNOLOGY
+1269,Richard Wilson,138100,Harvard University
+1275,Ray Kunze,21900,University of California-Irvine
+1276,Hyron Spinrad,128100,University of California-Berkeley
+1277,Luc Berger,99500,Carnegie-Mellon University
+1278,Roland Winston,807000,University of Chicago
+1279,JunIchi Igusa,37900,Johns Hopkins University
+1280,Daniel Perlmutter,36000,Johns Hopkins University
+1281,Russell Keim,11427,National Research Council
+1282,Lawrence Mitchell,4867,National Research Council
+1283,Michal Simon,67400,SUNY at Stony Brook
+1284,Gerald Pearson,97500,Stanford University
+1285,Martin Schwarzschild,52700,Princeton University
+1286,John Burch,180700,University of Michigan Ann Arbor
+1287,Bedford Vestal,9590,University of Maine
+1288,John Clough,2420976,University of Nebraska-Lincoln
+1289,Truman Woodruff,145900,Michigan State University
+1290,Michael Harrison,145900,Michigan State University
+1291,Thomas Kaplan,145900,Michigan State University
+1292,Subhendra Mahanti,145900,Michigan State University
+1293,George Davis,80900,Academy of Natural Sciences Philadelphia
+1294,Bernard Weiner,113800,University of California-Los Angeles
+1295,Russell Stevens,10000,National Research Council
+1297,John Stamm,50000,SUNY at Stony Brook
+1300,Tara Das,121900,SUNY at Albany
+1301,Herbert Vaughan,42300,Yeshiva University, Albert Einstein College of Medicine
+1302,Otto Vogl,52300,University of Massachusetts Amherst
+1303,Janis Antonovics,40000,Duke University
+1304,William Roberts,94400,University of Virginia Main Campus
+1306,Michael Miller,12800,University of Cincinnati Main Campus
+1307,Anne Carter,284500,Harvard University
+1308,Donald Alton,44700,University of Iowa
+1309,Harry Gray,349400,California Institute of Technology
+1311,Gordon Orians,152500,University of Washington
+1313,Karl Smith,45600,University of Wisconsin-Madison
+1314,James White,95600,University of Arizona
+1316,Richard Zweifel,180279,American Museum Natural History
+1317,John Ruvalds,34200,University of Virginia Main Campus
+1318,Thomas Bogyo,53100,Washington State University
+1319,Alan Berryman,53100,Washington State University
+1320,Bobby Wixson,611200,Missouri University of Science and Technology
+1322,Steven Kunitz,59600,University of Rochester
+1324,William Meyer,87465,University of California-Santa Barbara
+1325,Herbert Roller,351100,Texas A&M University Main Campus
+1326,Carl Wunsch,268500,Massachusetts Institute of Technology
+1327,Richard Johnston,36900,University of Kansas Main Campus
+1328,Paul Moran,58800,University of Wisconsin-Madison
+1329,Stephen Keller,25000,University of Cincinnati Main Campus
+1333,Michael Perlman,479400,University of Chicago
+1334,Normas Rees,17400,CUNY City College
+1335,James Bohlke,157100,Academy of Natural Sciences Philadelphia
+1336,Charles Kittel,176600,University of California-Berkeley
+1337,Marvin Cohen,176600,University of California-Berkeley
+1338,Rita Colwell,118800,University of Maryland College Park
+1339,Carroll Bennett,139300,University of Connecticut
+1342,John VanLeer,522300,University of Miami Rosenstiel School of Marine&Atmospheric Sci
+1343,Christopher Mooers,522300,University of Miami Rosenstiel School of Marine&Atmospheric Sci
+1344,Roger Wood,311500,University of Utah
+1345,Anthony Hearn,311500,University of Utah
+1346,Robert Chien,311500,University of Utah
+1348,Billy Glass,71200,University of Delaware
+1349,Peter Brewer,354600,Woods Hole Oceanographic Institution
+1350,Derek Spencer,354600,Woods Hole Oceanographic Institution
+1351,Cheves Walling,210000,University of Utah
+1352,Sidney Solomon,42500,University of New Mexico
+1353,James Scott,150200,University of Colorado at Boulder
+1355,Didier deFontaine,123100,University of California-Los Angeles
+1356,Owen Phillips,46400,Johns Hopkins University
+1358,Thomas Kennedy,41425,National Academy of Sciences
+1359,Robert Paine,96900,University of Washington
+1360,Thomas Zaret,96900,University of Washington
+1361,Anthony Wasserman,27300,Rutgers University New Brunswick
+1363,Edwin Rubel,102600,Yale University
+1364,Ronald Merrill,58000,University of Washington
+1365,Khalid Mahmood,204300,Colorado State University
+1366,Nelson Marshall,32800,University of Rhode Island
+1367,Lloyd Keith,44200,University of Wisconsin-Madison
+1369,David Kidd,712500,University of New Mexico
+1370,Loren Potter,712500,University of New Mexico
+1371,Alfred Collette,9904,Syracuse University
+1372,Harry Gollob,50000,University of Denver
+1373,Augustus Nasmith,11254500,National Academy of Sciences
+1374,John Byrne,22700,Oregon State University
+1375,Ann Wagoner,20000,National Research Council
+1376,Lawrence Schwartz,151700,Brandeis University
+1377,Marlene DeLuca,75000,University of California-San Diego
+1378,Hugh Odishaw,33000,National Research Council
+1379,Donald Stahly,51700,University of Iowa
+1381,David Edwards,315300,Ohio State University
+1382,James Tough,315300,Ohio State University
+1383,Emanuel Maxwell,261100,Massachusetts Institute of Technology
+1384,Ned Johnson,270350,University of California-Berkeley
+1385,Melvin Rosenfeld,603700,Woods Hole Oceanographic Institution
+1386,Roy Zingg,458100,Iowa State University
+1387,E Rowna,28533,National Academy of Sciences
+1390,Jeanguy Schilling,62600,University of Rhode Island
+1391,James Butler,192200,Bermuda Institute of Ocean Sciences (BIOS), Inc.
+1392,Byron Morris,192200,Bermuda Institute of Ocean Sciences (BIOS), Inc.
+1393,Walter Pitman,1497700,Columbia University Lamont Doherty Earth Observatory
+1394,George Bryan,1497700,Columbia University Lamont Doherty Earth Observatory
+1397,Lee Herman,537863,American Museum Natural History
+1398,Alan Brush,53000,University of Connecticut
+1399,Peter Hobbs,327000,University of Washington
+1401,Bernard Sagik,147300,University of Texas at Austin
+1403,Robert Herriot,52100,University of Washington
+1404,James Mehl,106100,University of Delaware
+1406,Mahesh Khosla,75000,Cleveland Research Institute
+1407,F Bumpus,75000,Cleveland Research Institute
+1408,Robert Smeby,75000,Cleveland Research Institute
+1409,Robion Kirby,73000,University of California-Berkeley
+1410,Theodore Wu,175600,California Institute of Technology
+1411,BCurtis Eaves,44300,Stanford University
+1413,Franco Jona,174200,SUNY at Stony Brook
+1414,Joseph Scheibe,77300,Washington State University
+1415,Yuji Ito,36500,Brown University
+1417,William Lidicker,304100,University of California-Berkeley
+1418,Donald Miles,69100,University of Missouri-Columbia
+1419,William Easton,43400,University of Southern California
+1420,Roger Frey,57700,Brown University
+1421,John Savage,57700,Brown University
+1422,Howard Sanders,264500,Woods Hole Oceanographic Institution
+1423,Howard Zimmerman,117300,University of Wisconsin-Madison
+1426,R Davis,72000,University of Cincinnati Main Campus
+1427,Urmila Ghia,72000,University of Cincinnati Main Campus
+1428,Kirti Ghia,72000,University of Cincinnati Main Campus
+1429,Gordon Pettengill,408300,Massachusetts Institute of Technology
+1430,Irwin Shapiro,408300,Massachusetts Institute of Technology
+1431,JKent Blasie,85000,University of Pennsylvania
+1433,David Landau,38100,University of Georgia
+1434,Wolf Vieth,484800,Rutgers University New Brunswick
+1435,SJosef SchmidtColleru,96200,University of Denver
+1438,John Lyman,53800,University of Minnesota-Twin Cities
+1439,Alban Lynch,53800,University of Minnesota-Twin Cities
+1440,Frederick Mosteller,108100,Harvard University
+1441,Marc Jacobs,39200,University of Missouri-Columbia
+1442,Phillip Geil,75400,Case Western Reserve University
+1443,John Cooper,880000,University of Colorado at Boulder
+1445,Jeremy Taylor,99000,Drexel University
+1446,Burton Paul,144000,University of Pennsylvania
+1447,Marvin Wolfgang,578800,University of Pennsylvania
+1448,none DATANOTAVAILABLE,60000,New York University Medical Center
+1449,Jochen Kummerow,45000,New York University Medical Center
+1450,Robert Coughlin,310600,Lehigh University
+1451,Marvin Charles,310600,Lehigh University
+1452,Henry Ramey,617400,Stanford University
+1453,William Walsh,44000,North Carolina State University
+1454,Balaram Muddapu,10600,Grambling State University
+1455,Fredric Raichlen,221700,California Institute of Technology
+1457,Lars Ahlfors,141200,Harvard University
+1458,Phillip Griffiths,141200,Harvard University
+1459,C Stocking,91500,University of California-Davis
+1461,Russell McCormmach,1300,University of Pennsylvania
+1462,Drew Schwartz,30600,Indiana University
+1463,Ernest Burkman,1965894,Florida State University
+1464,Sultana Ali,1550,Individual Award
+1466,Lawrence Husch,79400,University of Tennessee Knoxville
+1467,none DATANOTAVAILABLE,174000,University of Utah
+1468,Donald Huffman,65400,University of Arizona
+1469,Keiiti Aki,39900,Massachusetts Institute of Technology
+1470,George Butler,111000,University of Florida
+1471,MFrederick Hawthorne,91000,University of California-Los Angeles
+1473,Emmet Hooper,106400,University of Michigan Ann Arbor
+1475,Richard Vetter,16600,National Research Council
+1476,H Orchard,40100,University of California-Los Angeles
+1477,Kazimierz Luszczynski,180800,Washington University
+1478,Richard Norberg,180800,Washington University
+1479,Emory Adams,110000,Texas A&M University Main Campus
+1480,John Truxal,122200,SUNY at Stony Brook
+1481,HRobert Horton,40000,North Carolina State University
+1482,Clara Szego,102000,University of California-Los Angeles
+1483,Raphael Aronson,32900,New York University
+1485,Pranas Zunde,177200,Georgia Tech Research Corporation
+1487,none DATANOTAVAILABLE,15000,University of Iowa
+1488,Jochen Kummerow,15000,University of Iowa
+1489,Wolfgang Precht,15000,University of Iowa
+1490,J Vite,15000,University of Iowa
+1491,Rodolfo Llinas,15000,University of Iowa
+1493,ChiaRen Hu,58900,University of Southern California
+1494,Paul Licht,99600,University of California-Berkeley
+1495,Richard Zare,77800,Columbia University
+1496,Sol Rubinow,16000,University of Massachusetts Amherst
+1497,Juliet LeeFranzini,844100,SUNY at Stony Brook
+1498,Reeve Bailey,130123,University of Michigan Ann Arbor
+1499,W Aron,30000,Smithsonian Institution
+1502,Kenneth Rose,125000,Cornell University
+1504,Fotis Kafatos,201355,Harvard University
+1505,David Moody,187740,Western Carolina University
+1506,Kenneth Monty,187740,Western Carolina University
+1509,Michael Evans,70500,Ohio State University
+1510,Samuel Treves,75700,University of Nebraska-Lincoln
+1512,Robert Huggins,4647900,Stanford University
+1515,Michael Pilson,30800,University of Rhode Island
+1516,Edward Garber,50000,University of Chicago
+1517,John Walters,156000,University of Wisconsin-Madison
+1518,James Mears,150800,Academy of Natural Sciences Philadelphia
+1519,Carol Meyer,112200,Texas A&M University Main Campus
+1520,John Edsall,27548,Harvard University
+1521,Norman Lichtin,461500,Trustees of Boston University
+1522,P Bos,510700,Oregon State University
+1523,Felix Rimberg,510700,Oregon State University
+1524,Edwin Brush,510700,Oregon State University
+1525,Peter Conti,100400,University of Colorado at Boulder
+1526,Louis Williams,64000,Field Museum of Natural History
+1527,Milton Ohring,105000,Stevens Institute of Technology
+1529,Joris Gieskes,106400,University of California-San Diego Scripps Inst of Oceanography
+1531,Ann Brothers,113000,Indiana University
+1532,Thomas Rossing,52000,William Marsh Rice University
+1533,James Trefil,52000,William Marsh Rice University
+1535,Richard Dugdale,5050900,University of Washington
+1536,S Langer,116200,University of Wisconsin-Madison
+1537,Jerrold Levy,425800,University of Arizona
+1538,Edward Wilson,480971,Harvard University
+1539,Henry Dybas,295600,Field Museum of Natural History
+1541,Azriel Rosenfeld,379700,University of Maryland College Park
+1542,Freeman Gilbert,60000,University of California-San Diego
+1543,Philip Rosenberg,40000,Washington State University
+1545,Herbert Bridge,120000,Massachusetts Institute of Technology
+1546,Michael Hoch,130000,University of Cincinnati Main Campus
+1547,Bruce Schneider,26600,Columbia University
+1548,Marcus Feldman,84000,Stanford University
+1549,Arnold Brodie,148400,University of Southern California
+1550,William Miller,94500,Cornell University
+1551,Richard Waldinger,208300,SRI International
+1554,Paul Leath,163000,Rutgers University New Brunswick
+1555,Elihu Abrahams,163000,Rutgers University New Brunswick
+1556,Kenneth Trueblood,165400,University of California-Los Angeles
+1557,Gordon Newell,49300,University of California-Berkeley
+1558,David Onley,66000,University of Delaware
+1559,Bernadine Tolbert,4600,Tuskegee University
+1560,WRonald Gentry,50000,University of Minnesota-Twin Cities
+1561,Alan Biermann,25400,Ohio State University
+1562,Alexander Astin,529300,American Council on Education
+1563,Edwin Gould,55000,Johns Hopkins University
+1564,Manuel Blum,117100,University of California-Berkeley
+1565,Richard Dodd,85100,University of Wisconsin-Madison
+1566,Kenneth Thimann,35000,University of California-Santa Cruz
+1567,none DATANOTAVAILABLE,245788,Oregon State University
+1568,HsienWen Hsu,100900,University of Tennessee Knoxville
+1569,Patrick Flanagan,50000,University of Alaska Fairbanks Campus
+1570,Robert Nathans,332700,SUNY at Stony Brook
+1571,Daniel Kivelson,80500,University of California-Los Angeles
+1572,Norman Breyer,144200,Illinois Institute of Technology
+1575,Albert Edrei,49600,Syracuse University
+1577,George Duvall,300000,Washington State University
+1578,Charles Jordan,76300,Florida State University
+1579,James Morris,72400,University of California-Berkeley
+1581,Herbert Callen,122800,University of Pennsylvania
+1582,ABrooks Harris,122800,University of Pennsylvania
+1583,Daniel Wang,1774700,Massachusetts Institute of Technology
+1584,Herbert Fromm,75400,Iowa State University
+1587,Karl Spear,108000,Pennsylvania State Univ University Park
+1591,Alan Shaw,146300,University of Washington
+1592,JeanLoup Baer,146300,University of Washington
+1593,Peter Levy,153500,New York University
+1594,Harry Mergler,280860,Case Western Reserve University
+1595,Donald Cram,180600,University of California-Los Angeles
+1596,A Kossiakoff,14000,Johns Hopkins University
+1597,V Srinivasan,1660,Travel Award
+1598,Vern Bengtson,283300,University of Southern California
+1599,none DATANOTAVAILABLE,24220,Miami University
+1600,Jochen Kummerow,17300,Miami University
+1601,Rainer Foelix,17300,Miami University
+1602,none DATANOTAVAILABLE,120500,Duke University
+1603,Jochen Kummerow,79000,Duke University
+1604,Russell Burris,79000,Duke University
+1605,William Billings,79000,Duke University
+1606,J Vite,79000,Duke University
+1607,Theodore Kneip,176500,New York University
+1608,Henry Hirshfield,176500,New York University
+1609,Fred Moavenzadeh,586100,Massachusetts Institute of Technology
+1610,Charles Dunham,169400,National Academy of Engineering
+1611,Anthony Fink,20900,University of California-Santa Cruz
+1613,Kenneth Raymond,36000,University of California-Berkeley
+1614,William Luyben,35000,Lehigh University
+1615,Tetsuo Koyama,20000,New York Botanical Garden
+1616,Ferris Webster,9820500,Woods Hole Oceanographic Institution
+1618,David Douglass,500500,University of Rochester
+1619,Isaac Horowitz,110000,University of Colorado at Boulder
+1620,Peter Dorato,110000,University of Colorado at Boulder
+1621,Richard Wert,246000,University of California-San Diego Scripps Inst of Oceanography
+1624,Lawrence Slifkin,60000,University of North Carolina at Chapel Hill
+1625,JBruce Wagner,4646700,Northwestern University
+1626,Sigmund Weissmann,123100,Rutgers University New Brunswick
+1627,Niles Eldredge,346200,American Museum Natural History
+1628,A Sinha,2570,Individual Award
+1629,Michael Arbib,77000,University of Massachusetts Amherst
+1630,Ernest Manes,77000,University of Massachusetts Amherst
+1631,Harry Hodges,14200,Purdue University
+1632,Robert Dale,14200,Purdue University
+1633,Charles Prewitt,96600,SUNY at Stony Brook
+1634,Alfred Bence,96600,SUNY at Stony Brook
+1635,Garry Cole,66200,University of Texas at Austin
+1636,Val Sapra,40100,CUNY City College
+1637,Stanley Miller,17200,University of California-San Diego
+1638,John Crecine,47900,University of Michigan Ann Arbor
+1640,Harold Sackman,147100,Rand Corporation
+1641,C Bell,147100,Rand Corporation
+1644,Larry Frankel,42200,University of Connecticut
+1645,TMichael Sanders,84000,University of Michigan Ann Arbor
+1646,Harold Kelley,106200,University of California-Los Angeles
+1647,James Childress,191000,University of California-Santa Barbara
+1649,Dan Fraenkel,163100,Harvard University
+1650,Henry Paulus,19858,Harvard University
+1651,Jeremy Taylor,5500000,Naval Weapons Center Office of Naval Research
+1652,Ralph Rowlett,4400,University of Missouri-Columbia
+1653,George Harvey,256700,Woods Hole Oceanographic Institution
+1654,Elmer Lewis,28000,Northwestern University
+1655,Warren Miller,28000,Northwestern University
+1656,Jeremy Jackson,34100,Johns Hopkins University
+1657,A Prakash,11900,New York Botanical Garden
+1658,Frank Karasz,116600,University of Massachusetts Amherst
+1659,Stephen Jacobsen,64600,Stanford University
+1660,David Luenberger,64600,Stanford University
+1661,David Williamson,41100,Smithsonian Institution
+1662,Vincent Marchesi,85000,Yale University
+1663,Ruth Hoffman,431600,University of Denver
+1664,James Kittrell,275200,University of Massachusetts Amherst
+1665,Herbert Hultin,275200,University of Massachusetts Amherst
+1666,Robert Laurence,275200,University of Massachusetts Amherst
+1667,Andrzej Woszczak,920,Individual Award
+1668,Felix Rimberg,920,Individual Award
+1669,Gary Borman,920,Individual Award
+1670,none DATANOTAVAILABLE,28000,National Academy of Engineering
+1671,Russell Keim,20000,National Academy of Engineering
+1672,John Bradbury,20000,National Academy of Engineering
+1673,Marx Brook,169200,New Mexico Institute of Mining and Technology
+1674,Paul Krehbiel,169200,New Mexico Institute of Mining and Technology
+1675,Carl Huffaker,4900000,University of California-Berkeley
+1677,David Kresge,800000,University of Alaska Fairbanks Campus
+1678,Victor Fischer,800000,University of Alaska Fairbanks Campus
+1680,Robert Davis,25730,Case Western Reserve University
+1681,Joel Kopple,57300,University of California-Los Angeles
+1682,George Wetherill,57300,University of California-Los Angeles
+1683,Robert Kamins,57300,University of California-Los Angeles
+1685,Myron Bender,78500,Northwestern University
+1688,Quentin Kessel,106500,University of Connecticut
+1689,Stephen Magee,87000,University of Chicago
+1690,H Shaw,120000,Stanford University
+1691,John Goodkind,307800,University of California-San Diego
+1692,Markus Zahn,33500,University of Florida
+1694,B Hansen,618500,Department of Army Cold Regions Research & Engineering Lab
+1695,Chester Langway,618500,Department of Army Cold Regions Research & Engineering Lab
+1696,Robert McClure,143000,Syracuse University
+1697,Thomas Patterson,143000,Syracuse University
+1698,none DATANOTAVAILABLE,32500,University of Idaho
+1699,Jochen Kummerow,26000,University of Idaho
+1700,George Lauff,26000,University of Idaho
+1702,Herbert Shore,20500,University of California-San Diego
+1703,Chung Tang,260700,Cornell University
+1704,Doak Cox,373900,University of Hawaii
+1705,RobertLee Bezy,116800,Los Angeles County Museum of Natural History Foundation
+1706,John Rice,40400,Purdue University
+1707,Rudolph Marcus,134800,University of Illinois at Urbana-Champaign
+1708,Alphonse Chapanis,119200,Johns Hopkins University
+1709,William Walker,158600,University of California-Santa Barbara
+1710,Aravind Joshi,49900,University of Pennsylvania
+1712,Jorge Churchich,44000,University of Tennessee Knoxville
+1713,Harry Beevers,49500,University of California-Santa Cruz
+1714,Kenneth Sauer,40000,University of California-Berkeley
+1715,Sydney Anderson,89000,American Museum Natural History
+1717,Donald Anderson,59000,University of California-San Diego
+1718,Mark Paddock,846600,Environmental Research Institute
+1719,John Gannon,846600,Environmental Research Institute
+1720,George Schulz,47000,Yale University
+1722,none DATANOTAVAILABLE,54800,Coppin State University
+1723,Jochen Kummerow,54800,Coppin State University
+1724,Gilbert Ogonji,54800,Coppin State University
+1725,John Bradbury,54800,Coppin State University
+1726,Jadwiga MoleBajer,54800,Coppin State University
+1727,Jeremy Taylor,25000,Illinois Institute of Technology
+1728,Thomas Carver,375400,Princeton University
+1729,Stephen Schnatterly,375400,Princeton University
+1730,John Metzner,25000,New York University
+1731,P Perumalswami,25000,New York University
+1732,David Cannell,51800,University of California-Santa Barbara
+1733,Laurent Siklossy,39300,University of Texas at Austin
+1734,Alyn Duxbury,3013100,University of Washington
+1735,John Light,37500,University of Chicago
+1736,Michael Brenner,60000,Harvard University
+1737,Ian Harrison,99800,Pennsylvania State Univ University Park
+1738,Michael Coleman,99800,Pennsylvania State Univ University Park
+1739,Jeremy Taylor,71900,SRI International
+1740,James Gibbons,7878400,University of Miami Rosenstiel School of Marine&Atmospheric Sci
+1744,John Lyons,30600,Dartmouth College
+1745,Ian Cooke,64300,University of Hawaii
+1747,Marvin Chodorow,224000,Stanford University
+1749,Gareth Thomas,247000,University of California-Berkeley
+1752,Lawrence Small,171300,Oregon State University
+1754,Michah Naftalin,450400,National Academy of Engineering
+1756,Charles Bentley,154900,University of Wisconsin-Madison
+1757,Virginia Ferris,23000,Purdue University
+1758,Claude Penchina,85300,University of Massachusetts Amherst
+1760,Emile Schweikert,44200,Texas A&M University Main Campus
+1761,Edwin Larson,44000,University of Colorado at Boulder
+1762,Earl Graham,44000,University of Colorado at Boulder
+1763,Charles Eckert,104700,University of Illinois at Urbana-Champaign
+1764,Richard Peskin,60000,Rutgers University New Brunswick
+1765,Nick Holonyak,71200,University of Illinois at Urbana-Champaign
+1767,none DATANOTAVAILABLE,1059,University of Virginia Main Campus
+1769,ChongMaw Chen,34000,University of Wisconsin-Madison
+1770,C Ramamoorthy,137800,University of California-Berkeley
+1771,Peter Denning,261700,Purdue University
+1772,Saul Rosen,261700,Purdue University
+1773,Herbert Schwetman,261700,Purdue University
+1774,James Drever,66900,University of Wyoming
+1775,Roger Arnoldy,133200,University of Minnesota-Twin Cities
+1777,John Gaustad,101300,University of California-Berkeley
+1778,Richard Hay,30000,University of California-Berkeley
+1779,Evangelos Anastassakis,75500,Northeastern University
+1780,Clive Perry,75500,Northeastern University
+1781,Jeffrey Sokoloff,75500,Northeastern University
+1782,Ezzat Younathan,100000,Louisiana State University & Agricultural and Mechanical College
+1783,Lindsay Olive,105000,University of North Carolina at Chapel Hill
+1785,none DATANOTAVAILABLE,18175,Auerbach Associates Inc
+1786,Charles Urmson,18175,Auerbach Associates Inc
+1787,Felix Rimberg,18175,Auerbach Associates Inc
+1788,Edwin Brush,18175,Auerbach Associates Inc
+1789,Leroy Hood,86500,California Institute of Technology
+1792,Richard Goldsby,172000,Yale University
+1793,Rogers McVaugh,575300,University of Michigan Ann Arbor
+1794,Mohammed Amara,5000,University of Tunis
+1795,S Radcliffe,137300,University of California-Davis
+1796,Harry Green,137300,University of California-Davis
+1797,Henry Teicher,39700,Rutgers University New Brunswick
+1798,John Cogdell,122900,University of Texas at Austin
+1799,Paul VandenBout,122900,University of Texas at Austin
+1800,ManChuen Yuen,57600,Northwestern University
+1801,Frank Schaumburg,578100,University of Washington
+1802,Alan Bayer,578100,University of Washington
+1803,Gerard Schreuder,578100,University of Washington
+1805,Ronald MacGregor,87500,University of Colorado at Boulder
+1806,Howard Schachman,180000,University of California-Berkeley
+1807,DJohn Faulkner,200900,University of California-San Diego Scripps Inst of Oceanography
+1808,David Evans,40000,University of Texas at Austin
+1809,Ricardo Pytkowicz,102900,Oregon State University
+1811,Jack Segal,33800,University of Washington
+1812,Joseph Lambert,126900,Northwestern University
+1813,Dick Netzer,122600,New York University
+1814,Leo Paquette,85200,Ohio State University
+1816,Harvey Nichols,76900,University of Colorado at Boulder
+1817,George Lauff,76900,University of Colorado at Boulder
+1818,P Keesom,70800,Purdue University
+1819,Paul Richards,84700,Columbia University Lamont Doherty Earth Observatory
+1820,Evelyn Jemison,28680,Virginia State University
+1821,Leon Chua,109700,University of California-Berkeley

@@ -1,0 +1,11 @@
+20000	Direct For Biological Sciences	Boston College	none	DATA NOT AVAILABLE	none	Principal Investigator	none	DATA NOT AVAILABLE	none	Co-Principal Investigator	none	DATA NOT AVAILABLE	none	Co-Principal Investigator	Jane	Westfall	westfall@vet.ksu.edu	Co-Principal Investigator	John	Bradbury	jbradbur@usgs.gov	Co-Principal Investigator
+13600	Direct For Computer & Info Scie & Enginr	New York Botanical Garden	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+2719969	Direct For Social, Behav & Economic Scie	National Academy of Sciences	Dorothy	Gilford	none	Principal Investigator
+18800	Directorate For Geosciences	Smithsonian Institution	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+32600	Direct For Mathematical & Physical Scien	Cazenovia College	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+216800	Directorate For Engineering	National Academy of Sciences	Nelson	Grisamore	none	Principal Investigator
+10000	Directorate For Geosciences	University of Illinois at Urbana-Champaign	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+88496	Direct For Computer & Info Scie & Enginr	Association of American Geographers	John	Lounsbury	none	Principal Investigator
+110500	Direct For Computer & Info Scie & Enginr	University of Texas at Austin	Frank	Wardlaw	none	Principal Investigator
+1667000	Direct For Mathematical & Physical Scien	Courtesy Travel Service	none	DATA NOT AVAILABLE	none	Co-Principal Investigator	none	DATA NOT AVAILABLE	none	Co-Principal Investigator	Jane	Marilley	none	Principal Investigator	George	Wood	none	Co-Principal Investigator	John	Bradbury	jbradbur@usgs.gov	Co-Principal Investigator
+596610	Directorate For Engineering	McDonnell Douglas Astronautics Company	none	DATA NOT AVAILABLE	none	Co-Principal Investigator	none	DATA NOT AVAILABLE	none	Co-Principal Investigator	Christina	Maslach	none	Principal Investigator	George	Wood	none	Co-Principal Investigator	John	Bradbury	jbradbur@usgs.gov	Co-Principal Investigator

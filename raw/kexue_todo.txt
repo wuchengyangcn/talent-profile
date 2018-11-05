@@ -1,0 +1,217 @@
+方复全	数学物理学部	2017	fuquan fang	capital normal university
+汤 涛	数学物理学部	2017	 tao tang	south university of science and technology of china
+张东辉	化学部	2017	donghui zhang	chinese academy of sciences
+陈 军	化学部	2017	 jun chen	nankai university
+赵宇亮	化学部	2017	yuliang zhao	chinese academy of sciences
+谢在库	化学部	2017	zaiku xie	中国石油化工股份有限公司
+卞修武	生命科学和医学学部	2017	xiuwu bian	陆军军医大学
+陆林	生命科学和医学学部	2017	lin lu	﻿peking university
+种康	生命科学和医学学部	2017	kang zhong	chinese academy of sciences
+顾东风	生命科学和医学学部	2017	dongfeng gu	chinese academy of sciences
+徐涛	生命科学和医学学部	2017	tao xu	chinese academy of sciences
+樊嘉	生命科学和医学学部	2017	jia fan	复旦大学附属中山医院
+丁林	地学部	2017	lin ding	chinese academy of sciences
+张宏福	地学部	2017	hongfu zhang	northwest university
+杨经绥	地学部	2017	jingsui yang	chinese academy of sciences
+邹才能	地学部	2017	caineng zou	中国石油勘探开发研究院
+侯增谦	地学部	2017	zengqian hou	chinese academy of sciences
+窦贤康	地学部	2017	xiankang dou	中国科学技术大学、武汉大学
+戴民汉	地学部	2017	minhan dai	xiamen university
+杨伟	技术科学部	2017	wei yang	中国航空工业集团公司成都飞机设计研究所
+杨孟飞	技术科学部	2017	mengfei yang	中国空间技术研究院
+魏悦广	技术科学部	2017	yueguang wei	﻿peking university
+邓小刚	数学物理学部	2015	xiaogang deng	中国人民解放军国防科学技术大学
+朱诗尧	数学物理学部	2015	shiyao zhu	北京计算科学研究中心
+江松	数学物理学部	2015	song jiang	北京应用物理与计算数学研究所
+罗民兴	数学物理学部	2015	minxing luo	zhejiang university
+莫毅明	数学物理学部	2015	yiming mo	university of hong kong
+孙世刚	化学部	2015	shigang sun	xiamen university
+谭蔚泓	化学部	2015	weihong tan	hunan university
+王福生	生命科学系	2015	fusheng wang	中国人民解放军第三〇二医院
+李蓬	生命科学和医学学部	2015	peng li	tsinghua university
+陈孝平	生命科学和医学学部	2015	xiaoping chen	huazhong university of science and technology
+邵峰	生命科学和医学学部	2015	feng shao	北京生命科学研究所
+张人禾	地学部	2015	renhe zhang	中国气象科学研究院
+陈大可	地学部	2015	dake chen	国家海洋局第二海洋研究所
+郝芳	地学部	2015	fang hao	中国地质大学(武汉)
+高锐	地学部	2015	rui gao	chinese academy of sciences
+王永良	信息技术科学部	2015	yongliang wang	空军预警学院
+姜杰	信息技术科学部	2015	jie jiang	中国航天科技集团公司第一研究院
+周志鑫	信息技术科学部	2015	zhixin zhou	北京市遥感信息研究所
+顾瑛	信息技术科学部	2015	ying gu	chinese pla general hospital
+闫楚良	技术科学部	2015	chuliang yan	国机集团科学技术研究院有限公司
+陈维江	技术科学部	2015	weijiang chen	国家电网公司
+宣益民	技术科学部	2015	yimin xuan	nanjing university of aeronautics and astronautics
+常青	技术科学部	2015	qing chang	tongji university
+韩杰才	技术科学部	2015	jiecai han	harbin engineering university
+孙鑫	数学物理学部	2013	xin sun	fudan university
+励建书	数学物理学部	2013	jianshu li	hong kong university of science and technology
+陈恕行	数学物理学部	2013	shuxing chen	fudan university
+欧阳颀	数学物理学部	2013	yangqi ou	﻿peking university
+高福	生命科学和医学学部	2013	fu gao	chinese academy of sciences
+韩家淮	生命科学和医学学部	2013	jiahuai han	xiamen university
+赫捷	生命科学和医学学部	2013	jie he	chinese academy of sciences
+张培震	地学部	2013	peizhen zhang	中国地震局地质研究所
+陈骏	地学部	2013	jun chen	nanjing university
+金之钧	地学部	2013	zhijun jin	中国石油化工股份有限公司石油勘探开发研究院
+王巍	信息技术科学部	2013	wei wang	中国航天科技集团公司第九研究院
+尹浩	信息技术科学部	2013	hao yin	中国人民解放军总参谋部第六十一研究所
+李应红	技术科学部	2013	yinghong li	中国人民解放军空军工程大学
+张肇西	数学物理学部	2011	zhaoxi zhang	chinese academy of sciences
+陈永川	数学物理学部	2011	yongchuan chen	nankai university
+鄂维南	数学物理学部	2011	weinan e	北京大学、普林斯顿大学
+田 禾	化学部	2011	 he tian	east china university of science and technology
+杨学明	化学部	2011	xueming yang	chinese academy of sciences
+张学敏	生命科学与医学学部	2011	xuemin zhang	chinese academy of sciences
+李 林	生命科学与医学学部	2011	 lin li	chinese academy of sciences
+赵玉沛	生命科学与医学学部	2011	yupei zhao	北京协和医院
+康 乐	生命科学与医学学部	2011	 le kang	chinese academy of sciences
+黄路生	生命科学与医学学部	2011	lusheng huang	jiangxi agricultural university
+高 山	地学部	2011	 shan gao	中国地质大学（武汉）
+焦念志	地学部	2011	nianzhi jiao	xiamen university
+舒德干	地学部	2011	degan shu	northwest university
+郑建华	信息技术科学部	2011	jianhua zheng	中国人民解放军保密委员会技术安全研究所
+梅 宏	信息技术科学部	2011	 hong mei	﻿peking university
+黄 维	信息技术科学部	2011	 wei huang	nanjing university of posts and telecommunications
+朱 荻	技术科学部	2011	 di zhu	nanjing university of aeronautics and astronautics
+郑 平	技术科学部	2011	 ping zheng	shanghai jiao tong university
+翟婉明	技术科学部	2011	wanming di	southwest jiaotong university
+罗俊	数学物理学部	2009	jun luo	huazhong university of science and technology
+郑晓静	数学物理学部	2009	xiaojing zheng	lanzhou university
+席南华	数学物理学部	2009	nanhua xi	chinese academy of sciences
+崔向群	数学物理学部	2009	xiangqun cui	chinese academy of sciences
+包信和	化学部	2009	xinhe bao	chinese academy of sciences
+江雷	化学部	2009	lei jiang	chinese academy of sciences
+庄文颖	生命科学和医学学部	2009	wenying zhuang	chinese academy of sciences
+尚永丰	生命科学和医学学部	2009	yongfeng shang	﻿peking university
+侯凡凡	生命科学和医学学部	2009	fanfan hou	southern medical university
+周卫健	地学部	2009	weijian zhou	chinese academy of sciences
+陶澍	地学部	2009	shu tao	﻿peking university
+翟明国	地学部	2009	mingguo di	chinese academy of sciences
+刘国治	信息技术科学部	2009	guozhi liu	中国核试验基地
+陈定昌	信息技术科学部	2009	dingchang chen	中国航天科工集团科技委
+王曦	技术科学部	2009	xi wang	chinese academy of sciences
+王自强	技术科学部	2009	ziqiang wang	chinese academy of sciences
+申长雨	技术科学部	2009	zhangyu shen	zhengzhou university
+刘竹生	技术科学部	2009	zhusheng liu	中国航天科技集团公司第一研究院
+张伟平	数学物理学部	2007	weiping zhang	nankai university
+张 希	化学部	2007	 xi zhang	tsinghua university
+段 雪	化学部	2007	 xue duan	beijing university of chemical technology
+高 松	化学部	2007	 song gao	﻿peking university
+武维华	生命科学和医学学部	2007	weihua wu	china agricultural university
+段树民	生命科学和医学学部	2007	shumin duan	chinese academy of sciences
+谢华安	生命科学和医学学部	2007	huaan xie	chinese academy of sciences
+张 经	地学部	2007	 jing zhang	east china normal university
+杨元喜	地学部	2007	yuanxi yang	西安测绘研究所
+穆 穆	地学部	2007	 mu mu	chinese academy of sciences
+王鼎盛	数学物理学部	2005	dingsheng wang	中科院物理研究所
+张家铝	数学物理学部	2005	jialv zhang	university of science and technology of china
+陈和生	数学物理学部	2005	hesheng chen	中科院高能物理研究所
+詹文龙	数学物理学部	2005	wenlong zhan	中科院近代物理研究所
+田中群	化学部	2005	zhongqun tian	xiamen university
+江 明	化学部	2005	 ming jiang	fudan university
+李洪钟	化学部	2005	hongzhong li	中科院过程工程研究所
+陈 懿	化学部	2005	 yi chen	nanjing university
+姚建年	化学部	2005	jiannian yao	中科院化学研究所
+麻生明	化学部	2005	shengming ma	中科院上海有机化学研究所
+王大成	生命科学和医学学部	2005	dacheng wang	中科院生物物理研究所
+王正敏	生命科学和医学学部	2005	zhengmin wang	复旦大学附属眼耳鼻喉科医院
+王恩多(女)	生命科学和医学学部	2005	wang en duo ( nv )	中科院上海生命科学研究院
+汪忠镐	生命科学和医学学部	2005	zhonggao wang	首都医科大学附属宣武医院
+陈晓亚	生命科学和医学学部	2005	xiaoya chen	中科院上海生命科学研究院
+贺 林	生命科学和医学学部	2005	 lin he	shanghai jiao tong university
+赵国屏	生命科学和医学学部	2005	guoping zhao	中科院上海生命科学研究院
+常文瑞	生命科学和医学学部	2005	wenrui chang	中科院生物物理研究所
+曾益新	生命科学和医学学部	2005	yixin ceng	中山大学肿瘤防治中心
+丁仲礼	地学部	2005	zhongli ding	中科院地质与地球物理研究所
+王铁冠	地学部	2005	tieguan wang	中国石油大学(北京)
+吕达仁	地学部	2005	daren lv	中科院大气物理研究所
+杨文采	地学部	2005	wencai yang	chinese academy of sciences
+邱占祥	地学部	2005	zhanxiang qiu	中科院古脊椎动物与古人类研究所
+金振民	地学部	2005	zhenmin jin	中国地质大学(武汉)
+魏奉思	地学部	2005	fengsi wei	中科院空间科学与应用研究中心
+王家骐	信息技术科学部	2005	jiaqi wang	中科院长春光学精密机械与物理研究所
+包为民	信息技术科学部	2005	weimin bao	中国航天科技集团公司第一研究院
+黄民强	信息技术科学部	2005	minqiang huang	总参谋部第五十八研究所
+褚君浩	信息技术科学部	2005	junhao chu	中科院上海技术物理研究所
+吴硕贤	技术科学部	2005	shuoxian wu	south china university of technology
+李 天	技术科学部	2005	 tian li	中国航空第一集团公司沈阳飞机设计研究所
+李述汤	技术科学部	2005	shutang li	city university of hong kong
+陈祖煜	技术科学部	2005	zuyu chen	中国水利水电科学研究院
+都有为	技术科学部	2005	youwei dou	nanjing university
+顾逸东	技术科学部	2005	yidong gu	中科院光电研究院
+薛其坤	技术科学部	2005	qikun xue	中科院物理研究所、清华大学
+张杰	数学物理学部	2003	jie zhang	中科院物理研究所
+李家春	数学物理学部	2003	jiachun li	中科院力学研究所
+陆埮	数学物理学部	2003	tan lu	nanjing university
+解思深	数学物理学部	2003	sishen jie	中科院物理研究所
+吴奇	化学部	2003	qi wu	the chinese university of hong kong
+张玉奎	化学部	2003	yukui zhang	中科院大连化学物理研究所
+李灿	化学部	2003	can li	中科院大连化学物理研究所
+侯建国	化学部	2003	jianguo hou	国科学技术大学
+洪茂椿	化学部	2003	maochun hong	中科院福建物质结构研究所
+黄宪	化学部	2003	xian huang	zhejiang university
+方荣祥	生物学部	2003	rongxiang fang	中科院微生物研究所
+刘允怡	生物学部	2003	yunyi liu	the chinese university of hong kong
+孙汉董	生物学部	2003	handong sun	中科院昆明植物研究所
+张亚平	生物学部	2003	yaping zhang	中科院昆明动物研究所
+沈岩	生物学部	2003	yan shen	chinese academy of sciences
+陈霖	生物学部	2003	lin chen	中科院研究生院
+林其谁	生物学部	2003	qishei lin	中科院上海生命科学研究院
+郑光美	生物学部	2003	guangmei zheng	beijing normal university
+饶子和	生物学部	2003	zihe rao	tsinghua university
+郭爱克	生物学部	2003	aike guo	中科院上海生命科学研究院
+邓起东	地学部	2003	qidong deng	中国地震局地质研究所
+叶嘉安	地学部	2003	jiaan ye	university of hong kong
+刘嘉麒	地学部	2003	jiaqi liu	中科院地质与地球物理研究所
+朱日祥	地学部	2003	rixiang zhu	中科院地质与地球物理研究所
+陆大道	地学部	2003	dadao lu	中科院地理资源研究所
+陈旭	地学部	2003	xu chen	中科院南京地质古生物研究所
+秦大河	地学部	2003	dahe qin	中国气象局
+贾承造	地学部	2003	chengzao jia	中国石油勘探开发研究院
+符淙斌	地学部	2003	congbin fu	中科院大气物理研究所
+卢柯	技术科学部	2003	ke lu	中科院金属研究所
+叶培建	技术科学部	2003	peijian ye	中国空间技术研究院
+邢球痕	技术科学部	2003	qiuhen xing	中国航天科技集团第四研究院
+吴宏鑫	技术科学部	2003	hongxin wu	中国空间技术研究院502所
+杨卫	技术科学部	2003	wei yang	tsinghua university
+陈创天	技术科学部	2003	chuangtian chen	中科院理化技术研究所
+周远	技术科学部	2003	yuan zhou	中科院理化技术研究所
+林尊琪	技术科学部	2003	zunqi lin	中科院上海光学精密机械研究所
+郑有炓	技术科学部	2003	youliao zheng	nanjing university
+章梓雄	技术科学部	2003	zixiong zhang	university of hong kong
+黄琳	技术科学部	2003	lin huang	﻿peking university
+田   刚	数学物理学部	2001	   gang tian	北京大学、美国麻省理工学院
+李邦河	数学物理学部	2001	banghe li	chinese academy of sciences
+汪承灏	数学物理学部	2001	chenghao wang	chinese academy of sciences
+陈式刚	数学物理学部	2001	shigang chen	北京应用物理与计算数学研究所
+赵光达	数学物理学部	2001	guangda zhao	﻿peking university
+郭柏灵	数学物理学部	2001	bailing guo	北京应用物理与计算数学研究所
+任詠华(女)	化学部	2001	ren yong hua ( nv )	university of hong kong
+江   龙	化学部	2001	   long jiang	chinese academy of sciences
+陈新滋	化学部	2001	xinzi chen	hong kong polytechnic university
+麦松威	化学部	2001	songwei mai	the chinese university of hong kong
+郑兰荪	化学部	2001	lansun zheng	xiamen university
+曹   镛	化学部	2001	   yong cao	south china university of technology
+黄春辉(女)	化学部	2001	huang chun hui ( nv )	﻿peking university
+王志珍(女)	生物学部	2001	wang zhi zhen ( nv )	chinese academy of sciences
+叶玉如(女)	生物学部	2001	ye yu ru ( nv )	hong kong university of science and technology
+孙大业	生物学部	2001	daye sun	hebei normal university
+张友尚	生物学部	2001	youshang zhang	chinese academy of sciences
+张永莲(女)	生物学部	2001	zhang yong lian ( nv )	chinese academy of sciences
+陈文新(女)	生物学部	2001	chen wen xin ( nv )	china agricultural university
+郑守仪(女)	生物学部	2001	zheng shou yi ( nv )	chinese academy of sciences
+贺福初	生物学部	2001	fuchu he	chinese academy of sciences
+梁智仁	生物学部	2001	zhiren liang	university of hong kong
+王   颖(女)	地学部	2001	wang     ying ( nv )	nanjing university
+徐世浙	地学部	2001	shizhe xu	zhejiang university
+马祖光	技术科学部	2001	zuguang ma	harbin engineering university
+刘宝镛	技术科学部	2001	baoyong liu	中国航天科技集团公司第一研究院
+庄逢辰	技术科学部	2001	fengchen zhuang	解放军装备指挥技术学院
+张   泽	技术科学部	2001	   ze zhang	chinese academy of sciences
+陈   达	技术科学部	2001	   da chen	第二十一试验训练基地研究所
+陈桂林	技术科学部	2001	guilin chen	chinese academy of sciences
+郑时龄	技术科学部	2001	shiling zheng	tongji university
+唐叔贤	技术科学部	2001	shuxian tang	university of hong kong
+郭   雷	技术科学部	2001	   lei guo	chinese academy of sciences
+高玉臣	技术科学部	2001	yuchen gao	北方交通大学

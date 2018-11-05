@@ -1,0 +1,864 @@
+45000	Direct For Mathematical & Physical Scien	William Marsh Rice University	May Beth	Givan	none	Principal Investigator
+2000	Office of Budget, Finance, & Award Management	University of North Carolina at Wilmington	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+167900	Directorate For Engineering	University of Illinois at Urbana-Champaign	Robert	Chien	none	Principal Investigator
+37700	Direct For Biological Sciences	Washington State University	Jack	Rogers	Rogers@WSU.edu	Principal Investigator
+10068	Office of Budget, Finance, & Award Management	Queens College	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+0	Direct For Mathematical & Physical Scien	New York University	Leslie	Sirkin	none	Principal Investigator
+none	Direct For Mathematical & Physical Scien	University of California-San Diego	Leigh	Clark	lbc@ucsd.edu	Principal Investigator
+33600	Directorate For Geosciences	University of Southern California	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+3100	Direct For Computer & Info Scie & Enginr	Miles College	Richard	Arrington	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	Catholic University of America	Richard	Timmons	timmons@uta.edu	Principal Investigator
+44614	Directorate For Engineering	California State University-Sacramento	-.	None	none	Principal Investigator
+286836	Directorate For Engineering	William Marsh Rice University	 .	None	none	Principal Investigator
+none	Direct For Mathematical & Physical Scien	Case Western Reserve University	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+none	Direct For Mathematical & Physical Scien	Yale University	Jay	Hirshfield	jay.hirshfield@yale.edu	Principal Investigator
+0	Direct For Mathematical & Physical Scien	SUNY at Buffalo	Albert	Padwa	chemap@emory.edu	Principal Investigator
+29889	Directorate For Engineering	Hiram College	-.	None	none	Principal Investigator
+13055	Direct For Computer & Info Scie & Enginr	Edinboro University of Pennsylvania	Michael	Schneider	none	Principal Investigator
+49580	Directorate For Engineering	DePaul University	.	None	none	Principal Investigator
+123680	Direct For Computer & Info Scie & Enginr	Exotech Systems Inc	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+4807218	Directorate For Geosciences	Library of Congress	Stuart	Hibben	none	Principal Investigator
+308785	Directorate For Engineering	New Mexico State University	-.	None	none	Principal Investigator
+none	Direct For Mathematical & Physical Scien	University of California-Los Angeles	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+none	Direct For Mathematical & Physical Scien	University of Washington	none	  DATA NOT AVAILABLE	none	Principal Investigator
+118400	Directorate For Geosciences	University of California-Berkeley	Robert	Brown	none	Principal Investigator
+2000	Office of Budget, Finance, & Award Management	Campbellsville University	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+50435	Directorate For Engineering	University of Missouri-Kansas City	-.	None	none	Principal Investigator
+19500	Direct For Biological Sciences	California State Polytechnic University-Pomona	Jia-Hsi	Wu	none	Principal Investigator
+71300	Direct For Biological Sciences	City of Hope National Med Center	Arthur	Riggs	none	Principal Investigator
+none	Direct For Mathematical & Physical Scien	University of Texas at Austin	Marie-Hel	Demoulin	none	Principal Investigator	Harlan	Smith	512/471-3300	Co-Principal Investigator
+27854	Directorate For Engineering	Rhodes College	 .	None	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	Washington University	Max	Lustig	none	Principal Investigator	Kazimierz	Luszczynski	none	Co-Principal Investigator
+none	Direct For Mathematical & Physical Scien	University of Wyoming	Clyde	Edmiston	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	University of Rochester	Alberto	Mancinelli	none	Principal Investigator
+57573	Directorate For Engineering	North Carolina Agricultural & Technical State University	-.	None	none	Principal Investigator
+54300	Direct For Biological Sciences	Syracuse University	Robert	Gregory	none	Principal Investigator
+237343	Directorate For Engineering	University of Notre Dame	.	None	none	Principal Investigator
+203207	Directorate For Engineering	SUNY at Buffalo	-.	None	none	Principal Investigator
+none	Direct For Mathematical & Physical Scien	University of Wyoming	none	  DATA NOT AVAILABLE	none	Principal Investigator
+174611	Directorate For Engineering	University of Oklahoma Norman Campus	-.	None	none	Principal Investigator
+64000	Direct For Computer & Info Scie & Enginr	Macmurray College	none	DATA NOT AVAILABLE	none	Principal Investigator
+46048	Directorate For Engineering	Tennessee State University	-.	None	none	Principal Investigator
+128200	Directorate For Geosciences	Michigan State University	Henry	Imshaug	none	Principal Investigator
+51025	Direct For Computer & Info Scie & Enginr	National Academy of Engineering Commission on Education	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+15000	Directorate For Engineering	Black Hills State University	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+320300	Direct For Computer & Info Scie & Enginr	University of Washington	Arnold	Arons	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	CUNY City College	Kenneth	Rubin	none	Principal Investigator
+none	Direct For Mathematical & Physical Scien	University of Washington	Edward	Lingafelter	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	Columbia University	Joaquin	Luttinger	none	Principal Investigator
+none	Direct For Mathematical & Physical Scien	Dartmouth College	David	Lemal	david.m.lemal@Dartmouth.edu	Principal Investigator
+13325	Office of Budget, Finance, & Award Management	Cape Fear Community College	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+none	Direct For Mathematical & Physical Scien	University of Michigan Ann Arbor	Robert	Sharp	rrsharp@umich.edu	Principal Investigator
+none	Direct For Mathematical & Physical Scien	Yale University	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+64000	Direct For Biological Sciences	Columbia University	Erwin	Chargaff	none	Principal Investigator
+32200	Direct For Biological Sciences	Cornell University	Dominick	Paolillo	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	Ohio State University	none	DATA NOT AVAILABLE	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	Travel Award	May Beth	Givan	none	Principal Investigator
+none	Direct For Mathematical & Physical Scien	Michigan State University	Clarence	Hause	none	Co-Principal Investigator	Thomas	Edwards	none	Principal Investigator
+142500	Directorate For Geosciences	University of Rhode Island	Norman	Watkins	none	Principal Investigator
+16600	Direct For Computer & Info Scie & Enginr	Society For Industrial and Applied Math (SIAM)	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+155000	Directorate For Geosciences	Naval Weapons Center Office of Naval Research	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+none	Direct For Mathematical & Physical Scien	University of California-Los Angeles	none	  DATA NOT AVAILABLE	none	Co-Principal Investigator	none	  DATA NOT AVAILABLE	none	Co-Principal Investigator	Robert	Pecora	pecora@leland.stanford.edu	Principal Investigator
+112300	Directorate For Geosciences	Ohio State University	Donald	Coates	none	Principal Investigator
+355327	Directorate For Engineering	Pennsylvania State Univ University Park	 .	None	none	Principal Investigator
+36734	Directorate For Engineering	Pacific Oaks College	-.	None	none	Principal Investigator
+281581	Directorate For Engineering	George Washington University	 .	None	none	Principal Investigator
+45000	Directorate For Geosciences	National Research Council	John	Sievers	none	Principal Investigator
+44780	Directorate For Engineering	Lincoln University	-.	None	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	Columbia University	Bruce	Berne	bb8@columbia.edu	Principal Investigator
+none	Direct For Mathematical & Physical Scien	Yale University	Cecil	Lane	none	Principal Investigator
+16769	Directorate For Engineering	Thiel College	.	None	none	Principal Investigator
+21726	Directorate For Engineering	Rose-Hulman Institute of Technology	 .	None	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	University of California-Berkeley	Lucien	Le Cam	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	University of Notre Dame	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+none	Direct For Mathematical & Physical Scien	California Institute of Technology	Raymond	Lutz	none	Principal Investigator
+40200	Direct For Mathematical & Physical Scien	Johns Hopkins University	John Michael	Boardman	jmb@math.jhu.edu	Principal Investigator
+263773	Directorate For Engineering	Brown University	.	None	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	Yale Southern Observatory, Inc.	Gerald	Clemence	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	University of Southern California	James	Dugundji	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	Oregon State University	Joseph	Nibler	joseph.nibler@oregonstate.edu	Principal Investigator
+2000	Office of Budget, Finance, & Award Management	Cabrillo College	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+0	Direct For Mathematical & Physical Scien	Kent State University	none	DATA NOT AVAILABLE	none	Principal Investigator
+40056	Direct For Computer & Info Scie & Enginr	Manhattan College	George	Crowe	none	Principal Investigator
+253990	Directorate For Engineering	University of Missouri-Columbia	-.	None	none	Principal Investigator
+366966	Directorate For Engineering	Michigan State University	 .	None	none	Principal Investigator
+none	Direct For Computer & Info Scie & Enginr	Grambling State University	Arun	Agarwal	none	Principal Investigator
+150900	Direct For Mathematical & Physical Scien	Lowell Observatory	Otto	Franz	none	Principal Investigator
+24119	Directorate For Engineering	Sonoma State University	-.	None	none	Principal Investigator
+242700	Directorate For Geosciences	University of Edinburgh	E.	Arnold	none	Principal Investigator
+97199	Directorate For Engineering	Saint Louis University	 .	None	none	Principal Investigator
+none	Direct For Mathematical & Physical Scien	Lehigh University	William	Ohnesorge	none	Principal Investigator
+45600	Direct For Biological Sciences	Academy of Natural Sciences Philadelphia	Ruth	Satter	none	Co-Principal Investigator	Ruth	Patrick	none	Principal Investigator	Brian	Tinsley	tinsley@utdallas.edu	Co-Principal Investigator	John	LaRue	jclarue@uci.edu	Co-Principal Investigator
+12135	Directorate For Engineering	University of Nebraska at Omaha	.	None	none	Principal Investigator
+45000	Direct For Biological Sciences	University of Chicago	none	  DATA NOT AVAILABLE	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	Northeast Radio Observatory Corp	Paul	Sebring	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	SUNY at Binghamton	Harry	Roy	royh@rpi.edu	Principal Investigator
+2000	Office of Budget, Finance, & Award Management	Central Oregon Community College	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+29466	Directorate For Engineering	Hampden-Sydney College	.	None	none	Principal Investigator
+105209	Directorate For Engineering	CUNY City College	.	None	none	Principal Investigator
+160000	Directorate For Engineering	National Academy of Sciences	Robert	Dillon	none	Principal Investigator
+47755	Directorate For Engineering	Harvard University	D.	Warwick	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	University of Arkansas	none	DATA NOT AVAILABLE	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	Stevens Institute of Technology	Milos	Seidl	none	Principal Investigator
+10237	Direct For Computer & Info Scie & Enginr	Grambling State University	Samuel	Douglas	none	Principal Investigator
+none	Direct For Mathematical & Physical Scien	Yale University	Martin	Saunders	ms@gaus90.chem.yale.edu	Principal Investigator
+0	Direct For Mathematical & Physical Scien	Georgia Tech Research Corporation	J. Aaron	Bertrand	aaron.bertrand@chemistry.gatech.edu	Principal Investigator
+0	Direct For Mathematical & Physical Scien	CUNY Brooklyn College	Orest	Popovych	none	Principal Investigator
+289312	Direct For Computer & Info Scie & Enginr	College of Southern Maryland	none	DATA NOT AVAILABLE	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	Wayne State University	Daniel	Gustafson	none	Principal Investigator
+none	Direct For Mathematical & Physical Scien	Cornell University	J.	Kiefer	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	University of Colorado at Boulder	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+0	Direct For Mathematical & Physical Scien	Ohio State University	Harold	Shechter	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	University of Oregon Eugene	Richard	Noyes	none	Principal Investigator
+none	Direct For Mathematical & Physical Scien	University of Pittsburgh	none	  DATA NOT AVAILABLE	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	SUNY at Buffalo	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+0	Direct For Mathematical & Physical Scien	University of California-Santa Barbara	John	Gerig	gerig@chem.ucsb.edu	Principal Investigator
+0	Direct For Mathematical & Physical Scien	New York University	Wolfhart	Zimmermann	none	Principal Investigator
+37000	Directorate For Engineering	New York University	Bernard	Shaffer	none	Principal Investigator
+322433	Directorate For Engineering	University of Florida	-.	None	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	SUNY at Stony Brook	Benjamin	Chu	bchu@notes.cc.sunysb.edu	Principal Investigator
+17445	Directorate For Engineering	East Stroudsburg University of Pennsylvania	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+396720	Direct For Computer & Info Scie & Enginr	Cornell University	May Beth	Givan	none	Principal Investigator
+309656	Directorate For Engineering	Northwestern University	 .	None	none	Principal Investigator
+24786	Directorate For Engineering	Southeast Missouri State University	-.	None	none	Principal Investigator
+10000	Direct For Biological Sciences	National Academy of Sciences	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+107594	Directorate For Engineering	University of California-Santa Cruz	-.	None	none	Principal Investigator
+35700	Direct For Mathematical & Physical Scien	University of Puerto Rico-Rio Piedras	Waldemar	Adam	none	Principal Investigator
+90700	Direct For Mathematical & Physical Scien	Columbia University	Nicholas	Turro	njt3@columbia.edu	Principal Investigator
+none	Direct For Mathematical & Physical Scien	Texas A&M University Main Campus	Timothy	Rose	none	Principal Investigator
+434800	Directorate For Engineering	University of California-Berkeley	-.	None	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	SUNY at Binghamton	Walter	Kaskan	none	Principal Investigator
+none	Direct For Mathematical & Physical Scien	University of Iowa	H.	Friedrich	none	Principal Investigator	R. Edward	Nather	nather@astro.as.utexas.edu	Co-Principal Investigator
+0	Office Of The Director	Gordon and Breach Science Publishers Inc	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+70900	Direct For Mathematical & Physical Scien	University of Maryland College Park	Dieter	Brill	BRILL@UMDHEP.BITNET	Principal Investigator
+281456	Directorate For Engineering	University of Alaska Fairbanks Campus	.	None	none	Principal Investigator
+25000	Directorate for Biological Sciences	DATA NOT AVAILABLE	none	DATA NOT AVAILABLE	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	Oklahoma State University	Lionel	Raff	lionelraff@hotmail.com	Principal Investigator
+68800	Directorate For Geosciences	University of Maryland College Park	Anandu	Vernekar	adv@atmos.umd.edu	Principal Investigator
+141800	Direct For Mathematical & Physical Scien	University of Notre Dame	Wilhelm	Stoll	none	Principal Investigator	Yum-Tong	Siu	siu@math.harvard.edu	Co-Principal Investigator
+205145	Directorate For Engineering	Vanderbilt University	 .	None	none	Principal Investigator
+none	Direct For Mathematical & Physical Scien	University of Washington	John	Van Ness	ness@utdallas.edu	Principal Investigator
+336777	Direct For Computer & Info Scie & Enginr	American Institute of Physics	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+0	Direct For Mathematical & Physical Scien	University of Florida	Alex	Smith	asmith@astro.ufl.edu	Principal Investigator
+none	Direct For Mathematical & Physical Scien	University of California-Los Angeles	none	  DATA NOT AVAILABLE	none	Principal Investigator
+220000	Direct For Mathematical & Physical Scien	New England Regional Computing Program	Philip	Morse	none	Co-Principal Investigator	Karen	Morse	none	Principal Investigator
+31393	Directorate For Engineering	New Mexico Highlands University	-.	None	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	Massachusetts Institute of Technology	Clifford	Shull	none	Principal Investigator
+16358	Directorate For Engineering	Nebraska Wesleyan University	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+none	Direct For Mathematical & Physical Scien	University of Virginia Main Campus	Edwin	Floyd	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	University of Massachusetts Amherst	May Beth	Givan	none	Principal Investigator
+none	Direct For Mathematical & Physical Scien	Yale University	Charles	Sommerfield	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	Illinois Institute of Technology	David	Gutman	none	Principal Investigator
+none	Direct For Mathematical & Physical Scien	University of Arizona	Henry	Freiser	freiser@shiva.ccit.arizona.edu	Principal Investigator	Laurie	Brown	none	Co-Principal Investigator	Paul	Auril	none	Co-Principal Investigator	Robert	Oakes	none	Co-Principal Investigator
+0	Direct For Mathematical & Physical Scien	Duke University	none	DATA NOT AVAILABLE	none	Principal Investigator
+53567	Directorate For Engineering	California State University-Los Angeles	-.	None	none	Principal Investigator
+3145	Direct For Computer & Info Scie & Enginr	University of Wisconsin-Superior	Phillip	Brieske	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	Brown University	none	DATA NOT AVAILABLE	none	Principal Investigator	none	DATA NOT AVAILABLE	none	Co-Principal Investigator
+12565	Office of Budget, Finance, & Award Management	Embry-Riddle Aeronautical University	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+0	Direct For Mathematical & Physical Scien	University of Florida	George	Zyskind	none	Co-Principal Investigator	Oscar	Kempthorne	none	Principal Investigator
+461400	Directorate For Geosciences	Florida State University	none	  DATA NOT AVAILABLE	none	Principal Investigator
+none	Direct For Mathematical & Physical Scien	Michigan State University	Thomas	Stoeckley	none	Principal Investigator
+10045	Office of Budget, Finance, & Award Management	Otterbein College	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+28963	Directorate For Engineering	Lawrence University	 .	None	none	Principal Investigator
+35103	Directorate For Engineering	Mercy College of Detroit	-.	None	none	Principal Investigator
+35624	Directorate For Engineering	Creighton University	.	None	none	Principal Investigator
+959200	Direct For Biological Sciences	University of Hawaii	Andrew	Erger	none	Co-Principal Investigator	Dieter	Mueller-Dombois	amdhawaii@aol.com	Principal Investigator
+146200	Directorate For Geosciences	University of Arkansas	M.	Abdel-Hameed	none	Principal Investigator
+44905	Directorate For Engineering	Bucknell University	 .	None	none	Principal Investigator
+67036	Directorate For Engineering	University of South Florida	-.	None	none	Principal Investigator
+none	Direct For Mathematical & Physical Scien	Temple University	Emil	Grosswald	none	Principal Investigator
+36388	Directorate For Engineering	Loyola University New Orleans	.	None	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	University of California-Santa Cruz	Harold	Widom	widom@math.ucsc.edu	Principal Investigator
+0	Direct For Mathematical & Physical Scien	Carnegie-Mellon University	Laurence	Boucher	lboucher@towson.edu	Principal Investigator
+none	Direct For Mathematical & Physical Scien	Iowa State University	John	Verkade	jverkade@iastate.edu	Principal Investigator
+2000	Direct For Computer & Info Scie & Enginr	North Carolina Wesleyan College	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+11000	Direct For Computer & Info Scie & Enginr	Entomological Society of America	none	  DATA NOT AVAILABLE	none	Principal Investigator
+108850	Direct For Computer & Info Scie & Enginr	East Carolina University	J. William	Byrd	none	Principal Investigator
+424698	Directorate For Engineering	University of Wisconsin-Madison	-.	None	none	Principal Investigator
+200	Direct For Mathematical & Physical Scien	Bureau of Reclamation	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+none	Direct For Mathematical & Physical Scien	University of Arizona	Jerry	Atwood	atwoodj@missouri.edu	Principal Investigator
+21351	Directorate For Engineering	Murray State University	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+none	Direct For Mathematical & Physical Scien	University of Chicago	Patrick	Palmer	ppalmer@oskar.uchicago.edu	Principal Investigator
+0	Direct For Mathematical & Physical Scien	University of Florida	none	DATA NOT AVAILABLE	none	Principal Investigator
+none	Direct For Mathematical & Physical Scien	University of Pennsylvania	none	  DATA NOT AVAILABLE	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	University of Southern California	Albert	Whiteman	none	Principal Investigator
+34645	Directorate For Engineering	Missouri State University	.	None	none	Principal Investigator
+500	none	DATA NOT AVAILABLE	none	none	none	Principal Investigator
+19298	Directorate For Engineering	Elizabethtown College	-.	None	none	Principal Investigator
+6500	Direct For Mathematical & Physical Scien	Department of Air Force Hollomon Air Force Base	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+317918	Directorate For Engineering	North Carolina State University	-.	None	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	Carnegie-Mellon University	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+1233900	Direct For Mathematical & Physical Scien	Florida State University	none	  DATA NOT AVAILABLE	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	University of Wisconsin-Madison	Jack	Silver	none	Co-Principal Investigator	Ian	Dance	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	University of California-Berkeley	Jack	Silver	none	Co-Principal Investigator	Robert	Vaught	none	Principal Investigator
+202655	Directorate For Engineering	Polytechnic University of New York	.	None	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	Washington University	none	DATA NOT AVAILABLE	none	Principal Investigator
+39651	Directorate For Engineering	SUNY College at Buffalo	-.	None	none	Principal Investigator
+67788	Direct For Computer & Info Scie & Enginr	American Fisheries Society (AFS)	none	DATA NOT AVAILABLE	none	Principal Investigator
+none	Direct For Mathematical & Physical Scien	Yale University	Vernon	Hughes	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	University of California-Berkeley	George	Leitmann	gleit@coe.berkeley.edu	Principal Investigator
+115440	Directorate For Engineering	University of Puerto Rico	 .	None	none	Principal Investigator
+33389	Directorate For Engineering	University of Wisconsin-Oshkosh	-.	None	none	Principal Investigator
+none	Direct For Mathematical & Physical Scien	Harvard University	Weston	Borden	borden@unt.edu	Principal Investigator
+0	Direct For Mathematical & Physical Scien	University of Tennessee Knoxville	Alexander	Van Hook	avanhook@utk.edu	Principal Investigator
+45700	Direct For Biological Sciences	University of Pennsylvania	Richard	Jeffrey	none	Principal Investigator
+none	Direct For Mathematical & Physical Scien	Iowa State University	George	Zyskind	none	Co-Principal Investigator	Oscar	Kempthorne	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	Massachusetts Institute of Technology	Alan	Barrett	none	Principal Investigator
+none	Direct For Mathematical & Physical Scien	University of California-Los Angeles	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+none	Direct For Mathematical & Physical Scien	California Institute of Technology	Richard	Marsh	none	Principal Investigator	William	Schaefer	none	Co-Principal Investigator
+62274	Directorate For Engineering	Emmanuel College	.	None	none	Principal Investigator
+111200	Direct For Biological Sciences	Yale University	Thomas	Lentz	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	Carnegie-Mellon University	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+0	Direct For Mathematical & Physical Scien	Washington University	William	Boothby	none	Principal Investigator
+none	Direct For Mathematical & Physical Scien	Cornell University	Stephen	Chase	none	Co-Principal Investigator	Grayson	Capp	gcapp@spu.edu	Principal Investigator
+33714	Directorate For Engineering	Furman University	.	None	none	Principal Investigator
+46104	Directorate For Engineering	Manhattan College	.	None	none	Principal Investigator
+none	Direct For Mathematical & Physical Scien	Brandeis University	Edgar	Lipworth	none	Principal Investigator
+203900	Direct For Computer & Info Scie & Enginr	Sweet Briar College	Jane	Belcher	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	Ohio State University	Wolfgang	Krieger	none	Principal Investigator
+1076000	Direct For Biological Sciences	Center For Adv Study in the Behavioral Science	none	DATA NOT AVAILABLE	none	Principal Investigator
+24136	Directorate For Engineering	California State University-San Bernardino	-.	None	none	Principal Investigator
+5000	Office of Budget, Finance, & Award Management	College of Charleston	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+0	Direct For Mathematical & Physical Scien	Rutgers University New Brunswick	none	DATA NOT AVAILABLE	none	Principal Investigator	Helen	Nickerson	none	Co-Principal Investigator
+0	Direct For Mathematical & Physical Scien	University of Massachusetts Amherst	Everett	McEwen	mcewen@egr.uri.edu	Principal Investigator
+39962	Directorate For Engineering	University of Albuquerque (CLOSED)	.	None	none	Principal Investigator
+240881	Directorate For Engineering	SUNY at Stony Brook	-.	None	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	University of Rochester	Joseph	Eberly	eberly@pas.rochester.edu	Principal Investigator
+0	Direct For Mathematical & Physical Scien	Oklahoma State University	J. Paul	Devlin	devlin@okstate.edu	Principal Investigator
+47500	Direct For Mathematical & Physical Scien	New York University	Frederick	Greenleaf	greenlea@acf2.nyu.edu	Principal Investigator
+44126	Directorate For Engineering	Northern Arizona University	 .	None	none	Principal Investigator
+none	Direct For Mathematical & Physical Scien	University of Washington	Gunter	Lumer	none	Principal Investigator	Robert	Moore	none	Co-Principal Investigator
+0	Direct For Mathematical & Physical Scien	Travel Award	none	DATA NOT AVAILABLE	none	Principal Investigator
+5000	Direct For Mathematical & Physical Scien	National Research Council	Martin	Paul	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	Polytechnic University of New York	Herbert	Scarf	none	Co-Principal Investigator	Donald	Scarl	none	Principal Investigator
+none	Direct For Mathematical & Physical Scien	Pennsylvania State Univ University Park	Tien	Tsong	none	Principal Investigator
+128863	Directorate For Engineering	University of Puerto Rico Mayaguez	 .	None	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	University of Arkansas	George	Blyholder	none	Principal Investigator
+95500	Directorate For Geosciences	University of Washington	Bruce	Frost	frost@ocean.washington.edu	Principal Investigator
+249554	Directorate For Engineering	University of New Mexico	 .	None	none	Principal Investigator
+none	Direct For Mathematical & Physical Scien	University of California-Los Angeles	 .	Norton	none	Principal Investigator	Peter	Pesch	none	Co-Principal Investigator	Nicholas	Sanduleak	none	Co-Principal Investigator	C. Bruce	Stephenson	none	Co-Principal Investigator
+260400	Direct For Biological Sciences	American Institute of Biological Sciences	John	LaRue	jclarue@uci.edu	Co-Principal Investigator	Ruth	Satter	none	Co-Principal Investigator	Nicholas	Gillham	none	Co-Principal Investigator	Rezneat	Darnell	none	Principal Investigator	Brian	Tinsley	tinsley@utdallas.edu	Co-Principal Investigator
+2000	Direct For Computer & Info Scie & Enginr	Marin Community College	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+0	Direct For Mathematical & Physical Scien	Travel Award	Daniel	Amit	none	Principal Investigator
+433339	Directorate For Engineering	Columbia University	.	None	none	Principal Investigator
+none	Direct For Mathematical & Physical Scien	William Marsh Rice University	Paul	Engel	engel@rice.edu	Principal Investigator
+1719200	Direct For Mathematical & Physical Scien	Johns Hopkins University	Hannah	Petzenbaum	none	Principal Investigator
+67255	Directorate For Engineering	SUNY College of Environmental Science and Forestry	-.	None	none	Principal Investigator
+35620	Directorate For Engineering	Saint Lawrence University	.	None	none	Principal Investigator
+28962	Directorate For Engineering	Dickinson College	-.	None	none	Principal Investigator
+7639	Direct For Computer & Info Scie & Enginr	Texas Southern University	Robert	Terry	none	Principal Investigator
+none	Direct For Mathematical & Physical Scien	University of Utah	none	  DATA NOT AVAILABLE	none	Principal Investigator
+none	Direct For Mathematical & Physical Scien	Cornell University	James	Burlitch	jmb32@cornell.edu	Principal Investigator
+17600	Directorate For Geosciences	American Institute of Professional Geologists	none	DATA NOT AVAILABLE	none	Principal Investigator
+302083	Directorate For Engineering	University of Kentucky	.	None	none	Principal Investigator
+18000	Direct For Computer & Info Scie & Enginr	Maryville College	none	DATA NOT AVAILABLE	none	Principal Investigator
+23732	Direct For Computer & Info Scie & Enginr	Polytechnic University of New York	Judith	Bregman	none	Principal Investigator
+47187	Directorate For Engineering	Swarthmore College	.	None	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	University of Georgia	Donald	Leyden	none	Principal Investigator	John	Noakes	jenoakes@arches.uga.edu	Co-Principal Investigator
+101000	Direct For Computer & Info Scie & Enginr	American Geophysical Union	A. F.	Spilhaus, Jr.	fspilhaus@agu.org	Principal Investigator
+0	Direct For Mathematical & Physical Scien	University of Wisconsin-Milwaukee	Robert	Greenler	none	Principal Investigator
+62800	Direct For Biological Sciences	Academy of Natural Sciences Philadelphia	Francis	Drouet	none	Principal Investigator
+none	Direct For Mathematical & Physical Scien	Pennsylvania State Univ University Park	Peter	Jurs	pcj@psu.edu	Principal Investigator
+none	Direct For Mathematical & Physical Scien	University of California-San Diego	Murray	Rosenblatt	none	Principal Investigator
+545820	Directorate For Engineering	Massachusetts Institute of Technology	.	None	none	Principal Investigator
+51400	Direct For Computer & Info Scie & Enginr	CUNY City College	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator	Martin	Sacks	none	Co-Principal Investigator
+none	Direct For Mathematical & Physical Scien	Vanderbilt University	Charles	Roos	none	Principal Investigator
+none	Direct For Mathematical & Physical Scien	Purdue University	Vaughan	Weston	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	University of Maryland College Park	Alfonso	Campolattaro	none	Principal Investigator
+79400	Direct For Biological Sciences	University of Pennsylvania	Joseph	Gots	none	Principal Investigator
+34389	Directorate For Engineering	Sam Houston State University	 .	None	none	Principal Investigator
+2000	Office of Budget, Finance, & Award Management	Nazareth College of Rochester	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+116475	Directorate For Engineering	University of Illinois at Chicago	 .	None	none	Principal Investigator
+30665	Directorate For Engineering	Kalamazoo College	-.	None	none	Principal Investigator
+105000	Direct For Biological Sciences	Illinois State Museum Society	James	King	none	Principal Investigator
+none	Direct For Mathematical & Physical Scien	Cornell University	Narahari	Prabhu	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	Catholic University of America	William	Sanders	none	Principal Investigator
+none	Direct For Mathematical & Physical Scien	Dartmouth College	Kenneth	Gross	kgross@uvm.edu	Principal Investigator
+43798	Direct For Computer & Info Scie & Enginr	Edinboro University of Pennsylvania	Michael	Schneider	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	University of Minnesota-Twin Cities	Wayne	Richter	none	Principal Investigator
+26453	Directorate For Engineering	Minnesota State University Moorhead	-.	None	none	Principal Investigator
+175900	Directorate For Geosciences	University of Hawaii	Takio	Murakami	none	Principal Investigator
+46246	Directorate For Engineering	Alcorn State University	 .	None	none	Principal Investigator
+13423	Direct For Computer & Info Scie & Enginr	Manhattan College	D.	McNamara	none	Principal Investigator
+94800	Direct For Mathematical & Physical Scien	University of Maryland College Park	Les	Karlovitz	none	Co-Principal Investigator	Bruce	Kellogg	kellogg@math.sc.edu	Principal Investigator
+270882	Directorate For Engineering	Louisiana State University & Agricultural and Mechanical College	-.	None	none	Principal Investigator
+79400	Direct For Mathematical & Physical Scien	University of Maryland College Park	Bert	Zuckerman	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	University of Wisconsin-Madison	James	Taylor	JWTaylo1@facstaff.wisc.edu	Principal Investigator
+0	Direct For Mathematical & Physical Scien	University of California-Santa Cruz	Claude	Bernasconi	bernasconi@chemistry.ucsc.edu	Principal Investigator
+8350	Directorate For Engineering	Institute of Mathematical Statistics	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+71800	Directorate For Engineering	University of Houston	W.	Honeywell	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	Massachusetts Institute of Technology	Irving	Segal	IES@MATH.MIT.EDU	Principal Investigator	Joseph	Sampson	none	Co-Principal Investigator
+395436	Directorate For Engineering	Princeton University	 .	None	none	Principal Investigator
+69768	Directorate For Engineering	Medical University of South Carolina	-.	None	none	Principal Investigator
+none	Direct For Mathematical & Physical Scien	University of Arizona	none	  DATA NOT AVAILABLE	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	Columbia University	Murray	Rosenblatt	none	Principal Investigator
+none	Direct For Mathematical & Physical Scien	Colorado State University	Rodney	Skogerboe	none	Principal Investigator
+8000	Office of Budget, Finance, & Award Management	Northeastern State University	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+45619	Directorate For Engineering	John Carroll University	 .	None	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	University of California-Santa Barbara	John	Ernest	none	Principal Investigator
+279977	Directorate For Engineering	University of Oregon Eugene	-.	None	none	Principal Investigator
+41000	Direct For Mathematical & Physical Scien	Jefferson County Airport Authority	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+90000	Direct For Biological Sciences	University of Georgia	Clanton	Black	ccblack@bmb.uga.edu	Principal Investigator
+none	Direct For Mathematical & Physical Scien	Georgetown University	Robert	de Levie	rdelevie@bowdoin.edu	Principal Investigator
+none	Direct For Mathematical & Physical Scien	Bowdoin College	none	  DATA NOT AVAILABLE	none	Principal Investigator
+173944	Direct For Mathematical & Physical Scien	National Academy of Engineering Commission on Education	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+132336	Directorate For Engineering	Georgetown University	 .	None	none	Principal Investigator
+40446	Directorate For Engineering	SUNY College at Brockport	-.	None	none	Principal Investigator
+108600	Directorate For Geosciences	Brown University	Richard	Yund	Richard_Yund@Brown.edu	Principal Investigator
+none	Direct For Mathematical & Physical Scien	Emory University	J.	Moncrief	none	Principal Investigator
+40000	Direct For Biological Sciences	University of Calgary	Kenneth	Sanderson	none	Principal Investigator
+107600	Directorate For Engineering	University of Kansas Center for Research Inc	Fred	Kurata	none	Principal Investigator	George	Swift	none	Co-Principal Investigator
+68346	Directorate For Engineering	SUNY at Binghamton	-.	None	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	Yeshiva University	Stanley	Sawyer	sawyer@math.wustl.edu	Principal Investigator
+none	Direct For Mathematical & Physical Scien	Cornell University	David	Lee	dml20@cornell.edu	Principal Investigator
+36236	Directorate For Engineering	Knox College	.	None	none	Principal Investigator
+11283	Office of Budget, Finance, & Award Management	Sarah Lawrence College	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+676100	Direct For Biological Sciences	DATA NOT AVAILABLE	Jack	Spencer	none	Principal Investigator	Stephen	Harrison	schadmin@crystal.harvard.edu	Co-Principal Investigator	Brian	Tinsley	tinsley@utdallas.edu	Co-Principal Investigator	Frank	Stermitz	frslab@lamar.colostate.edu	Co-Principal Investigator	John	LaRue	jclarue@uci.edu	Co-Principal Investigator
+79100	Direct For Biological Sciences	Syracuse University	John	LaRue	jclarue@uci.edu	Co-Principal Investigator	Sue	Neece	none	Co-Principal Investigator	Jon	Sanger	none	Co-Principal Investigator	Willem	Prins	none	Principal Investigator	Brian	Tinsley	tinsley@utdallas.edu	Co-Principal Investigator
+807500	Direct For Mathematical & Physical Scien	University of Washington	R	Williams	none	Principal Investigator	Victor	Cook	cook@u.washington.edu	Co-Principal Investigator
+150000	Direct For Mathematical & Physical Scien	University of Lynchburg	none	  DATA NOT AVAILABLE	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	Carnegie-Mellon University	none	DATA NOT AVAILABLE	none	Principal Investigator
+none	Direct For Mathematical & Physical Scien	Drexel University	none	  DATA NOT AVAILABLE	none	Principal Investigator
+180000	Direct For Biological Sciences	University of California-Santa Barbara	Tracy	Kendler	none	Co-Principal Investigator	Howard	Kendler	none	Principal Investigator
+none	Direct For Mathematical & Physical Scien	Purdue University	James	Cobble	none	Principal Investigator
+69992	Directorate For Engineering	Southern Illinois University at Carbondale	 .	None	none	Principal Investigator
+2000	Direct For Computer & Info Scie & Enginr	California State Polytechnic University-Pomona	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+none	Direct For Mathematical & Physical Scien	University of Illinois at Chicago	Shmuel	Kantorovitz	none	Principal Investigator
+83053	Directorate For Engineering	Wesleyan University	.	None	none	Principal Investigator
+87253	Direct For Computer & Info Scie & Enginr	American Fisheries Society (AFS)	none	DATA NOT AVAILABLE	none	Principal Investigator
+41700	Directorate For Geosciences	Museum of Northern Arizona	Edwin	Colbert	none	Principal Investigator
+57496	Directorate For Engineering	California State University-Fresno	-.	None	none	Principal Investigator
+19706	Directorate For Engineering	IMMACULATE HEART COL	.	None	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	University of Maryland College Park	Richard	Prange	prange@glue.umd.edu	Principal Investigator
+45000	Directorate For Engineering	Benjamin Franklin Partnership Fund	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+20739	Directorate For Engineering	St Joseph's University	 .	None	none	Principal Investigator
+63380	Directorate For Engineering	New York Medical College	.	None	none	Principal Investigator
+35544	Directorate For Engineering	University of the District of Columbia	 .	None	none	Principal Investigator
+10248	Office of Budget, Finance, & Award Management	Eastern Illinois University	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+none	Direct For Mathematical & Physical Scien	Fisk University	none	  DATA NOT AVAILABLE	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	University of Colorado at Boulder	Carl	Hansen	none	Co-Principal Investigator	Alan	Barrett	none	Principal Investigator
+8000	Office of Budget, Finance, & Award Management	Washington and Lee University	 .	None	none	Principal Investigator
+none	Direct For Mathematical & Physical Scien	Dartmouth College	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+88000	Direct For Biological Sciences	Boston Biomedical Research Institute	John	LaRue	jclarue@uci.edu	Co-Principal Investigator	Ruth	Satter	none	Co-Principal Investigator	Sherwin	Lehrer	none	Principal Investigator	Gabriel	Nahas	none	Co-Principal Investigator	Brian	Tinsley	tinsley@utdallas.edu	Co-Principal Investigator
+none	Direct For Mathematical & Physical Scien	Northwestern University	Mark	Mahowald	mark@math.nwu.edu	Principal Investigator
+0	Direct For Mathematical & Physical Scien	Syracuse University	none	DATA NOT AVAILABLE	none	Principal Investigator
+2000	Direct For Computer & Info Scie & Enginr	Walla Walla University	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+0	Direct For Mathematical & Physical Scien	SUNY at Buffalo	John	Myhill	none	Principal Investigator
+128400	Directorate For Engineering	Carnegie-Mellon University	Chen	Tsai	cstsai@uci.edu	Principal Investigator
+44771	Directorate For Engineering	Central State University	 .	None	none	Principal Investigator
+23500	Direct For Mathematical & Physical Scien	Massachusetts Institute of Technology	Walter	Lewin	none	Principal Investigator
+66424	Directorate For Engineering	San Jose State University	-.	None	none	Principal Investigator
+none	Direct For Mathematical & Physical Scien	University of Texas at Austin	Hampton	Smith	none	Principal Investigator
+41643	Directorate For Engineering	Saint Olaf College	.	None	none	Principal Investigator
+53700	Direct For Mathematical & Physical Scien	University of Houston	Claude	Veillon	none	Principal Investigator
+391322	Directorate For Engineering	Purdue University	 .	None	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	University of Wisconsin-Madison	Harlan	Goering	none	Principal Investigator
+37559	Directorate For Engineering	Trinity University	 .	None	none	Principal Investigator
+1900	Direct For Computer & Info Scie & Enginr	Bethel College	Robert	Adler	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	San Jose State University	Juana	Acrivos	jacrivos@email.sjsu.edu	Principal Investigator
+0	Direct For Mathematical & Physical Scien	University of Connecticut	John	Tanaka	elecins@uconnvm	Principal Investigator
+45792	Directorate For Engineering	Virginia State University	.	None	none	Principal Investigator
+28013	Directorate For Engineering	Alma College	-.	None	none	Principal Investigator
+54089	Directorate For Engineering	Gallaudet University	.	None	none	Principal Investigator
+none	Direct For Mathematical & Physical Scien	William Marsh Rice University	Robert	Haymes	none	Principal Investigator
+none	Direct For Mathematical & Physical Scien	University of Pittsburgh	Francis	Pipkin	none	Principal Investigator	C.	Wu	none	Co-Principal Investigator	Ezra	Newman	newman@pitt.edu	Co-Principal Investigator
+54289	Directorate For Engineering	Western Michigan University	 .	None	none	Principal Investigator
+none	Direct For Mathematical & Physical Scien	Fordham University	none	  DATA NOT AVAILABLE	none	Principal Investigator	none	  DATA NOT AVAILABLE	none	Co-Principal Investigator
+121400	Direct For Social, Behav & Economic Scie	University of Chicago	Eugene	Fama	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	Massachusetts Institute of Technology	Otto	Sellinger	none	Principal Investigator
+2700	Directorate For Geosciences	University of Miami Rosenstiel School of Marine&Atmospheric Sci	none	  DATA NOT AVAILABLE	none	Principal Investigator
+29000	Direct For Computer & Info Scie & Enginr	Canisius College	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+none	Direct For Mathematical & Physical Scien	University of Illinois at Urbana-Champaign	David	Pines	david.pines@gmail.com	Principal Investigator
+21900	Direct For Biological Sciences	University of Miami Rosenstiel School of Marine&Atmospheric Sci	none	  DATA NOT AVAILABLE	none	Principal Investigator
+52300	Directorate For Geosciences	University of Texas at Austin	John	Maxwell	none	Principal Investigator
+60000	Direct For Mathematical & Physical Scien	National Research Council	Leon	Cohen	none	Principal Investigator
+none	Direct For Mathematical & Physical Scien	Michigan State University	Richard	Schwendeman	none	Principal Investigator
+34714	Directorate For Engineering	Mount Holyoke College	.	None	none	Principal Investigator
+none	Direct For Mathematical & Physical Scien	Princeton University	Arnold	Glick	none	Co-Principal Investigator	Robert	Danielson	none	Co-Principal Investigator	Martin	Schwarzschild	none	Principal Investigator
+55547	Directorate For Engineering	Bowling Green State University	 .	None	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	Fairfield University	Victor	Newton	none	Co-Principal Investigator	Tyre	Newton	none	Principal Investigator
+none	Direct For Mathematical & Physical Scien	University of Washington	Norval	Fortson	fortson@phys.washington.edu	Principal Investigator
+0	Direct For Mathematical & Physical Scien	University of Massachusetts Amherst	Blerkom,	Van	none	Co-Principal Investigator	William	Irvine	irvine@fcraol.astro.umass.edu	Principal Investigator
+none	Direct For Mathematical & Physical Scien	University of Pittsburgh	Edmund	Miller	none	Principal Investigator
+10090	Office of Budget, Finance, & Award Management	Manchester University	none	DATA NOT AVAILABLE	none	Co-Principal Investigator	Ronald	Myers	none	Co-Principal Investigator	Edmund	Joyce	none	Co-Principal Investigator	.	None	none	Principal Investigator
+43194	Directorate For Engineering	Duquesne University	.	None	none	Principal Investigator
+116100	Directorate For Engineering	Washington University	Phillip	Gould	pgoul@seas.wustl.edu	Principal Investigator
+0	Direct For Mathematical & Physical Scien	Stanford University	Eugene	Van Tamelen	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	Washington University	Edward	Weissberger	none	Principal Investigator
+174200	Direct For Social, Behav & Economic Scie	Brown University	Jerome	Stein	none	Principal Investigator
+42024	Directorate For Geosciences	UNITED STATES DEPT OF GEOLOGICAL SURVEY	Richard	Sheldon	none	Principal Investigator
+6000	Direct For Mathematical & Physical Scien	National Academy of Engineering	none	DATA NOT AVAILABLE	none	Co-Principal Investigator	none	DATA NOT AVAILABLE	none	Co-Principal Investigator	Louise	Marshall	none	Co-Principal Investigator	Charles	Dunham	none	Principal Investigator	John	Bradbury	jbradbur@usgs.gov	Co-Principal Investigator
+65722	Directorate For Engineering	Michigan Technological University	.	None	none	Principal Investigator
+109000	Direct For Biological Sciences	University of Iowa	Charles	Swenson	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	University of Massachusetts Amherst	Thomas	Gleeson	none	Principal Investigator
+15100	Direct For Mathematical & Physical Scien	National Research Council	W.	Bartley	none	Principal Investigator
+305000	Direct For Mathematical & Physical Scien	Northeastern University	Marvin	Gettner	none	Principal Investigator	Eberhard	von Goeler	EVG@NUHUB.BITNET	Co-Principal Investigator	Roy	Weinstein	weinstein@uh.edu	Co-Principal Investigator
+10023	Directorate For Engineering	Wabash College	 .	None	none	Principal Investigator
+33362	Directorate For Engineering	Southern Oregon University	.	None	none	Principal Investigator
+229248	Directorate For Engineering	Virginia Polytechnic Institute and State University	.	None	none	Principal Investigator
+none	Direct For Mathematical & Physical Scien	University of California-Los Angeles	May Beth	Givan	none	Principal Investigator	Philip	Pincus	fyl@mrl.ucsb.edu	Co-Principal Investigator	Raymond	Orbach	Raymond.Orbach@ucr.edu	Co-Principal Investigator
+none	Direct For Mathematical & Physical Scien	University of New Mexico	Julius	Blum	none	Principal Investigator
+59247	Directorate For Engineering	SUNY State University of New York Central Administration	-.	None	none	Principal Investigator
+none	Direct For Mathematical & Physical Scien	University of Michigan Ann Arbor	Charles	Cowley	none	Principal Investigator
+82850	Directorate For Engineering	Howard University	.	None	none	Principal Investigator
+none	Direct For Mathematical & Physical Scien	Harvard University	Francis	Pipkin	none	Principal Investigator
+237801	Directorate For Engineering	University of Denver	.	None	none	Principal Investigator
+250565	Directorate For Engineering	Rensselaer Polytechnic Institute	 .	None	none	Principal Investigator
+none	Direct For Mathematical & Physical Scien	University of Chicago	Robert	Mifflin	mifflin@math.wsu.edu	Principal Investigator
+86503	Direct For Biological Sciences	Health Research Incorporated/New York State Department of Health	Donald	Berns	none	Principal Investigator
+none	Direct For Mathematical & Physical Scien	University of Michigan Ann Arbor	Lawrence	Jones	lwjones@umich.edu	Principal Investigator
+30000	Directorate for Biological Sciences	DATA NOT AVAILABLE	John	LaRue	jclarue@uci.edu	Co-Principal Investigator	Ruth	Satter	none	Co-Principal Investigator	L.	Mullins	none	Principal Investigator	Gabriel	Nahas	none	Co-Principal Investigator	Brian	Tinsley	tinsley@utdallas.edu	Co-Principal Investigator
+45253	Directorate For Engineering	Humboldt State University	-.	None	none	Principal Investigator
+411694	Directorate For Engineering	University of Washington	 .	None	none	Principal Investigator
+458000	Office Of The Director	Texas A&M University Main Campus	William	Ludwig	none	Principal Investigator
+none	Direct For Mathematical & Physical Scien	Case Western Reserve University	Sidney	McCuskey	none	Principal Investigator	Miles	Dresser	m dresser@wsu.edu	Co-Principal Investigator
+26976	Directorate For Engineering	Monmouth University	-.	None	none	Principal Investigator
+none	Direct For Mathematical & Physical Scien	University of Washington	Pao	Lu	none	Principal Investigator	Fritz	Schoenknecht	none	Co-Principal Investigator
+none	Direct For Mathematical & Physical Scien	California Institute of Technology	May Beth	Givan	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	University of Louisville	William	Bos	none	Principal Investigator
+10068	Directorate For Engineering	Skidmore College	.	None	none	Principal Investigator
+none	Direct For Mathematical & Physical Scien	Michigan State University	Truman	Woodruff	none	Principal Investigator
+114500	Direct For Social, Behav & Economic Scie	University of California-Los Angeles	James	Sackett	none	Principal Investigator
+283913	Directorate For Engineering	Washington University	.	None	none	Principal Investigator
+695000	Office Of The Director	University of Utah	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+0	Direct For Mathematical & Physical Scien	Carnegie-Mellon University	John	Nagle	nagle@cmu.edu	Principal Investigator
+0	Direct For Mathematical & Physical Scien	University of California-Berkeley	Carl	Heiles	heiles@astro.berkeley.edu	Co-Principal Investigator	Edwin	Weaver	none	Principal Investigator
+2000	Office of Budget, Finance, & Award Management	Rockhurst University	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+56350	Directorate For Engineering	San Francisco State University	-.	None	none	Principal Investigator
+167860	Directorate For Engineering	Wayne State University	.	None	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	Rutgers University New Brunswick	May Beth	Givan	none	Principal Investigator
+1800	Direct For Computer & Info Scie & Enginr	McHenry County College	John	Konitzer	none	Principal Investigator
+34100	Directorate For Geosciences	University of Wisconsin-Madison	none	DATA NOT AVAILABLE	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	Travel Award	Wayne	Wilmarth	none	Principal Investigator
+none	Direct For Mathematical & Physical Scien	University of Pennsylvania	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+77605	Directorate For Engineering	University of Montana	 .	None	none	Principal Investigator
+113700	Direct For Mathematical & Physical Scien	University of Wisconsin-Madison	John	Scharer	scharer@engr.wisc.edu	Principal Investigator
+0	Direct For Mathematical & Physical Scien	Columbia University	C.	Wu	none	Principal Investigator	James	Rainwater	none	Co-Principal Investigator
+338768	Directorate For Engineering	University of Miami	.	None	none	Principal Investigator
+36763	Directorate For Engineering	University of Wisconsin-Stevens Point	-.	None	none	Principal Investigator
+49898	Directorate For Engineering	Oberlin College	 .	None	none	Principal Investigator
+15800	Directorate For Geosciences	Franklin Institute Science Museum	May Beth	Givan	none	Principal Investigator
+50000	Direct For Social, Behav & Economic Scie	Northwestern University	none	  DATA NOT AVAILABLE	none	Principal Investigator
+none	Direct For Mathematical & Physical Scien	University of California-Los Angeles	Howard	Reiss	reiss@chem.ucla.edu	Principal Investigator
+45914	Directorate For Engineering	Georgia State University	.	None	none	Principal Investigator
+none	Direct For Mathematical & Physical Scien	Brandeis University	Peter	Rosset	none	Principal Investigator
+none	Direct For Mathematical & Physical Scien	University of Washington	Alexander	Schure	none	Principal Investigator
+2000	Office of Budget, Finance, & Award Management	Grand Valley State University	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+69300	Direct For Mathematical & Physical Scien	Johns Hopkins University	Takashi	Ono	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	Columbia University	May Beth	Givan	none	Principal Investigator
+42089	Directorate For Engineering	East Carolina University	 .	None	none	Principal Investigator
+310197	Directorate For Engineering	University of Tennessee Knoxville	-.	None	none	Principal Investigator
+182117	Directorate For Engineering	University of Cincinnati Main Campus	-.	None	none	Principal Investigator
+none	Direct For Mathematical & Physical Scien	University of California-San Diego Scripps Inst of Oceanography	May Beth	Givan	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	University of Arkansas	Raymond	Hughes	none	Principal Investigator
+16870	Directorate For Engineering	SUNY College at New Paltz	-.	None	none	Principal Investigator
+38309	Directorate For Engineering	University of Saint Joseph	.	None	none	Principal Investigator
+278492	Directorate For Engineering	Rutgers University New Brunswick	.	None	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	Ohio State University	John	Kraus	none	Principal Investigator
+29647	Directorate For Engineering	Ball State University	 .	None	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	Washington University	none	DATA NOT AVAILABLE	none	Principal Investigator
+212339	Directorate For Engineering	Auburn University	 .	None	none	Principal Investigator
+none	Direct For Mathematical & Physical Scien	University of North Carolina at Chapel Hill	William	Hatfield	none	Principal Investigator
+124300	Directorate For Engineering	Northwestern University	Kumares	Sinha	none	Co-Principal Investigator	Dietrich	Vincent	none	Principal Investigator
+none	Direct For Mathematical & Physical Scien	Johns Hopkins University	Gordon	Feldman	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	Carnegie-Mellon University	Zeev	Nehari	none	Principal Investigator
+7600	Direct For Mathematical & Physical Scien	National Research Council	Martin	Paul	none	Principal Investigator
+12438	Directorate For Engineering	Westminster College	-.	None	none	Principal Investigator
+53805	Directorate For Engineering	University of North Carolina Greensboro	-.	None	none	Principal Investigator
+7900	Direct For Mathematical & Physical Scien	National Research Council	Martin	Paul	none	Principal Investigator
+27856	Directorate For Engineering	Morgan State University	-.	None	none	Principal Investigator
+17370	Directorate For Engineering	Colby College	-.	None	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	University of Minnesota-Twin Cities	Robert	Jeroslow	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	Columbia University	Richard	Bersohn	rb18@columbia.edu	Principal Investigator
+173820	Directorate For Engineering	University of California-Irvine	-.	None	none	Principal Investigator
+12000	Direct For Computer & Info Scie & Enginr	University of Evansville	Lowell	Weller	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	Travel Award	Daniel	Cubicciotti	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	University of Colorado at Boulder	Arlan	Norman	arlan.norman@wwu.edu	Principal Investigator
+235900	Directorate For Geosciences	University of California-San Diego	Hugh	Chivers	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	University of Minnesota-Twin Cities	Willem	Luyten	none	Principal Investigator
+none	Direct For Mathematical & Physical Scien	Yale University	Denis	Weaire	none	Principal Investigator
+none	Direct For Mathematical & Physical Scien	University of Washington	Jack	Keuffel	none	Principal Investigator	George	Cassiday	cassiday@physics.utah.edu	Co-Principal Investigator
+133800	Direct For Biological Sciences	University of California-San Diego	Donald	King	none	Co-Principal Investigator	George	Mandler	none	Principal Investigator	John	LaRue	jclarue@uci.edu	Co-Principal Investigator	Sue	Neece	none	Co-Principal Investigator	Brian	Tinsley	tinsley@utdallas.edu	Co-Principal Investigator
+61794	Directorate For Engineering	Texas Christian University	 .	None	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	University of Georgia	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+2000	Office of Budget, Finance, & Award Management	Mercyhurst University	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+15740	Direct For Computer & Info Scie & Enginr	Department of Energy Oak Ridge Operations Office	Max	Lombardi	none	Principal Investigator
+219986	Directorate For Engineering	Kansas State University	 .	None	none	Principal Investigator
+70400	Direct For Computer & Info Scie & Enginr	Saint Augustine's College	Jeffery	Gipson	none	Principal Investigator
+15200	Direct For Biological Sciences	Lincoln University	William	Dowdy	none	Principal Investigator
+50586	Directorate For Engineering	CUNY Brooklyn College	.	None	none	Principal Investigator
+75700	Direct For Computer & Info Scie & Enginr	New England College	Arthur	West	none	Principal Investigator
+45100	Directorate for Mathematical & Physical Sciences	Department of Navy Air Systems Command	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+14603	Directorate For Engineering	University of Wisconsin-Eau Claire	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+none	Direct For Mathematical & Physical Scien	Case Western Reserve University	Judah	Rosenblatt	none	Principal Investigator
+2000	Office of Budget, Finance, & Award Management	Spring Hill College	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+none	Direct For Mathematical & Physical Scien	Pennsylvania State Univ University Park	Victor	Newton	none	Co-Principal Investigator	Norman	Deno	none	Principal Investigator
+44600	Direct For Computer & Info Scie & Enginr	Rutgers University New Brunswick	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+198821	Directorate For Engineering	Illinois Institute of Technology	.	None	none	Principal Investigator
+81400	Direct For Biological Sciences	University of California-Berkeley	none	DATA NOT AVAILABLE	none	Principal Investigator
+55300	Direct For Social, Behav & Economic Scie	American University	none	  DATA NOT AVAILABLE	none	Principal Investigator
+53700	Direct For Biological Sciences	Yale University	none	  DATA NOT AVAILABLE	none	Principal Investigator	none	  DATA NOT AVAILABLE	none	Co-Principal Investigator	John	LaRue	jclarue@uci.edu	Co-Principal Investigator	Brian	Tinsley	tinsley@utdallas.edu	Co-Principal Investigator	Roland	Ure	none	Co-Principal Investigator
+0	Direct For Mathematical & Physical Scien	Louisiana State University & Agricultural and Mechanical College	Heron	Collins	none	Principal Investigator
+109025	Directorate For Engineering	Missouri University of Science and Technology	-.	None	none	Principal Investigator
+50985	Direct For Computer & Info Scie & Enginr	Grambling State University	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+43722	Directorate For Engineering	South Carolina State University	-.	None	none	Principal Investigator
+12000	Directorate For Engineering	Saint John's College-Santa Fe	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+none	Direct For Mathematical & Physical Scien	University of California-San Diego	Robert	Fahey	rcfahey@ucsd.edu	Principal Investigator
+none	Direct For Mathematical & Physical Scien	University of Washington	Norman	Rose	none	Principal Investigator
+132900	Direct For Mathematical & Physical Scien	Missouri University of Science and Technology	Richard	Wurtman	none	Principal Investigator
+7000	Direct For Mathematical & Physical Scien	Rutgers University New Brunswick	Barbara	Osofsky	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	University of South Carolina at Columbia	none	DATA NOT AVAILABLE	none	Co-Principal Investigator	James	Durig	durigj@umkc.edu	Principal Investigator
+none	Direct For Mathematical & Physical Scien	William Marsh Rice University	F.Curtis	Michel	fcm@rice.edu	Principal Investigator
+none	Direct For Mathematical & Physical Scien	Rensselaer Polytechnic Institute	Stephen	Ross	none	Principal Investigator
+none	Direct For Mathematical & Physical Scien	Johns Hopkins University	Dean	Robinson	none	Principal Investigator
+261200	Directorate For Engineering	Princeton University	none	  DATA NOT AVAILABLE	none	Co-Principal Investigator	John	Thomas	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	Oregon State University	Peter	Freeman	none	Principal Investigator
+14825	Office of Budget, Finance, & Award Management	University of Portland	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+51253	Directorate For Engineering	Reed College	 .	None	none	Principal Investigator
+3200	Direct For Computer & Info Scie & Enginr	National Academy of Sciences	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+29440	Direct For Computer & Info Scie & Enginr	Indiana University	Lynton	Caldwell	none	Principal Investigator
+2000	Directorate For Engineering	Elon University	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+34955	Direct For Mathematical & Physical Scien	National Research Council	none	DATA NOT AVAILABLE	none	Co-Principal Investigator	none	DATA NOT AVAILABLE	none	Co-Principal Investigator	Louise	Marshall	none	Co-Principal Investigator	Leon	Cohen	none	Principal Investigator	John	Bradbury	jbradbur@usgs.gov	Co-Principal Investigator
+40200	Directorate For Geosciences	Ohio State University	Calvin	Stevens	none	Co-Principal Investigator	James	Collinson	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	University of Minnesota-Twin Cities	John	Overend	none	Principal Investigator
+2000	Office of Budget, Finance, & Award Management	Bennington College	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+177668	Directorate For Engineering	University of Wyoming	 .	None	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	University of New Hampshire	Keith	Johnson	none	Co-Principal Investigator	Edwin	Floyd	none	Principal Investigator
+440725	Directorate For Engineering	University of California-San Diego	-.	None	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	Indiana University	Russell	Bonham	Bonham@ucs.indiana.edu	Principal Investigator
+2000	Office of Budget, Finance, & Award Management	Tougaloo College	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+38868	Directorate For Engineering	Loma Linda University	 .	None	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	New Mexico Institute of Mining and Technology	Kay	Brower	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	Montana State University	V. Hugo	Schmidt	schmidt@physics.montana.edu	Principal Investigator
+0	Direct For Mathematical & Physical Scien	Carnegie-Mellon University	Roger	Pederson	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	Travel Award	none	DATA NOT AVAILABLE	none	Principal Investigator
+600000	Office Of The Director	Southern Methodist University	C. Garth	Sampson	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	Massachusetts Institute of Technology	none	DATA NOT AVAILABLE	none	Principal Investigator
+172850	Direct For Mathematical & Physical Scien	Stanford University	none	DATA NOT AVAILABLE	none	Principal Investigator
+160155	Direct For Computer & Info Scie & Enginr	Knox College	Douglas	Pride	pride.1@osu.edu	Principal Investigator	David	Priest	none	Co-Principal Investigator
+500000	Office Of The Director	University of Montana	James	Talbot	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	Carnegie Institution of Washington	none	DATA NOT AVAILABLE	none	Principal Investigator
+10495	Office of Budget, Finance, & Award Management	Alderson-Broaddus College	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+159091	Directorate For Engineering	University of Houston	.	None	none	Principal Investigator
+180407	Directorate For Engineering	University of Delaware	 .	None	none	Principal Investigator
+59687	Directorate For Engineering	University of Toledo	 .	None	none	Principal Investigator
+39000	Direct For Computer & Info Scie & Enginr	Erskine College	none	DATA NOT AVAILABLE	none	Principal Investigator
+10720	Office of Budget, Finance, & Award Management	Iowa Wesleyan College	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+none	Direct For Mathematical & Physical Scien	St Joseph's University	Ernest	DiCarlo	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	Texas Tech University	George	Pytlinski	none	Co-Principal Investigator	Syed	Qasim	none	Principal Investigator
+54009	Directorate For Engineering	University of Memphis	 .	None	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	Carnegie-Mellon University	Aksel	Bothner-By	none	Principal Investigator
+none	Direct For Mathematical & Physical Scien	Florida State University	Stanley	Salthe	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	Carnegie-Mellon University	Simeon	Friedberg	none	Principal Investigator
+none	Direct For Mathematical & Physical Scien	University of Washington	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+none	Direct For Mathematical & Physical Scien	Purdue University	Lockhart	Rogers	none	Principal Investigator
+none	Direct For Mathematical & Physical Scien	University of Michigan Ann Arbor	Karl	Hecht	none	Principal Investigator
+28733	Directorate For Engineering	Central Washington University	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+none	Direct For Mathematical & Physical Scien	University of Cincinnati Main Campus	none	  DATA NOT AVAILABLE	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	University of Rochester	Robert	Kreilick	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	University of Wisconsin-Madison	Harold	Widom	widom@math.ucsc.edu	Principal Investigator
+44951	Directorate For Engineering	Fort Valley State University	 .	None	none	Principal Investigator
+40806	Directorate For Engineering	University of Wisconsin-Madison	-.	None	none	Principal Investigator
+648000	Direct For Mathematical & Physical Scien	Department of Navy Naval Facilities Engineering Command	Maurice	Doran	none	Principal Investigator
+75000	Directorate For Engineering	Peat Marwick Mitchell and Co DC	Felix	Rimberg	none	Co-Principal Investigator	Robert	Morton	none	Principal Investigator
+19890	Directorate For Engineering	University of Wisconsin-Whitewater	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+none	Direct For Mathematical & Physical Scien	Brandeis University	Teruhisa	Matsusaka	none	Principal Investigator
+14590	Directorate For Engineering	Bethel College	.	None	none	Principal Investigator
+7400	Direct For Computer & Info Scie & Enginr	Kean University	Anthony	Notare	none	Principal Investigator
+656700	Direct For Biological Sciences	Department of Energy Germantown	Thomas	Roderick	none	Principal Investigator
+none	Direct For Mathematical & Physical Scien	University of Michigan Ann Arbor	Arthur	Rich	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	University of Massachusetts Amherst	none	DATA NOT AVAILABLE	none	Principal Investigator
+none	Direct For Mathematical & Physical Scien	University of Texas at Austin	George	Thurston	none	Principal Investigator
+44157	Directorate For Engineering	Rutgers, The State University of New Jersey-RBHS-New Jersey Med	.	None	none	Principal Investigator
+129800	Directorate For Engineering	University of Hawaii	Shu	Lin	shulin@ece.ucdavis.edu	Co-Principal Investigator	David	Weldon	dweldon@infoglobe.com	Principal Investigator
+112600	Direct For Social, Behav & Economic Scie	University of Michigan Ann Arbor	James	Griffin	none	Principal Investigator
+104000	Direct For Biological Sciences	Michigan State University	Robert	Scheffer	none	Principal Investigator
+208100	Direct For Biological Sciences	University of Georgia	Richard	Wiegert	dick@wiegert.marsci.uga.edu	Principal Investigator
+76593	Directorate For Engineering	University of Illinois at Chicago	-.	None	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	Travel Award	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+30561	Directorate For Engineering	Pacific Lutheran University	-.	None	none	Principal Investigator
+none	Direct For Mathematical & Physical Scien	Rensselaer Polytechnic Institute	Robert	McNaughton	mcnaught@cs.rpi.edu	Principal Investigator
+0	Direct For Mathematical & Physical Scien	University of Wisconsin-Madison	Daniel	Shea	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	Oregon State University	Richard	Pieper	pieper@usc.edu	Principal Investigator
+0	Direct For Mathematical & Physical Scien	Massachusetts Institute of Technology	Stephen	Kukolich	kukolich@u.arizona.edu	Principal Investigator
+none	Direct For Mathematical & Physical Scien	Oakland University	John	McKinley	none	Principal Investigator	Kelly	McKennon	none	Co-Principal Investigator
+148500	Direct For Social, Behav & Economic Scie	Yale University	David	Pilbeam	pilbeam@fas.harvard.edu	Principal Investigator
+0	Direct For Mathematical & Physical Scien	Lowell Observatory	Henry	Giclas	none	Principal Investigator
+20520	Directorate For Engineering	Ripon College	 .	None	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	University of Florida	David	Micha	micha@qtp.ufl.edu	Principal Investigator
+50654	Directorate For Engineering	Morehead State University	.	None	none	Principal Investigator
+29284	Directorate For Engineering	Goucher College	.	None	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	Stanford University	none	DATA NOT AVAILABLE	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	Stanford University	A.	Taub	none	Principal Investigator
+147111	Directorate For Engineering	University of Texas System Office	-.	None	none	Principal Investigator
+53800	Directorate For Engineering	Northwestern University	Jan	Achenbach	achenbach@northwestern.edu	Principal Investigator
+500	none	DATA NOT AVAILABLE	none	none	none	Principal Investigator
+38356	Directorate For Engineering	College of Wooster	.	None	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	Ohio State University	Sheldon	Shore	SHORE.1@OSU.EDU	Principal Investigator
+0	Direct For Mathematical & Physical Scien	University of Massachusetts Amherst	Ramon	Barnes	ramon.m.barnes@chemistry.umass.edu	Principal Investigator
+none	Direct For Mathematical & Physical Scien	Kansas State University	M.	Hawley	dhawley@ksuvm.ksu.edu	Principal Investigator
+none	Direct For Mathematical & Physical Scien	Northwestern University	none	  DATA NOT AVAILABLE	none	Principal Investigator
+84100	Direct For Biological Sciences	Rutgers University New Brunswick	John	LaRue	jclarue@uci.edu	Co-Principal Investigator	Ruth	Satter	none	Co-Principal Investigator	Michael	D'Amato	none	Principal Investigator	Brian	Tinsley	tinsley@utdallas.edu	Co-Principal Investigator
+292599	Directorate For Engineering	University of Iowa	 .	None	none	Principal Investigator
+62500	Directorate For Engineering	American Psychological Assoc	May Beth	Givan	none	Principal Investigator
+none	Direct For Mathematical & Physical Scien	University of California-Los Angeles	none	  DATA NOT AVAILABLE	none	Principal Investigator
+26500	Direct For Mathematical & Physical Scien	Pennsylvania State Univ University Park	George	Andrews	andrews@math.psu.edu	Principal Investigator
+0	Direct For Mathematical & Physical Scien	Stevens Institute of Technology	Gerald	Rothberg	none	Principal Investigator
+150000	Direct For Biological Sciences	Wayne State University	Gerald	Leventhal	none	Principal Investigator
+30903	Directorate For Engineering	Cornell College	.	None	none	Principal Investigator
+148256	Directorate For Engineering	Boston College	.	None	none	Principal Investigator
+253767	Directorate For Engineering	Utah State University	.	None	none	Principal Investigator
+none	Direct For Mathematical & Physical Scien	University of Virginia Main Campus	Laurence	Fredrick	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	Rutgers University New Brunswick	Elihu	Abrahams	abrahams@physics.rutgers.edu	Principal Investigator
+none	Direct For Mathematical & Physical Scien	Michigan State University	none	  DATA NOT AVAILABLE	none	Principal Investigator
+none	Direct For Mathematical & Physical Scien	SUNY College at Fredonia	Paul	Weller	none	Principal Investigator
+20727	Directorate For Engineering	Arkansas State University Main Campus	-.	None	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	North Carolina State University	none	DATA NOT AVAILABLE	none	Principal Investigator
+81200	Direct For Mathematical & Physical Scien	Tulane University	Frank	Quigley	none	Co-Principal Investigator	James	Quick	none	Principal Investigator
+202710	Directorate For Engineering	West Virginia University	.	None	none	Principal Investigator
+none	Direct For Mathematical & Physical Scien	University of California-Los Angeles	George	Thurston	none	Principal Investigator
+135700	Directorate For Engineering	American Chemical Society (ACS)	Frederick	Wall	none	Principal Investigator
+553400	Direct For Computer & Info Scie & Enginr	University of California-Irvine	none	DATA NOT AVAILABLE	none	Co-Principal Investigator	David	Farber	farber@andrew.cmu.edu	Principal Investigator
+0	Direct For Mathematical & Physical Scien	University of Rochester	Edward	Jacobsen	none	Principal Investigator
+29070	Directorate For Engineering	Western Oregon University	.	None	none	Principal Investigator
+none	Direct For Mathematical & Physical Scien	Cornell University	Benjamin	Widom	bw24@cornell.edu	Principal Investigator
+2000	Office of Budget, Finance, & Award Management	Concordia College	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+none	Direct For Mathematical & Physical Scien	University of Texas at Austin	George	O Connor	none	Co-Principal Investigator	Stephen	O Brien	none	Principal Investigator	Thomas	O'Bryan	obryan@csd4.csd.uwm.edu	Co-Principal Investigator
+none	Direct For Mathematical & Physical Scien	Cornell University	Melvin	Goldstein	none	Principal Investigator
+none	Direct For Mathematical & Physical Scien	University of Texas at Austin	George	Lorentz	none	Principal Investigator
+197600	Direct For Computer & Info Scie & Enginr	Florida Institute of Technology	John	Miller	none	Principal Investigator
+500	none	DATA NOT AVAILABLE	none	none	none	Principal Investigator
+43077	Directorate For Engineering	Langston University	.	None	none	Principal Investigator
+145600	Direct For Mathematical & Physical Scien	Michigan State University	Peter	Wagner	wagnerp@pilot.msu.edu	Principal Investigator
+0	Direct For Mathematical & Physical Scien	Massachusetts Institute of Technology	Gilbert	Strang	gs@math.mit.edu	Co-Principal Investigator	Sigurdur	Helgason	helgason@mit.edu	Principal Investigator
+57135	Directorate For Engineering	Amherst College	.	None	none	Principal Investigator
+41063	Directorate For Engineering	Smith College	.	None	none	Principal Investigator
+none	Direct For Mathematical & Physical Scien	University of Washington	Ernest	Davidson	erdavid@washington.edu	Principal Investigator
+0	Direct For Mathematical & Physical Scien	SUNY at Stony Brook	none	DATA NOT AVAILABLE	none	Principal Investigator	Herman	Stekler	hstekler@gwis2.circ.gwu.edu	Co-Principal Investigator
+0	Direct For Mathematical & Physical Scien	Ohio State University	Terence	Mitchell	none	Principal Investigator
+118200	Direct For Social, Behav & Economic Scie	University of California-Berkeley	none	DATA NOT AVAILABLE	none	Principal Investigator
+43000	Directorate For Geosciences	University of Colorado at Denver-Downtown Campus	Wesley	Le Masurier	wesley.lemasurier@colorado.edu	Principal Investigator
+2000	Direct For Computer & Info Scie & Enginr	Virginia Academy of Science	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+none	Direct For Mathematical & Physical Scien	Florida State University	James	Quagliano	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	Miami University	Donald	Koehler	none	Principal Investigator
+7000	Office of Budget, Finance, & Award Management	Seattle Pacific University	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+39301	Directorate For Engineering	California State Polytechnic University-Pomona	-.	None	none	Principal Investigator
+9741	Direct For Computer & Info Scie & Enginr	University of Maryland College Park	John	Maccini	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	CUNY City College	Jacob	Goodman	jegcc@cunyvm.cuny.edu	Principal Investigator
+0	Direct For Mathematical & Physical Scien	Syracuse University	Donald	Dittmer	none	Principal Investigator
+339838	Directorate For Engineering	Oregon State University	-.	None	none	Principal Investigator
+901200	Direct For Computer & Info Scie & Enginr	Illinois Institute of Technology	Michael	Topp	mrt@sas.upenn.edu	Principal Investigator
+none	Direct For Mathematical & Physical Scien	Clemson University	Joseph	Von Rosenberg	none	Principal Investigator
+none	Direct For Mathematical & Physical Scien	Purdue University	Sam	Perone	sperone@juno.com	Principal Investigator
+none	Direct For Mathematical & Physical Scien	University of Chicago	Norman	Lebovitz	norman@math.uchicago.edu	Principal Investigator
+0	Direct For Mathematical & Physical Scien	CUNY City College	Robert	Dressler	none	Principal Investigator
+2000	Direct For Computer & Info Scie & Enginr	Cuesta College	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+4348553	Directorate For Geosciences	University of Washington	Norbert	Untersteiner	none	Principal Investigator
+none	Direct For Mathematical & Physical Scien	University of Illinois at Urbana-Champaign	Henry	Wyld	none	Co-Principal Investigator	D. Geoffrey	Ravenhall	ravenhal@uiuc.edu	Principal Investigator
+35064	Directorate For Engineering	University of North Texas	 .	None	none	Principal Investigator
+11900	Direct For Mathematical & Physical Scien	Syracuse University	none	DATA NOT AVAILABLE	none	Co-Principal Investigator	none	DATA NOT AVAILABLE	none	Co-Principal Investigator	Victor	Schneider	none	Principal Investigator
+37387	Directorate For Engineering	Trinity College	-.	None	none	Principal Investigator
+0	Directorate For Geosciences	Lucent Technologies, Inc	none	  DATA NOT AVAILABLE	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	Illinois Institute of Technology	A.	Kresge	none	Principal Investigator
+83417	Directorate For Engineering	Ohio University	.	None	none	Principal Investigator
+24350	Direct For Mathematical & Physical Scien	National Research Council	none	DATA NOT AVAILABLE	none	Principal Investigator	none	DATA NOT AVAILABLE	none	Co-Principal Investigator	none	DATA NOT AVAILABLE	none	Co-Principal Investigator	Vaughn	Rockney	none	Co-Principal Investigator	John	Bradbury	jbradbur@usgs.gov	Co-Principal Investigator
+283922	Directorate For Engineering	New York University	.	None	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	SUNY at Buffalo	none	DATA NOT AVAILABLE	none	Principal Investigator
+54055	Directorate For Engineering	Loyola University of Chicago	.	None	none	Principal Investigator
+49100	Direct For Mathematical & Physical Scien	Washington State University	Donald	Matteson	dmatteson@wsu.edu	Principal Investigator
+0	Direct For Mathematical & Physical Scien	Travel Award	Malcolm	Daniels	johnsonA%ccmail@ucs.orst.edu	Principal Investigator
+45000	Direct For Biological Sciences	University of Miami	Wayne	Vernon	none	Co-Principal Investigator	John	LaRue	jclarue@uci.edu	Co-Principal Investigator	Ruth	Satter	none	Co-Principal Investigator	Monte	Lloyd	none	Principal Investigator	Brian	Tinsley	tinsley@utdallas.edu	Co-Principal Investigator
+13990	Direct For Computer & Info Scie & Enginr	Morris Brown College	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+9000	Office of Budget, Finance, & Award Management	Western New Mexico University	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+112000	Direct For Biological Sciences	CUNY Hunter College	Walter	Bertsch	none	Principal Investigator
+12525	Office of Budget, Finance, & Award Management	CUNY Bronx Community College	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+69300	Direct For Mathematical & Physical Scien	New York University	none	DATA NOT AVAILABLE	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	University of New Hampshire	none	DATA NOT AVAILABLE	none	Co-Principal Investigator	Kenneth	Andersen	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	University of Maryland College Park	Joseph	Weber	jw116@umail.umd.edu	Principal Investigator
+227136	Directorate For Engineering	University of Rhode Island	.	None	none	Principal Investigator
+50652	Directorate For Engineering	Delgado Community College	 .	None	none	Principal Investigator
+176300	Direct For Biological Sciences	University of Washington	none	  DATA NOT AVAILABLE	none	Principal Investigator	John	LaRue	jclarue@uci.edu	Co-Principal Investigator	Sue	Neece	none	Co-Principal Investigator	Su-Chen	Li	none	Co-Principal Investigator	Brian	Tinsley	tinsley@utdallas.edu	Co-Principal Investigator
+1004700	Direct For Mathematical & Physical Scien	University of Maryland College Park	William	Erickson	hilary.cane@utas.edu.au	Principal Investigator	Mukul	Kundu	kundu@astro.umd.edu	Co-Principal Investigator
+21183	Direct For Computer & Info Scie & Enginr	University of Montana	Richard	Solberg	none	Principal Investigator
+none	Direct For Mathematical & Physical Scien	University of Wyoming	Sara	Rhoads	none	Principal Investigator
+77524	Directorate For Engineering	University of Texas at El Paso	Heather	Stanley	hstanley@auduboninstitute.org	Principal Investigator
+none	Direct For Mathematical & Physical Scien	Purdue University	Clifford	Lytle	none	Principal Investigator
+63500	Direct For Mathematical & Physical Scien	Wayne State University	Adriaan	De Graaf	none	Principal Investigator
+7022	Directorate For Engineering	SUNY College at Oneonta	-.	None	none	Principal Investigator
+3800	Direct For Mathematical & Physical Scien	National Academy of Sciences	Russell	Stevens	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	New York University	Manfred	Low	none	Principal Investigator
+47980	Directorate For Engineering	Texas Woman's University	.	None	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	University of California-Irvine	none	DATA NOT AVAILABLE	none	Co-Principal Investigator	John	Pierson	none	Principal Investigator
+none	Direct For Mathematical & Physical Scien	Northern Illinois University	Marvin	Wunderlich	none	Principal Investigator
+280000	Direct For Mathematical & Physical Scien	University of Utah	none	  DATA NOT AVAILABLE	none	Co-Principal Investigator	Donald	Groom	DEGroom@lbl.gov	Principal Investigator	George	Cassiday	cassiday@physics.utah.edu	Co-Principal Investigator
+0	Direct For Mathematical & Physical Scien	Columbia University	none	DATA NOT AVAILABLE	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	University of Florida	William	Weltner	weltner@chem.ufl.edu	Principal Investigator
+none	Direct For Mathematical & Physical Scien	Northeastern University	Lowell	Dworin	none	Principal Investigator
+250900	Direct For Computer & Info Scie & Enginr	Pennsylvania State Univ University Park	Herbert	McKinstry	none	Principal Investigator
+21736	Direct For Social, Behav & Economic Scie	American Economic Association	Harold	Williamson	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	Carnegie-Mellon University	none	DATA NOT AVAILABLE	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	University of Oregon Eugene	S.	Ch'En	none	Principal Investigator
+46096	Directorate For Engineering	Medical College of Georgia	-.	None	none	Principal Investigator
+53322	Directorate For Engineering	New Jersey Institute of Technology	 .	None	none	Principal Investigator
+none	Direct For Mathematical & Physical Scien	William Marsh Rice University	none	  DATA NOT AVAILABLE	none	Co-Principal Investigator	Chao-Cheng	Wang	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	Massachusetts Institute of Technology	Jeffrey	Steinfeld	jisteinf@mit.edu	Principal Investigator
+none	Direct For Mathematical & Physical Scien	University of Wyoming	Lewis	Noe	lnoe@uwyo.edu	Principal Investigator
+341956	Directorate For Engineering	University of Hawaii	 .	None	none	Principal Investigator
+152101	Directorate For Engineering	Dartmouth College	 .	None	none	Principal Investigator
+10090	Office of Budget, Finance, & Award Management	Defiance College	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+0	Direct For Mathematical & Physical Scien	Amherst College	Robert	Romer	none	Principal Investigator
+1832570	Directorate For Engineering	Alpine Geophysical Associates	Walter	Smolen	none	Principal Investigator
+none	Direct For Mathematical & Physical Scien	Harvard University	David	Mumford	mumford@dam.brown.edu	Principal Investigator
+14000	Direct For Computer & Info Scie & Enginr	Washington School of Psychiatry	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+0	Direct For Mathematical & Physical Scien	Massachusetts Institute of Technology	Bernard	Burke	bfburke@space.mit.edu	Principal Investigator
+none	Direct For Mathematical & Physical Scien	University of Washington	Edward	Lingafelter	none	Principal Investigator
+163624	Directorate For Engineering	American University	 .	None	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	Columbia University	none	DATA NOT AVAILABLE	none	Co-Principal Investigator	Hyman	Bass	none	Co-Principal Investigator	Simon	Hellerstein	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	California State University-Long Beach	Kenneth	Marsi	none	Principal Investigator
+none	Direct For Mathematical & Physical Scien	Yale University	none	  DATA NOT AVAILABLE	none	Principal Investigator
+none	Direct For Mathematical & Physical Scien	University of California-Riverside	Richard	Block	none	Principal Investigator
+124200	Direct For Biological Sciences	University of Pennsylvania	Lewis	Tilney	none	Principal Investigator
+13325	Directorate For Engineering	CUNY Queens College	-.	None	none	Principal Investigator
+1137	Office Of The Director	National Research Council	none	DATA NOT AVAILABLE	none	Co-Principal Investigator	none	DATA NOT AVAILABLE	none	Co-Principal Investigator	Louise	Marshall	none	Co-Principal Investigator	Keith	Marshall	none	Principal Investigator	John	Bradbury	jbradbur@usgs.gov	Co-Principal Investigator
+16500	Direct For Computer & Info Scie & Enginr	Oregon Museum of Science and Industry	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+95363	Directorate For Engineering	University of South Carolina at Columbia	.	None	none	Principal Investigator
+36238	Directorate For Engineering	Rhode Island College	-.	None	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	Northwestern University	none	  DATA NOT AVAILABLE	none	Co-Principal Investigator	Robert	Oakes	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	Travel Award	Robert	Lange	none	Principal Investigator
+56060	Directorate For Engineering	West Virginia Institute of Tech	.	None	none	Principal Investigator
+440612	Directorate For Engineering	University of Michigan Ann Arbor	 .	None	none	Principal Investigator
+none	Direct For Mathematical & Physical Scien	Purdue University	Nathan	Kornblum	none	Principal Investigator
+none	Direct For Mathematical & Physical Scien	University of Washington	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+47400	Directorate For Geosciences	Georgetown University	Rita	Colwell	rcolwell@umd.edu	Principal Investigator
+none	Direct For Mathematical & Physical Scien	Pennsylvania State Univ University Park	Ralph	Pax	none	Principal Investigator
+665600	Directorate For Engineering	University of California-Berkeley	Robert	Williamson	williamson@ce.berkeley.edu	Principal Investigator
+29337	Directorate For Engineering	American Sociological Assoc	none	  DATA NOT AVAILABLE	none	Principal Investigator
+137700	Direct For Computer & Info Scie & Enginr	New York University	John	Bruno	none	Co-Principal Investigator	Melvin	Klerer	none	Principal Investigator
+84743	Directorate For Engineering	University of Alabama Tuscaloosa	-.	None	none	Principal Investigator
+none	Direct For Mathematical & Physical Scien	University of North Carolina at Chapel Hill	May Beth	Givan	none	Principal Investigator
+2000	Office of Budget, Finance, & Award Management	Illinois College	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+none	Direct For Mathematical & Physical Scien	University of Wyoming	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+34590	Directorate For Engineering	DePauw University	-.	None	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	University of Nebraska-Lincoln	Robert	Katz	none	Principal Investigator
+134200	Direct For Computer & Info Scie & Enginr	University of Virginia Main Campus	none	  DATA NOT AVAILABLE	none	Principal Investigator
+13405	Office of Budget, Finance, & Award Management	City Colleges of Chicago	none	  DATA NOT AVAILABLE	none	Co-Principal Investigator	Ronald	Myers	none	Co-Principal Investigator	Edmund	Joyce	none	Co-Principal Investigator	 .	None	none	Principal Investigator
+26200	Direct For Mathematical & Physical Scien	California Institute of Technology	Gary	Lorden	glorden@caltech.edu	Principal Investigator
+0	Direct For Mathematical & Physical Scien	Indiana University	none	DATA NOT AVAILABLE	none	Principal Investigator
+none	Direct For Mathematical & Physical Scien	Northwestern University	none	  DATA NOT AVAILABLE	none	Principal Investigator
+56817	Direct For Computer & Info Scie & Enginr	Miami University	Bruce	Weidner	none	Principal Investigator
+360882	Directorate For Engineering	University of Pennsylvania	 .	None	none	Principal Investigator
+112375	Directorate For Geosciences	Arctic Institute North America	John	Sater	none	Principal Investigator	Fritz	Muller	none	Co-Principal Investigator
+127400	Direct For Social, Behav & Economic Scie	University of Texas at Austin	Winfred	Lehmann	lehmann@mail.utexas.edu	Principal Investigator
+0	Direct For Mathematical & Physical Scien	Arizona State University	Richard	Juvet	none	Principal Investigator
+22276	Directorate For Engineering	SUNY College at Cortland	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+33000	Direct For Computer & Info Scie & Enginr	Benedictine University	none	  DATA NOT AVAILABLE	none	Principal Investigator
+14598	Directorate For Engineering	Pittsburg State University	-.	None	none	Principal Investigator
+none	Direct For Mathematical & Physical Scien	University of Texas at Austin	Robert	Nathans	none	Co-Principal Investigator	R. Edward	Nather	nather@astro.as.utexas.edu	Principal Investigator
+none	Direct For Mathematical & Physical Scien	University of Chicago	Robert	Sachs	none	Principal Investigator
+71900	Direct For Mathematical & Physical Scien	Massachusetts Institute of Technology	Harvey	Greenspan	none	Principal Investigator
+none	Direct For Mathematical & Physical Scien	University of Michigan Ann Arbor	Fred	Haddock	none	Principal Investigator
+2000	Direct For Computer & Info Scie & Enginr	Andrews University	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+123479	Directorate For Engineering	South Dakota School of Mines and Technology	 .	None	none	Principal Investigator
+152375	Directorate For Engineering	Tulane University	.	None	none	Principal Investigator
+76300	Directorate For Geosciences	Pennsylvania State Univ University Park	none	  DATA NOT AVAILABLE	none	Principal Investigator
+14061	Directorate For Engineering	SUNY College at Plattsburgh	May Beth	Givan	none	Principal Investigator
+none	Direct For Mathematical & Physical Scien	University of Illinois at Urbana-Champaign	none	  DATA NOT AVAILABLE	none	Principal Investigator
+120000	Direct For Mathematical & Physical Scien	National Research Council	Martin	Paul	none	Principal Investigator
+none	Direct For Mathematical & Physical Scien	University of Chicago	Richard	Miller	rhm@oddjob.uchicago.edu	Principal Investigator
+2000	Direct For Computer & Info Scie & Enginr	Lycoming College	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+0	Direct For Mathematical & Physical Scien	Stanford University	Stephen	Peck	none	Principal Investigator
+2000	Direct For Computer & Info Scie & Enginr	Virginia Military Institute	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+50658	Directorate For Engineering	Allegheny University of Health Science, Philadelphia	.	None	none	Principal Investigator
+1000	Directorate For Geosciences	Association of Engineering Geologists	none	DATA NOT AVAILABLE	none	Principal Investigator
+none	Direct For Mathematical & Physical Scien	University of Wyoming	none	  DATA NOT AVAILABLE	none	Principal Investigator	A.	Lohwater	none	Co-Principal Investigator
+none	Direct For Mathematical & Physical Scien	University of Pittsburgh	William	Fateley	bisnbil@ksu.edu	Co-Principal Investigator	Theodore	Cohen	cohen@pitt.edu	Principal Investigator
+391046	Directorate For Engineering	University of Texas at Austin	-.	None	none	Principal Investigator
+20000	Direct For Biological Sciences	University of Colorado at Denver	Andrew	Pettifor	none	Principal Investigator
+40368	Directorate For Engineering	Augustana College	.	None	none	Principal Investigator
+26085	Directorate For Engineering	Colorado Women's College (CLOSED)	-.	None	none	Principal Investigator
+132500	Directorate For Geosciences	Columbia University Lamont Doherty Earth Observatory	James	Hays	jimhays@ldeo.columbia.edu	Co-Principal Investigator	Andrew	McIntyre	none	Principal Investigator
+419070	Direct For Computer & Info Scie & Enginr	University of Iowa	Robert	Yager	robert-yager@uiowa.edu	Principal Investigator
+0	Direct For Mathematical & Physical Scien	Ohio State University	none	DATA NOT AVAILABLE	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	Ohio State University	Leo	Miller	u48409@uicvm.uic.edu	Principal Investigator
+0	Directorate For Geosciences	University of Georgia Marine Institute	none	DATA NOT AVAILABLE	none	Co-Principal Investigator	Dirk	Frankenberg	none	Principal Investigator
+55222	Directorate For Engineering	GEORGE PEABODY COL TCHRS	-.	None	none	Principal Investigator
+152508	Directorate For Engineering	Southern Methodist University	 .	None	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	Wayne State University	John	Endicott	none	Principal Investigator
+none	Direct For Mathematical & Physical Scien	University of Texas at Austin	Syed Amir Ali	Zaidi	Zaidi@utaphy.ph.utexas.edu	Principal Investigator
+none	Direct For Mathematical & Physical Scien	University of Pennsylvania	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+6824603	Directorate For Engineering	Department of Navy Military Sea Transport Service	L.	Butts	none	Principal Investigator
+364312	Directorate For Engineering	Texas A&M University Main Campus	-.	None	none	Principal Investigator
+273416	Directorate For Engineering	University of North Carolina at Chapel Hill	-.	None	none	Principal Investigator
+63100	Directorate For Engineering	Pennsylvania State Univ University Park	Ronald	Danner	rpd@psu.edu	Principal Investigator
+100794	Directorate For Engineering	University of Alabama in Huntsville	-.	None	none	Principal Investigator
+167000	Direct For Computer & Info Scie & Enginr	Trinity College	Robert	Lindsay	none	Principal Investigator
+53510	Directorate For Engineering	Adelphi University	.	None	none	Principal Investigator
+70700	Direct For Biological Sciences	CUNY Queens College	Sheldon	Aaronson	none	Principal Investigator
+161400	Direct For Mathematical & Physical Scien	University of Arizona	Bart	Bok	none	Principal Investigator
+115800	Directorate For Geosciences	University of Hawaii	Gordon	Groves	none	Principal Investigator	Edward	Stroup	none	Co-Principal Investigator
+4000	Directorate For Engineering	Willamette University	 .	None	none	Principal Investigator
+none	Direct For Mathematical & Physical Scien	University of Pennsylvania	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+0	Direct For Mathematical & Physical Scien	Indiana University	none	DATA NOT AVAILABLE	none	Principal Investigator	Lawrence	Langer	none	Co-Principal Investigator
+10230	Direct For Computer & Info Scie & Enginr	Grambling State University	Samuel	Douglas	none	Principal Investigator
+47200	Direct For Mathematical & Physical Scien	Florida State University	Bruno	Linder	linder@chem.fsu.edu	Principal Investigator
+5000	Direct For Computer & Info Scie & Enginr	Moravian College	Jack	Ridge	none	Principal Investigator
+none	Direct For Mathematical & Physical Scien	University of Alabama Tuscaloosa	Jerry	Atwood	atwoodj@missouri.edu	Principal Investigator
+47122	Directorate For Engineering	Haverford College	 .	None	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	University of Southern California	none	DATA NOT AVAILABLE	none	Principal Investigator
+none	Direct For Mathematical & Physical Scien	University of Utah	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+0	Direct For Mathematical & Physical Scien	Indiana University	Oliver	Schaeffer	none	Principal Investigator
+41500	Direct For Social, Behav & Economic Scie	Ohio State University	Catherine	Callaghan	cac@ling.ohio-state.edu	Principal Investigator
+113400	Direct For Biological Sciences	Princeton University	Austin	Newton	anewton@princeton.edu	Principal Investigator
+130000	Direct For Biological Sciences	SUNY at Buffalo	John	LaRue	jclarue@uci.edu	Co-Principal Investigator	Sue	Neece	none	Co-Principal Investigator	Su-Chen	Li	none	Co-Principal Investigator	Rapier	McMenamy	none	Principal Investigator	Brian	Tinsley	tinsley@utdallas.edu	Co-Principal Investigator
+6000	Direct For Mathematical & Physical Scien	American Society For Cybernetics	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+21000	Direct For Biological Sciences	Rider University	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+0	Direct For Mathematical & Physical Scien	University of Massachusetts Amherst	Claude	Penchina	none	Principal Investigator
+12238	Directorate For Engineering	Central Michigan University	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+221532	Directorate For Engineering	University of California-Santa Barbara	-.	None	none	Principal Investigator
+48098720	Direct For Mathematical & Physical Scien	Cornell University	Dale	Corson	none	Principal Investigator
+33445	Directorate For Engineering	Texas State University - San Marcos	.	None	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	SRI International	Felix	Smith	none	Principal Investigator
+none	Direct For Mathematical & Physical Scien	University of Michigan Ann Arbor	Michael	Morris	mdmorris@umich.edu	Principal Investigator
+0	Direct For Mathematical & Physical Scien	Carnegie-Mellon University	John	Pople	none	Principal Investigator
+309279	Directorate For Engineering	University of Georgia	.	None	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	Adelphi University	Reuben	Rudman	none	Principal Investigator
+37600	Direct For Biological Sciences	Case Western Reserve University	Robert	Goldman	r-goldman@northwestern.edu	Principal Investigator
+86000	Direct For Biological Sciences	Colorado State University	Phil	Squire	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	Ohio State University	Eugene	Schram	none	Principal Investigator
+23339	Directorate For Engineering	Millersville University	-.	None	none	Principal Investigator
+85000	Direct For Biological Sciences	SUNY at Stony Brook	none	DATA NOT AVAILABLE	none	Principal Investigator	Vincent	Cirillo	none	Co-Principal Investigator
+0	Direct For Mathematical & Physical Scien	Massachusetts Institute of Technology	none	DATA NOT AVAILABLE	none	Principal Investigator
+16425	Directorate For Engineering	University of Tennessee Martin	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+417316	Directorate For Engineering	University of Chicago	 .	None	none	Principal Investigator
+270747	Directorate For Engineering	Iowa State University	 .	None	none	Principal Investigator
+173000	Direct For Computer & Info Scie & Enginr	University of Texas at Austin	James	Browne	browne@cs.utexas.edu	Principal Investigator
+165300	Direct For Mathematical & Physical Scien	Stanford University	James	Collman	jpc@stanford.edu	Principal Investigator
+115000	Direct For Social, Behav & Economic Scie	University of Washington	none	  DATA NOT AVAILABLE	none	Principal Investigator
+none	Direct For Mathematical & Physical Scien	Johns Hopkins University	Wei-Liang	Chow	none	Principal Investigator	Joseph	Sampson	none	Co-Principal Investigator
+27600	Directorate For Geosciences	University of Maine	Edmund	Joyce	none	Co-Principal Investigator	Ronald	Myers	none	Co-Principal Investigator	none	  DATA NOT AVAILABLE	none	Principal Investigator	none	  DATA NOT AVAILABLE	none	Co-Principal Investigator
+6400	Direct For Computer & Info Scie & Enginr	Fort Valley State University	none	  DATA NOT AVAILABLE	none	Co-Principal Investigator	Khidhir	Hamza	none	Principal Investigator
+85300	Directorate For Geosciences	Texas A&M University Main Campus	Takashi	Ichiye	none	Principal Investigator
+142400	Directorate For Engineering	Department of Army Cold Regions Research & Engineering Lab	Chester	Langway	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	SUNY at Stony Brook	none	DATA NOT AVAILABLE	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	Wesleyan University	William	Reddy	none	Principal Investigator
+74782	Directorate For Engineering	University of Puerto Rico-Rio Piedras	 .	None	none	Principal Investigator
+244300	Direct For Computer & Info Scie & Enginr	DePauw University	Thomas	Davis	none	Principal Investigator
+1926400	Directorate For Engineering	Michigan State University	Herman	Koenig	none	Principal Investigator
+3000	Office of Budget, Finance, & Award Management	Gettysburg College	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+106000	Direct For Biological Sciences	Johns Hopkins University	Marcus	Rhoades	none	Principal Investigator
+414467	Directorate For Engineering	Cornell University	 .	None	none	Principal Investigator
+0	Direct For Mathematical & Physical Scien	University of California-Berkeley	Gordon	Newell	none	Principal Investigator
+21643	Directorate For Engineering	Centenary College of Louisiana	Jeremy	Taylor	jeremygtaylor@compuserve.com	Principal Investigator
+31667	Directorate For Engineering	Hamline University	-.	None	none	Principal Investigator
+none	Direct For Mathematical & Physical Scien	California Institute of Technology	Vincent	McKoy	mckoy@caltech.edu	Principal Investigator
+65014	Directorate For Engineering	University of Tennessee Knoxville	-.	None	none	Principal Investigator
+none	Direct For Mathematical & Physical Scien	Vanderbilt University	Daniel	Weedman	dweedman@astro.psu.edu	Principal Investigator
+99476	Directorate For Engineering	University of Wisconsin-Milwaukee	-.	None	none	Principal Investigator
+230710	Directorate For Engineering	National Research Council	Robert	Green	none	Principal Investigator
+1890	Directorate For Engineering	National Academy of Sciences	L.	Heindl	none	Principal Investigator
+none	Direct For Mathematical & Physical Scien	Iowa State University	Allen	Grossman	none	Principal Investigator
+175500	Direct For Mathematical & Physical Scien	Florida State University	Robert	Lacher	lacher@cs.fsu.edu	Principal Investigator
+87900	Direct For Computer & Info Scie & Enginr	Yale University	none	  DATA NOT AVAILABLE	none	Principal Investigator	Merton	Peck	none	Co-Principal Investigator
+0	Direct For Mathematical & Physical Scien	Stanford University	none	DATA NOT AVAILABLE	none	Principal Investigator
+none	Direct For Mathematical & Physical Scien	Purdue University	R.	Tobias	none	Principal Investigator
+87400	Direct For Mathematical & Physical Scien	Yeshiva University	Jeremy	Musher	none	Principal Investigator
