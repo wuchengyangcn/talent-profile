@@ -3,7 +3,7 @@
 + Retrieved award lists from National Science Foundation and National Institutes of Health for proposing a rank about institutes and enterprises according to Federal investments and principle investigators
 + Derived coauthor relationships to evaluate the clustering effect of institutes in various fields
 + Derived *Turing Indexes* for individual projects and awards as a reference for committees to filter applicants
-## A demo of [Coauthorship Galaxy Map](https://acemap.info/demo1) has been released at [Acemap](https://acemap.info/).
+## A demo of [Coauthorship Galaxy Map](https://acemap.info/NSFCMap) has been released at [Acemap](https://acemap.info/).
 ![](./coauthor/coauthor.png)
 
 ---
